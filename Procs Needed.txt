@@ -1,0 +1,30 @@
+procs needed
+
+1)
+ondeath of mob 66271
+load objects 66229 and 66230 in room
+
+2)
+ondeath of mob 66665
+load object2 66626 and 66900 in room
+
+3)
+mob 66220 is druid guild guardian 
+- only allow druids east from room 66310 to 66311
+
+4)
+object 66631 is portal
+- only allow 'conjurers'
+
+object 66632 is portal
+- only allow 'elementalists'
+
+object 66633 is portal
+- only allow 'enchanters'
+
+object 66634 is portal
+- only allow 'invokers'
+
+object 66431 & 66610
+- proc fireball
+

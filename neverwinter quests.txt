@@ -1,0 +1,167 @@
+box to leavey, token to nollin							COMPLETE
+tooth to troll			
+stick to druidmother
+key to kinjite
+ring to druidmother
+boots
+
+'want something special for these omelets...something unique!'
+harpy eggs to cook in board				    (66217)  		COMPLETE
+cook give neverwinter knife				    (66618)
+knife to collector
+collector give ice ring +2dam (later used to open icewall)  (66619)
+
+kill frost drake                                        			COMPLETE
+give skin to mawl
+mawl makes claws
+
+log in forest (rareload)				(66234)  		COMPLETE
+place in chimney in old merc guild
+fire start, chimney unplug
+get singed journal					(66616)
+give singed journal to drunk merc		     
+tell story
+get mercenary blade (+1)				(66620)
+
+special guard 'suspicious' 'missing brother garos, also a guard'  		COMPLETE
+gives note1 					        (66623)
+goto kraken
+rescue prisoner ('garos'), give note1, drop pendent     (66447)
+pendent to guard
+guard gives note2 			                (66624)
+note2 to nasher
+nasher give reward...
+
+'...daughter ran away' - gives map						COMPLETE
+give daughter in woods map
+daughter gives lock of hair
+hair to mother
+'lost child - torvis' mother
+'rescue' - get note to come home
+boy in sewers below city (rareload)
+'torvis' - read note, run home, drop toy sword
+toy sword to mom
+'must have rescued him', thanks
+give reward of bottomless tankard
+
+rock collector - special mossy rock from wood	     (66235)   			COMPLETE
+gives exotic spices 				     (66622)
+exotic spices to master cook in board
+gives 10p and tasty bread recipe 	             (66621)
+bread recipe to bakery
+baker gives good food and fine baker's mits (no burn, bonuses...)
+
+payslips on sleeping workers                      				COMPLETE
+'odd they didn't collect this themselves...'
+give to foreman for money
+
+various colored berries from wood (rares...5 total)  				COMPLETE
+to random load thief in NW
+vial of some decent poison
+
+lady in moonstone mask (66701)							COMPLETE
+give something for moonstone mask
+
+riddle guy
+wants mind 'stimulation'
+give cup of coffee
+'tasty...but that's not what i meant...how about a mind game, feeb.'
+ask riddle
+answer riddle
+
+Who ever makes it sells it, who ever buys it doesn't need it, who ever needs it doesn't get it. What is it???
+It's a coffin. 
+
+'bah..i know answer..go find me one you idiot"
+take this...gives key
+key to dwelling
+down to sewers
+find whatever
+get reward
+
+quest into Fallen tower for rhalingalad
+
+quest into fallen tower for many-starred cloak
+ophala - 'secret...treasure was stole from organization by sorcerer seeking our power'
+'forever greatful if you find it'
+find 'moonstone mask'
+give treasure to ophala
+receive thanks of many-starred
+reward... (starred guantlets)
+
+in castle never - entrace to catacombs with elven statue
+'haleuth' - opens catacombs
+
+(jewels of nine quests... quest mob (bard) tells tale of gems & collects them...)
+
+evema nightfire									COMPLETE
+'glaive' - a gift from a relative
+'relative' - 'was in another life when we two parted, i do not wish to discuss it' (leave)
+kill i'lvan
+notice 'to kill...to live' association
+give knife i'lvan
+tell tale 'found secret, our sister finally dead...sad...blah...blah'
+'have proven yourselves worthy...but keep secret, for aldan's sake'
+get jewel
+
+item from kraken compound (leader's key-like pendent)
+key-like pendant to sewers below - underground fortress
+battle through island
+treasure room/vault
+purple kraken bonesword set with amethysts to vagan
+get jewel
+
+
+
+goto kraken, get oghma token							COMPLETE
+give oghma token to salyndra get kraken key
+use kraken key to get to basement
+kill krakens, get vault key
+give vault key prior hlam, do his crap, get case key
+use case key
+use vault key
+fight through vault
+kill moralith
+finish prior's crap, get shield...proc blind
+imdar										COMPLETE
+speak of ancient creature called 'the Moralith'
+summoned by evil magics..killed family..looked for it forever
+lamp in vault of temple of tyr
+rub it, out pops nasty
+kill nasty
+get moralith's horn, sand necklace
+give to imdar
+creature finally dead, search over
+get jewel
+
+
+1 (demon cyntan) 	- kinjite boots
+2 (demon evema) 	- kinjite guantlets
+3 (demon aldan) 	- kinjite kinjite belt
+4 (demon larenthyl) 	- kinjite (arm wear)
+5 (demon vagan) 	- kinjite leggings
+6 (demon aermor) 	- kinjite helm
+7 (demon lhoge) 	- kinjite armor
+8 (demon imdar) 	- kinjite blade
+9 (demon silme) 	- kinjite shield & crypt key
+
+use crypt key to open crypt to enter the final crypt
+'a key you need to pass this gate, but much more once inside'
+'10 items of evil, forged of kinjite, shall be the keys
+to darkness and light'
+
+'room of darkest night'
+'place boots of darkness' -> open next door
+'place guantlets...' -> etc
+'place dagger of darkness & prepare yourselves' -> open door, load arkos
+
+remove all
+
+load final demon (balor or pit fiend) Arkos (animated suit of Kinjite Armor...wearing all stuff) lvl 59 badass
+'shall revive my master ...dead god... and we shall reign forever...'
+once dead
+	 - load Haleuth's Holy Blade (bonuses +haste?)
+	 - load Haleuth's Blessed Robes (?)
+	 - load Haleuth's Blessed Ring (?)
+	 - some kinda cool death proc (echo throughout MUD mebbe?)
+

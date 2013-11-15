@@ -1,0 +1,28 @@
+SHOP: 66626
+HOURS: CCCCCCOOOOOOOOOOOOOCCCCC
+ROOM: 66657
+GREED: 5
+PROFIT: 30
+MBCASH: $n says, 'Sorry $N, but I'm not running a charity here.'
+
+MBHAVE: $n says, 'Whoops!  ...seem to be all out of those at the moment.'
+
+MBUY: $n says, 'Why not?  I could probably use one of those.'
+
+MBIGOT: $n says, 'Screw you!'
+
+MCLOSE: $n says, 'That's it...I'm taking a nap!  I'll see you tomorrow.'
+
+MNBUY: $n says, 'I have absolutely no idea what I would do with that.'
+
+MOPEN: $n says, 'OK, I'm open...who wants some supplies?'
+
+MSCASH: $n says, 'Sorry pal, I ain't got that kinda cash in the store.'
+
+MSELL: $n says, 'Deal! Only %s.  Happy adventuring!'
+
+MSHAVE: $n says, 'I'm not the smartest man, but I'm not seeing any of those around here.'
+
+CHEATS:  CI CP
+HATES:  EVILS
+;;END OF SHOP NR. 66626

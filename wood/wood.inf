@@ -1,0 +1,264 @@
+********************************* Zone info ***********************************
+Number: 662 Zone name: The Neverwinter Wood 1
+
+Rooms info
+
+-- Vnum ------------------------ Name -------------------|---- Sector type ----
+|--------|-----------------------------------------------|--------------------|
+|  66200 |An Intersection in the High Road               |CITY                |
+|  66201 |The High Road Around Neverwinter               |CITY                |
+|  66202 |The High Road Around Neverwinter               |CITY                |
+|  66203 |The High Road Around Neverwinter               |CITY                |
+|  66204 |The High Road Through Neverwinter Wood         |CITY                |
+|  66205 |The High Road Through Neverwinter Wood         |CITY                |
+|  66206 |The High Road Through Neverwinter Wood         |CITY                |
+|  66207 |The High Road Through Neverwinter Wood         |CITY                |
+|  66208 |The High Road Through Neverwinter Wood         |CITY                |
+|  66209 |The High Road Through Neverwinter Wood         |CITY                |
+|  66210 |Bend in the High Road                          |CITY                |
+|  66211 |The End of the Neverwinter River               |WATER NOSWIM        |
+|  66212 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66213 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66214 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66215 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66216 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66217 |Under a Bridge Over the Neverwinter River      |FIELD               |
+|  66218 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66219 |Near Rapids on the Neverwinter River           |WATER NOSWIM        |
+|  66220 |Some Shallows on the Neverwinter River         |WATER NOSWIM        |
+|  66221 |The Rocky Banks of the Neverwinter River       |FIELD               |
+|  66222 |A Small Path Through the Woods                 |CITY                |
+|  66223 |A Split in the Path                            |CITY                |
+|  66224 |A Trail Through the Forest                     |FIELD               |
+|  66225 |The High Road Through Neverwinter Wood         |CITY                |
+|  66226 |A Partially Hidden Path                        |CITY                |
+|  66227 |Along the Hidden Path                          |CITY                |
+|  66228 |A Widening in the Path                         |CITY                |
+|  66229 |An Abandoned Stone Shrine                      |FOREST              |
+|  66230 |Path Behind the Shrine                         |CITY                |
+|  66231 |Near Rapids on the Neverwinter River           |WATER NOSWIM        |
+|  66232 |Near Rapids on the Neverwinter River           |WATER NOSWIM        |
+|  66233 |Near Rapids on the Neverwinter River           |WATER NOSWIM        |
+|  66234 |Rapids on the Neverwinter River                |WATER NOSWIM        |
+|  66235 |An Incline in the Trail                        |FIELD               |
+|  66236 |A Narrow Path Through the Forest               |CITY                |
+|  66237 |The High Road Through Neverwinter Wood         |CITY                |
+|  66238 |The Summit of a Small Hill                     |HILLS               |
+|  66239 |A Gentle Incline in the Trail                  |FIELD               |
+|  66240 |A Gentle Incline in the Trail                  |FIELD               |
+|  66241 |A Slight Rise in the Trail                     |FIELD               |
+|  66242 |A Trail Through the Forest                     |FIELD               |
+|  66243 |A Bend in the Trail                            |FIELD               |
+|  66244 |Along a Hidden Trail                           |FIELD               |
+|  66245 |Rapids on the Neverwinter River                |WATER NOSWIM        |
+|  66246 |A Trail Up Some Cliffs                         |FIELD               |
+|  66247 |A Slight Bend in the Narrow Path               |CITY                |
+|  66248 |A Narrow Path in the Woods                     |CITY                |
+|  66249 |A Narrow Path in the Woods                     |CITY                |
+|  66250 |The High Road Through Neverwinter Wood         |CITY                |
+|  66251 |The High Road Through Neverwinter Wood         |CITY                |
+|  66252 |The High Road Through Neverwinter Wood         |CITY                |
+|  66253 |A Beaten Path Through the Forest               |CITY                |
+|  66254 |A Hidden Stretch of the Trail                  |FIELD               |
+|  66255 |Rapids on the Neverwinter River                |WATER NOSWIM        |
+|  66256 |A High Rocky Point on the Trail                |FIELD               |
+|  66257 |A Trail Heading Towards the Pool               |FIELD               |
+|  66258 |An Abrupt End to the Trail                     |FIELD               |
+|  66259 |A Narrow Path in the Woods                     |CITY                |
+|  66260 |A Narrow Path Through a Thicket                |CITY                |
+|  66261 |A Narrow Path Through a Thicket                |CITY                |
+|  66262 |The High Road Through Neverwinter Wood         |CITY                |
+|  66263 |A Slight Depression on the High Road           |CITY                |
+|  66264 |The High Road Through Neverwinter Wood         |CITY                |
+|  66265 |A Beaten Path Through the Forest               |CITY                |
+|  66266 |A Murky Dead End in the Trail                  |FIELD               |
+|  66267 |A Small Pool on the Neverwinter River          |WATER NOSWIM        |
+|  66268 |A Small Pool on the Neverwinter River          |WATER NOSWIM        |
+|  66269 |A Small Pool on the Neverwinter River          |WATER NOSWIM        |
+|  66270 |A Hidden Glade in the Neverwinter Wood         |FOREST              |
+|  66271 |The Muddy Banks of the River                   |FIELD               |
+|  66272 |The High Road Through Neverwinter Wood         |CITY                |
+|  66273 |A Bend in the High Road                        |CITY                |
+|  66274 |A Beaten Path Through the Forest               |CITY                |
+|  66275 |A Gradual Bend in the Path                     |CITY                |
+|  66276 |A Small Pool on the Neverwinter River          |WATER NOSWIM        |
+|  66277 |A Small Pool on the Neverwinter River          |WATER NOSWIM        |
+|  66278 |A Small Pool on the Neverwinter River          |WATER NOSWIM        |
+|  66279 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66280 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66281 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66282 |A Small Clearing in the Forest                 |FOREST              |
+|  66283 |A Small Clearing in the Forest                 |FOREST              |
+|  66284 |The High Road Through Neverwinter Wood         |CITY                |
+|  66285 |A Path Through the Wood                        |CITY                |
+|  66286 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66287 |The Icewell Temple                             |INSIDE              |
+|  66288 |Under a Small Bridge                           |FIELD               |
+|  66289 |A Small Bridge Over the Neverwinter River      |FIELD               |
+|  66290 |A Small Clearing in the Forest                 |FOREST              |
+|  66291 |A Small Clearing in the Forest                 |FOREST              |
+|  66292 |The High Road Through Neverwinter Wood         |CITY                |
+|  66293 |A Path Through the Wood                        |CITY                |
+|  66294 |A Bend in the Neverwinter River                |WATER NOSWIM        |
+|  66295 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66296 |A Split in the Neverwinter River               |WATER NOSWIM        |
+|  66297 |A Bend in the Neverwinter River                |WATER NOSWIM        |
+|  66298 |A Narrow Overgrown Path                        |CITY                |
+|  66299 |A Narrow Overgrown Path                        |CITY                |
+|  66300 |The High Road Through Neverwinter Wood         |CITY                |
+|  66301 |An Ubrupt End in the Path                      |CITY                |
+|  66302 |A Path Along the River                         |CITY                |
+|  66303 |A Path Along the River                         |CITY                |
+|  66304 |A Bend Along the Banks of the Neverwinter River|FIELD               |
+|  66305 |A Bend in the Neverwinter River                |WATER NOSWIM        |
+|  66306 |A Bend in the Neverwinter River                |WATER NOSWIM        |
+|  66307 |A Crossing of Paths                            |FOREST              |
+|  66308 |A Small Connecting Path                        |CITY                |
+|  66309 |An Intersection in the High Road               |CITY                |
+|  66310 |Outside a Small Grove                          |HILLS               |
+|  66311 |Inside the Grove of Druids                     |HILLS               |
+|  66312 |A Muddy Path Along the River                   |CITY                |
+|  66313 |A Small Path Along the River                   |CITY                |
+|  66314 |Along the Neverwinter River                    |WATER NOSWIM        |
+|  66315 |A Small Path Along the River                   |CITY                |
+|  66316 |A Bend in the High Road                        |CITY                |
+|  66317 |A Bend in the High Road                        |CITY                |
+|  66318 |The Grove of the Druids of the North           |HILLS               |
+|  66319 |The Grove of the Druids of the North           |HILLS               |
+|  66320 |The Grove of the Druids of the North           |HILLS               |
+|  66321 |A Small Path Along the River                   |CITY                |
+|  66322 |Under a Small Foot Bridge                      |FIELD               |
+|  66323 |A Small Footbridge Over the River              |WATER NOSWIM        |
+|  66324 |A Small Path in the Woods                      |CITY                |
+|  66325 |A Small Crevice Descending Downwards           |INSIDE              |
+|  66326 |Inside Small Darkened Cavern                   |INSIDE              |
+|  66327 |Inside Small Darkened Cavern                   |INSIDE              |
+|  66328 |A Small Circular Chamber                       |CITY                |
+|  66329 |Below a Dark Hole                              |INSIDE              |
+|  66330 |A Murky Tunnel                                 |INSIDE              |
+|  66331 |An Underground Cavern                          |INSIDE              |
+|  66332 |An Underground Cavern                          |INSIDE              |
+|  66333 |An Underground Cavern                          |INSIDE              |
+|  66334 |An Underground Cavern                          |INSIDE              |
+|  66335 |The Echo Chamber                               |CITY                |
+|  66336 |A Chamber Under the Shrine                     |CITY                |
+|  66337 |Up In An Oak Tree                              |FOREST              |
+|  66338 |A Large Branch in the Oak Tree                 |FOREST              |
+|--------|-----------------------------------------------|--------------------|
+
+Number of rooms: 139 First room: 66200 Last room: 66338
+Average description length: 8 lines
+
+
+Objects info
+
+-- Vnum ------------------------ Name -------------------|---- Object type ----
+|        |                      Stats                    |                    |
+|--------|-----------------------------------------------|--------------------|
+|  66200 |a shining steel longsword                      |WEAPON              |
+|        |Dam: 2d8 HITROLL 1 DAMROLL 1                   |                    |
+|  66201 |a green shield of the forests                  |ARMOR               |
+|        |AC: -10 STR 1 CON 1                            |                    |
+|  66202 |a shirt of Harper chainmail                    |ARMOR               |
+|        |AC: -16 WIS 1 POW 1                            |                    |
+|  66203 |a suit of etched mithril platemail             |ARMOR               |
+|        |AC: -20 CON 1 HITROLL 1                        |                    |
+|  66204 |a long parrying dagger                         |WEAPON              |
+|        |Dam: 3d4 AC 2 HITROLL 1                        |                    |
+|  66205 |a robe of the northern frosts                  |ARMOR               |
+|        |AC: -20 INT 1 WIS 1                            |                    |
+|        |Specials: PROT COLD;                           |--------------------|
+|  66206 |some claws of the frost drake                  |ARMOR               |
+|        |AC: -5 STR 1 HITROLL 2                         |                    |
+|        |Specials: PROT COLD;                           |--------------------|
+|  66207 |a well-made longsword                          |WEAPON              |
+|        |Dam: 2d8 HITROLL 1 DAMROLL 1                   |                    |
+|  66208 |some boots of the north                        |ARMOR               |
+|        |AC: -8 STR 1 MOVE 20                           |                    |
+|  66209 |a wooden staff                                 |WEAPON              |
+|        |Dam: 2d4 HITROLL 1 DAMROLL 1                   |                    |
+|  66210 |a ring of terror                               |WORN                |
+|        |HITROLL 1 DAMROLL 2                            |                    |
+|  66211 |a cruddy iron chest                            |CONTAINER           |
+|  66212 |a corroded key                                 |KEY                 |
+|  66213 |the Kinjite dagger                             |WEAPON              |
+|        |Dam: 4d6 HITROLL 1 DAMROLL 1                   |                    |
+|  66214 |an old wooden box                              |CONTAINER           |
+|  66215 |a tiny brass key                               |KEY                 |
+|  66216 |a large nest                                   |CONTAINER           |
+|  66217 |a gigantic black egg                           |FOOD                |
+|  66218 |an ornate wooden torch                         |FOOD                |
+|  66219 |an old, moss-covered rock                      |FIREWEAPON          |
+|        |Dam: 12d1                                      |                    |
+|  66220 |a thick bush                                   |OTHER               |
+|  66221 |a large pile of leaves                         |OTHER               |
+|  66222 |Nollin's golden token                          |OTHER               |
+|  66223 |a small leather pouch                          |CONTAINER           |
+|        |Specials: HIDE;                                |--------------------|
+|  66224 |a deep green bush                              |CONTAINER           |
+|  66225 |some large, blue berries                       |FOOD                |
+|  66226 |a twisted wooden bracelet                      |ARMOR               |
+|        |AC: -4 DAMROLL 1                               |                    |
+|  66227 |a long and sharp troll's tooth                 |WEAPON              |
+|        |Dam: 4d4 STR 1 HITROLL 1                       |                    |
+|  66228 |the Staff of the North                         |WEAPON              |
+|        |Dam: 4d4 WIS 1 CON 1                           |                    |
+|  66229 |a bloody pile of gore                          |OTHER               |
+|  66230 |skin covered with hard, white scales           |OTHER               |
+|  66231 |some orc armor                                 |ARMOR               |
+|        |AC: -4 STR 1                                   |                    |
+|  66232 |an orc shortsword                              |WEAPON              |
+|        |Dam: 2d6                                       |                    |
+|  66233 |an orc helmet                                  |ARMOR               |
+|        |AC: -2                                         |                    |
+|--------|-----------------------------------------------|--------------------|
+
+Number of real objects in the zone: 53
+
+
+Mob info
+
+-- Vnum ------------------------ Name -------------------|-A-|--C-|-Q-|-S-|-L-|
+|        |                                               | G |  L | U | O | E |
+|        |                                               | G |  A | E | C | V |
+|        |                                               | R |  S | S | I | E |
+|        |                                               | O |  S | T | A | L |
+|--------|-----------------------------------------------|---|----|---|-L-|---|
+| 66200  |the water nymph                                |   | M  | Y | Y | 30|
+| 66201  |the shambling mound                            | Y |    |   |   | 18|
+| 66202  |the doe                                        |   |    | Y |   | 6 |
+| 66203  |the large buck                                 |   |    | Y |   | 12|
+| 66204  |the black bobcat                               | Y |    |   |   | 17|
+| 66205  |the giant frog                                 |   |    | Y | Y | 9 |
+| 66206  |the wolverine                                  | Y |    |   |   | 9 |
+| 66207  |the stork                                      |   |    | Y |   | 18|
+| 66208  |the raven                                      |   |    | Y | Y | 12|
+| 66209  |the white timberwolf                           | Y |    |   |   | 12|
+| 66210  |the black bear                                 |   |    | Y | Y | 25|
+| 66211  |the Harper woodsman                            |   |   W| Y | Y | 32|
+| 66212  |the Harper woodsman                            |   |   W| Y |   | 42|
+| 66213  |Glorpk                                         |   |  T | Y | Y | 29|
+| 66214  |the cavern hag                                 | Y | M  |   |   | 35|
+| 66215  |the snake                                      |   |    | Y |   | 10|
+| 66216  |the ice golem                                  |   |   W| Y |   | 32|
+| 66217  |the frost drake                                | Y | M  |   |   | 40|
+| 66218  |the Druidmother                                |   |C   | Y | Y | 59|
+| 66219  |Nollin, the woodsman                           |   |    | Y | Y | 44|
+| 66220  |the living tree                                |   |C  W| Y |   | 48|
+| 66221  |Binky the Rabid Chipmunk, Neverwinter Wood's ec|   |    | Y | Y | 51|
+| 66222  |Leavey, the young woodsman                     |   |   W| Y | Y | 16|
+| 66223  |the black slime                                |   |    | Y |   | 17|
+| 66224  |the hideous harpy                              | Y |    |   |   | 22|
+| 66225  |Gaelwyn the shopkeeper                         |   |    | Y | Y | 40|
+| 66226  |an undead priest                               |   |C   | Y |   | 39|
+| 66227  |a forest wraith                                | Y |    |   |   | 10|
+| 66228  |a swarm of insects                             | Y |    |   |   | 8 |
+| 66229  |the orc captain                                |   |   W| Y |   | 22|
+| 66230  |an orc warrior                                 |   |   W| Y |   | 15|
+| 66231  |an orc shaman                                  |   |CM  | Y |   | 23|
+| 66232  |a manticore                                    | Y |CM  |   |   | 32|
+| 66233  |a hook horror                                  | Y |   W|   |   | 35|
+|--------|-----------------------------------------------|---|----|---|---|---|
+
+Number of real mobs in the zone: 67
+Average level of the mobs: 21

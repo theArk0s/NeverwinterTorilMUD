@@ -1,0 +1,1098 @@
+#77700
+skulking human bandit~
+&+ya skulking human bandit&N~
+&+yA human bandit skulks around in the shadows.&N~
+Dressed in motley garb, apparently picked up from a wide variety of
+sources, this individual seems quite intent on keeping a low profile.
+His dark eyes glance about furtively, quickly taking in his 
+surroundings and constantly assessing anything of interest.
+~
+0 0 0 0 S
+PH 0 0 
+10 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77701
+filthy orc bandit~
+&+La filthy orc bandit&N~
+&+LA filthy orc hides in the shadows, waiting for his next victim.&N~
+Partially covered in filth and debris, this foul-smelling orc seems
+to have seen better days.  His disgusting appearance, hideous even
+by the standards of his race, hints at a hard and rather pitiful
+existence of scavenging and thievery.
+~
+0 0 0 0 S
+PR 0 0 
+10 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77702
+stunted goblin~
+&+ga stunted goblin&N~
+&+gAn unusually short and squat goblin stands here.&N~
+Short even when compared to the other members of his race, this stumpy
+individual appears rather melancholy and uninterested in his 
+surroundings.  Although occasionally pacing back and forth as though
+bored, this goblin pretty much just stands about idley.
+~
+0 0 0 0 S
+PH 0 0 
+11 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77703
+goblin hunter~
+&+ga goblin hunter&N~
+&+gA goblin hunts for dinner here.&N~
+Dressed in warrior-like garb, this vicious looking goblin prowls about
+in a cat-like stance, attempting to remain alert and ready to pounce
+on any passing prey.
+~
+0 0 0 0 S
+PH 0 0 
+11 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77704
+goblin tracker~
+&+gthe goblin tracker&N~
+&+gA goblin tracks his prey carefully nearby.&N~
+This goblin prowls about, methodically studying the area for signs of
+his passing prey, stopping only periodically to investigate a broken 
+sapling or fresh tracks in the well-traveled dust.
+~
+0 0 0 0 S
+PH 0 0 
+12 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77705
+goblin merchant~
+&+Mthe goblin merchant&N~
+&+MA goblin merchant wanders the area, looking for unsuspecting customers.&N~
+Dressed in relatively ornate and fine garb for a member of his race, 
+this goble appears to be a merchant of sorts.  A small, rough bundle of 
+goods is slung over his shoulder, ready for quick presentation to anyone 
+interested in his wares.  Despite his somewhat innocuous appearance, this
+individual is clearly not one to be trusted.
+~
+0 0 0 0 S
+PH 0 0 
+12 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77706
+lost goblin~
+&+ga lost goblin~
+&+gA goblin wanders around in circles, completely lost.&N~
+Clearly at a loss for which way to go, this short goblin wanders about
+aimlessly in search of the correct path.  Every now and then he appears 
+to gain enough courage to wander almost out of view in one direction, 
+but quickly changes his mind and returns to his starting point.
+~
+0 0 0 0 S
+PH 0 0 
+13 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77707
+hobgoblin trader~
+&+gthe &+Lhobgoblin&N&+g trader&N~
+&+gA &+Lhobgoblin&N&+g trader stands here, sorting through his goods&N.~
+Although typical of his race, this individual has a relatively hideous
+appearance for someone engaged in the buying and selling of goods.  His
+skin is a dark, reddish brown and his face features a large, reddish nose.
+In addition, an unsettling smell hangs in the air about him, attracting
+a variety of flies and other airborne insects.
+~
+0 0 0 0 S
+PH 0 0 
+13 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77708
+lost hobgoblin~
+&+gthe lost &+Lhobgoblin&N~
+&+gA &+Lhobgoblin&N&+g stands here scratching his head, completely lost.&N~
+Evidently unwarea of the proper direction in which to proceed, this
+rather large hobgoblin meanders around in an attempt to get his bearings.
+Every now and then he wanders down a pathway out of site, but always seems
+to wind up returning to his point of origin.
+~
+0 0 0 0 S
+PH 0 0 
+14 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77709
+hobgoblin hunter~
+&+gthe &+Lhobgoblin&N&+g hunter&N~
+&+gA &+Lhobgoblin&N&+g hunts alone here.&N~
+This solitary hobgoblin appears to have foregone his tribe and has
+chosen to hunt through here on his own.  His reddish-brown skin
+bulges and ripples as his powerful muscles flex as he moves about.
+~
+0 0 0 0 S
+PH 0 0 
+14 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77710
+human young woman bandit female~
+&+ca young bandit~
+&+cA young woman hides in the shadows, clutching a dagger tightly.&N~
+Dressed in dark, tight-fitting clothing, this thin woman pads quietly
+through the shadows, wielding a single gleaming dagger.  Although
+seemingly weak and frail, the graceful and methodic movements of this
+woman would seem to hint at someone very skilled in hand-to-hand combat.
+~
+0 0 0 0 S
+PH 0 0 
+15 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#77711
+orc thief~
+&+La thieving orc&N~
+&+LAn orc hides in the shadows, waiting for his next victim.&N~
+The greenish skin of this orc has been scarred and battered from 
+countless encounters and scuffles.  He wears only simple leather
+clothing and appears to have scavenged a great deal of it from
+victims who were not exactly his size.
+~
+0 0 0 0 S
+PH 0 0 
+15 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77712
+goblin scarred~
+&+ga scarred goblin&N~
+&+gA goblin covered in twisted burn scars stands here quietly.&N~
+Apparently the victim of a vicious fire, this goblin appears to be 
+horribly scarred over a vast majority of its body.  Despite the evident
+scarring, the goblin does not appear to be in any pain and simply
+stands here silently.
+~
+0 0 0 0 S
+PH 0 0 
+16 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77713
+goblin huntress~
+&+gthe goblin huntress&N~
+&+gA female goblin stalks through the area, clutching a spear tightly.&N~
+Although somewhat diminuitive, the angered look on the face of this female
+goblin and the menacing way in which she grips her spear would seem to
+mark her as a dangerous foe if provoked.
+~
+0 0 0 0 S
+PH 0 0 
+16 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#77714
+goblin shaman~
+&+gthe goblin shaman&N~
+&+gA goblin shaman stands here, chanting quietly.&N~
+Dressed in brown, loose-fitting robes made of a soft and flowing material,
+this goblin appears calm and collected, clearly concentrating on other
+matters at the moment.
+~
+0 0 0 0 S
+PH 0 0 
+17 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77715
+goblin trapper~
+&+ga goblin trapper&N~
+&+gA goblin checks on one of his traps nearby.&N~
+Moving methodically through the area, this goblin appears to be in
+the process of stalking his prey.  As he moves about through here,
+he carefully remembers to avoid the various snares and traps he 
+has set up to catch his next meal.
+~
+0 0 0 0 S
+PH 0 0 
+17 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77716
+goblin warrior~
+&+gthe goblin warrior&N~
+&+gA goblin warrior roams the area, looking for a fight.&N~
+Dressed in light but sturdy armor, this goblin peers about the
+area, looking for the chance to test his combat skills.  Although
+his sword is dented and worn, he still appears to be a confident
+and skilled fighter.
+~
+0 0 0 0 S
+PH 0 0 
+18 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77717
+hobgoblin warrior~
+&+gthe &+Lhobgoblin&N&+g warrior&N~
+&+gA &+Lhobgoblin&N&+g warrior stands here, weapons ready.&N~
+Clad in heavy armor and wielding a gleaming sword, this hobgoblin is 
+apparently ready and willing for combat.  A devious grin crosses his 
+yellow-toothed mouth in anticipation of battle.
+~
+0 0 0 0 S
+PH 0 0 
+18 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77718
+hobgoblin warrior large~
+&+ga large &+Lhobgoblin&N&+g warrior~
+&+gA large &+Lhobgoblin&N&+g warrior stands here, glaring threateningly.&N~
+Large as far as hobgoblins go, this warrior has a clearly angry look 
+on his face.  Snorting loudly as he glances about, this particular 
+hobgoblin appears to be in a very foul mood indeed.
+~
+0 0 0 0 S
+PH 0 0 
+19 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77719
+orc warrior~
+&+Lan orc warrior&N~
+&+LAn orc warrior crouches here, sharpening his sword.&N~
+A relatively average example of his race, this orc is dressed in light 
+armor and sits sharpening his dented sword.  Thick, yellowed teeth
+protrude from his open mouth as he pants slightly under the strain of
+the sword-sharpening effort.
+~
+0 0 0 0 S
+PH 0 0 
+19 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77720
+large leopard XXX~
+&+ythe XXX leopard&N~
+&+yA large XXX leopard crouches here.&N~
+Bearing the typical spotted-fur of its species, this leapard crouches
+quietly on the ground, prepared to pounch on any unsuspecting prey
+who happen to pass by its partially-camoflauged form.
+~
+0 0 0 0 S
+PH 0 0 
+20 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77721
+huge leopard XXX~
+&+ythe XXX leopard&N~
+&+yA huge XXX leopard crouches here.&N~
+Covered with a thick coat of spotted fur, this massive cat crouches
+quietly in the shade, silently assessing everything that passes
+through here.  The sheer size and agility of a leopard this large
+would make it a dangerous opponent in combat.
+~
+0 0 0 0 S
+PH 0 0 
+20 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77722
+battle scarred hobgoblin~
+&+gthe battle scarred &+Lhobgoblin&N~
+&+gA battle scarred &+Lhobgoblin&N&+g swaggers through the area.&N~
+Wearing skimpy, battered armor that has clearly seen better days, it is 
+difficult to determine from the number of scars on the hobgoblin himself
+whether or not the armor has been at all effective.
+~
+0 0 0 0 S
+PH 0 0 
+21 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77723
+armored hobgoblin~
+&+gan armored &+Lhobgoblin&N~
+&+gA heavily armored &+Lhobgoblin&N&+g stands here, ready to defend himself.&N~
+Relatively uncharacteristic of his kind, this hobgoblin is dressed in 
+heavy armor from head to toe.  The thick and heavy plating of the armor 
+does not seem to affect his mobility too severely, leading one to conclude
+that he has worn this armor for quite some time.
+~
+0 0 0 0 S
+PH 0 0 
+21 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77724
+small ogrillon~
+&+ya small ogrillon&N~
+&+yA small ogrillon hides in the shadows nearby.&N~
+With skin covered in small horn plates, this small ogrillon would seem 
+to be a dangerous opponent with natural armor.  With clawed hands at 
+the ready, this individual hides in the shadows waiting for its prey.
+~
+0 0 0 0 S
+PH 0 0 
+22 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77725
+small ogrillon~
+&+ga small ogrillon&N~
+&+gA small ogrillon hides in the shadows nearby.&N~
+About the same size of a small orc, and closely resembling one, this
+particular ogrillon seems to cling to the shadows in an attempt not to
+be seen.
+~
+0 0 0 0 S
+PH 0 0 
+22 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77726
+large ogrillon~
+&+ya large ogrillon&N~
+&+yA large ogrillon hides in the shadows nearby.&N~
+This large appears even more brutish and violent than most of its kind.
+As the unnatural offspring of an ogre and an orc, this hulking brute is
+far from attractive and his relative lack of intelligence only makes him
+more dangerous in battle.
+~
+0 0 0 0 S
+PH 0 0 
+23 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77727
+large ogrillon~
+&+ga large ogrillon&N~
+&+gA large ogrillon hides in the shadows nearby.&N~
+This large appears even more brutish and violent than most of its kind.
+As the unnatural offspring of an ogre and an orc, this hulking brute is
+far from attractive and his relative lack of intelligence only makes him
+more dangerous in battle.
+~
+0 0 0 0 S
+PH 0 0 
+23 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77728
+sabertoothed XXX tiger~
+&+ysabertoothed XXX tiger&N~
+&+yA sabertoothed XXX tiger crouches nearby, ready to pounce.&N~
+Sporting a pair of massive, tusk-like teeth, this massive cat crouches
+quietly on the ground, eyeing everything that passes.  Its thick tail
+waves slowly back and forth as though reflecting the internal thoughts
+of the cat.
+~
+0 0 0 0 S
+PH 0 0 
+24 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77729
+sabertoothed XXX tiger~
+&+Lsabertoothed XXX tiger&N~
+&+LA sabertoothed XXX tiger crouches nearby, ready to pounce.&N~
+Sporting a pair of massive, tusk-like teeth, this massive cat crouches
+quietly on the ground, eyeing everything that passes.  Its thick tail
+waves slowly back and forth as though reflecting the internal thoughts
+of the cat.
+~
+0 0 0 0 S
+PH 0 0 
+24 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77730
+grey bear~
+&+La grey bear&N~
+&+LA large grey bear roams the wilderness here.&N~
+Much like the others of its kind, this large bear pads slowly through
+here on its massive, clawed paws.  Every now and then, the bear turns
+its snout to the sky, sniffing for hidden scents on the light breeze.
+~
+0 0 0 0 S
+PH 0 0 
+25 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77731
+mottled bear~
+&+La mottled bear&N~
+&+La mottled bear roams the area, hunting for its next meal.&N~
+Although slow and lumbering as it makes its way through the area, this 
+large bear seems relatively unconcerned with anything other than 
+finding something edible to eat.
+~
+0 0 0 0 S
+PH 0 0 
+25 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77732
+large wolf grey~
+&+La large grey wolf&N~
+&+LA large grey wolf prowls the area.&N~
+Covered in thick, grey fur, this massive wolf pads about almost
+silently on its clawed feet.  Its muzzle is twisted into a
+permanent snarl, displaying a menacing set of vicious teeth.
+~
+0 0 0 0 S
+PH 0 0 
+26 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77733
+large wolf grey~
+&+wa large grey wolf&N~
+&+wA large grey wolf prowls the area.&N~
+Covered in thick, grey fur, this massive wolf pads about almost
+silently on its clawed feet.  Its muzzle is twisted into a
+permanent snarl, displaying a menacing set of vicious teeth.
+~
+0 0 0 0 S
+PH 0 0 
+26 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77734
+worg~
+&+La worg&N~
+&+LA worg prowls the wilderness nearby, growling menacingly.&N~
+Basically a large, wolf-like creature with thick, brown fur, this
+creature growls menacingly at anything that crosses its path.
+Known for their increased intelligence and generally evil nature,
+worgs of this size can prove dangerous foes in battle.
+~
+0 0 0 0 S
+PH 0 0 
+27 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77735
+barbarian wandering~
+&+Bthe wandering barbarian&N~
+&+BA barbarian wanders through the area, weapon at the ready.&N~
+A strong and prime example of a barbarian, this well-muscled individual
+walks slowly and calmly through the area, constantly prepared for
+battle.
+~
+0 0 0 0 S
+PH 0 0 
+27 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77736
+large worg~
+&+La large worg&N~
+&+LA large worg prowls the wilderness nearby, growling menacingly.&N~
+Large even when compared to other worgs, this massive wolf-like creature
+looks about the area with an eerily intelligent look in its eyes.
+Clearly not your average predator, it would seem quite clear that this
+animal could prove quite dangerous in battle.
+~
+0 0 0 0 S
+PH 0 0 
+28 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77737
+barbarian scowling~
+&+Bthe scowling barbarian&N~
+&+BA barbarian stands here, scowling angrily at his misfortune.&N~
+Clearly not having his best day, this muscular individual appears to
+be in very bad spirits.  Even the light armor he wears seems to hang
+somewhat limply as though equally discouraged by whatever misfortune
+has befallen him.
+~
+0 0 0 0 S
+PH 0 0 
+28 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77738
+fugitive~
+&+ca fugitive&N~
+&+cA fugitive from justice hides in the shadows nearby.&N~
+Dressed in ragged, dissheveled clothing, this scrawny individual attempts
+to cling to the shadows as a means of concealment.  His sunken eyes dart
+about, constantly searching for his pursuers.
+~
+0 0 0 0 S
+PH 0 0 
+29 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77739
+fugitive~
+&+ca fugitive&N~
+&+cA fugitive from justice hides in the shadows nearby.&N~
+An almost panicked look lies on the face of this individual as she glances
+about feverishly at all sources of movement and sound.  She has a very
+hunted look on her face and her rather gaunt appearance would seem to 
+indicate that she has not eaten or slept in some time.
+~
+0 0 0 0 S
+PH 0 0 
+29 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#77740
+drow warrior~
+&+ma drow warrior&N~
+&+mA drow warrior sneaks through the area, nearly invisible in the shadows.&N~
+Clearly wishing not to be seen, this deadly warrior sneaks quietly though 
+here.  His motives for stealth remain unclear, but something in the depths of
+his lavender eyes causes you to shudder involuntarily.
+~
+0 0 0 0 S
+PH 0 0 
+30 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77741
+drow warrior~
+&+ma drow warrior&N~
+&+mA drow warrior hides in the shadows nearby, waiting for his next victim.&N~
+Displaying the trademark pitch-black skin of his species, and wearing his
+frosty-white hair pulled back in a tight braid, this warrior is definitely
+not someone to be trifled with.  Known as fierce fighters, it is a rare 
+occurance when one encounters a drow and lives to tell of the tale.
+~
+0 0 0 0 S
+PH 0 0 
+30 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77742
+XXX trapper~
+&+Lthe XXX trapper&N~
+&+LA XXX trapper lies in wait, nearly hidden from view.&N~
+Dressed in simple, camoflauged garb to assist in hiding him amongst his
+surroundings, this individual lies in wait, quietly anticipating the
+passage of his prey.
+~
+0 0 0 0 S
+PH 0 0 
+31 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77743
+mimic rock large~
+&+Lthe mimic&N~
+&+LA large rock seems to be inching closer and closer.&N~
+Although first glance would seemingly lead one to believe that this
+is nothing more than a simple rock, the slight, methodical movements
+displayed by the creature clearly mark it as a mimic.  These creatures
+often portray simple, mundane objects in hopes of luring unsuspecting
+victimes within striking distance.
+~
+0 0 0 0 S
+PH 0 0 
+31 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77744
+beetle huge~
+&+La huge beetle&N~
+&+LA huge beetle digs a burrow nearby.&N~
+Using its massive hind legs as shovels, this beetle appears to be
+in the process of digging itself a new lair.  Although apparently
+aware of your presence, the chore of creating a new nest appears
+to be first and foremost on the beetle's limited mind.
+~
+0 0 0 0 S
+PH 0 0 
+32 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77745
+beetle huge~
+&+La huge beetle&N~
+&+LA huge beetle hisses and spits aggressively as you approach.&N~
+Protected by a thick, reddish shell, this beetle's mandibles move
+about menacingly, dripping with yellowish spittle.  Six powerful
+legs propel the beetle about quickly, marking it as a quick and
+nimble foe.
+~
+0 0 0 0 S
+PH 0 0 
+32 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77746
+spider enormous~
+&+Lan enormous spider&N~
+&+LAn enormous spider clings to a large rock nearby.&N~
+This eight-legged menace, covered in a glreaming black exoskeleton,
+sports a pair of vicious-looking fangs, almost oozing with a thick, 
+ichorous venom.  Dark, reddish bands circle its enlarged abdomen, 
+adding the its rather menacing appearance.
+~
+0 0 0 0 S
+PH 0 0 
+33 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77747
+spider enormous~
+&+Lan enormous spider&N~
+&+LAn enormous spider rears and waves its forelegs at you.~
+Although thin and somewhat spindly in appearance, this spider appears
+quite willing to engage in combat.  Judging by the large, fanged
+mandibles protruding from beneath its eight, menacing red eyes, it 
+would prove a dangerous and perhaps deadly opponent indeed.
+~
+0 0 0 0 S
+PH 0 0 
+33 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77748
+centipede twenty foot~
+&+Ba twenty foot long centipede&N~
+&+BA twenty foot long centipede lies motionless here.&N~
+Seemingly a mass of constantly undulating legs, this massive insect
+speeds about the area at an unbelievably fast pace.  A pair of large
+antennae extend into the air over its head, suveying the air for
+potential prey.  Below the antennae, a large, wicked-looking set of
+mandibles constant twitch as if waiting for combat.
+~
+0 0 0 0 S
+PH 0 0 
+34 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77749
+worm huge multisegmented~
+&+Ca huge multisegmented worm&N~
+&+CA huge multisegmented worm circles the area slowly.&N~
+Appearing quite similar to a massive millipede, this giant worm
+crawls about the area, leaving a thin trail of foul-smelling ooze.
+Although no visible sensory receptors can be seen, it is clear that
+this worm is very much aware of and in tune with its surroundings.
+~
+0 0 0 0 S
+PH 0 0 
+34 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77750
+orc warrior~
+&+La powerful orc warrior&N~
+&+LA powerful orc warrior wanders the area, weapons at the ready.&N~
+Clearly an experienced member of his race, this stout individual appears
+constantly ready for battle.  His pig-like snout sniffs the air, snorting
+slightly.  A foul smell seems to hang in the air around him, likely
+emenating from the filthy and clearly well-worn armor that seems to cling
+to him like a second skin.
+~
+0 0 0 0 S
+PR 0 0 
+35 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77751
+hulking barbarian warrior~
+&+Ba hulking barbarian warrior&N~
+&+BA hulking barbarian warrior sniffs the air warily.&N~
+Rather large, even for a barbarian, this stern individual walks about
+cautiously as though sensing some unseen presence.  His light armor is
+worn from battle and gleams dully against his dark, sun-tanned skin.
+Here and there, tattoos paying tribute to the gods of battle can be seen
+wherever skin is visible beneath his armor.
+~
+0 0 0 0 S
+PH 0 0 
+35 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77752
+dwarven warrior~
+&+ca dwarven warrior&N~
+&+cA dwarven warrior moves cautiously through the area.&N~
+Scarred and battered by a lifetime of battle, this warrior has the
+keen look of experience in his dark eyes.  His armor, much like his
+scarred face, bears the marks of countless battles won and lost.  
+Despite his hard appearance, his long, flowing beard has been neatly
+kept and his axe gleams brightly as though recently polished.
+~
+0 0 0 0 S
+PM 0 0 
+36 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77753
+gnome warrior~
+&+ga gnome warrior&N~
+&+gA gnome warrior stands here, daring anyone to challenge him.&N~
+Although not known for their ferocity as warriors, this particular
+gnome appears to have seen a great many battles in his day.  His face
+bears the occasional scar of a wound long-healed, particularily his
+round, bulbous nose.
+~
+0 0 0 0 S
+PH 0 0 
+36 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77754
+elven huntress~
+&+gthe XXX elven huntress&N~
+&+gAn XXX elven huntress stalks the area.&N~
+The cat-like precision with which this huntress moves clearly marks
+her as a dangerous individual.  Although a deadly foe, her features
+are actually quite delicate and lovely.  Thin, pointed ears protrude
+from her black, shortly-cropped hair.  Deep, mist-green eyes look
+calmly about, investigating everything in the area.
+~
+0 0 0 0 S
+PH 0 0 
+37 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#77755
+half-elven ranger~
+&+gthe half-elven ranger&N~
+&+gA half-elven ranger tracks his prey through the area.&N~
+Slighly pointed ears under a thick head of raven-black hair help to
+frame the chiseled and well-definied face of this swarthy ranger.
+Dressed in light, loose-fitting leather garb, this half-elf sneaks
+through the area as though a part of nature itself.  The greenish
+tint of his clothing helping to camoflague him even further amid
+the greenery.
+~
+0 0 0 0 S
+PH 0 0 
+37 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77756
+troll~
+&+ga troll&N~
+&+gA troll shambles through the area, hands dragging the ground.&N~
+Tall and gangly like most of the others of its race, this troll's
+hands drag along on the ground behind it as it walks slowly about.
+The troll's yellowish-green skin sprouts random, thick patches of 
+black hair, giving it a very wild appearance.
+~
+0 0 0 0 S
+PH 0 0 
+38 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77757
+shambling mound~
+&+ythe shambling mound&N~
+&+yA mound of shambling vegetation comes closer and closer...&N~
+Alhough apparently nothing more than a pile of rotting leaves and
+other debris, this foul-smelling aberration is actually a living
+entity.  Bits of filth and slimy residue slowly drip from its
+hulking form as it shuffles about looking for prey.
+~
+0 0 0 0 S
+PH 0 0 
+38 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 0
+#77758
+shambling mound~
+&+gthe shambling mound&N~
+&+gA mound of shambling vegetation comes closer and closer...&N~
+Alhough apparently nothing more than a pile of rotting leaves and
+other debris, this foul-smelling aberration is actually a living
+entity.  Bits of filth and slimy residue slowly drip from its
+hulking form as it shuffles about looking for prey.
+~
+0 0 0 0 S
+PH 0 0 
+39 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77759
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+39 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77760
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+40 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77761
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+40 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77762
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+41 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77763
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+41 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77764
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+42 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77765
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+42 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77766
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+43 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77767
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+43 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77768
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+44 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77769
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+44 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77770
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+45 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77771
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+45 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77772
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+46 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77773
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+46 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77774
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+47 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77775
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+47 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77776
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+48 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77777
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+48 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77778
+unnamed~
+the unnamed~
+An unnamed mob stands here.~
+You see nothing special.
+~
+0 0 0 0 S
+PH 0 0 
+49 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77779
+ugly ogre~
+&+yan especially ugly ogre&N~
+&+yan especially ugly ogre stands here, club over his shoulder.&N~
+Hideous even for one of his species, this ogre appears to have been in
+a great number of battles in his time.  Crooked, yellowed teeth protrude
+at odd angles from his gaping, drooling mouth.  A scarred, bulbous nose
+takes up a majority of the rest of his face.  The massive club slung over 
+his shoulder still bears the dried blood and bits of flesh from the last
+hapless victim to cross his path.
+~
+0 0 0 0 S
+PH 0 0 
+49 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77780
+huge XXX troll~
+&+ga huge XXX troll&N~
+&+gA huge XXX troll shambles along the path here.&N~
+Covered in thick, black hair that resembles coarse metal wire, this tall
+and muscular troll lumbers slowly about on his journies.  Sharp, crooked
+teeth protrude from this drooling mouth while beady red and black eyes
+dart about looking for easy prey.
+~
+0 0 0 0 S
+PH 0 0 
+50 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77781
+fat giant~
+&+Ca fat giant&N~
+&+CAn immensely fat giant blocks the path here.&N~
+Although most of his kind are known for their towering height and
+impressive physiques, this particular giant is not only tall, but 
+quite wide as well.  His overgrown belly hangs down well below the line
+of his thick leather belt, making it as difficult to see around this
+fellow as over him.
+~
+0 0 0 0 S
+PH 0 0 
+50 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#77782
+echo mob loudspeaker~
+&+Cthe echo mob&N~
+&+CA fat opera singer wearing a horned helm stands here screaming&N.~
+The only thing that comes to mind when taking in the massive girth of
+this gargantuan woman is "man...that's a lot of woman".  With every
+message echoed through the zone, the womans bulk contorts and shivvers
+like a massive mound of partially congealed pudding.
+~
+0 0 0 0 S
+PH 0 0 
+59 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+
+

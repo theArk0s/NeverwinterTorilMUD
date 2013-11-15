@@ -1,0 +1,1560 @@
+#66601
+M
+hi hello~
+Lord Nashar smiles and says, '&+CWelcome to Neverwinter, the City of Skilled
+&+CHands!&N'
+~
+M
+hands skilled~
+Lord Nashar leans in and whispers, '&+CJust between you and me...I think that's
+&+Ca pretty lame nickname for the city.&N'  Nashar then gives you a knowing wink
+and returns to his business.
+~
+M
+luskan~
+Lord Nashar frowns, '&+CDon't even get me started on those bastards...&N'
+~
+M
+bastards~
+Lord Nashar nods, '&+CYeah, Luskan.&N'
+~
+M
+arcane brotherhood~
+Lord Nashar frowns, '&+CA bunch of vile trouble-makers.  Not much news on them
+&+Crecently...but they never stay quiet for long.&N'
+~
+M
+orcs orc~
+A look of disgust crosses Lord Nahar's noble face and he says, '&+CThat filthy
+&+Clot has been a thorn in our side for some time, now.  What I wouldn't give to
+&+Cdrive them from the forest for good...  Alas, even my finest soldiers cannot
+&+Cseem to put an end to their raids.  They emerge from the Neverwinter Wood in
+&+Cdroves and disappear again just as quickly.  Some physical proof of their
+&+Cdefeat would make a nice trophy for display inside Castle Never.&N'
+~
+M
+castle never~
+Lord Nashar smiles and says, '&+CYes, a wonderful palace it is!  Built by Lord
+&+CHaleuth Never centuries ago, is has been the home of Neverwinter's rulers 
+&+Cever since.  Of course, it's currently closed for repairs...but it should 
+&+Creopen any time now.&N'
+~
+M
+repairs repair~
+Lord Nashar smiles and says, '&+CA bit of a remodeling job, nothing to worry 
+&+Cabout, really.&N' Then he glances about a bit and then leans in to whisper, 
+'&+CJust between you and me...there was a bit of a roach problem.  Some of the 
+&+Cprevious occupants were less than adequate caretakers.&N'  Nashar then gives 
+you a knowing wink and returns to his business.
+~
+M
+wink~
+Lord Nashar looks confused and flatly states, '&+CI have no idea what you're 
+&+Cgetting at.&N'
+~
+Q
+Lord Nashar beams a wide, celebratory smile and claps you on the back.  
+
+'&+CFinally, some real proof that we're making a little progress in eliminating
+&+Cthe orcs!  I, and the citizens of Neverwinter are in your debt.  As such, 
+&+Callow me to present this medallion. It shows the citizens and special guards
+&+Cof Neverwinter that you are a trusted member of our community.  May it bring 
+&+Cyou respect wherever you go.&N'
+~
+G I 66231
+G I 66232
+G I 66233
+R I 66627
+Q
+As you relate the story of Garos and Navak to Lord Nashar, frowns and nods
+solemnly.
+
+'&+CSo it is the Kraken Society,&N' he says, '&+CI should have guessed as much.  I
+&+Cfeel responsible for what has happened to Garos.  He shall be remembered as
+&+Ca hero.  Now it is up to myself and the able guard of the city to find out
+&+Cjust what it is the Kraken seek in our community and stop their evil plans
+&+Cbefore they can reach fruition.&N'
+
+He reaches into his armor and produces a small, glittering item and hands it to you.
+
+'&+CPlease take this signet ring and my thanks.  It has been enchanted to protect its
+&+Cwearer and many will recognize it as my personal seal of trust.&N'
+~
+G I 66624
+R I 66642
+Q
+As you hand Lord Nashar the gory eye stalk, his eyes gleam and a smile crosses
+his noble face.
+
+'&+CExcellent!,&N' he says, '&+CIt seems someone has finally bested that damn
+&+Cbeholder, Kretus.  He as been causing numerous problems in the city since
+&+Che moved into the sewers...even going so far as to send his enthralled Kuo-Tuo
+&+Cguards on raids to the surface.  They were, of course, little match for the city
+&+Cguard, but they still caused a great deal of chaos.  Please take this ring as a
+&+Csmall token of my appreciation.&N'
+
+He reaches into his armor and produces a small, metallic band and hands it to you.
+
+'&+CThank you again, brave adventurer!&N'
+~
+G I 66910
+R I 66662
+S
+#66602
+M
+hi hello~
+Cyntan grins broadly and says, 'Hello to you as well!'
+~
+S
+#66603
+M
+hi hello~
+Aermor flashes you a smile and says, 'Well met, adventurer!'
+~
+S
+#66604
+M
+hi hello~
+&+LEvema smiles wryly, '&N&+wI really have better things to attend to...please move along.&+L'&N
+~
+M
+glaive~
+&+LEvema nods, '&N&+wIt was a gift from...a relative.  'Tis a wonderful weapon.  There is
+&+wnone other like it in all the Realms.&+L'&N
+~
+M
+relative~
+&+LEvema frowns, '&N&+wYes...it was from my little sister.  She ...passed away.  It was a
+&+wvery long time ago.  Is there a point to this conversation?'&N
+~
+M
+point~
+&+LEvema frowns and nods, '&N&+wYes...a POINT!  As in, why do you insist on hasseling me?&+L'&N
+~
+M
+sister~
+&+LEvema frowns and nods, '&N&+wShe is dead.  There is no more to it than that.&+L'&N
+~
+M
+brother~
+&+LEvema smiles and nods, '&N&+wYes, Aldan.  He is truly a great hero, and a deserved
+&+wchampion of the people of Neverwinter.  He has spent his life helping others in
+&+worder to honor the memory of our young sister.&+L'&N
+~
+M
+memory memories~
+&+LEvema frows and nods, '&N&+wThat is all we have left of our sister, fond memories.&+L'&N
+~
+M
+thief thievery~
+&+LEvema glares, '&N&+wThat is a part of my past, and there it shall stay.  Now leave me!&+L'&N
+~
+M
+nashar~
+&+LEvema smiles, '&N&+wA true hero and a great leader.  He has been like a surrogate
+&+wfather to myself and Aldan.  He is the one who rescued me from my life of thievery.&+L'&N
+~
+Q
+&+LAs you hand Evema the dagger, a sad look comes upon her and her eyes well up with
+&+Ltears long repressed...&N
+
+&+L'&N&+wSo you know our terrible secret,&+L' she says.  '&N&+wOur sister, the third of triplets
+&+wborn to our parents, is the vile assassin I'lvan Darksteel.  Her terrible deeds
+&+wand vicious killings have haunted me for years, always knowing that it was my 
+&+wpast of thievery that drove her down her dark path.  Had I stayed at home and
+&+wtaken care of her as I did Aldan, countless people would not have been murdered
+&+wand we would still be a family.  It was I who once told her '&+LTo Steal is to Live&+w'.
+&+wAs an assassin, she believed that to kill was to live...&+L'&N
+
+&+LShe turns from you for a moment, then continues.&N
+
+&+L'&N&+wI told Aldan his younger sister were dead...better to have him believe that than
+&+wthe truth.  In a way, it was her death that led him to the righteous path he walks
+&+wto this day.  That is my only consolation...that I'lvan's treacherous deeds and
+&+wmurders were somehow countered by the lives saved by Aldan's heroism.&+L'&N
+
+&+LShe reaches into her armor and produces a massive, glittering gem.&N
+
+&+L'&N&+wI no longer deserve the honor of protecting such an item, I entrust it to your
+&+wcare.  I will speak with Lord Nashar, and tell him of what has happened.  He is the
+&+wonly one who can judge what is right under these circumstances.  I take full
+&+wresponsibility for the life I have led...and if such deeds remove me from my position
+&+wamong the Nine, so be it.  I only ask that you don't tell Aldan...the disgrace would
+&+wruin him.  Better that our sister be forever lost to him, than to be revealed as the
+&+wmonster she became.&+L'&N
+~
+G I 66442
+R I 66601
+D
+&+LWith that, Evema departs to relay her tale to Lord Nashar and await his judgement.&N
+~
+S
+#66605
+M
+hi hello~
+Lauenthyl smiles politely and responds, '&+GWhy hello there...&N'
+~
+S
+#66606
+M
+hi hello~
+&+mVagan smirks slightly and flatly states, '&+wPlease do not disturb me right now.&+m'&N
+~
+S
+#66607
+M
+hi hello~
+&+wAldan nods and says, '&+WHello to you as well.  Have you perchance seen my sister?&N&+w'&N
+~
+M
+sister~
+&+wAldan nods and says, '&+WYes, my sister Evema.  She should be around here somewhere.
+&+WShe, too, is a member of the Neverwinter Nine.  Of course, we had another sister,
+&+Wbut no one speaks of her.&N&+w'&N
+~
+M
+another other~
+&+wAldan frowns and says, '&+WYes, we had another, younger sister.  She died when I was
+&+Wbut a small boy.  It was Evema who raised me.  I think she blames herself for our
+&+Wsister's death.&N&+w'&N
+~
+M
+blame death~
+&+wAldan frowns and says, '&+WEvema took it very hard when out sister died.  She was
+&+Wtaking care of us at the time.  We were all quite young, some even thought of us
+&+Was triplets...but Evema was a few years older.  I don't remember my younger sister
+&+Was all, but Evema does.  Evema blames herself to this day for allowing out sister
+&+Wto die, even though she was a mere child at the time herself.&N&+w'&N
+~
+M
+thief~
+&+wAldan frowns and says, '&+WYes, it is true that Evema was a thief for some time...it
+&+Wwas the only way she had to support us.  It saddens me that she had to harm her
+&+Wreputation and risk her life to feed us, but Lord Nashar has seen the good in her
+&+Wand forgiven her for her past transgressions.&N&+w'&N
+~
+M
+nashar~
+&+wAldan beams a wide smile, '&+WLord Nashar is a wonderful leader...truly the greatest
+&+Wthe city of Neverwinter has ever known.  He is a wise and fair man, always thinking
+&+Wof his subjects before his own well-being.&N&+w'&N
+~
+M
+luskan~
+&+wAldan glares, '&+WThose foul raiders.  They have been a terrible thorn in the side of
+&+Wthe good and just people of Neverwinter for some time.  It is my life's goal to
+&+Weradicate their evil.&N&+w'&N
+~
+S
+#66608
+M
+hi hello~
+Lhoge growls, 'Aye. Hello, hello...'
+~
+S
+#66609
+M
+hi hello~
+&+LImdar nods solemnly, '&N&+yPeace on your journey, good traveler.&+L'&N
+~
+M
+journey journies~
+&+LImdar nods, '&N&+yYes...we are all on journies of our own.&+L'&N
+~
+M
+home homeland~
+&+LImdar gazes off for a minute and responds, '&N&+yYes...I have journied quite 
+&+yfar from my homeland.  Many years have passed and I have seen many strange lands.&+L'&N
+~
+M
+years~
+&+LImdar nods and says, '&N&+yI was much younger when my journey began.  Such time
+&+yhas passed, and many trials I have seen.&+L'&N
+~
+M
+strange lands~
+&+LImdar nods, '&N&+yThough the land I come from is far different than this one...even
+&+ystranger lands exist.  Some of the places I have seen would not even seem to exist among
+&+ythe realms of mortal men.&+L'&N
+~
+M
+trials~
+&+LImdar nods solemnly, '&N&+yIn my search for justice, I have faced many challenges that
+&+yhave come close to taking my life.  I have passed them all thus far, but have still not
+&+ycompleted my mission.&+L'&N
+~
+M
+justice mission~
+&+LImdar nods, '&N&+yI must seek revenge for the horrible murder of my family and those of
+&+ymy village.  I alone survive, and must avenge their deaths so their souls may rest in peace.&+L'&N
+~
+M
+souls peace~
+&+LImdar nods, '&N&+yTheir souls will not rest until they have been avenged.&+L'&N
+~
+M
+revenge avenged avenge~
+&+LImdar nods grimly, '&N&+yUntil the beast that destroyed my villiage is slain, the souls
+&+yof its victims will remain in limbo...trapped in this world as its slaves.&+L'&N
+~
+M
+murder horrible~
+&+LImdar nods grimly, '&N&+yThe beast was conjured by a powerful wizard long ago, but 
+&+ytrapped in an object to limit its powers.  My village was in charge of protecting that
+&+yitem and seeing that no harm came to it.  One night while I was away, however, a thief
+&+ycrept into the villiage and attempted to steal the item.  He did not know its true
+&+ypurpose until it was too late, though.  He accidentally released the beast which then
+&+yproceeded to kill everyone and everything it could find to satisfy its bloodlust.&+L'&N
+~
+M
+killer beast~
+&+LImdar nods, '&N&+yIt is called the Moralith...a dark demon from the Abyss.  It knows
+&+ynothing but pain and evil.  It must be destroyed once and for all...&+L'&N
+~
+M
+item object~
+&+LImdar nods, '&N&+yThe wizard imprisoned the beast in a simple brass lantern, assuming
+&+ythat it would divert attention away from the item's true purpose.  Word of the hidden
+&+ypowers of the lamp leaked out, however, and it became a target for treasure hunters.&+L'&N
+~
+M
+help find return~
+&+LImdar nods, '&N&+yAny help you can provide in returning the lamp to me or vanquishing
+&+ythe Moralith would be appreciated.  I have journied for some time and know the lamp is
+&+yclose at hand...but in the years I have spent here, I have never found it.&+L'&N
+~
+Q
+&+LImdar grows silent as you recount the tale of how the Moralith was slain, 
+&+Lfinally avenging the murder of his people.  He stares off towards the southern
+&+Lhorizon for a while, contemplating the weight of the news before he finally
+&+Lresponds:
+
+&+L'&N&+yI thank you for help.  At last, the souls of my family can rest in peace,
+&+yknowing that justice has been done.  As a reward, or perhaps as a curse of your 
+&+yown, I charge you with the care of one of Neverwinter's sacred jewels.  I must
+&+yreturn to my homeland for a time, and cannot take it with me.  However, beware the
+&+ylure of the gems...there is an evil in them.  I have felt it...&+L'
+~
+G I 66900
+G I 66904
+R I 66602
+D
+&+LWith that, Imdar disappears into the crowd to begin the long journey home to
+&+Lthe warmth of the deserts of Calimport.&N
+~
+S
+#66610
+M
+hi hello~
+Silme grins broadly, 'Well met, adventurer!'
+~
+S
+#66611
+M
+hi hello~
+Dannar simply nods and says, 'Yes, yes...please have a look around the shop.'
+~
+S
+#66612
+M
+hi hello~
+Judge Uskar responds, 'May Tyr be with you.'
+~
+S
+#66613
+M
+hi hello~
+&+rPrior Hlam smirks, '&+wIt is a pleasure to meet you, I'm sure.&+r'&N
+~
+M
+vault~
+&+rPrior Hlam glaces around the room, '&+wI have no idea what you're talking about.&+r'&N
+~
+M
+key~
+&+rPrior Hlam glaces around the room, '&+wKey, what key?  I don't have any keys...&+r'&N
+~
+M
+oleff~
+&+rPrior Hlam nods, '&+wA very fair man.  That is all I will say.&+r'&N
+~
+M
+all~
+&+rPrior Hlam nods, '&+wYes, all. Oleff and I don't always agree...but he IS my
+&+wsuperior.  I will say no more about him.&+r'&N
+~
+M
+superior~
+&+rPrior Hlam nods and leans in closely, '&+wWell, if you must know, he really isn't
+&+wall that superior.  He just currently has authority because the leaders of the
+&+wtemple feel I'm too power-hungry or something like that.  Couldn't be farther
+&+wfrom the truth, but that's why they give me these lousy desk jobs.&+r'&N
+~
+M
+truth~
+&+rPrior Hlam nods, '&+wWhat is truth, really?  Just another version of someone
+&+welse's lies...&+r'&N
+~
+M
+lies~
+&+rPrior Hlam nods, '&+wYes, lies...like those that keep me in these lousy jobs.&+r'&N
+~
+M
+lousy job jobs~
+&+rPrior Hlam frowns, '&+wYes, this job sucks.  All I do is file paperwork.  I have
+&+wno real judicial power in the temple.  Hell, the best thing I get to do is
+&+wguard the...err...books.&+r'&N
+~
+M
+books guard~
+&+rPrior Hlam nods nervously, '&+wYes, I guard the books...that is what I meant.  What
+&+welse would I be talking about?&+r'&N
+~
+M
+paperwork~
+&+rPrior Hlam nods, '&+wYes, legal filings about criminals.  I know the details of every
+&+wcrime committed in this city.  It's my job to see they're properly documented so
+&+wthat punishments can be dealt fairly.&+r'&N
+~
+M
+fairly~
+&+rPrior Hlam nods, '&+wWell...as fairly as I decide, really.  The judges mostly just
+&+wtake my word on things.  I suppose that's a decent power to have, isn't it?&+r'&N
+~
+M
+punishment punishments~
+&+rPrior Hlam nods, '&+wUsually just a slap on the wrist, but death in some cases...&+r'&N
+~
+M
+criminal criminals~
+&+rPrior Hlam frowns, '&+wA filthy lot...I'd have them all killed if it were up to me.
+&+wHarsh justice is the only true justice.&+r'&N
+~
+Q
+&+rPrior's eyes gleam as he smiles, '&+wWhere did you ever find this?  I figured Oleff
+&+wwould find it missing and have my head!&+r'&N
+
+&+rHe ponders for a bit, then asks, '&+w...but how can I know the thieves who stole
+&+wthe key have not already been to the vault?  I guard the entrance at most times, but
+&+weven I, Prior Hlam must sleep and eat.&+r'&N
+
+&+rHe thinks for a bit longer, and a slow, malevolent gleam crosses his face.&N
+
+&+r'&+wWait!  I have it...I'll send YOU down to investigate for me!  Yes, yes...an
+&+wexcellent idea!  However, you should be warned, although you are acting on my
+&+wbehalf I am afraid the guards will still treat you as hostile intruders.  I can't
+&+wexactly tell them you're coming or Oleff would get suspicious and find me out!
+&+wShould you bring proof of your investigation of the vault back to me, I'll reward
+&+wyou in an appropriate manner.&+r'&N
+
+&+rHe cackles for a bit as he thinks of your reward and states, '&+w...perhaps I will
+&+wtell the city guard NOT to kill you on sight.  How does that sound?  Justice is
+&+wa funny thing, you know...&+r'&N
+~
+G I 66905
+R I 66905
+R I 66674
+R M 66702 66826
+D
+&+rWith that, Prior Hlam quickly fills out a document which vanishes from his hands as
+&+rhe completes it.  He turns to you and states in a very cold tone, '&+wThat should
+&+wremove any doubt as to your 'legal status' with the local magistrate.  You have
+&+wnothing to fear so long as you do not fail me.  I shall remain here to await
+&+wyour return...&+r'&N
+~
+S
+#66614
+M
+hi hello~
+&+wWatger Brighthair greets you and says, '&+BHave you seen our library yet?&N&+w'&N
+~
+Q
+&+wWatger studies the token intently for a bit, and then hands it back to you.&N
+
+&+w'&+BAn interesting piece, to be sure...whomever lost it must surely have been a
+&+Bdevout follower of mighty Oghma.  However, the age of the piece confuses me...I
+&+Bhave not seen anything of this style since my youth.  Perhaps Salyndra will know
+&+Bmore about such an item.  She spends many hours of the day researching just such
+&+Bhistorical items in the great library.&N&+w'&N
+~
+G I 66448
+R I 66448
+S
+#66615
+M
+hi hello~
+&+BSalyndra smiles and says, '&N&+wWelcome the Temple.  May I help you?&+B'&N
+~
+M
+oghma~
+&+BSalyndra nods, '&N&+wA most wise and fair god.  We would all do well to honor him.&+B'&N
+~
+M
+temple~
+&+BSalyndra smiles, '&N&+wBeautiful, is it not?  It has been here for centuries,
+&+wnearly as long as the city of Neverwinter itself.  It provides a place for people of
+&+wall faiths to grow in the knowledge of the Realms.&+B'&N
+~
+M
+watger~
+&+BSalyndra smiles, '&N&+wA most wise and wonderful man.  His leadership is the
+&+wfoundation upon which this temple is built.  He is very beloved by Oghma.&+B'&N
+~
+Q
+&+BSalyndra smiles as you hand her the artifact.&N
+
+&+B'&N&+wWhat an exquisite item!  It must be nearly a century old...wherever did
+you find such an item?&+B'&N
+
+&+BAs you relate the story of how the medallion was found in the Kraken Compound,
+&+Bshe seems confused at first, then angered.&N
+
+&+B'&N&+wSuch an item in the hands of the foul Kraken Society?!?  It is an affront
+&+wto our faith.  However, I may know of a way to repay you for your kindness...and
+&+wperhaps repay the Kraken for their theivery.  A member of their cult once repented
+&+won his deathbead to members of the temple inquisitors, and gave them this key.  He
+&+wsaid he had stolen it from the Kraken and that it likely led to great treasure.  I
+&+wwas entrusted with the key for its safekeeping...but I believe it may be better off
+&+win your hands.  May it aid you in your journeys and become a dagger to the heart of
+&+wthe Kraken themselves!&+B'&N
+
+&+BWith that, Salyndra returns intently to her studies.&N
+~
+G I 66448
+R I 66673
+S
+#66616
+M
+hi hello~
+Jaesor frows slightly and says, 'Please be careful in my shop, the porcelain
+here is quite expensive.'
+~
+Q
+&+wJaesor gasps and smiles as you hand him the vase...
+
+&+w'&+bI haven't seen this vase in years!  It was one of my first works and had been
+&+bbought by an owner in a far off corner of the Realms.  I had payed him a large sum
+&+bof money to ship it back to me, but it never arrived!  I cannot believe you have
+&+breturned it to me after all this time!&+w'&N
+
+&+wJaesor heads to the back of his shop where he places the vase in a cabinet and
+&+wlocks it securely.
+
+&+w'&+bAs a reward, I shall pay you the remaining portion of the fee owed to the owner
+&+bfor shipping me the vase.  I hope it adequately reimburses you for your troubles.&+w'&N
+
+~
+G I 66437
+R C 12000
+S
+#66617
+M
+hi hello~
+Ancient Maskado greets you and says, 'Welcome to my humble store...please have
+a good look around.'
+~
+S
+#66619
+M
+hi hello~
+Rebeth beams you a wide smile and says, 'What do you think of my store?  It's
+quite beautiful, don't you think?'
+~
+S
+#66620
+M
+hi hello~
+&+wR&+rh&+wa&+rl&+wa&+rg&+wl&+ri&+wn&+rg&+wa&+rl&+wa&+rd&+we&N frowns, '&+wLeave me be!&N'
+~
+S
+#66621
+M
+hi hello~
+&+WOphala smiles broadly, '&+LEnjoy your stay!&+W'&N
+~
+S
+#66622
+M
+hi hello~
+&+bThe town crier frowns, 'No time for talking...gotta get the news out.'&N
+~
+S
+#66623
+M
+hi hello~
+&+cThe serving wench winks, 'How you doin' cutie?'&N
+~
+S
+#66624
+M
+hi hello~
+&+CThe tavernmaster grins, 'Aye...now drink!'&N
+~
+S
+#66625
+M
+hi hello~
+&+wMarvold grins, 'Welcome! Have yourself a drink!'&N
+~
+S
+#66626
+M
+hi hello~
+&+gMeldark squints up at you, '&+LWelcome to my humble shop!&N&+g'&N
+~
+S
+#66627
+M
+hi hello~
+&+MThe waitress merely giggles shyly.&N
+~
+S
+#66628
+M
+hi hello~
+&+cThe waiter grins and nods, '&+wHow's it goin?&+c'.&N
+~
+S
+#66643
+M
+hi hello~
+&+LThe chief repairman nods at you, '&N&+cEither you're helping or you're in the way.&+L'&N
+~
+Q
+&+LThe chief repairman considers you for a second before accepting the slip of
+&+Lpaper.&N
+
+&+L'&N&+cOdd that he didn't come to claim this himself...you surely don't look like
+&+cone of my workers...  Oh well, no matter...&+L'&N
+
+&+LThe repairman takes the slip of paper and hands you a stack of coins in
+&+Lreturn.&N
+~
+G I 66636
+R C 5500
+Q
+&+LThe chief repairman considers you for a second before accepting the slip of
+&+Lpaper.&N
+
+&+L'&N&+cThere's no way my worker would have just given this up...something's fishy
+&+chere...&+L'&N
+
+&+LThe repairman takes only another second to consider his course of action before
+&+Lhe strikes...&N
+~
+G I 66646
+R A
+S
+#66648
+M
+hi hello~
+&+wThe chef frowns and nods, 'No time for pleasantries, can't you see I'm busy?!'&N
+~
+M
+food~
+&+wThe chef smiles and nods, 'We serve some of the best damd food in Neverwinter.
+&+wIt's quite spicy, actually.  You should become a paying customer and TRY SOME!'&N
+~
+M
+spicy spice spices~
+&+wThe chef smiles and nods, 'It's all in my secret recipies...that's what I'm
+&+wfamous for.  Some of the spices are imported all the way from Thay!'&N
+~
+M
+imported Thay~
+&+wThe chef frowns and nods, 'To tell you the truth, it's a bit of a pain! Rumor
+&+weven has it that the last shipment as hijacked.  If so, I could be in trouble.'&N
+~
+M
+trouble~
+&+wThe chef frowns and nods, 'No spices equals no food.  You do the math, genius!'&N
+~
+M
+hijacked~
+&+wThe chef frowns and nods, 'Pirates and raiders are, unfortunately, all too
+&+wcommon around these parts.'&N
+~
+M
+recipe recipes~
+&+wThe chef smiles proudly, 'People offer to pay me massive sums of money for my
+&+wrecipes...but they're not for sale.  My secret is my fabulous ingredients. I
+&+wcan take the strangest items and make magnificent dishes out of them.'&N
+~
+M
+ingredients strange strangest~
+&+wThe chef smiles, 'Well...nothing TOO crazy, but I'm always searching for fun
+&+wnew items to use to kick things up a bit.'&N
+~
+Q
+&+wThe chef smiles broadly as you hand him the large, onyx-colored egg, neglecting
+&+wto tell him where it was found.&N
+
+&+w'This is exactly what I need to make some delightful omelets for my customers,
+&+wwherever did you manage to find such a strange egg?'&N
+
+&+wAfter a bit, he shrugs indifferently, hands the egg to one of his assistants,
+&+wand returns to his work.  It is quite a little while before he realized that 
+&+wyou are still standing in his kitchen...as if waiting for something...&N
+
+&+w'Oh...I see.  I suppose you want some sort of reward.  Very well, take this.'&N
+
+&+wHe reaches into his cooks outfit and produces a small dagger wrapped in cloth.&N
+
+&+w'I found this the other day...I have no use for such a decorative item in my
+&+wkitchen, so perhaps you can find some use for it.  Good day.'&N
+
+&+wWith that, he turns abruptly and returns to his work.&N
+~
+G I 66217
+R I 66618
+Q
+&+wThe chef can barely contain his excitement as you hand him the package of rare
+&+wspices from Thay.  'Wherever did you manage to find these?  I was certain my 
+&+wcustomers would have to go without my signature dishes for months!  How can I
+&+wever repay you?'&N
+
+&+wThe chef quickly hands the package of spices to one of his assistants and they
+&+wquickly run about the kitchen, adding the seasoning to the various pots and
+&+wpans of food cooking about the room.  As they do so, a delightful aroma begins
+&+wto fill the kitchen.&N
+
+&+wThe smiles and nods, 'Ahhh...now THAT'S more like it.'&N
+
+&+wHe ponders for a bit, then reaches into a small cupboard in the kitchen and
+&+wretrieves a small wooden box.  As he hands it to you, a wry smile crosses his
+&+wlips.&N
+
+&+w'I present you with this...' he says,  '...a riddle.  Inside this box is 
+&+wsomething that I wrote, but cannot use.  There are others who would appreciate
+&+wit, but not me.  Should you find someone who would benefit from it professionally,
+&+wthey will likely reward you.  However, should you open the box in an attempt to
+&+wguess what is inside, you will find nothing inside as the contents will disappear
+&+wimmediately.  Good luck to you.'&N
+
+&+wWith that, he elicits a slight cackle and returns to his work.&N
+~
+G I 66622
+R I 66645
+S
+#66653
+M
+hi hello~
+&+cAvigaard smiles and nods peacefully, '&+wWell met, adventurer!  However did you find me?&+c'&N
+~
+M
+find~
+&+cAvigaard smiles, '&+wYes...it's not like I'm sitting in the middle of the Gardens anymore
+&+wnow, is it?&+c'&N
+~
+M
+gardens~
+&+cAvigaard nods, '&+wIn my youth, our adventuring party would gather there before venturing
+&+wout into the Realms.  ...but that was a very long time ago.&+c'&N
+~
+M
+youth~
+&+cAvigaard smiles, '&+wAye...many, many years ago.  My adventuring days are long behind me.
+&+wWhy...the stories I could tell you would drive you mad.  I've given it all up, though.
+&+wNo more youthful folly for a man as old as I.  I simply wait here, in the quiet amid
+&+wthe tumult, for the day when even I shall pass from these Realms.&+c'&N
+~
+M
+pass~
+&+cAvigaard pauses, '&+wTis true...all things die eventually, even grand adventurers like
+&+wmyself.  All the magical trinkets I've accumulated over the years can't even prevent
+&+wthat.&+c'&N
+~
+M
+trinkets~
+&+cAvigaard grins, '&+wAye.  I've been to the far corners of the Realms and found many a
+&+wwonderful item along the way.  Some I've kept...others I've given away.'  He stops
+&+wfor a moment and laughs a bit, '...still others seemed to have a mind of their
+&+wown and simply left of their own accord.  In any event, as useful as they were in
+&+wmy youth, they do me no good as an old man.&+c'&N
+~
+M
+given away~
+&+cAvigaard smiles, '&+wYes...I've been known to part with a trinket or two.  Most I
+&+whanded out to friends or fellow adventurers.  Still others I've given out as
+&+wpayment for services rendered.&+c'&N
+~
+M
+services rendered~
+&+cAvigaard nods, '&+wAn old man like myself can't go adventuring for things anymore.
+&+wSometimes, even obtaining the simplest items is too much bother...especially
+&+wwith the city as developed and crowded as it is today.  I've been known to
+&+wreward people with money or items for helping me out from time to time.&+c'&N
+~
+M
+help~
+&+cAvigaard ponders, '&+wSo YOU with to help ME?  ...I can't even think of anything
+&+wI really need at the moment.  Perhaps my old mind is just under-stimulated.&+c'&N
+~
+M
+old~
+&+cAvigaard nods, '&+wI sure am.  Nearly one hundred and fifteen by my reckoning.&+c'&N
+~
+M
+mind~
+&+cAvigaard nods, '&+wYeah, the mind is the first thing to go.  Every day it seems
+&+wharder and harder to clear the cobwebs from the old thinker.  I should
+&+wprobably do something about that.&+c'&N
+~
+Q
+&+cAvigaard considers the coffee for a moment before speaking.&N
+
+&+c'&+wAn interesting beverage...I cannot say that I've had it before.  Such drinks
+&+wwere not popular when I was your age.  We mostly stuck to ale.&+c'&N
+
+&+cWith a wink, he downs the warm cup of coffee.&N
+~
+G I 66676
+R M 66704 66676
+D
+&+cAvigaard smiles, '&+wWow, that stuff really packs a whollup...I feel like a kid
+&+wagain!  Thank you!  That brings to mind an interesting riddle that you may enjoy...&+c'&N
+~
+S
+#66657
+M
+hi hello~
+&+yThe drunken mercenary belches out, '&+rWhatsth it to ya?&+y'&N
+~
+M
+drunk~
+&+yThe drunken mercenary belches out, '&+rAnd whats of it?&+y'&N
+~
+M
+guild~
+&+yThe drunken mercenary belches out, '&+rAye.  A fine guild it was...but thatsth
+&+rin the pathst.  Only memories now...&+y'&N
+~
+M
+mercenary~
+&+yThe drunken mercenary seems to sober a bit and states, '&+rYep...and a damn good 
+&+rone I was at that.  I traveled the Realms in search of fame and adventure.  I
+&+rrecorded everything I saw in my journal.  What a collection of tales that was!&+y'&N
+~
+M
+journal~
+&+yThe drunken mercenary belches out, '&+rCan't seems to remember where I left it...
+&+rhaven't seen it since the guild closed years ago...&+y'&N
+~
+M
+memories~
+&+yThe drunken mercenary belches out, '&+rAye...that's all in the past, now leave me
+&+rbe!&+y'&N
+~
+Q
+&+yThe mercenary's eyes well up with tears, '&+rMy journal!  Wherever did you find
+&+rit!&+y'&N
+
+&+yAs he flips through the yellowed pages of the singed book, you relate the story
+&+yof how the journal was acquired.&N
+
+&+yThe mercenary nods and says, '&+rI remember now...I placed it there to hide it when
+&+rthey closed the guild...  These tales were to be my legacy to the world.  I cannot
+&+rthank you enough for returning them to me.  For doing me such a great service, I
+&+rwish to give you this...  It is the blade that I wielded so many times in the face
+&+rof danger.  May it bring you good fortune on your journies...&+y'&N
+~
+G I 66616
+R I 66620
+S
+#66658
+M
+hi hello~
+&+cThe merchant smiles and nods, 'Yes, yes...a fine day it is!'&N
+~
+Q
+&+cThe merchant's eyes widen and he proclaims, 'My goodness!  What an exsquisite
+&+cfinding!  This rock seems to contain several very rare crystals!  If I could
+&+cfind a jeweler to extract these, they would make excellent jewelry.  I suppose
+&+cI could simply just add the rock to my collection as-is, too.'
+
+&+cWith that, the rock disappears quickly beneath his robes and he produces a
+&+clarge, bundled package.
+
+&+cThe merchant smiles and says, 'Here is another very rare item in exchange for
+&+cyour rock.  It is a package of spices from Thay, said to add the most miraculous
+&+cflavors and aromas to just about any dish.  I don't know if you're much of a
+&+ccook, but perhaps it will benefit you.'&N
+~
+G I 66235
+R I 66622
+Q
+&+cThe merchants eyes gleam and dance in the light reflected from the beautifully
+&+cjeweled knife.
+
+&+c'What an exquisite Neverwinter Knife!' he gasps.  'Clearly this is one of the
+&+cbest specimens I have ever seen in the city...and that says quite a lot since
+&+cI have been here for some time now.  This will make a most excellent addition
+&+cto my collection'
+
+&+cWith a quick motion, the Neverwinter Knife disappears quickly beneath his robes
+&+cand in almost the same instant, he produces a small, translucent band and hands
+&+cit to you.
+
+&+c'This little trinket came to me quite some time ago from a fellow who adventured
+&+caround these parts for many years.  I have grown tired of it, but I feel it may
+&+cprove useful to you and bring you luck.'&N
+~
+G I 66618
+R I 66619
+Q
+&+cThe merchant's eyes widen and he proclaims, 'My goodness!  An actual frost
+&+cdrake egg!  I have never seen one in such condition...it is absolutely
+&+cstunning!  I cannot wait to add it to my collection.'
+
+&+cWith that, the egg disappears quickly beneath his robes and he produces a
+&+csmall, glass bottle.
+
+&+cThe merchant smiles and says, 'Here is an odd curiosity I happened upon
+&+cduring my collecting.  It is quite lovely and intriguing...but I have never
+&+cfigured out how to remove the cork.  Perhaps it will benefit you.'&N
+~
+G I 66236
+R I 66628
+S
+#66659
+M
+hi hello~
+&+bThe woman frowns , 'I don't have time for this!'&N
+~
+M
+time~
+&+bThe woman nods and says, 'Yes, time...something that's in very short
+&+bsupply these days.  Now if you'll excuse me, I'm quite busy!'&N
+~
+M
+busy~
+&+bThe woman frowns, 'Some of us have to cook and clean all day to keep
+&+bour husband's happy.  Add to that some annoying rug rats and you've
+&+bgot a pretty full day.'&N
+~
+M
+husband~
+&+bThe woman frowns, 'Well...the husband of my children in any effect...'&N
+~
+M
+children~
+&+bThe woman frowns, 'My son and daughter...both of whom are never around
+&+bwhen you need them...'&N
+~
+M
+son~
+&+bThe woman frowns and nods, 'That little rat Torvis is constantly running
+&+baround the city, always getting lost or into trouble.'&N
+~
+M
+torvis~
+&+bThe woman frowns, 'Yes, that would be my son...if you run into him,
+&+btell him to get his butt home.'&N
+~
+M
+daughter~
+&+bThe woman frowns and nods, 'And her!  She's the worst of the lost...always
+&+bhiding around the city.  She's even foolish enough to wander into the
+&+bNeverwinter Wood on her own.  I say the wolves can have her!'&N
+~
+M
+wolves neverwinter wood hiding~
+&+bThe woman pauses, 'Perhaps I am a bit hard on her...she's only playing,
+&+bas dangerous as it may be.  If you should run into her, please help her
+&+bfind her way home.  I suppose I'll make it worth your while...'&N
+~
+Q
+&+bThe woman smiles a bit as you hand her the lock of her daughter's hair.
+&+b'So YOU were the one who provided her with the map...thank you for 
+&+bhelping her to find her way home.  If you should happen upon my son in
+&+bsimilar fashion, please give him this...'&N
+~
+G I 66669
+R I 66670
+Q
+&+bThe woman nods, 'Torvis mentioned he had left this behind...I had better
+&+bhold on to it for him.  I'm sure he'll miss it sooner or later, although
+&+bI do wish he would stop wandering off.  One of these times, he's REALLY
+&+bgoing to get himself hurt.  Thank you so much for finding him...he's
+&+bthe only reward I can muster.  I hope it is sufficient for your troubles...
+&+bit definitely helped me to raise two children.'&N
+~
+G I 66671
+R I 66672
+D
+&+bThe woman quickly grabs her things and gets ready to depart.  'Now that my
+&+bchildren are safe, I can head out to the markets...there isn't a SCRAP of
+&+bfood in this place...'  With that, she rushes out the door.&N
+~
+S
+#66661
+M
+hi hello~
+&+WThe master baker smiles and nods, 'Yes, an excellent day, isn't it?'&N
+~
+M
+recipe~
+&+WThe master nods slightly, 'I've been meaning to change some of my recipes
+&+Wlately...what I wouldn't give for a good bread recipe!  Unfortunately, I
+&+Whaven't the necessary creativity or skill to come up with anything new.'&N
+~
+M
+mullak~
+&+WThe master baker frowns and nods slightly, 'Yes, yes...unfortunately he is 
+&+Wmy brother, although I despise the mention of him.  ...and the smell of his
+&+Wfoul cooking for that matter!'&N
+~
+M
+despise~
+&+WThe master baker nods, 'Long ago, when we were first learning the culinary
+&+Warts, he stole a recipe from me and I have never forgiven him.  He always said
+&+Whe would make it up to me, but he never has.  He's far too selfish.'&N
+~
+M
+name~
+&+WThe master baker looks puzzled, 'Well...if you must know, it is Kallum.'&N
+~
+M
+kallum~
+&+WThe master baker nods, 'Yes, that would be my name...what of it?'&N
+~
+M
+bread~
+&+WThe master baker smiles and nods, 'Yep, nothing like the sweet smell of a
+&+Wfreshly baked loaf of bread. Mmm...mmm...'&N
+~
+Q
+&+WAt first, the baker looks puzzled as you hand him the small box.  However,
+&+Was he recognized the symbol on the cover of the box, he opens it with fervor
+&+Wand smiles broadly.  He carefully removes a small slip of paper from the box
+&+Wand unfolds it.
+
+&+W'Mullak always said he owed me a decent recipe for bread...since he stole my
+&+Wstew recipe.  I suppose this was his smug little way of making it up to me... 
+&+WI really am sorry for the trouble he put you through...he's just very selfish
+&+Wand only thinks of himself and his restaurant.  He stole my recipe for stew
+&+Wseveral years ago and has been using it ever since.  To his credit, he always
+&+Whad a better sense for flavor than I, and managed to improve upon the original
+&+Wrecipe to an extent.  The ingredients in this bread seem somewhat odd...but
+&+WI'm sure he knew what he was doing.'
+
+&+WThe baker glances around his store for a while and sighs.
+
+&+W'I'm afraid I really don't have anything of value to give you, however.  There
+&+Wisn't anything here that would...  Wait! I've got it...you can have my baker's
+&+Wmits!  They were crafted for me by one of the Wizards of the Many-Starred Cloak
+&+Wafter I did him a favor and mentioned how much I hated burning my hands at work.
+&+WThey really are quite comfortable and should serve you well.'
+
+&+WThe baker quickly removes his mits and hands them to you, thanking you again for
+&+Wyour help.&N
+~
+G I 66645
+R I 66639
+S
+#66662
+M
+hi hello~
+&+yThe servant shivers a bit and nods, '&+rWell met.&+y'&N
+~
+M
+cold shiver~
+&+yThe servant nods, '&+rThis old guild, while my only home, can be quite cold
+&+rat times.&+y'&N
+~
+M
+home guild~
+&+yThe servant nods, '&+rI was once a servant for the mercenaries of the guild.
+&+rWhen it was closed down, the mercenaries left to find employment elsewhere
+&+rbut I had no place else to go.  I have stayed on ever since, living here
+&+rand keeping the place as clean as possible.  Who knows?  Perhaps some day
+&+rthey will return.  Until then, I will stay here and try to keep warm by
+&+rthe fireplace.&+y'&N
+~
+M
+fireplace~
+&+yThe servant nods, '&+rIt works quite well.  It is magically enhanced to burn
+&+rwood for days longer than normally possible and used to heat the entire 
+&+rbuilding through a series of ducts, but now it barely heats this room.  If I
+&+ronly had a good, solid log or two to rekindle the flames.  That would probably
+&+rbe enough to get me through the winter.&+y'&N
+~
+Q
+&+yThe servant's eyes gleam as he says, '&+rAn excellent log!  This should get the
+&+rold fireplace running again!&+y'&N
+
+&+yWith that, he places the log into the fireplace which quickly bursts into
+&+Rflame&N&+y.  Smoke begins to billow into the room, but then quickly dissipates
+&+yas something falls from the chimney.&N
+
+&+yThe servant quickly grabs the object from the flames and examines it.  He says,
+&+y'&+rHmm...this seems to be some sort of old journal.  It must have been stashed in
+&+rthe chimney when the mercenaries left.  I have no use for it...I can't even read
+&+rthe blasted thing...perhaps you may find some purpose for it.&+y'&N
+~
+G I 66234
+R I 66616
+S
+#66663
+M
+hi hello~
+&+LNavak nods and says, '&N&+wWell met, traveller!&+L'&N
+~
+M
+damage survey surveying~
+&+LNavak nods and says, '&N&+wYes, it appears as though there may have been an 
+&+wintentional attack against the city.  Luskan is the prime suspect, but others
+&+wmay have been involved.&+L'&N
+~
+M
+others~
+&+LNavak nods and says, '&N&+wYes, Luskan may be dangerous and agressive, but this 
+&+wparticular attack involved the use of powerful magics.  Luskan is well-armed, 
+&+wbut they typically employ more traditional measures.  Curious, indeed.&+L'&N
+~
+M
+Luskan~
+&+LNavak nods and says, '&N&+wA city to the north of Neverwinter along the High Road.
+&+wThey have been an aggressive neighbor to say the least.  Luskan seeks to 
+&+wcontrol Neverwinter to strengthen their hold on trade in the north and profit
+&+wfrom our trade relationships.&+L'&N
+~
+M
+relationships trade~
+&+LNavak nods and says, '&N&+wWe have excellent relationships with many of the more
+&+wcivilized cities of the north, particularily Waterdeep to the south.  Should 
+&+wLuskan overtake our city, some fear that Waterdeep would be their next target.&+L'&N
+~
+M
+curious~
+&+LNavak nods and says, '&N&+wYes, quite curious.  The most recent attacks against 
+&+wthe city appear to involve numerous organizations working together against 
+&+wthe city.  Should this be true, Neverwinter may face quite a challenge.  
+&+wGaros was sent to investigate the true cause of our troubles, but has yet to
+&+wreport anything.&+L'&N
+~
+M
+garos~
+&+LNavak nods and says, '&N&+wHe is my brother, also one of Lord Nashar's elite 
+&+wguardsmen.  He was sent to try and find the true cause of Neverwinter's
+&+wcurrent troubles.&+L'&N
+~
+M
+nashar lord~
+&+LNavak nods and says, '&+wLord Nashar is an excellent ruler.  He is strong and
+&+wjust and has helped build Neverwinter into a powerful and stable community.&+L'&N
+~
+M
+troubles~
+&+wNavak nods and says, '&N&+wThere have been a few attacks against the city lately.
+&+wThey have been very focused and precise in their execution, which is a
+&+wdefinite change from the random raids we typically faced in the past.&+L'&N
+~
+M
+brother~
+&+LNavak nods and says, '&N&+wYes...as in, we have the same parents.&+L'&N
+~
+M
+trade~
+&+LNavak nods and says, '&N&+wA lucrative business indeed.  It is no secret that our 
+&+wnatural harbor and key location along the High Road north of Waterdeep has 
+&+wmade us a very powerful community.&+L'&N
+~
+M
+Waterdeep~
+&+LNavak nods and says, '&N&+wA beautiful city to the south.  You should visit it, if
+&+wyou find the time.&+L'&N
+~
+M
+responsible~
+&+LNavak nods and says, '&N&+wYes...I may be responsible for my Garos' disappearance 
+&+wbecause of the argument we had.  In retrospect, it was quite pointless.&+L'&N
+~
+M
+castle~
+&+LNavak nods and says, '&N&+wDo you perhaps mean Castle Never?  Once the renovations
+&+ware complete, it will once more be a palace of splendor befitting Lord Nashar 
+&+wand the great city of Neverwinter.&+L'&N
+~
+Q
+&+LNavak nods and says, '&N&+wIf Lord Nashar has deemed you worthy, I would ask for 
+&+wyour help.  If you would go in search of my brother, I would be in your debt.
+&+wPlease give him this note if you find him.&+L'&N
+~
+G I 66627
+R I 66623
+R M 66664 66685
+D
+&+LNavak smiles and says, '&+wGood luck to you all, I shall await your progress
+&+wat my home.&+L'  With that, Navak bid you farewell and departs.&N
+~
+S
+#66664
+M
+hi hello~
+&+LNavak nods and says, '&N&+wWell met, traveller!&+L'&N
+~
+M
+Luskan~
+&+LNavak nods and says, '&N&+wA city to the north of Neverwinter along the High
+&+wRoad. They have been an aggressive neighbor to say the least.  Luskan 
+&+wseeks to control Neverwinter to strengthen their hold on trade in the 
+&+wnorth and profit from our trade relationships.&+L'&N
+~
+M
+relationships trade~
+&+LNavak nods and says, '&N&+wWe have excellent relationships with many of the
+&+wmore civilized cities of the north, particularily Waterdeep to the south.
+&+wShould Luskan overtake our city, some fear that Waterdeep would be their
+&+wnext target.&+L'&N
+~
+M
+curious~
+&+LNavak nods and says, '&N&+wYes, quite curious.  The most recent attacks against
+&+wthe city appear to involve numerous organizations working together against
+&+wthe city.  Should this be true, Neverwinter may face quite a challenge.
+&+wGaros was sent to investigate the true cause of our troubles, but has yet
+&+wto report anything.&+L'&N
+~
+M
+garos~
+&+LNavak nods and says, '&N&+wHe is my brother, has there been any word of his fate?&+L'&N
+~
+M
+nashar lord~
+&+LNavak nods and says, '&N&+wLord Nashar is an excellent ruler.  He is strong and 
+&+wjust and has helped build Neverwinter into a powerful and stable community.&+L'&N
+~
+M
+troubles~
+&+LNavak nods and says, '&N&+wThere have been a few attacks against the city lately.
+&+wThey have been very focused and precise in their execution, which is a
+&+wdefinite change from the random raids we typically faced in the past.&+L'&N
+~
+M
+brother~
+&+LNavak nods and says, '&N&+wYes...as in, we have the same parents.&+L'&N
+~
+M
+trade~
+&+LNavak nods and says, '&N&+wA lucrative business indeed.  It is no secret that
+&+wour natural harbor and key location along the High Road north of Waterdeep
+&+whas made us a very powerful community.&+L'&N
+~
+M
+Waterdeep~
+&+LNavak nods and says, '&N&+wA beautiful city to the south.  You should visit it,
+&+wif you find the time.&+L'&N
+~
+M
+responsible~
+&+LNavak nods and says, '&N&+wYes...I may be responsible for my Garos' disappearance
+&+wbecause of the argument we had.  In retrospect, it was quite pointless.&+L'&N
+~
+M
+castle~
+&+LNavak nods and says, '&N&+wDo you perhaps mean Castle Never?  Once the 
+&+wrenovations are complete, it will once more be a palace of splendor befitting
+&+wLord Nashar and the great city of Neverwinter.&+L'&N
+~
+Q
+&+LAs you relate the story of obtaining the pendant and the poor state in 
+&+Lwhich the Kraken Society had kept his brother imprisoned.  Navak seems 
+&+Lovercome at first, but manages to contain his grief. He pauses for a while
+&+Land says, '&N&+wI am forever in your debt.  I have nothing to give you but my
+&+wthanks and this note.  Please pass it along to Lord Nashar...perhaps he will
+&+wfind a way of suitibly rewarding you for the service you have provided us.&+L'&N
+~
+G I 66447
+R I 66624
+S
+#66701
+M
+hi hello~
+&+yThe woman smiles, 'Why hello there, welcome to the Moonstone Mask!'&N
+~
+M
+service~
+&+yThe woman smiles, 'We perform a great many services here, it greatly
+&+ydepends upone what you want...'&N
+~
+M
+want~
+&+yThe woman nods, 'Well...pretty much anything you want, within reason.'&N
+~
+M
+mask~
+&+yThe woman nods, 'These masks are as much for our protection as they are
+&+yfor yours.  Anonymity is on of the cornerstones of our profession.  We
+&+ynever part with them.'&N
+~
+M
+anonymity~
+&+yThe woman smils, 'Well...we may know who you are, but you don't know who
+&+ywe are.  That's just how it goes.'&N
+~
+M
+profession~
+&+yThe woman smiles nods, 'Why...entertainment, of course.'&N
+~
+M
+part~
+&+yThe woman shakes her head, 'We NEVER part with these masks...they are part
+&+yof our profession and help protect us.  Believe me, we've been offered many
+&+ya pretty trinket for them in the past.'&N
+~
+M
+trinket~
+&+yThe woman nods and winks, 'You know...money, power, jewelry.  At least for
+&+yme, nothing has been worth compromising my position here.  Not to say that
+&+ythere is absolutely no way I would ever give up this life...the right offer
+&+yjust hasn't come along yet.'&N
+~
+M
+offer~
+&+yThe woman winks, 'Well...they say diamonds are a girl's best friend...but
+&+ythat's not to say that they're even worth it in the end.'&N
+~
+Q
+&+yThe masked woman smiles visibly and says 'This necklace is absolutely beautiful!
+&+yGranted, I've been offered better...but this one bears a striking resemblance to
+&+yone my grandmother used to wear when I was but a child.'&N
+
+&+yThe woman pauses for a moment at she examines the necklace, subtle tears welling
+&+yup in her eyes.&N
+
+&+y'I truly love my position here...but the necklace would mean so much to my mother.
+&+yI can't truly thank you for the memories this will rekindle for her, but I would
+&+ysay that it is worth my job here.  Besides,' she says as she winks at you, 'you
+&+yseem like a nice person.'&N
+
+&+yShe looks around for a while and says, 'OK...it's against protocol, but take this
+&+ymask in exchange for the necklace.  May it serve you well...'&N
+~
+G I 66912
+R I 66629
+D
+&+yWith the exchange completed, the woman quickly gathers herself and prepares
+&+yto depart.&N
+
+&+y'OK...I'd better leave before anyone notices I'm missing my mask...Ophala
+&+ydoesn't exactly take these matters lightly.  ...thank you again.'&N
+
+&+yWith that, the woman hurries off, fleeing from the resort as fast as her
+&+yfeet will carry her.&N
+~
+S
+#66702
+M
+hi hello~
+&+rPrior Hlam smirks, '&+wIt is a pleasure to meet you, I'm sure.&+r'&N
+~
+M
+vault~
+&+rPrior Hlam glaces around the room, '&+wI have no idea what you're talking about.&+r'&N
+~
+M
+key~
+&+rPrior Hlam glaces around the room, '&+wKey, what key?  I don't have any keys...&+r'&N
+~
+M
+oleff~
+&+rPrior Hlam nods, '&+wA very fair man.  That is all I will say.&+r'&N
+~
+M
+all~
+&+rPrior Hlam nods, '&+wYes, all. Oleff and I don't always agree...but he IS my
+&+wsuperior.  I will say no more about him.&+r'&N
+~
+M
+superior~
+&+rPrior Hlam nods and leans in closely, '&+wWell, if you must know, he really isn't
+&+wall that superior.  He just currently has authority because the leaders of the
+&+wtemple feel I'm too power-hungry or something like that.  Couldn't be farther
+&+wfrom the truth, but that's why they give me these lousy desk jobs.&+r'&N
+~
+M
+truth~
+&+rPrior Hlam nods, '&+wWhat is truth, really?  Just another version of someone
+&+welse's lies...&+r'&N
+~
+M
+lies~
+&+rPrior Hlam nods, '&+wYes, lies...like those that keep me in these lousy jobs.&+r'&N
+~
+M
+lousy job jobs~
+&+rPrior Hlam frowns, '&+wYes, this job sucks.  All I do is file paperwork.  I have
+&+wno real judicial power in the temple.  Hell, the best thing I get to do is
+&+wguard the...err...books.&+r'&N
+~
+M
+books guard~
+&+rPrior Hlam nods nervously, '&+wYes, I guard the books...that is what I meant.  What
+&+welse would I be talking about?&+r'&N
+~
+M
+paperwork~
+&+rPrior Hlam nods, '&+wYes, legal filings about criminals.  I know the details of every
+&+wcrime committed in this city.  It's my job to see they're properly documented so
+&+wthat punishments can be dealt fairly.&+r'&N
+~
+M
+fairly~
+&+rPrior Hlam nods, '&+wWell...as fairly as I decide, really.  The judges mostly just
+&+wtake my word on things.  I suppose that's a decent power to have, isn't it?&+r'&N
+~
+M
+punishment punishments~
+&+rPrior Hlam nods, '&+wUsually just a slap on the wrist, but death in some cases...&+r'&N
+~
+M
+criminal criminals~
+&+rPrior Hlam frowns, '&+wA filthy lot...I'd have them all killed if it were up to me.
+&+wHarsh justice is the only true justice.&+r'&N
+~
+Q
+&+rPrior Hlam frowns angrily, '&+wThis proves NOTHING!&+r'&N
+~
+G I 66900
+R I 66900
+Q
+&+rPrior Hlam frowns angrily, '&+wThis proves NOTHING!&+r'&N
+~
+G I 66904
+R I 66904
+Q
+&+rPrior Hlam beams a wide smile, '&+wThe fabled Chalice of Tyr!  Surely this
+&+wproves that you have investigated the Vault.  I trust all is well.  I shall
+&+wreturn this to the safekeeping of the Vault momentarily.  As for your reward,
+&+wtake this shield.  It was donated to the Temple for storage in the Vault...but I
+&+wdon't think anyone will miss it.  Oh...and naturally I will clear up your records
+&+wwith the judge...&+r'&N
+~
+G I 66913
+R I 66675
+D
+&+rWith that, Prior Hlam quickly fills out another document which vanishes from 
+&+rhis hands as he completes it, just as before.  He turns to you and smiles, '&+wYour
+&+wrecords have been cleared.  Go now, before I change my mind.  I'm returning the
+&+wchalice to the Vault, I suggest you not be here when I get back.&+r'&N
+~
+S
+#66704
+M
+hi hello~
+&+cAvigaard smiles and nods peacefully, '&+wYes, yes...we've been over this.&+c'&N
+~
+M
+riddle~
+&+cAvigaard smiles, '&+wYes, yes... to show your worthiness, a riddle it is!  Here you go:&N
+
+&+WWho ever makes it sells it,
+&+WWho ever buys it doesn't need it,
+&+WWho ever needs it doesn't get it.&N
+
+&+wDiscover the answer...and you shall prove your worthiness...&+c'&N
+~
+M
+enjoy~
+&+cAvigaard ponders, '&+wWell...perhaps you won't enjoy it as much as I will, but you'll
+&+wneed to solve it to prove your worthiness.&+c'&N
+~
+M
+worthiness prove~
+&+cAvigaard nods, '&+wWhy yes!  You didn't think I was going to hand over one of my prized
+&+wtreasures for a simple cup of coffee, did you?&+c'&N
+~
+M
+prized treasures~
+&+cAvigaard nods, '&+wYes...perform all of the tasks I set forth for you, and you shall
+&+wbe rewarded quite handsomly...&+c'&N
+~
+M
+coffin~
+&+cAvigaard frowns angrily, '&+wYes, yes...I KNOW what the answer is!  Go FIND ME ONE
+&+wyou IDIOT!&+c'&N
+~
+Q
+&+cAvigaard nods and sighs as you present him with the coffin.&N
+
+&+c'&+wNot exactly the most beautiful one I've seen in my time...but I have always been
+&+wa simple man.  Sadly, I fear the time draws near when I shall be in need of this.&+c'&N
+
+&+cAvigaard takes the coffin and places it beneath the shelter he has constructed for
+&+chimeself on the small landing he calls his home.&N
+
+&+c'&+wThank you for solving the riddle...you have proved your worth and I shall now set
+&+wyou with much greater tasks.  Complete these, and you will earn the gratitude of an old
+&+wman...and of course your reward.&+c'&N
+~
+G I 66914
+R M 66705 66676
+D
+&+cAvigaard smiles, '&+wYour next tasks involve a great many ancient items that I should
+&+wlike to view before I pass from the Realms.&+c'&N
+~
+S
+#66705
+M
+hi hello~
+&+cAvigaard smiles and nods peacefully, '&+wYes, yes...we've been over that.&+c'&N
+~
+M
+ancient items~
+&+cAvigaard nods, '&+wYes, yes... In all my years of travelling, there were a few
+&+wwonderous items that I was never found worthy of.  Acquiring these involves much more
+&+wthan merely slaying beasts or delving ancient dungeons...&+c'&N
+
+&+cAvigaard pauses to catch his breath for a while and continues, '&+wThe first two items
+&+wI seek are held by two of the most mysterious members of the Neverwinter Nine.  Imdar
+&+wAl'Vahari and Evema Nightfire are the keepers of two of the wonderous Gems of Power.  You
+&+wmust prove your worth to them in order to be entrusted with the gems.  Rest assured, I
+&+wdo not seek the gems for reasons of power...only to behold the last two of the fabled
+&+wnine gems...the other seven have already crossed my path.&+c'
+
+&+cAvigaard smiles faintly as he apparently recalls the days of his youth.  '&+wThe last item
+&+wI seek is a pair of boots held by a druidess of the Neverwinter Wood.  Even the warm
+&+wwinters of Neverwinter are becoming too much for my aging bones to bear...I seek these
+&+wboots only for comfort in my old age.  Find me these items, and I shall give you my
+&+wgreatest treasure...&+c'&N
+~
+Q
+&+cAvigaard's eyes gleam as you present him with the Gems and boots.&N
+
+&+c'&+wThese gems,&+c' he gasps, '&+ware even more breathtaking than I had hoped...
+but there is a sadness to them...the same sadness I sensed in the other seven.  This
+confirms my suspicions...much to my dismay.&+c'&N
+
+&+cAvigaard sighs and looks saddened, '&+wWhen I stated I would give you my greatest
+&+wtreasure...this is what I meant - my greatest treasure is this knowledge:
+
+&+wLong ago, ten gems...not nine...were forged to control the races of Toril for a
+&+wgreat evil.  The evil was beaten back and imprisoned by the surviving nine gems,
+&+wbut the power of the tenth gem, the gem of darkness, grows stronger.  Something
+&+wis stirring the ancient evil and I fear it will soon re-awaken.  The only way to
+&+wend the threat once more is to use the power of the remaining nine gems to
+&+wvanquish the darkness forever.  Ancient Maskado, an old friend of mine, is the
+&+wkeeper of the tale...perhaps there is more he can elaborate on.  What I do know
+&+wis this - one must collect all nine gems and venture into the heart of Castle
+&+wNever...it is there that the evil presence is strongest.  Beyond that, I can
+&+wtell you no more.  This tale shall be yours to tell...&N
+
+&+cAvigaard shakes his head for a moment and grins, '&+wOf course, of course...I talk
+&+wtoo much.  It is the habit of an old man.  Do not forget my words, they truly are
+&+wmy greatest treasure...but I realize something a little more 'material' was probably
+&+wwhat you were expecting, so I give you this.  This helm served me well, may it aid
+&+wyou in your quest to rid the Realms of this new evil.&+c'&N
+~
+G I 66601
+G I 66602
+G I 66208
+R I 66677
+R M 66653 66676
+D
+&+cAvigaard smiles, '&+wThank you for your kindness travellers...I owe you my thanks.  May
+&+wwhat I've told you help you on your journies and serve to rid the Realms of the evil
+&+wthat I feel slowly creeping its way into our midst.  I shall return these Gems to their
+&+wrightful owners...as I fear they shall be needed for greater deeds in the future.&+c'&N
+~
+S

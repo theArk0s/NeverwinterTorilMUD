@@ -1,0 +1,461 @@
+********************************* Zone info ***********************************
+Number: 666 Zone name: Southern Neverwinter
+
+Rooms info
+
+-- Vnum ------------------------ Name -------------------|---- Sector type ----
+|--------|-----------------------------------------------|--------------------|
+|  66600 |Outside the Northeastern Gates of Neverwinter  |FOREST              |
+|  66601 |On the High Road Around Neverwinter            |FOREST              |
+|  66602 |On the High Road Around Neverwinter            |FOREST              |
+|  66603 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66604 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66605 |A Small Room in the Old Mercenaries' Guild     |INSIDE              |
+|  66606 |An Office in the Guild                         |INSIDE              |
+|  66607 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66608 |A Storeroom in the Temple of Oghma             |INSIDE              |
+|  66609 |A Spacious Chamber in the Temple of Oghma      |INSIDE              |
+|  66610 |A Hallway in the Temple of Oghma               |INSIDE              |
+|  66611 |The Main Room of the Board Laid Bare           |INSIDE              |
+|  66612 |The Kitchen of the Board Laid Bare             |INSIDE              |
+|  66613 |A Room in the Keep                             |INSIDE              |
+|  66614 |A Spacious Room in the Keep                    |INSIDE              |
+|  66615 |Inside the Northeastern Gates of Neverwinter   |CITY                |
+|  66616 |The Entrance to the Keep                       |INSIDE              |
+|  66617 |A Room in the Keep                             |INSIDE              |
+|  66618 |A Passegeway in the Keep                       |INSIDE              |
+|  66619 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66620 |A Room in the Old Mercenaries' Guild           |INSIDE              |
+|  66621 |A Small Room in the Old Mercenaries' Guild     |INSIDE              |
+|  66622 |The Old Wharf Road                             |CITY                |
+|  66623 |The Back Room of a Dirty Dwelling              |INSIDE              |
+|  66624 |The WyrmFrost and Coldsteel Intersection       |CITY                |
+|  66625 |Coldsteel Street                               |CITY                |
+|  66626 |Coldsteel Street                               |CITY                |
+|  66627 |Coldsteel Street                               |CITY                |
+|  66628 |Coldsteel Street                               |CITY                |
+|  66629 |Coldsteel Street                               |CITY                |
+|  66630 |The Garden and Coldsteel Intersection          |CITY                |
+|  66631 |Coldsteel Street                               |CITY                |
+|  66632 |The Dolphin  Bridge                            |CITY                |
+|  66633 |A Wide Plaza Before the Temple of Oghma        |CITY                |
+|  66634 |A Crystal Domed Chamber in the Temple          |INSIDE              |
+|  66635 |The Main Hall of the Temple of Oghma           |INSIDE              |
+|  66636 |The Entrance of the Board Laid Bare            |INSIDE              |
+|  66637 |The Road Along the City Walls                  |CITY                |
+|  66638 |The Road Along the City Walls                  |CITY                |
+|  66639 |The Road Along the City Walls                  |CITY                |
+|  66640 |A Small Intersection on Harper Street          |CITY                |
+|  66641 |The Road Along the City Walls                  |CITY                |
+|  66642 |The Road Along the City Walls                  |CITY                |
+|  66643 |A Damp Storage Room in the Keep                |INSIDE              |
+|  66644 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66645 |Entrance to the Old Mercenaries' Guild         |INSIDE              |
+|  66646 |The Old Wharf Road                             |CITY                |
+|  66647 |A Large Room in a Dirty Dwelling               |INSIDE              |
+|  66648 |The WyrmFrost Road                             |CITY                |
+|  66649 |A Small Room in a Dingy Dwelling               |INSIDE              |
+|  66650 |A Dark Alley                                   |CITY                |
+|  66651 |A Hidden Room in the Fallen Tower              |INSIDE              |
+|  66652 |Dannar's Mechanical Marvels Specialty Shop     |INSIDE              |
+|  66653 |Jaesor's Fineware Porcelain Works              |INSIDE              |
+|  66654 |Garden Street in Neverwinter                   |CITY                |
+|  66655 |Maskado's Maps and Legends Bookshop            |INSIDE              |
+|  66656 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66657 |Meldark's Adventuring Supplies                 |INSIDE              |
+|  66658 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66659 |On Harper Street in Neverwinter                |CITY                |
+|  66660 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66661 |A Small Footbridge Over the Neverwinter River  |CITY                |
+|  66662 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66663 |A Wide Stone Bridge Over the Neverwinter River |CITY                |
+|  66664 |A Small, One-Room Tavern                       |INSIDE              |
+|  66665 |An Intersection on the Old Wharf Road          |CITY                |
+|  66666 |A Small Connecting Alleyway                    |CITY                |
+|  66667 |The WyrmFrost Road                             |CITY                |
+|  66668 |Inside a Dingy Dwelling                        |INSIDE              |
+|  66669 |A Dark Alley                                   |CITY                |
+|  66670 |The Store Room of the Fallen Tower             |INSIDE              |
+|  66671 |The Main Room of the Fallen Tower              |INSIDE              |
+|  66672 |The Entryway of the Fallen Tower               |INSIDE              |
+|  66673 |Garden Street in Neverwinter                   |CITY                |
+|  66674 |Shining Knight Arms and Armor                  |INSIDE              |
+|  66675 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66676 |A Small Landing Near the Neverwinter River     |CITY                |
+|  66677 |On Harper Street in Neverwinter                |CITY                |
+|  66678 |On Harper Street in Neverwinter                |CITY                |
+|  66679 |The Upland Rise                                |FOREST              |
+|  66680 |The Upland Rise                                |FOREST              |
+|  66681 |The Upland Rise                                |FOREST              |
+|  66682 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66683 |A Room in the Warehouse                        |INSIDE              |
+|  66684 |The Old Wharf Road                             |CITY                |
+|  66685 |A Room in the Small Building                   |INSIDE              |
+|  66686 |The WyrmFrost Road                             |CITY                |
+|  66687 |A Large, Fragrant Bakery                       |INSIDE              |
+|  66688 |A Dark Alley                                   |CITY                |
+|  66689 |A Dark Alley                                   |CITY                |
+|  66690 |A Dark Alley                                   |CITY                |
+|  66691 |A Dark Alley                                   |CITY                |
+|  66692 |Garden Street in Neverwinter                   |CITY                |
+|  66693 |The Entryway of a Large Building               |INSIDE              |
+|  66694 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66695 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66696 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66697 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66698 |The Winged Wyvern Bridge                       |CITY                |
+|  66699 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66700 |A Hallway in the Rangers' Guild                |INSIDE              |
+|  66701 |The Entrance to the Rangers' Guild             |INSIDE              |
+|  66702 |The Upland Rise                                |FOREST              |
+|  66703 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66704 |A Room in the Warehouse                        |INSIDE              |
+|  66705 |The Old Wharf Road                             |CITY                |
+|  66706 |Inside a Small Building                        |INSIDE              |
+|  66707 |The WyrmFrost Road                             |CITY                |
+|  66708 |A Small Dwelling                               |INSIDE              |
+|  66709 |The Stables of Neverwinter                     |INSIDE              |
+|  66710 |The Shop of the Paladins' Guild                |INSIDE              |
+|  66711 |Inside the Paladins' Guild                     |INSIDE              |
+|  66712 |The Entrance to the Paladins' Guild            |INSIDE              |
+|  66713 |Garden Street in Neverwinter                   |CITY                |
+|  66714 |A Circular Room in the Building                |INSIDE              |
+|  66715 |A Glass Framed Greenhouse                      |INSIDE              |
+|  66716 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66717 |Western End of the Great Plaza                 |CITY                |
+|  66718 |The Great Plaza of Castle Never                |CITY                |
+|  66719 |Eastern End of the Great Plaza                 |CITY                |
+|  66720 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66721 |A Small Launch Area Near the Neverwinter River |CITY                |
+|  66722 |On Harper Street in Neverwinter                |CITY                |
+|  66723 |The Shop of the Rangers' Guild                 |INSIDE              |
+|  66724 |A Hallway in the Rangers' Guild                |INSIDE              |
+|  66725 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66726 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66727 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66728 |The Entrance to the Warehouse                  |INSIDE              |
+|  66729 |The Old Wharf Road                             |CITY                |
+|  66730 |A Packed Room in the Small Warehouse           |INSIDE              |
+|  66731 |The WyrmFrost Road                             |CITY                |
+|  66732 |The WyrmFrost Road                             |CITY                |
+|  66733 |The WyrmFrost Road                             |CITY                |
+|  66734 |The WyrmFrost Road                             |CITY                |
+|  66735 |A Bend in the Hallway of the Paladins' Guild   |INSIDE              |
+|  66736 |The Holy Shrine of the Paladins' Guild         |INSIDE              |
+|  66737 |The Gardens of Neverwinter                     |CITY                |
+|  66738 |The Gardens of Neverwinter                     |CITY                |
+|  66739 |The Mute Lute                                  |INSIDE              |
+|  66740 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66741 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66742 |The Sleeping Dragon Bridge                     |CITY                |
+|  66743 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66744 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66745 |On Harper Street in Neverwinter                |CITY                |
+|  66746 |On Harper Street in Neverwinter                |CITY                |
+|  66747 |The Entrance of the Moonstone Mask             |INSIDE              |
+|  66748 |The Room of the Rangers' Guildmaster           |INSIDE              |
+|  66749 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66750 |Inside a Tiny Office                           |INSIDE              |
+|  66751 |The Old Wharf Road                             |CITY                |
+|  66752 |A Small Room in a Warehouse                    |INSIDE              |
+|  66753 |The End of a Hallway in the Mages' Guild       |INSIDE              |
+|  66754 |The Courtyard of the Mages' Guild              |CITY                |
+|  66755 |The Entryway of the Mages' Guild               |INSIDE              |
+|  66756 |The Neverwinter Way and WyrmFrost Intersection |CITY                |
+|  66757 |Along Neverwinter Way Through the City         |CITY                |
+|  66758 |Along Neverwinter Way Through the City         |CITY                |
+|  66759 |The Center of The Gardens of Neverwinter       |CITY                |
+|  66760 |The Gardens of Neverwinter                     |CITY                |
+|  66761 |Along Neverwinter Way Through the City         |CITY                |
+|  66762 |Along Neverwinter Way Through the City         |CITY                |
+|  66763 |Along Neverwinter Way Through the City         |CITY                |
+|  66764 |A Small Square on Neverwinter Way              |CITY                |
+|  66765 |Along Neverwinter Way Through the City         |CITY                |
+|  66766 |Along Neverwinter Way Through the City         |CITY                |
+|  66767 |The Harper Street and Neverwinter Way Intersect|CITY                |
+|        |ion                                            |                    |
+|  66768 |A Room in the Moonstone Mask                   |INSIDE              |
+|  66769 |A Large Chamber in the Moonstone Mask          |INSIDE              |
+|  66770 |The Dining Hall of the Moonstone Mask          |INSIDE              |
+|  66771 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66772 |A Large Room in Dank the Warehouse             |INSIDE              |
+|  66773 |The Old Wharf Road                             |CITY                |
+|  66774 |A Bend in The Old Wharf Road                   |CITY                |
+|  66775 |A Long Hallway in the Mages' Guild             |INSIDE              |
+|  66776 |A Long Hallway in the Mages' Guild             |INSIDE              |
+|  66777 |A Long Hallway in the Mages' Guild             |INSIDE              |
+|  66778 |The WyrmFrost Road                             |CITY                |
+|  66779 |Dibbleypobep's Pet Shop                        |INSIDE              |
+|  66780 |The Entrance to Marvolds' Tavern               |INSIDE              |
+|  66781 |The Gardens of Neverwinter                     |CITY                |
+|  66782 |The Gardens of Neverwinter                     |CITY                |
+|  66783 |The Entrance to the Warriors' Guild            |CITY                |
+|  66784 |A Small Chamber Inside the Temple of Tyr       |INSIDE              |
+|  66785 |A Room in the Hall of Justice                  |INSIDE              |
+|  66786 |A Courtyared Before the Hall of Justice        |CITY                |
+|  66787 |A Guard Chamber in the Hall of Justice         |INSIDE              |
+|  66788 |A Jail Cell in the Hall of Justice             |INSIDE              |
+|  66789 |On Harper Street in Neverwinter                |CITY                |
+|  66790 |A Small Room in the Moonstone Mask             |INSIDE              |
+|  66791 |A Bend in the High Road Through Neverwinter Woo|FOREST              |
+|        |d                                              |                    |
+|  66792 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66793 |A Gradual Bend in the High Road Through Neverwi|FOREST              |
+|        |nter Wood                                      |                    |
+|  66794 |A Large Room in the Dank Warehouse             |INSIDE              |
+|  66795 |An Ajoining Chamber to the Dank Warehouse      |INSIDE              |
+|  66796 |A Bend in The Old Wharf Road                   |CITY                |
+|  66797 |The Old Wharf Road                             |CITY                |
+|  66798 |The Old Wharf Road                             |CITY                |
+|  66799 |The Shop of the Mages' Guild of Neverwinter    |INSIDE              |
+|  66800 |The WyrmFrost Road                             |CITY                |
+|  66801 |The Fletcher of Neverwinter                    |INSIDE              |
+|  66802 |A Large Room in the Tavern                     |INSIDE              |
+|  66803 |The Back Room of Marvold's Tavern              |INSIDE              |
+|  66804 |Garden Street in Neverwinter                   |CITY                |
+|  66805 |The Hallway of the Warriors' Guild             |INSIDE              |
+|  66806 |The Arena of the Warriors' Guild               |CITY                |
+|  66807 |A Wide Hallway in the Hall of Justice          |INSIDE              |
+|  66808 |A Wide Hallway in the Hall of Justice          |INSIDE              |
+|  66809 |A Narrow Hallway Through the Hall of Justice   |INSIDE              |
+|  66810 |On Harper Street in Neverwinter                |CITY                |
+|  66811 |On Harper Street in Neverwinter                |CITY                |
+|  66812 |The Entryway of the Keep                       |INSIDE              |
+|  66813 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66814 |Another Room in the Warehouse                  |INSIDE              |
+|  66815 |An Old Office in the Warehouse                 |INSIDE              |
+|  66816 |A Collapsed Barracks in the Keep               |INSIDE              |
+|  66817 |The Old Wharf Road                             |CITY                |
+|  66818 |The Old Wharf Road                             |CITY                |
+|  66819 |A Three-Way Intersection in the Street         |CITY                |
+|  66820 |Garden Street in Neverwinter                   |CITY                |
+|  66821 |Garden Street in Neverwinter                   |CITY                |
+|  66822 |Garden Street in Neverwinter                   |CITY                |
+|  66823 |Garden Street in Neverwinter                   |CITY                |
+|  66824 |The Hallway of the Warriors' Guild             |INSIDE              |
+|  66825 |The Shop of the Warriors' Guild                |INSIDE              |
+|  66826 |A Small Chamber in the Hall of Justice         |INSIDE              |
+|  66827 |The Great Hall of Justice                      |INSIDE              |
+|  66828 |A Smaller Courtroom in the Hall of Justice     |INSIDE              |
+|  66829 |Inside the Southeastern Gates of Neverwinter   |CITY                |
+|  66830 |A Storage Room in the Keep                     |INSIDE              |
+|  66831 |A Large Chamber in the Keep                    |INSIDE              |
+|  66832 |The High Road Through Neverwinter Wood         |FOREST              |
+|  66833 |A Large Chamber in the Keep                    |INSIDE              |
+|  66834 |The Long Hallway in the Keep                   |INSIDE              |
+|  66835 |The Entrance to the Keep                       |INSIDE              |
+|  66836 |Inside the Southwestern Gates of Neverwinter   |CITY                |
+|  66837 |Manycoins Moneylending                         |INSIDE              |
+|  66838 |A Large Chamber of Worship in the Temple of Hel|INSIDE              |
+|        |m                                              |                    |
+|  66839 |A Tall Chamber in the Temple of Helm           |INSIDE              |
+|  66840 |The Entryway to the Temple of Helm             |INSIDE              |
+|  66841 |Outside the Southeastern Gates of Neverwinter  |FOREST              |
+|  66842 |On the High Road Near Neverwinter              |FOREST              |
+|  66843 |On the High Road Near Neverwinter              |FOREST              |
+|  66844 |A Bend in the High Road Near Neverwinter       |FOREST              |
+|  66845 |On the High Road Near Neverwinter              |FOREST              |
+|  66846 |Beneath the Dolphin Bridge                     |WATER NOSWIM        |
+|  66847 |The Neverwinter River Through Neverwinter      |WATER NOSWIM        |
+|  66848 |Under the Sleeping Dragon Bridge               |WATER NOSWIM        |
+|  66849 |Below the Winged Wyvern Bridge                 |WATER NOSWIM        |
+|  66850 |A Small Reading Room in the Temple of Oghma    |INSIDE              |
+|  66851 |A Massive Library in the Temple of Oghma       |INSIDE              |
+|  66852 |A Hallway in the Temple of Oghma               |INSIDE              |
+|  66853 |An Upper Chamber in the Keep                   |INSIDE              |
+|  66854 |The Walkway Above the City Walls               |CITY                |
+|  66855 |The Walkway Above the City Walls               |CITY                |
+|  66856 |An Upper Chamber in the Keep                   |INSIDE              |
+|  66857 |An Upper Chamber in the Keep                   |INSIDE              |
+|  66858 |An Elaborate Bedchamber in the Moonstone Mask  |INSIDE              |
+|  66859 |A Vertical Chamber in the Mages' Guild         |INSIDE              |
+|  66860 |A Wide Circular Chamber in the Mages' Guild    |INSIDE              |
+|  66861 |The Hall of the Elementalist                   |INSIDE              |
+|  66862 |A Curving Hallway in the Moonstone Mask        |INSIDE              |
+|  66863 |The End of the Hallway in the Moonstone Mask   |INSIDE              |
+|  66864 |A Small, Private Chamber                       |INSIDE              |
+|  66865 |The Hall of the Enchanter                      |INSIDE              |
+|  66866 |The Hall of the Invoker                        |INSIDE              |
+|  66867 |The Hall of the Conjurer                       |INSIDE              |
+|  66868 |Atop a Curving Wooden Staircase in the Moonston|INSIDE              |
+|        |e Mask                                         |                    |
+|  66869 |A Small Chamber Below the Store                |INSIDE              |
+|  66870 |A Long, Sloping Hallway in the Bards' Guild    |INSIDE              |
+|  66871 |A Crystal Domed Cavern                         |INSIDE              |
+|  66872 |A Small Shop in the Bards' Guild               |INSIDE              |
+|  66873 |The Head Cleric's Chamber in the Temple of Helm|INSIDE              |
+|  66874 |An Upper Chamber in the Temple of Helm         |INSIDE              |
+|  66875 |A Small, Quiet Chamber in the Temple of Helm   |INSIDE              |
+|  66876 |A Cozy Study in the Moonstone Mask             |INSIDE              |
+|  66877 |An Upper Chamber in the Moonstone Mask         |INSIDE              |
+|  66878 |A Quiet Store Room in the Moonstone Mask       |INSIDE              |
+|  66879 |The Rooftop of the Moonstone Mask              |INSIDE              |
+|  66880 |The Hall of the Illusionist                    |INSIDE              |
+|  66899 |The Echo Chamber                               |CITY                |
+|--------|-----------------------------------------------|--------------------|
+
+Number of rooms: 282 First room: 66600 Last room: 66899
+Average description length: 11 lines
+
+
+Objects info
+
+-- Vnum ------------------------ Name -------------------|---- Object type ----
+|        |                      Stats                    |                    |
+|--------|-----------------------------------------------|--------------------|
+|  66600 |the Amethyst of Nine                           |TREASURE            |
+|  66601 |the Onyx of Nine                               |TREASURE            |
+|  66602 |the Topaz of Nine                              |TREASURE            |
+|  66603 |the Sapphire of Nine                           |TREASURE            |
+|  66604 |the Ruby of Nine                               |TREASURE            |
+|  66605 |the Emerald of Nine                            |TREASURE            |
+|  66606 |the Opal of Nine                               |TREASURE            |
+|  66607 |the Diamond of Nine                            |TREASURE            |
+|  66608 |the Carnelian of Nine                          |TREASURE            |
+|  66609 |a wicked hand-glaive                           |WEAPON              |
+|        |Dam: 2d12 DEX 1 HITROLL 2                      |                    |
+|        |Specials: SENSE LIFE;                          |--------------------|
+|  66610 |a blast globe                                  |FIREWEAPON          |
+|        |Dam: 4d10                                      |                    |
+|  66611 |a large fountain                               |DRINKCON            |
+|  66612 |some silver gauntlets set with amethysts       |ARMOR               |
+|        |AC: -9                                         |                    |
+|        |Specials: AWARE;                               |--------------------|
+|        |Specials: DETECT EVIL; PROT ACID;              |--------------------|
+|  66613 |a thick, purple cloak                          |ARMOR               |
+|        |AC: -10                                        |                    |
+|        |Specials: PROTECT EVIL;                        |--------------------|
+|        |Specials: PROT COLD;                           |--------------------|
+|  66614 |a suit of saurial armor                        |ARMOR               |
+|        |AC: -13 CON 1                                  |                    |
+|  66615 |an ancient fireplace                           |CONTAINER           |
+|  66616 |a singed journal                               |TRASH               |
+|  66617 |a beautiful fountain                           |DRINKCON            |
+|  66618 |a beautifully decorated Neverwinter Knife      |WEAPON              |
+|        |Dam: 3d4                                       |                    |
+|  66619 |a ring of translucent ice                      |WORN                |
+|        |HITROLL 2                                      |                    |
+|  66620 |a mercenary blade                              |WEAPON              |
+|        |Dam: 2d10 HITROLL 1                            |                    |
+|  66621 |a piece of parchment                           |TRASH               |
+|  66622 |some exotic spices                             |TRASH               |
+|  66623 |a note                                         |TRASH               |
+|  66624 |a note                                         |TRASH               |
+|  66625 |a brass oil lamp                               |SUMMON              |
+|  66626 |a necklace of sand                             |ARMOR               |
+|        |AC: -5 STR 2                                   |                    |
+|  66627 |a glittering Neverwinter medallion             |ARMOR               |
+|        |AC: -3                                         |                    |
+|  66628 |a glowing bottle of mist                       |TRASH               |
+|        |WIS 1                                          |                    |
+|  66629 |a moonstone-adorned half mask                  |WORN                |
+|        |AC -8 HITS 15                                  |                    |
+|  66630 |a moonstone amulet                             |WORN                |
+|        |AC 3                                           |                    |
+|  66631 |a glowing red portal                           |TELEPORT            |
+|  66632 |a glowing blue portal                          |TELEPORT            |
+|  66633 |a glowing green portal                         |TELEPORT            |
+|  66634 |a glowing yellow portal                        |TELEPORT            |
+|  66635 |a glowing portal                               |TELEPORT            |
+|  66636 |a slip of paper                                |TRASH               |
+|  66637 |a small, sharp spade                           |WEAPON              |
+|        |Dam: 3d5 HITROLL 1 DAMROLL 2                   |                    |
+|  66638 |a flower box                                   |TRASH               |
+|--------|-----------------------------------------------|--------------------|
+
+Number of real objects in the zone: 22
+
+
+Mob info
+
+-- Vnum ------------------------ Name -------------------|-A-|--C-|-Q-|-S-|-L-|
+|        |                                               | G |  L | U | O | E |
+|        |                                               | G |  A | E | C | V |
+|        |                                               | R |  S | S | I | E |
+|        |                                               | O |  S | T | A | L |
+|--------|-----------------------------------------------|---|----|---|-L-|---|
+| 66601  |Lord Nashar                                    |   |CMTW| Y | Y | 59|
+| 66602  |Cyntan Brighthelm                              |   |  TW|   |   | 53|
+| 66603  |Aermor Dragonsbreath                           |   |  TW|   |   | 53|
+| 66604  |Evema Nightfire                                |   |  TW|   |   | 53|
+| 66605  |Laurenthyl Tilvish                             |   |  TW|   |   | 53|
+| 66606  |Vagan Silverfist                               |   |  TW|   |   | 53|
+| 66607  |Aldan Nightfire                                |   |  TW|   |   | 53|
+| 66608  |Lhoge Firesbane                                |   |  TW|   |   | 53|
+| 66609  |Imdar Al'Vahari                                |   |  TW|   |   | 53|
+| 66610  |Silme Ogrekill                                 |   |  TW|   |   | 53|
+| 66611  |Dannar                                         |   |    |   |   | 26|
+| 66612  |Oleff Uskar                                    |   |C  W|   |   | 38|
+| 66613  |Prior Hlam                                     |   |C  W|   |   | 31|
+| 66614  |Watger Brighthair                              |   |C  W|   |   | 42|
+| 66615  |Salyndra Shaern                                |   |C T |   |   | 34|
+| 66616  |Jaesor Ryndyl                                  |   |   W|   |   | 35|
+| 66617  |Maskado                                        |   |CM  |   |   | 40|
+| 66618  |Milkman Dan, the echo mob                      |   |    |   |   | 51|
+| 66619  |Rebeth Laereeryn                               |   | M  |   |   | 34|
+| 66620  |Rhalaglingalade                                |   | M  |   |   | 48|
+| 66621  |Ophala Cheldarstorn                            |   | M  |   |   | 43|
+| 66622  |the town crier                                 |   |   W|   |   | 35|
+| 66623  |a buxom serving wench                          |   |    |   |   | 12|
+| 66624  |the tavernmaster                               |   |   W|   |   | 38|
+| 66625  |Marvold Harpersong                             |   |   W|   |   | 54|
+| 66626  |Meldark the shopkeeper                         |   |   W|   |   | 45|
+| 66627  |a pretty waitress                              |   |    |   |   | 10|
+| 66628  |a good-looking waiter                          |   |    |   |   | 18|
+| 66629  |Marvold's barkeeper                            |   |   W|   |   | 42|
+| 66630  |a Neverwinter guardsman                        |   |  TW|   |   | 35|
+| 66631  |Lord Nashar's Elite Guard                      |   |  TW|   |   | 49|
+| 66632  |a guard captain                                |   |  TW|   |   | 45|
+| 66633  |a heavy warhorse                               |   |    |   |   | 20|
+| 66634  |a mounted guardsman                            |   |   W|   |   | 38|
+| 66635  |a mangy mongrel                                |   |    |   |   | 9 |
+| 66636  |a street cleaner                               |   |    |   |   | 15|
+| 66637  |the city repairman                             |   |    |   |   | 18|
+| 66638  |a white pigeon                                 |   |    |   |   | 1 |
+| 66639  |a tavern patron                                |   |    |   |   | 16|
+| 66640  |a tavern patron                                |   |    |   |   | 18|
+| 66641  |a repairman                                    |   |   W|   |   | 18|
+| 66642  |a burly repairman                              |   |   W|   |   | 23|
+| 66643  |the repair chief                               |   |   W|   |   | 30|
+| 66644  |a smiling merchant                             |   | MT |   |   | 38|
+| 66645  |a commoner                                     |   |   W|   |   | 14|
+| 66646  |a woman                                        |   |    |   |   | 18|
+| 66647  |a chef                                         |   |    |   |   | 22|
+| 66648  |the master chef                                |   |   W|   |   | 42|
+| 66649  |the alley cat                                  |   |    |   |   | 1 |
+| 66650  |the wandering adventurer                       |   |   W|   |   | 8 |
+| 66651  |a large saurial                                |   |C  W|   |   | 42|
+| 66652  |a wandering minstrel                           |   |    |   |   | 19|
+| 66653  |ancient Avigaard                               |   | M W|   |   | 44|
+| 66654  |a mangy dog                                    |   |    |   |   | 2 |
+| 66655  |the doe                                        |   |    |   |   | 1 |
+| 66656  |the squirrel                                   |   |    |   |   | 1 |
+| 66657  |the drunken mercenary                          |   |   W| Y |   | 18|
+| 66658  |the collector                                  |   |    | Y |   | 14|
+| 66659  |a lonely housewife                             |   |    |   |   | 15|
+| 66660  |the bakery shopkeeper                          |   |    |   |   | 32|
+| 66661  |the master baker                               |   |    |   |   | 35|
+| 66662  |an old servant                                 |   |  T | Y |   | 22|
+| 66663  |Navak, the head of Lord Nashar's Elite Guard   |   |  TW| Y |   | 52|
+| 66664  |Navak, the head of Lord Nashar's Elite Guard   |   |  TW| Y |   | 52|
+| 66665  |the Moralith                                   | Y |CM  |   |   | 42|
+| 66666  |a floating spirit                              |   |C   |   |   | 45|
+| 66667  |a lady of the mask                             |   |C   |   |   | 38|
+| 66668  |a sleeping worker                              |   |    |   |   | 12|
+| 66669  |the gardener                                   |   |  T |   |   | 42|
+| 66670  |Manycoins, the banker                          |   |  T |   |   | 59|
+| 66671  |a battle horror                                |   | M W|   |   | 38|
+| 66672  |Dibbleypobep                                   |   |   W|   |   | 49|
+| 66673  |a gardener                                     |   |    |   |   | 12|
+| 66674  |the shopkeeper of the Rangers' Guild           |   |  TW|   |   | 50|
+| 66675  |the shopkeeper of the Mages' Guild             |   | M  |   |   | 50|
+| 66676  |the shopkeeper of the Warriors' Guild          |   |   W|   |   | 50|
+| 66677  |the shopkeeper of the Bards' Guild             |   |  T |   |   | 50|
+| 66678  |the shopkeeper of the Paladins' Guild          |   |C  W|   |   | 50|
+| 66679  |the shopkeeper of the Cleric' Guild            |   |C   |   |   | 50|
+| 66680  |the wood nymph                                 |   | M  |   |   | 50|
+| 66681  |Velemm Feathersong                             |   |  T |   |   | 51|
+|--------|-----------------------------------------------|---|----|---|---|---|
+
+Number of real mobs in the zone: 156
+Average level of the mobs: 26

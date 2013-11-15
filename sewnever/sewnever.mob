@@ -1,0 +1,270 @@
+<*> File Version 1 <*>
+#66900
+master roalth thief quickfinger~
+&+cRoalth Quickfinger&N~
+&+cRoalth Quickfinger,&+L head of the Guild of Rogues, sulks here.&N~
+&+cAlthough wealthy beyond the dreams of most, Roalth has chosen to forgoe a
+&+clife of luxury and, instead, leads the Rogues Guild of Neverwinter.  His
+&+cgraying hair and failing physique have in no way hindered his abilities as
+&+cone of the most skilled thieves in history.&N
+~
+270534726 301989928 0 -600 S
+PH 0 0 
+51 25 -83 51d110+4080 7d6+30
+0.0.0.0 255000
+131 131 1 23 20 
+#66901
+small child torvis boy~
+&+ba small child&N~
+&+LA &N&+bsmall child&+L hides in the darkness here.&N~
+&+bThis small boy, clearly lost and scared, attempts to refrain from being seen
+&+bby hiding in and among the shadows and narrow drains of the sewers.  His
+&+bclothes are quite filthy, but he seems in good health.  His only means of
+&+bprotection would appear to be a small, wooden sword that he clutches tightly
+&+bin his tiny hands.&N
+~
+2097350 1572864 0 120 S
+PH 0 0 
+3 1 91 3d20+3 1d7+0
+4.9.40.16 300
+131 131 1   
+#66902
+kuo-tao guard kuo~
+&+La &N&+gkuo-toa&+L guard&N~
+&+LA &N&+gkuo-toa&+L stands here, lurking in the shadows.&N~
+&+GLooking very much like a cross between a lizard and a frog, the grey-green
+&+Gskin of this kuo-toa helps him to blend in with the shadows and muck of the
+&+Gsurrounding sewers.  His large eyes help him to see in even the dimmest light,
+&+Gbut the malevolent gleam in them also betrays a clear sense of hostility.&N
+~
+536870976 33554464 0 -600 S
+RT 0 0 
+12 3 64 12d25+30 2d6+1
+128.2.0.0 4800
+131 131 1 1 0 
+#66903
+slime amber goo puddle pool~
+&+Gan &N&+yamber &+Gslime&N~
+&+GA large &N&+ypuddle of goo&+G lies here.&N~
+&+yVery gelatinous in appearance and reeking of the surrounding filth, this
+&+ypool of goo is actually a semi-intelligent slime.  While sometimes annoying
+&+yto sewer workers, these generally harmless creatures are tolerated due to
+&+ytheir ability to slowly digest the sewage of the city and keep the sewers
+&+yclean.&N
+~
+196 1572896 0 0 S
+OS 0 0 
+5 2 85 5d20+5 1d7+0
+76.56.1.0 500
+131 131 0 0 5 
+#66904
+gelatinous cube~
+&+La &N&+mg&+Me&N&+ml&+Ma&N&+mt&+Mi&N&+mn&+Mo&N&+mu&+Ms &N&+mc&+Mu&N&+mb&+Me&N~
+&+LA &N&+mg&+Me&N&+ml&+Ma&N&+mt&+Mi&N&+mn&+Mo&N&+mu&+Ms &N&+mc&+Mu&N&+mb&+Me&N &+Lrests here.&N~
+&+mThough only partially intelligent, these cubes are known as dangerous foes if
+&+mcornered.  They appear quite slow, but can move and attack quickly when given
+&+mthe opportunity.  In addition, their acidic nature can make battling them
+&+mespecially hazardous.&N
+~
+100 524320 0 -500 S
+OS 0 0 
+12 6 64 12d25+30 2d6+1
+0.0.0.0 4800
+131 131 0 0 5 
+#66905
+dark kraken tentacled~
+&+La dark, tentacled &N&+mk&+rr&+ma&+rk&+me&+rn&N~
+&+LA dark, tentacled creature oozes about the room.&N~
+&+LThis giant, squid-like creature creeps slowly about the chamber with its
+&+Llong, dark tentacles.  In places, thick, hard armored plates cover the
+&+Lnormally soft and vulnerable skin of the creature.  The entire beast is jet
+&+Lblack in color and wherever it passes, it leaves a thick trail of greenish
+&+Lslime.&N
+~
+1074268192 65544 0 -1000 S
+OH 0 0 
+50 12 -74 48d100+4400 6d6+45
+0.0.0.0 120000
+131 131 0 17 10 
+#66906
+moralith horned creature massive marilith~
+the &+LM&N&+ro&+yr&+La&N&+rl&+yi&+Lt&N&+rh&N~
+&+yA massive horned creature stands here.&N~
+&+yCovered in dry, sandy skin, this brownish-gray creature towers nearly twenty
+&+yfeet above the ground.  Its clawed, cruel-looking hand clutch at the air
+&+yaround it as if earnestly looking for something to crush.  Curved horns
+&+yprotrude from its head as empty, soulless eye sockets smoulder above a
+&+yvicious, fang-filled mouth.  There is no mistaking this creature as friendly.&N
+~
+1075316768 524424 0 -1000 S
+X 0 0 
+50 21 -75 42d90+22520 6d6+62
+4.2.36.9 125000
+131 131 0 18 15 
+#66907
+kraken assassin~
+a &+LKraken &+Rassassin&N~
+&+LA black-clad figure stalks quietly down the hall here.&N~
+&+LThis nimble and armed individual, wrapped from head to toe in a tight
+&+Lblack outfit, is likely a very deadly fellow.  Usually employed by the
+&+LKraken Society for the assassination of important individuals, this 
+&+Lparticular fellow's current assignment could be just about anything.&N
+~
+1080033376 270008352 0 -900 S
+PH 0 0 
+35 8 4 32d70+480 4d6+12
+6.4.80.7 32000
+131 131 1 23 10 
+#66908
+kraken elite~
+a &+MKraken &+Welite&N~
+&+WAn elite &+MKraken&+W guard stands here.&N~
+&+WRecruited by the nefarious Kraken Society, this individual is obviously
+&+Wnot the finest example of humanity.  As an elite member of the guard,
+&+Wthe primary duty of this individual is to guard the leader of the 
+&+WNeverwinter branch of the Society and carry out his wishes.&N
+~
+1180698848 268959752 0 -700 S
+PH 0 0 
+32 8 4 32d70+480 4d6+7
+56.64.25.2 32000
+131 131 1 5 5 
+#66909
+beholder ball large~
+&+La large &N&+rbeholder&N~
+&+LA large, &N&+rmulti-eyed ball&+L floats here.&N~
+&+LThis slimy creature is dark brown in color and features several thick eye
+&+Lstalks that move about independently, gazing intensely at its surroundings.
+&+LIn the center of the ball, a single large eye stares out over the creatures
+&+Lmouth with clear malice.&N
+~
+1073743904 302252076 0 -670 S
+OB 0 0 
+28 3 55 15d25+37 2d6+1
+56.64.25.2 6000
+131 131 0 21 5
+#66910
+fiendish imp~
+&+La fiendish &N&+mimp&N~
+&+LA small, fiendish &N&+mimp&+L squats here ominously.&N~
+&+LThis small, fiendish imp has an exceptionally evil look and smells of death
+&+Land brimstone as if freshly summoned from the depths of the Abyss.  He walks
+&+Labout, slowly cackling to himself as he appears to go about his business of
+&+Linscribing a large &N&+rpentagram&+L on the ground.&N
+~
+131074 0 0 -1000 S
+X 0 0 
+1 0 82 1d20+21 1d7+0
+102.72.1.0 100
+131 131 0   
+#66911
+fiendish imp~
+&+La fiendish &N&+mimp&N~
+&+LA small, fiendish &N&+mimp&+L stands here.&N~
+&+LThis small, fiendish imp has an exceptionally evil look and smells of death
+&+Land brimstone as if freshly summoned from the depths of the Abyss.  He glares
+&+Lat you with contempt as he lashes out with hatred and glee.&N
+~
+1074792480 65544 0 -1000 S
+X 0 0 
+35 17 -20 35d70+1225 4d6+7
+52.0.0.0 35000
+131 131 0 12 10 
+#66912
+rat large~
+&+La large rat&N~
+&+LA large rat scurries through here.&N~
+&+LThis large rat's thick, gray fur has been heavily matted and caked with the
+&+Lfilth of the surrounding sewers.  It's beady black eyes glance about in the
+&+Ldarkness, searching for anything that it might consider edible.  Given its
+&+Lrather large size, even medium-sized animals and pets may find themselves in
+&+Ldanger should this fellow be hungry enough.&N
+~
+1073741888 0 0 0 S
+A 0 0 PG.PE.P2.PF
+6 1 82 6d20+6 1d6+0
+5.40.52.3 600
+131 131 0 0 0 
+#66913
+vault guard large armored~
+&+La vault guard&N~
+&+LA large, armored guard stands here, protecting the &N&+wvault&+L.&N~
+&+WThis large, heavily armored fellow appears quite steadfast in his position as
+&+Wprotector of the vault beneath the temple.  Through his steel visor, his
+&+Weyes constantly scan the area for signs of intruders and unwelcomed treasure-
+&+Wseekers.&N
+~
+1145047138 33554464 0 450 S
+PH 0 0 
+35 17 -5 35d70+525 4d6+7
+0.0.0.0 35000
+131 131 1 4 0 
+#66914
+temple priest~
+&+Ra temple priest&N~
+&+wA &+Rtemple priest&N&+w stands here, guarding the vault.&N~
+&+RThis robed individual is clad almost entirely in red and wanders about the
+&+Rarea of the vault, continually casting protective spells and ensuring the
+&+Rsafety and sanctity of the temple's possessions.  There is nothing visible of
+&+Rhis face beneath his thick cowl, and only his thin, pale hands occasionally
+&+Rprotrude from the ends of his gold-trimmed sleeves.&N
+~
+534624 33554472 0 0 S
+PH 0 0 
+30 7 10 30d55+300 3d6+4
+5.54.25.3 22500
+131 131 1 6 0 
+#66915
+skeletal warrior knight~
+&+La &N&+rskeletal warrior&N~
+&+LA large, &N&+rskeletal warrior&+L stands here.&N~
+&+wStill dressed in the heavy armor it wore while alive, this guardian of the
+&+wtemple vault continues to serve as protector for the treasures of the temple
+&+win its afterlife.  Unlike many other skeletal undead who amble about
+&+wmindlessly, the intelligent gleam in the &+rfire&+w of this fellow's eyes betrays
+&+wa continued sense of awareness and intelligence.&N
+~
+104859746 33554472 64 0 S
+UH 0 0 
+38 19 -14 38d80+760 4d6+10
+52.73.14.1 38000
+131 131 1 5 10 
+#66916
+kuo-tao warrior kuo~
+&+La &N&+gkuo-toa&+L warrior&N~
+&+LA &N&+gkuo-toa&+L warrior stands here, cornering a small child.&N~
+&+GLooking very much like a cross between a lizard and a frog, the grey-green
+&+Gskin of this kuo-toa helps him to blend in with the shadows and muck of the
+&+Gsurrounding sewers.  His large eyes help him to see in even the dimmest light,
+&+Gbut the malevolent gleam in them also betrays a clear sense of hostility.&N
+~
+4196450 33554464 0 -600 S
+RT 0 0 
+20 10 40 20d30+100 2d6+2
+0.5.26.4 8000
+131 131 1   
+#66917
+johnny lemonhead echo~
+&+YJohnny Lemonhead&+L, the echo mob&N~
+&+YJohnny Lemonhead&N stands here...echoing obscenities throughout the zone.~
+You see a very scary man, indeed...for Pete's sake, his head is a LEMON!
+~
+2 0 0 0 S
+PH 0 0 
+51 25 -83 51d110+4080 7d6+30
+86.89.3.0 255000
+131 131 1 0 100 
+#66918
+knight death suit armor rusted~
+&+Lthe &+Rdeat&+Lh kn&+Right&N~
+&+LA &N&+rrusted suit of armor&+L stands here.&N~
+&+rAppearing initially to be an old, rusted suit of armor, a further examination
+&+rreveals the presence of an undead presence inhabiting the armor.  The eyes
+&+rof the helmet glow with a subtle red light and skeletal hands still grip
+&+rthe warrior's ancient sword and shield.&N
+~
+1079511074 1638444 2147483648 -500 S
+UH 0 0 
+50 25 -80 51d120+7200 6d10+30
+86.89.3.0 255000
+131 131 0 5 10

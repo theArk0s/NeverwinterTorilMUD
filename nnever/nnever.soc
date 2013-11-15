@@ -1,0 +1,383 @@
+MOB: 66400 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 7 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+smiles kindly at you.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 8 ;; 2 seconds
+ACTION: 17 ;;say
+Lovely weather today, isn't it?
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 9 ;; 10%
+DELAY: 8 ;; 2 seconds
+ACTION: 17 ;;say
+Damn Luskan, always causing trouble!
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 6 ;; 14%
+DELAY: 8 ;; 2 seconds
+ACTION: 17 ;;say
+Move along, there!
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 8 ;; 11%
+DELAY: 6 ;; 1 seconds
+ACTION: 40 ;;emote
+cocks his head as if listening intently to something. 
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 7 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+scans the area for signs of trouble. 
+~
+LISTDONE
+;; End of social entries for mob nr. 66400
+MOB: 66401 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+rests his hand on the hilt of his sword.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+grins broadly.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+stares at a passing citizen, watching them closely.
+~
+LISTDONE
+;; End of social entries for mob nr. 66401
+MOB: 66402 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+paces back and forth as if waiting for something.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Now where do you suppose Lord Nashar is?  He's late for our appointment.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+squints at you as if in recognition.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+shuffles through some documents.
+~
+LISTDONE
+;; End of social entries for mob nr. 66402
+MOB: 66403 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+wags his tail happily.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+sniffs at a random bit of garbage.
+~
+LISTDONE
+;; End of social entries for mob nr. 66403
+MOB: 66404 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+looks at you as if considering something.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+These are the best prices I've seen!
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+looks around for a tavern.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+carefully counts his funds.
+~
+LISTDONE
+;; End of social entries for mob nr. 66404
+MOB: 66405 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+stares blankly into the forge for a moment.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Nothing like a good day's work at the forge!
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+works on shaping a sword blank.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+pulls a hot iron from the forge.
+~
+LISTDONE
+;; End of social entries for mob nr. 66405
+MOB: 66406 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+gasps suddenly as if inspired.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Now where did I put that tension spring?
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+This may be my finest work yet!
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+runs feverishly about the workshop.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+tinkers with some tiny clock parts.
+~
+LISTDONE
+;; End of social entries for mob nr. 66406
+MOB: 66407 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+looks around at his surroundings, getting his bearings.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+looks about timidly.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+slowly makes his way to work.
+~
+LISTDONE
+;; End of social entries for mob nr. 66407
+MOB: 66408 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+glances about for signs of intruders.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+grins evilly.
+~
+LISTDONE
+;; End of social entries for mob nr. 66408
+MOB: 66409 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Messages carried!  Only 2 copper!
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+weaves his way through the crowds.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+glances around as if looking for someone.
+~
+LISTDONE
+;; End of social entries for mob nr. 66409
+MOB: 66410 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+takes a peek in her shopping basket.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+smiles politely.
+~
+LISTDONE
+;; End of social entries for mob nr. 66410
+MOB: 66422 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 7 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+stares intensely at you for a moment, then looks away. 
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 7 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+throws his dagger into the center of a target on the wall. 
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 7 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Are you prepared to train?
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 7 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+flips a coin rapidly between his fingers. 
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 7 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+twirls his dagger about. 
+~
+LISTDONE
+;; End of social entries for mob nr. 66422
+MOB: 66432 LIST
+FLAG: 0 ;;
+CHANCE: 16 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+cA flock of &+Lmigratory birds&N&+c flies overhead in a '&+LV&N&+c' formation.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+rA heavy cart, laden with bricks and mortar, comes barreling down the street.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+yA small child darts by, delivering messages.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+LThe sounds of a pursuit can be heard up ahead.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+An angry man yells, '&+rHey! Get back here with that!&N'\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 14 ;; 6%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+LA loud crash echoes from a few streets over.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 14 ;; 6%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+wA &+cchill wind&+w blows gently down the &+gtree-lined streets&+w.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 15 ;; 6%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+A dark figure flits across the rooftops overhead.\n
+~
+LISTDONE
+;; End of social entries for mob nr. 66432

@@ -1,0 +1,67 @@
+#66900
+M
+hi hello~
+Master Quickfinger shakes his head slowly, 'Pleasantries will get you nowhere...'
+~
+M
+poison~
+Master Quickfinger nods slightly, 'Many say that the Neverwinter Wood holds the
+keys to many of the most powerful poisons known...  With the right ingredients,
+I could probably come up with something for you...'
+~
+Q
+Master Quickfinger smirks as he accepts the different berries from you.  
+
+'Excellent...such a collection of berries must have taken a great deal of time,
+let us just hope that their poison shall have been worth the effort...'
+
+With that, he turns from you and begins to work with the berries, slowly heating
+and cooling them over a small flame.  Occasionally, he adds a touch or two of
+an unknown reagent, but gradually the mixture begins to smell worse and worse...
+
+'Here you are,' he says finally, handing you a thin vial. 'May it serve you well
+on your journies.  I only wish I could have made more...'
+~
+G I 66225
+G I 66238
+G I 66239
+G I 66240
+G I 66241
+R I 66901
+S
+#6901
+M
+hi hello~
+&+bThe boy, holds out a small wooden sword threateningly.&N
+~
+M
+lost~
+&+bThe hesitates for a second, and then nods.&N
+~
+M
+mother~
+&+bThe boy's deep brown eyes seem to tear up for a minute, but he
+quickly steels himself, trying to act brave.&N
+~
+M
+home~
+&+bThe boy nods, '&+wI suppose I should head home, huh...&+m'&N
+~
+M
+scared~
+&+bThe boy shakes his head, '&+wNo!&+b'.&N
+~
+Q
+&+bThe boy grasps the note with grubby hands and looks it over.  After
+&+ba little while he says, '&+wI can't even really read yet...but I know
+&+wmy mom's writing...and I can probably guess what it says.  I suppose I
+&+wshould go, huh?  I guess I'm lucky you showed up when you did...I thought
+&+wthose monsters were going to get me for sure!'&N
+~
+G I 66670
+R O 66671 66906
+D
+&+bWith that, the scampers off through the sewers, absent-mindedly forgetting
+his precious toy...&N
+~
+S

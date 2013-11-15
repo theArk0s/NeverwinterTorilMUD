@@ -1,0 +1,149 @@
+********************************* Zone info ***********************************
+Number: 669 Zone name: The Sewers of Neverwinter I
+
+Rooms info
+
+-- Vnum ------------------------ Name -------------------|---- Sector type ----
+|--------|-----------------------------------------------|--------------------|
+|  66900 |A Dark Chamber Beneath the Guild               |UNDERGROUND         |
+|  66901 |The Dark Hall of Rogues                        |UNDERGROUND         |
+|  66902 |A Dark Tunnel Beneath the Kraken Compound      |UNDERGROUND         |
+|  66903 |A Dark Chamber Beneath the Kraken Compound     |UNDERGROUND         |
+|  66904 |A Large, Dark Cavern                           |UNDERGROUND         |
+|  66905 |The End of a Tunnel in the Sewers              |UNDERGROUND         |
+|  66906 |A Forgotten Chamber                            |UNDERGROUND         |
+|  66907 |A Dark, Subterranean Pool                      |UNDERGROUND         |
+|  66908 |A Smaller, Damp Cavern                         |UNDERGROUND         |
+|  66909 |A Tunnel in the Sewers of Neverwinter          |UNDERGROUND         |
+|  66910 |A Tunnel in the Sewers of Neverwinter          |UNDERGROUND         |
+|  66911 |A Tunnel in the Sewers of Neverwinter          |UNDERGROUND         |
+|  66912 |A Tunnel in the Sewers of Neverwinter          |UNDERGROUND         |
+|  66913 |The End of a Tunnel in the Sewers              |UNDERGROUND         |
+|  66914 |The End of a Small Tunnel in the Sewers        |UNDERGROUND         |
+|  66915 |A Small Tunnel in the Sewers of Neverwinter    |UNDERGROUND         |
+|  66916 |A Small Tunnel in the Sewers of Neverwinter    |UNDERGROUND         |
+|  66917 |In the Sewers of Neverwinter                   |UNDERGROUND         |
+|  66918 |An Abrupt End in the Tunnel                    |UNDERGROUND         |
+|  66919 |Around a Wide Cistern                          |UNDERGROUND         |
+|  66920 |Around a Wide Cistern                          |UNDERGROUND         |
+|  66921 |In the Sewers of Neverwinter                   |UNDERGROUND         |
+|  66922 |In the Sewers of Neverwinter                   |UNDERGROUND         |
+|  66923 |In the Sewers of Neverwinter                   |UNDERGROUND         |
+|  66924 |A Small Chamber Near The Cistern               |UNDERGROUND         |
+|  66925 |A Wide Cistern in the Sewers                   |UNDERGROUND         |
+|  66926 |In the Sewers of Neverwinter                   |UNDERGROUND         |
+|  66927 |An Intersection in the Sewers of Neverwinter   |UNDERGROUND         |
+|  66928 |A Small, Root-Filled Chamber                   |UNDERGROUND         |
+|  66929 |A Large, Hidden Room                           |UNDERGROUND         |
+|  66930 |The End of the Sewers of Neverwinter           |UNDERGROUND         |
+|  66931 |A Dark Tunnel Beneath the City                 |UNDERGROUND         |
+|  66932 |A Collapsed Portion of the Dark Tunnel         |UNDERGROUND         |
+|  66933 |A Bend in the Dark Tunnel                      |UNDERGROUND         |
+|  66934 |In An Ancient Dark Tunnel                      |UNDERGROUND         |
+|  66935 |In An Ancient Dark Tunnel                      |UNDERGROUND         |
+|  66936 |In An Ancient Dark Tunnel                      |UNDERGROUND         |
+|  66937 |A Collapsed Portion of the Ancient Dark Tunnel |UNDERGROUND         |
+|  66938 |A Collapsed Portion of the Ancient Dark Tunnel |UNDERGROUND         |
+|  66939 |A Small, Ancient Store Room                    |UNDERGROUND         |
+|  66940 |The End of the Ancient Dark Tunnel             |UNDERGROUND         |
+|  66941 |The End of the Ancient Dark Tunnel             |UNDERGROUND         |
+|  66942 |An Old, Abandoned Temple                       |UNDERGROUND         |
+|  66943 |A Large, Rectangular Chamber                   |UNDERGROUND         |
+|  66944 |A Dark, Natural Shaft                          |UNDERGROUND         |
+|  66945 |A Chamber Beneath the Moonstone Mask           |UNDERGROUND         |
+|  66946 |A Chamber Beneath the Moonstone Mask           |UNDERGROUND         |
+|  66947 |The Basement of the Moonstone Mask             |UNDERGROUND         |
+|  66948 |The Basement of the Moonstone Mask             |UNDERGROUND         |
+|  66949 |A Hidden Chamber Beneath the Moonstone Mask    |UNDERGROUND         |
+|  66950 |Along a Dark Passageway                        |UNDERGROUND         |
+|  66951 |A Large, Dark Chamber                          |UNDERGROUND         |
+|  66952 |A Narrow, Foul-Smelling Tunnel                 |UNDERGROUND         |
+|  66953 |A Narrow, Foul-Smelling Tunnel                 |UNDERGROUND         |
+|  66954 |A T-Intersection in a Foul-Smelling Tunnel     |UNDERGROUND         |
+|  66955 |A Narrow, Foul-Smelling Tunnel                 |UNDERGROUND         |
+|  66956 |Beneath a Massive Drain Pipe                   |UNDERGROUND         |
+|  66957 |Before A Massive Set of Doors                  |UNDERGROUND         |
+|  66958 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66959 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66960 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66961 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66962 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66963 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66964 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66965 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66966 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66967 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66968 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66969 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66970 |A Treasure Chamber of the Temple of Tyr        |UNDERGROUND         |
+|  66971 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66972 |A Small, Hidden Chamber                        |UNDERGROUND         |
+|  66974 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66975 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66976 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66977 |In The Vault of Tyr                            |UNDERGROUND         |
+|  66978 |The Main Treasure Vault of the Temple of Tyr   |UNDERGROUND         |
+|  66979 |A Chamber Beneath the Warehouse                |UNDERGROUND         |
+|  66980 |A Dank, Flooded Tunnel                         |UNDERGROUND         |
+|  66981 |A Dank, Flooded Tunnel                         |UNDERGROUND         |
+|  66982 |A Dank, Flooded Tunnel                         |UNDERGROUND         |
+|  66983 |A Corner of the Large, Flooded Chamber         |UNDERGROUND         |
+|  66984 |A Large, Flooded Chamber                       |UNDERGROUND         |
+|  66985 |A Bend in the Dank, Flooded Tunnel             |UNDERGROUND         |
+|  66986 |A Corner of the Large, Flooded Chamber         |UNDERGROUND         |
+|--------|-----------------------------------------------|--------------------|
+
+Number of rooms: 86 First room: 66900 Last room: 66986
+Average description length: 10 lines
+
+
+Objects info
+
+-- Vnum ------------------------ Name -------------------|---- Object type ----
+|        |                      Stats                    |                    |
+|--------|-----------------------------------------------|--------------------|
+|  66900 |a long, twisted horn                           |WEAPON              |
+|        |Dam: 3d4 DAMROLL 2                             |                    |
+|  66901 |a purple and black vial                        |POISON              |
+|  66902 |a large black desk                             |CONTAINER           |
+|  66903 |a brass oil lamp                               |SUMMON              |
+|  66904 |a necklace of sand                             |ARMOR               |
+|        |AC: -5 STR 2                                   |                    |
+|  66905 |the kraken key                                 |KEY                 |
+|  66906 |a large, red marble fountain                   |DRINKCON            |
+|  66907 |a small wooden chest                           |CONTAINER           |
+|  66908 |a large wooden chest                           |CONTAINER           |
+|  66909 |a crude wooden torch                           |LIGHT               |
+|--------|-----------------------------------------------|--------------------|
+
+Number of real objects in the zone: 5
+
+
+Mob info
+
+-- Vnum ------------------------ Name -------------------|-A-|--C-|-Q-|-S-|-L-|
+|        |                                               | G |  L | U | O | E |
+|        |                                               | G |  A | E | C | V |
+|        |                                               | R |  S | S | I | E |
+|        |                                               | O |  S | T | A | L |
+|--------|-----------------------------------------------|---|----|---|-L-|---|
+| 66900  |Roalth Quickfinger                             |   |  T | Y |   | 51|
+| 66901  |a small child                                  |   |  T |   |   | 3 |
+| 66902  |a kuo-toa guard                                |   |    |   |   | 12|
+| 66903  |an amber slime                                 |   |    |   |   | 5 |
+| 66904  |a gelatinous cube                              | Y |    |   |   | 12|
+| 66905  |a dark, tentacled Kraken                       | Y |C   |   |   | 48|
+| 66906  |a large beholder                               | Y |    |   |   | 15|
+| 66907  |a Kraken assassin                              | Y |  TW|   |   | 32|
+| 66908  |a Kraken elite                                 | Y |  TW|   |   | 32|
+| 66909  |the Moralith                                   | Y |CM  |   |   | 42|
+| 66910  |a fiendish imp                                 |   |    |   | Y | 1 |
+| 66911  |a fiendish imp                                 | Y | M  |   |   | 35|
+| 66912  |a large rat                                    |   |    |   |   | 6 |
+| 66913  |a vault guard                                  | Y |   W|   |   | 28|
+| 66914  |a temple priest                                | Y |C   |   |   | 30|
+| 66915  |a skeletal warrior                             | Y |   W|   |   | 32|
+|--------|-----------------------------------------------|---|----|---|---|---|
+
+Number of real mobs in the zone: 38
+Average level of the mobs: 22

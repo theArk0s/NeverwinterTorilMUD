@@ -1,0 +1,136 @@
+MOB: 66601 TRIGGER     ;; JUST IN CASE ANYONE TRIED TO PEE IN THE WOODS
+FLAG:   36             ;; Used as target
+CHANCE: 0
+DELAY:  4
+TRIGGER: 146            ;; Someone winks at him
+ACTION: 40              ;; Say
+looks confused and flatly states, 'I have no idea what you're getting at.'
+~
+DONE
+
+MOB: 66601 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 7 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+glances about and states, 'Gods, what a beautiful city!'
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 8 ;; 2 seconds
+ACTION: 17 ;;say
+How are the repairs faring on Castle Never?
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 9 ;; 10%
+DELAY: 8 ;; 2 seconds
+ACTION: 17 ;;say
+Damn Luskan and the Arcane Brotherhood!
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 8 ;; 11%
+DELAY: 6 ;; 1 seconds
+ACTION: 40 ;;emote
+smiles kindly at the people and guardsmen surrounding him.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 7 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+glances aimlessly up at a passing bird. 
+~
+LISTDONE
+;; End of social entries for mob nr. 66601
+
+MOB: 66622 LIST
+FLAG: 0 ;; NON COMBAT ONLY -
+CHANCE: 18 ;; 
+DELAY: 4 ;; 1 seconds
+ACTION: 1001 ;;echo
+The town crier shouts, '&+cLord Nashar &+Wwishes citizens and guests of Neverwinter a good day!&N'\n
+~
+DONE
+FLAG: 0 ;; NON COMBAT ONLY -
+CHANCE: 14 ;; 
+DELAY: 12 ;; 3 seconds
+ACTION: 1001 ;;echo
+The town crier shouts, '&+cWelcome to Neverwinter, City of Skilled Hands!!&N'\n
+~
+DONE
+FLAG: 0 ;; NON COMBAT ONLY -
+CHANCE: 20 ;; 
+DELAY: 8 ;; 2 seconds
+ACTION: 1001 ;;echo
+The town crier shouts, '&+wWhew...this job is harder than it looks!&N'\n
+~
+DONE
+FLAG: 0 ;; NON COMBAT ONLY -
+CHANCE: 14 ;; 
+DELAY: 6 ;; 1.5 seconds
+ACTION: 1001 ;;echo
+The town crier shouts, '&+wPlease report any suspicious activities involving &+rLuskan&+w or the &+rArcane Brotherhood&+w directly to Lord Nashar!&N'\n
+~
+DONE
+FLAG: 0 ;; NON COMBAT ONLY -
+CHANCE: 14 ;; 
+DELAY: 4 ;; 1 seconds
+ACTION: 1001 ;;echo
+The town crier shouts, '&+wBeware the &+GNeverwinter Wood&N&+w!  It holds many dangers for the inexperienced!&N'\n
+~
+LISTDONE
+;; End of social entries for mob nr. 66622
+MOB: 66618 LIST
+FLAG: 0 ;;
+CHANCE: 19 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+cA flock of &+Lmigratory birds&N&+c flies overhead in a '&+LV&N&+c' formation.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 20 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+rA heavy cart, laden with bricks and mortar, comes barreling down the street.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+yA small child darts by, delivering messages.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+LThe sounds of a pursuit can be heard up ahead.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+An angry man yells, '&+rHey! Get back here with that!&N'\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 14 ;; 6%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+LA loud crash echoes from a few streets over.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 14 ;; 6%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+wA &+cchill wind&+w blows gently down the &+gtree-lined streets&+w.&N\n
+~
+LISTDONE
+;; End of social entries for mob nr. 66618

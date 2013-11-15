@@ -1,0 +1,88 @@
+MOB: 66910 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 1 ;; 12%
+DELAY: 2 ;; 1 seconds
+ACTION: 40 ;;emote
+&+Lcontinues to inscribe the pentagon on the floor of the chamber.&N\n
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 1 ;; 9%
+DELAY: 2 ;; 2 seconds
+ACTION: 17 ;;say
+&+mYou are gonna be so sorry when my master gets here!&N\n
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 2 ;; 10%
+DELAY: 3 ;; 2 seconds
+ACTION: 17 ;;say
+&+mMy master will make you beg for your deaths!&N\n
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 3 ;; 11%
+DELAY: 2 ;; 1 seconds
+ACTION: 40 ;;emote
+&+Lcackles fiendishly to himself.&N\n
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 2 ;; 12%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+&+Linspects his progress on finishing the pentagram.&N\n
+~
+LISTDONE
+;; End of social entries for mob nr. 66910
+MOB: 66917 LIST
+FLAG: 0 ;;
+CHANCE: 19 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+gA fould smell floats through the air here.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 20 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+cA dank wind blows down the tunnel.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+rSomething can be heard moving in the darkness.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 21 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+&+LA dark shape darts by just out of sight.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 20 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1000 ;;Echo in every OUTSIDE room in the zone
+&+cMoisture can be heard dripping from somewhere nearby.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1000 ;;Echo in every OUTSIDE room in the zone
+&+rA strange feeling comes over you...something is watching.&N\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 21 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1000 ;;Echo in every OUTSIDE room in the zone
+&+LThe shadows loom a bit darker.&N\n
+~
+LISTDONE
+;; End of social entries for mob nr. 66917

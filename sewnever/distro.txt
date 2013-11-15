@@ -1,0 +1,12 @@
+X 0 66978 66910         * remove imp from moralith room (66978)
+M 1 66906 1 66978       * load Moralith into moralith room (66978)
+E 1 66900 1 16            * wielding its horn
+E 1 66904 1 3             * wearing the sand necklace
+M 1 66911 1 66978       * load evil imp into moralith room (66978)
+F 2 66978 66906 66911
+X 0 66970 66910         * remove imp from moralith room (66970)
+M 1 66906 1 66970       * load Moralith into moralith room (66970)
+E 1 66900 1 16            * wielding its horn
+E 1 66904 1 3             * wearing the sand necklace
+M 1 66911 1 66970       * load evil imp into moralith room (66970)
+F 2 66970 66906 66911

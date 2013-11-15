@@ -1,0 +1,433 @@
+#66400
+M
+hi hello~
+The guard nods and says, '&+wGood day to you, citizen!&N'
+~
+S
+#66401
+M
+hi hello~
+The guard smiles and nods, '&+wGood day to you, as well.&N'
+~
+S
+#66402
+M
+hi hello~
+The captain shrugs and says, '&+wI'm quite busy. Please leave me alone.&N'
+~
+S
+#66403
+M
+hi hello~
+&+rThe dog gives you a low growl and wanders away.&N
+~
+S
+#66404
+M
+hi hello~
+The merchant snorts and says, '&+mAnd who might you be? ...as if I care.&N'
+~
+S
+#66405
+M
+hi hello~
+Mawl flashes you a toothy grin and says, '&+RHow can I help you?&N'
+~
+M
+forge~
+Mawl smiles and says, '&+RAye, nothing like spending a day at the forge!&N'
+~
+M
+scar scars~
+Mawl frowns and says, '&+RI've fought many a battle in my day, and come out none
+&+Rthe worse for wear...save one.&N'
+~
+M
+one~
+Mawl nods and says, '&+RTwas a horrible battle many ages ago...when I was but a
+&+Ryoung dwarf, thirsty for battle and honor.  An army was called up to battle a
+&+Rgreat evil, and I joined up to fight for the cause of good.&N'
+~
+M
+army~
+Mawl nods and says, '&+RBy today's standards, it was hardly an army as such...but
+&+Rin those days, nearly a hundred well-armed men joined in the battle.&N'
+~
+M
+battle~
+Mawl nods and says, '&+RYes, a mighty fight against a vile evil, summoned from
+&+Ranother plane.  Tis the one battle that scarred me more than all others.  In the
+&+Rend we were victorious, but the heavy cost of the fight was more than many could
+&+Rbear.&N'
+~
+M
+summoned~
+Mawl nods and says, '&+RA cult of evil sorcerers sought to summon a great evil from
+&+Ranother plane in order to control it and use its powers to conquer a kingdom.  They
+&+Rcould not control it, though, and it turned on them and slew them all.&N'
+~
+M
+evil~
+Mawl nods and says, '&+RAye, the fell beast was an evil frost drake by the name of
+&+WArinoath&+R.  So great was its evil and hatred of all life that it was banished to
+&+Ranother plane.&N'
+~
+M
+revenge~
+Mawl nods and grins, '&+RAye, I'd like to mount &+WArinoath's&N&+R bloody head on
+&+Rmy wall and carve up what's left of it for trophies.&N'
+~
+M
+Arinoath~
+Mawl frowns and says, '&+RAye.  In my youth I yearned for revenge against the foul
+&+Rbeast, for I felt merely slaying it was better than it deserved.  It killed many
+&+Rinnocents...entire villages of peaceful people.  A fitting revenge upon the creature
+&+RI've yet to devise...but it makes no difference.  The beast has lain dead for
+&+Rcenturies, banished back to the abyss from whence it came.&N'
+~
+Q
+Mawl's eyes gleam with happiness. '&+RCould it be?,&N' he asks.  '&+RThis skin can be
+&+Rnone other than that of the fell drake &+WArinoath&+R!  At last the creature's evil is 
+&+Rbanished once and for all!  I cannot thank you enough.  You do not know what this must
+&+Rmean to the countless souls of Arinoath's victims...may the finally rest in peace.  I
+&+Ralso believe I have a fitting tribute to your heroic deeds!&N'
+
+With that, Mawl takes the skin and hurries about the forge room, working with various tools
+and implements.  After a considerable period of time, he returns to you and presents you 
+with a gift.
+
+'&+RThese claws,&N' he states, '&+Rare made from the skin and bones of the evil creature.
+&+RMay they serve you well on your journey!&N'
+~
+G I 66230
+R I 66206
+S
+#66406
+M
+hi hello~
+&+LKaelen nods at you, but goes about his work.&N
+~
+S
+#66407
+M
+hi hello~
+&+cThe citizen simple smiles at you and nods.&N
+~
+S
+#66409
+M
+hi hello~
+&+yThe child looks up at you with large, wide eyes and runs down the street.&N
+~
+S
+#66410
+M
+hi hello~
+&+wThe housewife smiles at you.&N
+~
+S
+#66411
+M
+hi hello~
+The militia member nods and says, '&+cJust make sure you stay out of trouble!&N'
+~
+S
+#66412
+M
+hi hello~
+&+mThe minstrel flashes you a smile and says, '&+wCan I play you a tune?&+m'&N
+~
+S
+#66413
+M
+hi hello~
+&+wThe beautiful minstrel winks seductively at you.&N
+~
+S
+#66414
+M
+hi hello~
+&+LThe shady individual ignores you and glances around nervously.&N
+~
+S
+#66415
+M
+hi hello~
+&+CThe traveler ignores you and goes about his business.&N
+~
+S
+#66416
+M
+hi hello~
+The adventurer smiles and says, '&+rWell met, fellow adventurer!&N'
+~
+S
+#66417
+M
+hi hello~
+&+BThe child simply continues to play.&N
+~
+S
+#66418
+M
+hi hello~
+&+MThe child simply continues to play.&N
+~
+S
+#66419
+M
+hi hello~
+&+LMawl's shopkeeper says, '&N&+rnough pleasantries!  You buying or not?&+L'&N
+~
+S
+#66420
+M
+hi hello~
+Kaelen's shopkeeper says, '&+GCan I interest you in a clock?&N'
+~
+S
+#66421
+M
+hi hello~
+&+LI'lvan merely &+Rglares&+L at you.&N
+~
+S
+#66423
+M
+hi hello~
+Juramis smirks, '&+YI'm not here to make friends.&N'
+~
+S
+#66424
+M
+hi hello~
+&+wThe quiet shopkeeper simply smiles.&N
+~
+S
+#66425
+M
+hi hello~
+&+LThe smuggler flashes you a dirty look, but mostly just ignores you.&N
+~
+S
+#66426
+M
+hi hello~
+&+LThe petty thief slinks away quietly.&N
+~
+S
+#66427
+M
+hi hello~
+&+yThe accountant peeks up from his bookwork, but goes back to it immediately.&N
+~
+S
+#66432
+M
+more~
+Earl stares eerily at you and says, '&+RIf I could be somebody besides myself,
+&+RI would like to be Tarzan.&N
+...
+&+RThen maybe the cops would think twice about arresting me for being up in a 
+&+Rtree at the park, butt-nekkid and screaming.&N'
+~
+M
+hi hello~
+Earl stares eerily at you and says, '&+LI had to move to a new apartment 
+&+Lrecently.  The old place was gettin' a little too small for me an' my cat.&N
+...
+&+LYou'd be surprised how much space it takes for a cheetah to ride a dirt 
+&+Lbike.&N'
+~
+S
+#66433
+M
+hi hello~
+&+LThe shopkeeper nods.&N
+~
+S
+#66434
+M
+hi hello~
+&+RThe assassin ignores you.&N
+~
+S
+#66435
+M
+hi hello~
+&+LThe filthy beggar tries to mumble something in reply.&N
+~
+S
+#66436
+M
+hi hello~
+&+yThe tavern patron belches his ale-smelling response.&N
+~
+S
+#66437
+M
+hi hello~
+&+LThe bartender grunts something under his breath.&N
+~
+S
+#66438
+M
+hi hello~
+&+LThe bartender grunts something under his breath.&N
+~
+S
+#66439
+M
+hi hello~
+&+WThe bartender grunts something under her breath.&N
+~
+S
+#66440
+M
+hi hello~
+&+YThe banker just keeps counting his coins.&N
+~
+S
+#66441
+M
+hi hello~
+&+wThe worker simply smiles dumbly at you.&N
+~
+S
+#66442
+M
+hi hello~
+&+wThe drunkard nearly falls down trying to respond.&N
+~
+S
+#66443
+M
+hi hello~
+&+RThe evil bartender simply glares at you.&N
+~
+S
+#66444
+M
+hi hello~
+The patrolman says, '&+cNo time for pleasantries...move along!&N'
+~
+S
+#66445
+M
+hi hello~
+&+LThe pigeon merely cocks its head at you and waddles away.&N
+~
+S
+#66446
+M
+hi hello~
+&+mThe gambler sobs, '&+wHow can you say a thing like that?  Can't you see I'm ruined!?&+m'&N
+~
+M
+ruined~
+&+mThe gambler sobs, '&+wYes RUINED!! What, are you slow or something?&+m'&N
+~
+S
+#66447
+M
+hi hello~
+&+LThe casino owner says, '&+WYes, yes, fantastic then....why don't you GAMBLE a little already!&+L'&N
+~
+S
+#66448
+M
+hi hello~
+&+GThe archer shakes his head negatively, '&N&+wNo time for talk.  I must keep watch at all times.&+G'&N
+~
+S
+#66449
+M
+hi hello~
+&+yThe street runner glances at you momentarily, but continues on her way.&N
+~
+S
+#66450
+M
+hi hello~
+The youth says, '&+wMa said not to talk to strangers...and you're definitely strange.&N'
+~
+S
+#66451
+M
+hi hello~
+&+cThe repairman grunts, '&+LSee how happy YOU are when you're fixing streets all day.&N&+c'&N
+~
+S
+#66452
+M
+hi hello~
+&+wThe street cleaner sarcasitcally replies, '&+LOh yeah...nothing like cleaning up after other people.&N&+w'&N
+~
+S
+#66453
+M
+hi hello~
+&+cThe female militia member coldly replies, '&+wNot now, I'm on duty here.&+c'&N
+~
+S
+#66454
+M
+navak~
+&+wThe prisoner nods slowly and whispers, '&+LYes...he is my brother...a fellow guard...&N&+w'&N
+~
+M
+name~
+&+wThe prisoner looks confused at first, but whispers out an answer, '&+LMy given name
+&+Lis Garos, and in truth...I am one of Nashar's head guardsmen...&N&+w'&N
+~
+M
+nashar~
+&+wThe prisoner coughs a bit, but responds, '&+LA just leader...he must be warned...&N&+w'&N
+~
+M
+warned~
+&+wThe prisoner nods and whispers, '&+LThe Kraken...they must be stopped.&N&+w'&N
+~
+M
+kraken~
+&+wThe prisoner cowers at the mention of his captors, but responds defiantly.  '&+LThey
+&+Lare truly evil and wish to bring about chaos.&N&+w'&N
+~
+M
+torture tortured beaten~
+&+wThe prisoner grows silent for a moment, but responds.  '&+LWhat they have done to
+&+Lme I would not visit upon any other...&N&+w'&N
+~
+M
+tattoo~
+&+wThe prisoner sighs, '&+LA symbol of pride among the guard...my only posession...&N&+w'&N
+~
+M
+guard~
+&+wThe prisoner nods and whispers, '&+LYes, my brother and I...we were once members of the guard.&N&+w'&N
+~
+M
+brother~
+&+wThe prisoner nods and whispers, '&+LA man by the name of Navak...&N&+w'&N
+~
+Q
+&+wThe prisoner grasps the note in his frail hands and struggles to make out the writing
+&+wwith his sunken eyes.  Just as you are about to explain its meaning to him, his eyes
+&+wfill with tears and he is overcome with emotion.&N
+
+&+w'&+LNavak...&N&+w', he whispers.  '&+LI should have known...he would not lose faith.&N&+w'&N
+
+&+wThe prisoner pauses for a while, coughing in the cool, damp air as he ponders his current
+&+wsituation.  From some hidden pocket beneath his tattered garments he produces a small
+&+wpendent and hands it to you.&N
+
+&+w'If my brother has sent you...I shall entrust you with this,&N&+w' he says.  '&+LNavak will know
+&+Lwhat...what must be done.  Tell him of the Kraken...and of my fate.  I fear...that I can
+&+Lgo on....no more...&N&+w'&N
+~
+G I 66623
+R I 66447
+D
+&+wWith a final sigh, the prisoner collapses and dies knowing that his duty was fulfilled.&N
+~
+S

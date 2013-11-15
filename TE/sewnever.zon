@@ -1,0 +1,114 @@
+#669
+The Sewers of Neverwinter I~
+66999 10 2 0
+8 8 0
+2 4 0 0
+0 0 0 0
+3 0 0 0
+5 7 0 0
+5 5 5 5
+****** Zone edited with TE 0.1 ******
+*
+****** Doors Table ******
+D 0 66900 1 0        * East exit from room 66900
+D 0 66900 4 0        * Up exit from room 66900
+D 0 66901 2 6        * South exit from room 66901
+D 0 66901 3 0        * West exit from room 66901
+D 0 66902 4 0        * Up exit from room 66902
+D 0 66905 0 6        * North exit from room 66905
+D 0 66906 2 5        * South exit from room 66906
+D 0 66907 1 0        * East exit from room 66907
+D 0 66908 3 0        * West exit from room 66908
+D 0 66911 0 5        * North exit from room 66911
+D 0 66913 1 5        * East exit from room 66913
+D 0 66913 2 5        * South exit from room 66913
+D 0 66914 3 5        * West exit from room 66914
+D 0 66915 2 5        * South exit from room 66915
+D 0 66916 4 0        * Up exit from room 66916
+D 0 66917 0 5        * North exit from room 66917
+D 0 66918 0 5        * North exit from room 66918
+D 0 66919 2 5        * South exit from room 66919
+D 0 66922 2 5        * South exit from room 66922
+D 0 66923 2 5        * South exit from room 66923
+D 0 66924 0 1        * North exit from room 66924
+D 0 66928 0 0        * North exit from room 66928
+D 0 66929 0 0        * North exit from room 66929
+D 0 66930 5 5        * Down exit from room 66930
+D 0 66931 4 0        * Up exit from room 66931
+D 0 66937 1 5        * East exit from room 66937
+D 0 66938 3 5        * West exit from room 66938
+D 0 66939 1 2        * East exit from room 66939
+D 0 66940 3 2        * West exit from room 66940
+D 0 66941 2 2        * South exit from room 66941
+D 0 66943 0 2        * North exit from room 66943
+D 0 66943 2 5        * South exit from room 66943
+D 0 66944 0 5        * North exit from room 66944
+D 0 66946 2 0        * South exit from room 66946
+D 0 66948 4 0        * Up exit from room 66948
+D 0 66949 0 0        * North exit from room 66949
+D 0 66950 4 0        * Up exit from room 66950
+D 0 66952 4 2        * Up exit from room 66952
+D 0 66957 2 2        * South exit from room 66957
+D 0 66957 4 0        * Up exit from room 66957
+D 0 66959 0 1        * North exit from room 66959
+D 0 66961 2 2        * South exit from room 66961
+D 0 66964 0 2        * North exit from room 66964
+D 0 66966 2 2        * South exit from room 66966
+D 0 66967 0 2        * North exit from room 66967
+D 0 66969 1 2        * East exit from room 66969
+D 0 66970 3 2        * West exit from room 66970
+D 0 66971 1 5        * East exit from room 66971
+D 0 66972 3 5        * West exit from room 66972
+D 0 66977 1 2        * East exit from room 66977
+D 0 66978 3 2        * West exit from room 66978
+D 0 66979 4 0        * Up exit from room 66979
+****** Mobs Table ******
+M 0 66900 1 66901    	* Roalth Quickfinger
+O 0 66902 1 66901       * a desk
+M 1 66901 1 66906 10   	* torvis 10% of time
+M 0 66903 3 66909 5   	* an amber slime 5%
+M 0 66903 3 66912 5   	* an amber slime 5%
+M 0 66903 3 66914 5   	* an amber slime 5%
+M 0 66905 3 66907 10   	* a Kraken 10%
+M 0 66907 3 66903 20	* kraken assassin
+M 0 66907 3 66908		* kraken assassin
+M 0 66951 3 66951       * kraken assassin
+G 1 66905 1             * give the kraken key
+O 0 66903 1 66978 65    * load lamp in r66978 65% of time
+O 0 66903 1 66970       * load lamp in r66970 if not in 66978
+M 0 66908 3 66902 30	* kraken elite
+M 0 66908 3 66903		* kraken elite
+O 0 66908 1 66939       * chest hidden in store room
+M 1 66902 5 66942 30    * kuo-tuo guards 30% at boot
+M 1 66902 5 66942       * kuo-tuo guards
+M 1 66902 5 66942       * kuo-tuo guards
+M 1 66902 5 66942       * kuo-tuo guards
+M 1 66902 5 66942       * kuo-tuo guards
+M 1 66906 1 66942 80    * beholder 80% of time (if guards load)
+M 0 66912 5 66983 10    * rat 10% of time
+M 0 66912 5 66984 10    * rat 10% of time
+M 0 66912 5 66986 20    * rat 20% of time
+M 0 66912 5 66986 10    * rat 10% of time
+M 0 66912 5 66985 10    * rat 10% of time
+M 0 66913 6 66969 40    * a vault guard
+M 0 66913 6 66978 40    * a vault guard
+M 0 66913 6 66964 20    * a vault guard
+M 0 66913 6 66957       * a vault guard
+M 0 66913 6 66957       * a vault guard
+M 0 66914 3 66961 20    * temple priest
+M 0 66914 3 66978       * temple priest
+M 0 66914 3 66970       * temple priest
+M 0 66914 3 66978 20    * temple priest
+M 0 66914 3 66972 30    * temple priest
+M 0 66915 12 66978 60   * skeletal guard
+M 0 66915 12 66978 40   * skeletal guard
+M 0 66915 12 66978 60   * skeletal guard
+M 0 66915 12 66970 10   * skeletal guard
+M 0 66915 12 66970 20   * skeletal guard
+M 0 66915 12 66961 40   * skeletal guard
+M 0 66915 12 66965 30   * skeletal guard
+M 0 66915 12 66962 40   * skeletal guard
+M 0 66915 12 66958 50   * skeletal guard
+O 0 66909 2 66942       * a torch in the temple
+O 0 66909 2 66942       * a torch in the temple
+S

@@ -1,0 +1,224 @@
+#662
+> filename: woodbeta.zon~
+The Neverwinter Wood Beta~
+66363 5 2 0
+4 0 47
+2 4 0 0
+0 0 0 0
+3 0 0 0
+5 7 0 0
+6 6 6 6
+****** Zone edited with TE 0.1 ******
+*
+****** Doors Table ******
+D 0 66226 2 5        * South exit from room 66226
+D 0 66244 0 5        * North exit from room 66244
+D 0 66256 5 5        * Down exit from room 66256
+D 0 66258 2 5        * South exit from room 66258
+D 0 66261 1 5        * East exit from room 66261
+D 0 66262 3 5        * West exit from room 66262
+D 0 66270 0 5        * North exit from room 66270
+D 0 66240 0 5        * North exit from room 66240
+D 0 66230 2 5        * South exit from room 66230
+D 0 66230 5 5        * Down exit from room 66230
+M 0 66203 2 66209    	* the large buck
+M 0 66211 3 66205    	* the Harper woodsman
+E 1 66202 3 5        	*      a shirt of Harper chainmail
+E 1 66201 3 11        	*      a green shield of the forests
+E 1 66200 3 16        	*      a shining steel longsword
+M 0 66202 4 66202    	* the deer
+M 0 66213 1 66217    	* Glorpk
+M 0 66205 4 66221    	* the giant frog
+M 0 66205 4 66221    	* the giant frog
+M 0 66209 9 66227    	* the white timberwolf
+M 0 66209 9 66228    	* the white timberwolf
+M 0 66209 9 66270    	* the white timberwolf
+M 0 66209 9 66270    	* the white timberwolf
+M 0 66209 9 66270    	* the white timberwolf
+G 1 66223 1           	* Nolin's forgotten pouch
+P 1 66222 1 66223     	*     Nolin's token in the pouch
+M 0 66209 9 66270    	* the white timberwolf
+M 0 66209 9 66270    	* the white timberwolf
+M 0 66216 1 66229    	* the golem
+M 0 66215 3 66235    	* the snake
+M 0 66208 2 66240    	* the raven
+M 0 66208 2 66243    	* the raven
+M 0 66210 2 66247    	* the black bear
+M 0 66204 6 66222    	* the black bobcat
+M 0 66204 6 66249    	* the black bobcat
+M 0 66204 6 66250    	* the black bobcat
+M 0 66204 6 66253    	* the black bobcat
+M 0 66204 6 66261    	* the black bobcat
+M 0 66215 3 66253    	* the snake
+M 0 66215 3 66253    	* the snake
+M 0 66206 4 66240    	* the wolverine
+M 0 66206 4 66259    	* the wolverine
+M 0 66206 4 66354    	* the wolverine
+M 0 66211 3 66263    	* the Harper woodsman
+E 1 66202 3 5        	*      a shirt of Harper chainmail
+E 1 66201 3 11        	*      a green shield of the forests
+E 1 66200 3 16        	*      a shining steel longsword
+T 0 -1 1 0 1           	* only loads during Hammer
+M 1 66217 1 66266   	* the frost drake
+G 1 66230 1          	*     some skin on the frost drake
+T 0 -1 1 0 4
+X 1 -1 66217		* remove drake after 4th month
+M 0 66200 5 66267    	* the water nymph
+M 0 66200 5 66269    	* the water nymph
+M 0 66228 8 66271       * some insects
+M 0 66228 8 66271       * some insects
+M 0 66228 8 66279       * some insects
+M 0 66228 8 66267       * some insects
+M 0 66228 8 66288       * some insects
+M 0 66228 8 66322       * some insects
+M 0 66200 5 66322    	* the water nymph
+M 0 66207 3 66271    	* the stork
+M 0 66205 4 66271    	* the giant frog
+M 0 66218 1 66283       * the Druidmother
+E 1 66208 1 8           * some boots of the north
+M 0 66212 1 66272    	* the Harper woodsman
+E 1 66203 1 5        	*      a suit of etched mithril platemail
+E 1 66207 1 16        	*      a well-made longsword
+E 1 66204 1 17        	*      a long parrying dagger
+M 0 66204 6 66272    	* the black bobcat
+M 0 66200 3 66276    	* the water nymph
+M 0 66202 4 66282    	* the deer
+M 0 66202 4 66285    	* the deer
+T 0 -1 1 0 7           	* only loads during Kythorn
+M 1 66222 1 66238    	* Leavey, the young woodsman
+M 0 66203 2 66291    	* the large buck
+M 0 66202 4 66291    	* the deer
+M 0 66206 4 66293    	* the wolverine
+M 0 66210 2 66301    	* the black bear
+M 0 66201 9 66208    	* the shambling mound
+M 0 66201 9 66283    	* the shambling mound
+M 0 66234 3 66256    	* the shambling mound
+M 0 66234 3 66238    	* the shambling mound
+M 0 66234 3 66302    	* the shambling mound
+M 0 66201 9 66348    	* the shambling mound
+M 0 66201 9 66354    	* the shambling mound
+O 0 66221 5 66324    	* a pile of leaves
+O 0 66221 5 66275    	* a pile of leaves
+O 0 66221 5 66301    	* a pile of leaves
+O 0 66221 5 66208    	* a pile of leaves
+O 0 66221 5 66253    	* a pile of leaves
+M 0 66205 4 66303    	* the giant frog
+M 0 66207 3 66304    	* the stork
+M 0 66211 3 66309    	* the Harper woodsman
+E 1 66202 3 5        	*      a shirt of Harper chainmail
+E 1 66201 3 11        	*      a green shield of the forests
+E 1 66200 3 16        	*      a shining steel longsword
+M 0 66207 3 66313    	* the stork
+M 0 66223 7 66328    	* the black slime
+M 0 66223 7 66328    	* the black slime
+M 0 66223 7 66328    	* the black slime
+M 0 66223 7 66328    	* the black slime
+O 0 66211 1 66334     	* a cruddy iron chest
+P 1 66210 1 66211     	*     a ring of terror in a cruddy iron chest
+P 1 66213 1 66211     	*     the Kinjite Dagger in the chest
+T 0 -1 1 0 12		* only loads during Marpenoth
+M 1 66219 1 66302    	* Nollin, the woodsman
+E 1 66209 1 16        	*      a wooden staff
+T 0 -1 1 0 13		
+X 1 -1 66219		* remove Nollin after Marpenoth
+M 0 66214 4 66332    	* the cavern hag
+M 0 66214 4 66333    	* the cavern hag
+M 0 66214 4 66334    	* the cavern hag
+M 0 66214 4 66334    	* the cavern hag
+M 0 66221 1 66335    	* bug-eyed Earl, the echo mob
+O 0 66216 1 66338     	* a large nest
+P 1 66217 1 66216     	*     a gigantic black egg in a large nest
+M 0 66224 2 66338    	* the hideous harpy
+M 0 66224 2 66338    	* the hideous harpy
+O 0 66219 16 66300    	* a mossy rock
+O 0 66219 16 66291    	* a mossy rock
+O 0 66219 16 66291    	* a mossy rock
+O 0 66219 16 66263    	* a mossy rock
+O 0 66219 16 66293    	* a mossy rock
+O 0 66219 16 66293    	* a mossy rock
+O 0 66219 16 66246    	* a mossy rock
+O 0 66219 16 66238    	* a mossy rock
+O 0 66219 16 66256    	* a mossy rock
+O 0 66219 16 66204    	* a mossy rock
+O 0 66219 16 66243    	* a mossy rock
+O 0 66219 16 66345    	* a mossy rock
+O 0 66219 16 66352    	* a mossy rock
+O 0 66219 16 66353    	* a mossy rock
+O 0 66219 16 66360    	* a mossy rock
+O 0 66219 16 66363    	* a mossy rock
+O 0 66220 4 66205    	* a bush
+O 0 66220 4 66226    	* a bush
+O 0 66220 4 66301    	* a bush
+O 0 66224 4 66250    	* a bush
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+O 0 66224 4 66241    	* a bush
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+O 0 66220 4 66236    	* a bush
+O 0 66224 4 66260    	* a bush
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+R 0 66266 66230		* 	removes drake skin from room 66266
+O 1 66229 1 66266		*     replace it with a pile of gore 
+R 0 66229 66230		* 	removes drake skin from room 66229
+O 1 66229 1 66229		*     replace it with a pile of gore 
+T 0 -1 1 0 10		* only loads during 10th month
+M 1 66226 1 66229    	* the spectre of the priest
+M 1 66227 3 66230    	* the forest wraiths
+M 1 66227 3 66230    	* the forest wraiths
+M 1 66227 3 66230    	* the forest wraiths
+T 0 -1 1 0 16		
+X 1 -1 66226		* remove after Horthos
+X 1 -1 66227		* remove after Horthos
+T 0 -1 0 1 0            * every monday
+M 1 66229 2 66301 70    *orc captain loads 70% of time?
+E 1 66231 10 5          * wears armor on body
+E 1 66233 16 6          * wears helmet on head
+E 1 66232 18 16         * wield sword primary
+M 1 66231 10 66301      *orc shaman
+M 1 66231 10 66301      *orc shaman
+M 1 66231 10 66301      *orc shaman
+M 1 66230 15 66301      *orc soldier
+E 1 66231 10 5          * wear armor
+E 1 66232 18 16         * wield sword
+M 1 66230 15 66301      *orc soldier
+E 1 66232 18 16         * wield sword primary
+E 1 66233 16 6          * wear helmet on head
+M 1 66230 15 66301      *orc soldier
+E 1 66232 18 16         * wield sword primary
+E 1 66233 16 6          * wear helmet on head
+M 1 66230 15 66301      *orc soldier
+E 1 66232 18 16         * wield sword primary
+E 1 66233 16 6          * wear helmet on head
+M 1 66229 2 66347       *2nd orc captain loads 
+G 1 66215 1          	*  give him leavey's key
+E 1 66231 10 5          * wears armor on body
+E 1 66233 16 6          * wears helmet on head
+E 1 66232 18 16         * wield sword primary
+M 1 66231 10 66347      *orc shaman
+M 1 66231 10 66347      *orc shaman
+M 1 66230 15 66347      *orc soldier
+E 1 66232 18 16         * wield sword primary
+E 1 66233 16 6          * wear helmet on head
+M 1 66230 15 66347      *orc soldier
+E 1 66232 18 16         * wield sword primary
+E 1 66233 16 6          * wear helmet on head
+M 1 66230 15 66347      *orc soldier
+E 1 66232 18 16         * wield sword primary
+M 1 66230 15 66347      *orc soldier
+E 1 66232 18 16         * wield sword primary
+E 1 66233 16 6          * wear helmet on head
+F 2 66301 66229 66230   *all soldiers follow captain
+F 2 66301 66229 66231   *all shamen follow captain
+F 2 66347 66229 66230   *all soldiers follow captain
+F 2 66347 66229 66231   *all shamen follow captain
+T 0 -1 0 3 0            * every wednesday
+M 1 66232 1 66299 12    * manticore loads 12% of time?
+T 0 -1 0 1 0            * every monday
+M 1 66233 1 66237 20     * hook horror loads 20% of time?
+*
+S

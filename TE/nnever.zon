@@ -1,0 +1,465 @@
+#664
+Northern Neverwinter~
+66599 10 2 0
+8 0 100
+2 4 0 0
+0 0 0 0
+3 0 0 0
+5 7 0 0
+5 5 5 5
+****** Zone edited with TE 0.1 ******
+*
+****** Doors Table ******
+D 0 66400 2 1        * South exit from room 66400
+D 0 66401 1 1        * East exit from room 66401
+D 0 66402 3 1        * West exit from room 66402
+D 0 66403 2 1        * South exit from room 66403
+D 0 66406 1 1        * East exit from room 66406
+D 0 66407 0 1        * North exit from room 66407
+D 0 66407 1 1        * East exit from room 66407
+D 0 66407 3 1        * West exit from room 66407
+D 0 66408 3 1        * West exit from room 66408
+D 0 66409 1 1        * East exit from room 66409
+D 0 66410 3 1        * West exit from room 66410
+D 0 66411 0 1        * North exit from room 66411
+D 0 66418 2 1        * South exit from room 66418
+D 0 66422 4 1        * Up exit from room 66422
+D 0 66425 2 1        * South exit from room 66425
+D 0 66429 0 1        * North exit from room 66429
+D 0 66436 0 1        * North exit from room 66436
+D 0 66436 2 1        * South exit from room 66436
+D 0 66444 5 1        * Down exit from room 66444
+D 0 66446 1 1        * East exit from room 66446
+D 0 66447 0 1        * North exit from room 66447
+D 0 66447 3 1        * West exit from room 66447
+D 0 66469 1 1        * East exit from room 66469
+D 0 66470 1 1        * East exit from room 66470
+D 0 66470 3 1        * West exit from room 66470
+D 0 66471 1 2        * East exit from room 66471
+D 0 66471 2 1        * South exit from room 66471
+D 0 66471 3 1        * West exit from room 66471
+D 0 66472 2 1        * South exit from room 66472
+D 0 66472 3 2        * West exit from room 66472
+D 0 66484 1 2        * East exit from room 66484
+D 0 66485 0 1        * North exit from room 66485
+D 0 66485 3 2        * West exit from room 66485
+D 0 66486 0 1        * North exit from room 66486
+D 0 66495 0 1        * North exit from room 66495
+D 0 66495 1 1        * East exit from room 66495
+D 0 66495 5 1        * Down exit from room 66495
+D 0 66496 3 1        * West exit from room 66496
+D 0 66499 2 1        * South exit from room 66499
+D 0 66509 3 1        * West exit from room 66509
+D 0 66513 0 1        * North exit from room 66513
+D 0 66516 1 1        * East exit from room 66516
+D 0 66517 1 5        * East exit from room 66517
+D 0 66517 3 1        * West exit from room 66517
+D 0 66518 3 5        * West exit from room 66518
+D 0 66519 1 5        * East exit from room 66519
+D 0 66520 3 5        * West exit from room 66520
+D 0 66527 1 1        * East exit from room 66527
+D 0 66528 3 1        * West exit from room 66528
+D 0 66528 5 1        * Down exit from room 66528
+D 0 66529 1 1        * East exit from room 66529
+D 0 66529 5 1        * Down exit from room 66529
+D 0 66530 3 1        * West exit from room 66530
+D 0 66532 2 1        * South exit from room 66532
+D 0 66532 5 1        * Down exit from room 66532
+D 0 66533 1 1        * East exit from room 66533
+D 0 66534 3 1        * West exit from room 66534
+D 0 66536 0 2        * North exit from room 66536
+D 0 66536 1 2        * East exit from room 66536
+D 0 66537 2 1        * South exit from room 66537
+D 0 66537 3 2        * West exit from room 66537
+D 0 66538 2 2        * South exit from room 66538
+D 0 66541 0 1        * North exit from room 66541
+D 0 66541 1 2        * East exit from room 66541
+D 0 66542 0 2        * North exit from room 66542
+D 0 66542 2 5        * South exit from room 66542
+D 0 66542 3 2        * West exit from room 66542
+D 0 66544 0 5        * North exit from room 66544
+D 0 66585 1 1        * East exit from room 66585
+D 0 66586 3 1        * West exit from room 66586
+D 0 66589 5 1        * Down exit from room 66589
+D 0 66597 0 1        * North exit from room 66597
+D 0 66597 1 1        * East exit from room 66597
+D 0 66598 2 1        * South exit from room 66598
+D 0 66599 3 1        * West exit from room 66599
+M 0 66400 13 66401    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66443 17 16        	*      a guard's shortsword
+M 0 66441 5 66404    	* a worker
+M 0 66441 5 66404    	* a worker
+M 0 66400 13 66405    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66431 83 16        	*      a blast globe
+G 1 66443 17          	*     a guard's shortsword
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+M 0 66402 1 66406    	* a guard captain
+E 1 66435 8 5        	*      a suit of Neverwinter chainmail
+E 1 66431 83 16        	*      a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+M 0 66400 13 66407    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66428 3 16        	*      a long, spiked polearm
+M 0 66400 13 66407    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66428 3 16        	*      a long, spiked polearm
+M 0 66401 8 66407    	* a Neverwinter Elite
+E 1 66435 8 5        	*      a suit of Neverwinter chainmail
+E 1 66443 17 16        	*      a guard's shortsword
+M 0 66401 8 66407    	* a Neverwinter Elite
+E 1 66435 8 5        	*      a suit of Neverwinter chainmail
+E 1 66443 17 16        	*      a guard's shortsword
+M 0 66401 8 66407    	* a Neverwinter Elite
+E 1 66435 8 5        	*      a suit of Neverwinter chainmail
+E 1 66443 17 16        	*      a guard's shortsword
+M 0 66401 8 66407    	* a Neverwinter Elite
+E 1 66435 8 5        	*      a suit of Neverwinter chainmail
+E 1 66443 17 16        	*      a guard's shortsword
+M 0 66453 3 66410    	* a female militia member
+E 1 66434 16 5        	*      some guard's armor
+E 1 66431 83 16        	*      a blast globe
+G 1 66443 17          	*     a guard's shortsword
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+M 0 66452 2 66410    	* a street cleaner
+M 0 66411 5 66410    	* a militia member
+M 0 66403 5 66412    	* a mangy mongrel
+M 0 66410 3 66413    	* a housewife
+M 0 66411 5 66415    	* a militia member
+M 0 66400 13 66415    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66443 17 16        	*      a guard's shortsword
+M 0 66409 4 66416    	* a child messenger
+M 0 66415 2 66416    	* a wide-eyed traveler
+M 0 66449 3 66416    	* a street runner
+M 0 66424 1 66417    	* a quiet shopkeeper
+M 0 66436 8 66419    	* the tavern patron
+M 0 66442 6 66419    	* a drunkard
+M 0 66442 6 66419    	* a drunkard
+M 0 66441 5 66420    	* a worker
+O 0 66402 5 66421     	* a piece of garbage
+M 0 66411 5 66421    	* a militia member
+O 0 66414 5 66425     	* a tentacled torch
+M 0 66429 2 66425    	* a Kraken sorcerer
+E 1 66427 2 12        	*      a thick, purplish cloak
+M 0 66429 2 66425    	* a Kraken sorcerer
+E 1 66413 1 1        	*      a small, ornate ring
+E 1 66427 2 12        	*      a thick, purplish cloak
+M 0 66404 3 66426    	* a well-dressed merchant
+M 0 66450 6 66426    	* a gangly youth
+O 0 66438 1 66427     	* a large fountain
+M 0 66407 4 66427    	* a working-class citizen
+M 0 66413 1 66427    	* a beautiful minstrel
+E 1 66430 1 18        	*      a rosewood mandolin
+O 0 66421 5 66428     	* a large wooden crate
+P 1 66424 5 66421     	*     some packing materials in a large wooden crate
+P 1 66425 5 66421     	*     some imported spices in a large wooden crate
+O 0 66422 3 66428     	* a large, banded barrel
+O 0 66402 5 66429     	* a piece of garbage
+M 0 66434 3 66429    	* the assassin
+M 0 66436 8 66430    	* the tavern patron
+M 0 66436 8 66430    	* the tavern patron
+M 0 66437 1 66430    	* the bartender
+M 0 66441 5 66431    	* a worker
+M 0 66450 6 66432    	* a gangly youth
+M 0 66428 2 66433    	* a Kraken assassin
+E 1 66432 2 16        	*      a serrated dagger
+M 0 66426 4 66434    	* a petty thief
+M 0 66408 7 66436    	* a kraken guard
+E 1 66411 7 16        	*      a kraken shortsword
+M 0 66449 3 66437    	* a street runner
+M 0 66440 1 66438    	* the banker
+M 0 66425 6 66439    	* a strong-looking smuggler
+M 0 66404 3 66440    	* a well-dressed merchant
+M 0 66425 6 66441    	* a strong-looking smuggler
+O 0 66421 5 66442     	* a large wooden crate
+P 1 66424 5 66421     	*     some packing materials in a large wooden crate
+M 0 66425 6 66442    	* a strong-looking smuggler
+O 0 66421 5 66443     	* a large wooden crate
+O 0 66422 3 66443     	* a large, banded barrel
+M 0 66425 6 66443    	* a strong-looking smuggler
+M 0 66425 6 66443    	* a strong-looking smuggler
+M 0 66434 3 66445    	* the assassin
+O 0 66414 5 66446     	* a tentacled torch
+M 0 66417 1 66448    	* a small child
+M 0 66418 2 66448    	* a small child
+M 0 66418 2 66448    	* a small child
+M 0 66445 6 66448    	* a tiny pigeon
+F 2 66448 66417 66418	*     mob grouping
+O 0 66421 5 66449     	* a large wooden crate
+P 1 66424 5 66421     	*     some packing materials in a large wooden crate
+P 1 66437 5 66421     	*     a lovely ceramic vase in a large wooden crate
+M 0 66426 4 66450    	* a petty thief
+M 0 66403 5 66451    	* a mangy mongrel
+M 0 66414 5 66451    	* a shady individual
+M 0 66403 5 66454    	* a mangy mongrel
+M 0 66435 2 66455    	* the filthy beggar
+O 0 66414 5 66458     	* a tentacled torch
+M 0 66408 7 66458    	* a kraken guard
+E 1 66411 7 16        	*      a kraken shortsword
+M 0 66451 3 66459    	* the repairman
+M 0 66400 13 66459    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66428 3 16        	*      a long, spiked polearm
+M 0 66410 3 66459    	* a housewife
+M 0 66407 4 66459    	* a working-class citizen
+M 0 66450 6 66459    	* a gangly youth
+M 0 66400 13 66461    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66431 83 16        	*      a blast globe
+G 1 66443 17          	*     a guard's shortsword
+M 0 66435 2 66462    	* the filthy beggar
+M 0 66450 6 66462    	* a gangly youth
+M 0 66411 5 66464    	* a militia member
+M 0 66416 2 66464    	* a young adventurer
+M 0 66432 1 66465    	* Bug-eyed Earl, the echo mob
+M 0 66441 5 66467    	* a worker
+O 0 66402 5 66468     	* a piece of garbage
+M 0 66409 4 66468    	* a child messenger
+M 0 66408 7 66470    	* a kraken guard
+E 1 66411 7 16        	*      a kraken shortsword
+M 0 66408 7 66470    	* a kraken guard
+E 1 66411 7 16        	*      a kraken shortsword
+M 0 66431 5 66472    	* a Kraken elite
+E 1 66412 5 5        	*      some kraken armor
+E 1 66426 5 16        	*      a kraken longsword
+M 0 66416 2 66473    	* a young adventurer
+M 0 66445 6 66473    	* a tiny pigeon
+M 0 66400 13 66473    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66443 17 16        	*      a guard's shortsword
+M 0 66405 1 66475    	* Mawl Steelbender
+O 0 66402 5 66477     	* a piece of garbage
+M 0 66407 4 66479    	* a working-class citizen
+M 0 66409 4 66479    	* a child messenger
+M 0 66414 5 66483    	* a shady individual
+M 0 66419 1 66488    	* Mawl's shopkeeper
+O 0 66402 5 66489     	* a piece of garbage
+M 0 66414 5 66489    	* a shady individual
+M 0 66426 4 66490    	* a petty thief
+M 0 66434 3 66491    	* the assassin
+M 0 66414 5 66492    	* a shady individual
+M 0 66436 8 66492    	* the tavern patron
+M 0 66442 6 66492    	* a drunkard
+M 0 66400 13 66493    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66443 17 16        	*      a guard's shortsword
+M 0 66403 5 66493    	* a mangy mongrel
+M 0 66450 6 66493    	* a gangly youth
+M 0 66426 4 66496    	* a petty thief
+M 0 66414 5 66496    	* a shady individual
+M 0 66436 8 66496    	* the tavern patron
+M 0 66425 6 66497    	* a strong-looking smuggler
+M 0 66436 8 66497    	* the tavern patron
+M 0 66438 1 66497    	* the bartender
+M 0 66442 6 66497    	* a drunkard
+M 0 66433 1 66500    	* the shopkeeper
+M 0 66404 3 66501    	* a well-dressed merchant
+M 0 66411 5 66501    	* a militia member
+M 0 66423 1 66502    	* Juramis the jeweler
+M 0 66403 5 66503    	* a mangy mongrel
+M 0 66442 6 66506    	* a drunkard
+M 0 66442 6 66506    	* a drunkard
+M 0 66443 1 66506    	* the evil bartender
+M 0 66401 8 66507    	* a Neverwinter Elite
+E 1 66435 8 5        	*      a suit of Neverwinter chainmail
+M 0 66401 8 66507    	* a Neverwinter Elite
+E 1 66435 8 5        	*      a suit of Neverwinter chainmail
+M 0 66412 2 66507    	* a wandering minstrel
+M 0 66400 13 66507    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66443 17 16        	*      a guard's shortsword
+M 0 66400 13 66509    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66431 83 16        	*      a blast globe
+G 1 66443 17          	*     a guard's shortsword
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+M 0 66400 13 66509    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66431 83 16        	*      a blast globe
+G 1 66443 17          	*     a guard's shortsword
+M 0 66401 8 66509    	* a Neverwinter Elite
+E 1 66435 8 5        	*      a suit of Neverwinter chainmail
+E 1 66431 83 16        	*      a blast globe
+M 0 66450 6 66510    	* a gangly youth
+M 0 66407 4 66511    	* a working-class citizen
+M 0 66420 1 66514    	* Kaelen's shopkeeper
+M 0 66451 3 66515    	* the repairman
+M 0 66415 2 66515    	* a wide-eyed traveler
+M 0 66410 3 66515    	* a housewife
+M 0 66445 6 66515    	* a tiny pigeon
+M 0 66451 3 66521    	* the repairman
+M 0 66453 3 66523    	* a female militia member
+E 1 66434 16 5        	*      some guard's armor
+E 1 66431 83 16        	*      a blast globe
+G 1 66443 17          	*     a guard's shortsword
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+M 0 66400 13 66523    	* a Neverwinter guardsman
+E 1 66434 16 5        	*      some guard's armor
+E 1 66431 83 16        	*      a blast globe
+G 1 66443 17          	*     a guard's shortsword
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+O 0 66409 1 66524     	* a clock-in-progress sits here
+O 0 66408 1 66524     	* a large water clock
+M 0 66406 1 66524    	* Kaelen
+M 0 66401 8 66525    	* a Neverwinter Elite
+M 0 66409 4 66525    	* a child messenger
+M 0 66449 3 66525    	* a street runner
+M 0 66412 2 66527    	* a wandering minstrel
+M 0 66436 8 66527    	* the tavern patron
+M 0 66436 8 66527    	* the tavern patron
+M 0 66439 1 66527    	* the bartender
+M 0 66446 5 66527    	* a gambler
+M 0 66446 5 66528    	* a gambler
+M 0 66446 5 66528    	* a gambler
+M 0 66446 5 66528    	* a gambler
+M 0 66446 5 66528    	* a gambler
+M 0 66447 1 66528    	* the casino owner
+M 0 66421 1 66530    	* I'lvan Darksteele
+E 1 66442 1 16        	*      a vicious, curved dagger
+M 0 66452 2 66531    	* a street cleaner
+O 0 66423 2 66532     	* a small crate
+P 1 66436 2 66423     	*     a small brass statuette in a small crate
+M 0 66431 5 66533    	* a Kraken elite
+E 1 66412 5 5        	*      some kraken armor
+E 1 66426 5 16        	*      a kraken longsword
+O 0 66414 5 66534     	* a tentacled torch
+M 0 66431 5 66534    	* a Kraken elite
+E 1 66412 5 5        	*      some kraken armor
+E 1 66426 5 16        	*      a kraken longsword
+O 0 66414 5 66535     	* a tentacled torch
+M 0 66408 7 66535    	* a kraken guard
+E 1 66411 7 16        	*      a kraken shortsword
+M 0 66427 3 66537    	* a quiet accountant
+M 0 66427 3 66537    	* a quiet accountant
+M 0 66427 3 66537    	* a quiet accountant
+O 0 66410 2 66538     	* a large stone statue
+O 0 66410 2 66538     	* a large stone statue
+M 0 66408 7 66538    	* a kraken guard
+E 1 66411 7 16        	*      a kraken shortsword
+M 0 66408 7 66538    	* a kraken guard
+E 1 66411 7 16        	*      a kraken shortsword
+O 0 66423 2 66539     	* a small crate
+P 1 66436 2 66423     	*     a small brass statuette in a small crate
+O 0 66421 5 66540     	* a large wooden crate
+P 1 66424 5 66421     	*     some packing materials in a large wooden crate
+O 0 66422 3 66540     	* a large, banded barrel
+P 1 66425 3 66422     	*     some imported spices in a large, banded barrel
+M 0 66428 2 66540    	* a Kraken assassin
+E 1 66432 2 16        	*      a serrated dagger
+O 0 66403 1 66542     	* a large, carved desk
+O 0 66405 1 66544     	* a massive war table
+M 0 66431 5 66544    	* a Kraken elite
+E 1 66412 5 5        	*      some kraken armor
+E 1 66426 5 16        	*      a kraken longsword
+M 0 66431 5 66544    	* a Kraken elite
+E 1 66412 5 5        	*      some kraken armor
+E 1 66426 5 16        	*      a kraken longsword
+M 0 66430 1 66544    	* the Kraken leader
+O 0 66404 1 66549     	* a large wooden desk
+O 0 66415 1 66550     	* a lovely throw rug
+O 0 66407 1 66551     	* a mirrored vanity
+O 0 66406 1 66551     	* a large polster bed
+O 0 66418 5 66552     	* a massive ballista
+O 0 66419 4 66552     	* a large ballista missile
+M 0 66444 8 66552    	* a wall patrolman
+O 0 66420 3 66555     	* a gigantic catapult
+M 0 66444 8 66555    	* a wall patrolman
+M 0 66448 7 66556    	* the archer
+O 0 66418 5 66559     	* a massive ballista
+O 0 66419 4 66559     	* a large ballista missile
+O 0 66419 4 66559     	* a large ballista missile
+M 0 66448 7 66559    	* the archer
+M 0 66448 7 66560    	* the archer
+O 0 66418 5 66562     	* a massive ballista
+M 0 66448 7 66563    	* the archer
+O 0 66420 3 66564     	* a gigantic catapult
+M 0 66444 8 66567    	* a wall patrolman
+O 0 66418 5 66568     	* a massive ballista
+O 0 66419 4 66568     	* a large ballista missile
+M 0 66444 8 66568    	* a wall patrolman
+M 0 66444 8 66571    	* a wall patrolman
+M 0 66448 7 66571    	* the archer
+M 0 66445 6 66574    	* a tiny pigeon
+M 0 66448 7 66574    	* the archer
+O 0 66418 5 66578     	* a massive ballista
+M 0 66444 8 66578    	* a wall patrolman
+M 0 66445 6 66578    	* a tiny pigeon
+O 0 66420 3 66579     	* a gigantic catapult
+M 0 66444 8 66579    	* a wall patrolman
+M 0 66444 8 66579    	* a wall patrolman
+M 0 66445 6 66579    	* a tiny pigeon
+M 0 66453 3 66590    	* a female militia member
+E 1 66434 16 5        	*      some guard's armor
+E 1 66431 83 16        	*      a blast globe
+G 1 66443 17          	*     a guard's shortsword
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+G 1 66431 83          	*     a blast globe
+M 0 66448 7 66590    	* the archer
+S

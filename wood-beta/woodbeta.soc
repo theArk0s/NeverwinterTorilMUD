@@ -1,0 +1,407 @@
+MOB: 66200 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+looks at you, then blushes and turns away, giggling.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+giggles girlishly.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+swims and splashes about.
+~
+LISTDONE
+;; End of social entries for mob nr. 66200
+MOB: 66205 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+stares at you blankly.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 9 ;; 10%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+croaks loudly.
+~
+LISTDONE
+;; End of social entries for mob nr. 66205
+MOB: 66208 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 10%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+flits about from tree to tree.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+squawks loudly and flaps its wings.
+~
+LISTDONE
+;; End of social entries for mob nr. 66208
+MOB: 66210 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+appears to ignore your presence.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+raises its nose to the air as if smelling for something.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 31 ;;growl
+~
+LISTDONE
+;; End of social entries for mob nr. 66210
+MOB: 66211 TRIGGER
+FLAG: 36 ;; USE INITIATOR - DIRECTED -
+CHANCE: 0 ;; 100%
+DELAY: 4 ;; 1 seconds
+TRIGGER: 130 ;;slap
+ACTION: 17 ;;say
+You'd best run, you insolent Fool!
+~
+FLAG: 5 ;; NON COMBAT ONLY - USE INITIATOR -
+CHANCE: 0 ;; 100%
+DELAY: 12 ;; 3 seconds
+ACTION: 25 ;;kill
+~
+DONE
+MOB: 66211 TRIGGER
+FLAG: 5 ;; NON COMBAT ONLY - USE INITIATOR -
+CHANCE: 0 ;; 100%
+DELAY: 4 ;; 1 seconds
+TRIGGER: 342 ;;wet
+ACTION: 130 ;;slap
+~
+FLAG: 5 ;; NON COMBAT ONLY - USE INITIATOR -
+CHANCE: 0 ;; 100%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Time for some new leggings, eh? 
+~
+DONE
+MOB: 66211 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 8 ;; 11%
+DELAY: 4 ;; 1 seconds
+ACTION: 153 ;;hide
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+paces about the road, protecting travelers.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+stops suddenly and clutches his sword.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 8 ;; 11%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+scans the area for trouble.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 10%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Just smell that fresh air!
+~
+LISTDONE
+;; End of social entries for mob nr. 66211
+MOB: 66213 TRIGGER
+FLAG: 36 ;; USE INITIATOR - DIRECTED -
+CHANCE: 0 ;; 100%
+DELAY: 4 ;; 1 seconds
+TRIGGER: 31 ;;growl
+ACTION: 31 ;;growl
+~
+DONE
+MOB: 66213 TRIGGER
+FLAG: 5 ;; NON COMBAT ONLY - USE INITIATOR -
+CHANCE: 0 ;; 100%
+DELAY: 4 ;; 1 seconds
+TRIGGER: 342 ;;wet
+ACTION: 31 ;;growl
+~
+FLAG: 5 ;; NON COMBAT ONLY - USE INITIATOR -
+CHANCE: 0 ;; 100%
+DELAY: 8 ;; 2 seconds
+ACTION: 17 ;;say
+Only Glorpk pee under Glorpk bridge, you die now.
+~
+FLAG: 5 ;; NON COMBAT ONLY - USE INITIATOR -
+CHANCE: 0 ;; 100%
+DELAY: 12 ;; 3 seconds
+ACTION: 25 ;;kill
+~
+DONE
+MOB: 66213 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 31 ;;growl
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 10%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+hides in the shadows below the bridge.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 120 ;;lick
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+drinks some of the putrid water from the River.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 19 ;; 10%
+DELAY: 4 ;; 1 seconds
+ACTION: 37 ;;sulk
+~
+LISTDONE
+;; End of social entries for mob nr. 66213
+MOB: 66218 TRIGGER
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 0 ;; 100%
+DELAY: 4 ;; 1 seconds
+TRIGGER: 171 ;;curse
+ACTION: 114 ;;frown
+~
+DONE
+FLAG:   32             ;; IF she's targeted
+CHANCE: 0             ;; Always
+DELAY:  4
+TRIGGER: 130          ;; Someone slaps her
+ACTION: 17            ;; Say
+Slap me again and you'll be sorry!
+~
+DONE
+MOB: 66218 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 9 ;; 10%
+DELAY: 0 ;; 0 seconds
+ACTION: 23 ;;smile
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 34 ;; 11%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Are you prepared to train?
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 8 ;; 2 seconds
+ACTION: 40 ;;emote
+strolls peacefully around the glade.
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Beware the Wood! It is both beautiful and dangerous.
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 15 ;; 10%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Has anyone seen my &+Ws&+bt&+Wa&+bf&+Wf&N?  I'd really like it back.
+~
+LISTDONE
+;; End of social entries for mob nr. 66218
+MOB: 66219 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 23 ;; 10%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Has anyone seen my &+Ytoken&N?
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+gathers some herbs and places them in a small bag.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 18 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Be warned, these woods are a dangerous place for the untrained!
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+suddenly drops to the ground and clutches his staff as if alarmed.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 19 ;; 10%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+peers off into the trees as if looking for something.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 18 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+bends over to examine some tracks on the ground.
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 11 ;; 8%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Just smell that fresh air!
+~
+LISTDONE
+;; End of social entries for mob nr. 66219
+MOB: 66221 LIST
+FLAG: 0 ;;
+CHANCE: 16 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+Something can be heard rustling in the leaves just down the path.\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 17 ;; 5%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+The wind whips through the woods, kicking up dust and dead leaves.\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 14 ;; 6%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+Something moves about in the shadows, just out of view.\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 14 ;; 6%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+A large, dark bird flies overhead.\n
+~
+DONE
+FLAG: 0 ;;
+CHANCE: 15 ;; 6%
+DELAY: 0 ;; 0 seconds
+ACTION: 1001 ;;Echo in every OUTSIDE room in the zone
+A loud scream echoes from within the wood and then suddenly falls silent.\n
+~
+LISTDONE
+;; End of social entries for mob nr. 66221
+MOB: 66222 TRIGGER
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 0 ;; 100%
+DELAY: 4 ;; 1 seconds
+TRIGGER: 111 ;;fart
+ACTION: 17 ;;say
+Whew...what have you been eating?
+~
+DONE
+MOB: 66222 TRIGGER
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 0 ;; 100%
+DELAY: 4 ;; 1 seconds
+TRIGGER: 342 ;;wet
+ACTION: 28 ;;giggle
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 0 ;; 100%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Heh...I see you have that problem too.
+~
+DONE
+MOB: 66222 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 10%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+I don't think I've ever been in this part of the woods before!
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 12%
+DELAY: 8 ;; 2 seconds
+ACTION: 23 ;;smile
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 16 ;; 11%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Umm...do you happen to know the way back to Neverwinter?
+~
+LISTDONE
+;; End of social entries for mob nr. 66222
+MOB: 66225 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 0 ;; 0 seconds
+ACTION: 23 ;;smile
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+You gonna buy something or not?
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 14 ;; 6%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Don't just stand there...go do something!
+~
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 15 ;; 6%
+DELAY: 4 ;; 1 seconds
+ACTION: 17 ;;say
+Beat it, buddy!  You bother me.
+~
+LISTDONE
+;; End of social entries for mob nr. 66225

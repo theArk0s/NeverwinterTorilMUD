@@ -1,0 +1,360 @@
+********************************* Zone info ***********************************
+Number: 664 Zone name: Northern Neverwinter
+
+Rooms info
+
+-- Vnum ------------------------ Name -------------------|---- Sector type ----
+|--------|-----------------------------------------------|--------------------|
+|  66400 |Outside the Northwestern Gates of Neverwinter  |CITY                |
+|  66401 |Inside A Large Tower                           |INSIDE              |
+|  66402 |A Storage Room in the Tower                    |CITY                |
+|  66403 |A Small Dwelling                               |CITY                |
+|  66404 |A Crowded Bedroom                              |CITY                |
+|  66405 |The Sleeping Quarters in the Barracks          |INSIDE              |
+|  66406 |Entrance to the Guard Barracks                 |CITY                |
+|  66407 |Inside the Northwestern Gates of Neverwinter   |CITY                |
+|  66408 |Inside the Northwest Tower                     |INSIDE              |
+|  66409 |Entrance to the Northwest Tower                |INSIDE              |
+|  66410 |Bend in the Street Along the City Walls        |CITY                |
+|  66411 |Street Along the City Walls                    |CITY                |
+|  66412 |Street Along the City Walls                    |CITY                |
+|  66413 |Street Along the City Walls                    |CITY                |
+|  66414 |Street Along the City Walls                    |CITY                |
+|  66415 |The Northern Plaza of Neverwinter              |CITY                |
+|  66416 |The Northern Plaza of Neverwinter              |CITY                |
+|  66417 |A Quaint Little Shop                           |CITY                |
+|  66418 |A Ransacked Building                           |INSIDE              |
+|  66419 |The Back Room of a Quaint Tavern               |CITY                |
+|  66420 |A Tiny Apartment                               |CITY                |
+|  66421 |Street Along the City Walls                    |CITY                |
+|  66422 |A Dark Storage Room                            |CITY                |
+|  66423 |A Small, Dirty Dwelling                        |CITY                |
+|  66424 |A Dingy Alleyway                               |CITY                |
+|  66425 |The Meeting Hall                               |CITY                |
+|  66426 |The Northern Plaza of Neverwinter              |CITY                |
+|  66427 |The Northern Plaza of Neverwinter              |CITY                |
+|  66428 |Inside a Large Building                        |INSIDE              |
+|  66429 |End of the Quaint-Looking Alleyway             |CITY                |
+|  66430 |The Warehouse Tavern                           |INSIDE              |
+|  66431 |A Filthy Hovel                                 |INSIDE              |
+|  66432 |Street Along the City Walls                    |CITY                |
+|  66433 |A Narrow Hallway                               |INSIDE              |
+|  66434 |A Bend in the Dingy Alleyway                   |CITY                |
+|  66435 |A Dingy Alleyway                               |CITY                |
+|  66436 |A Small Hallway                                |CITY                |
+|  66437 |The WyrmFrost Road                             |CITY                |
+|  66438 |The Northern Bank of Neverwinter               |INSIDE              |
+|  66439 |Inside a Large Building                        |INSIDE              |
+|  66440 |A Quaint Alleyway                              |CITY                |
+|  66441 |The Old Potter's Guild                         |INSIDE              |
+|  66442 |Another Room in the Dwelling                   |CITY                |
+|  66443 |Inside a Large Warehouse                       |INSIDE              |
+|  66444 |A Tiny Room                                    |CITY                |
+|  66445 |A Dingy Alleyway                               |CITY                |
+|  66446 |End of the Hallway                             |CITY                |
+|  66447 |A Large, Ornate Chamber                        |CITY                |
+|  66448 |The WyrmFrost Road                             |CITY                |
+|  66449 |A Large Warehouse                              |INSIDE              |
+|  66450 |A Large Warehouse                              |INSIDE              |
+|  66451 |A Quaint Alleyway                              |CITY                |
+|  66452 |The Old Potter's Guild                         |INSIDE              |
+|  66453 |A Ransacked Building                           |INSIDE              |
+|  66454 |Street Along the City Walls                    |CITY                |
+|  66455 |A Dingy Alleyway                               |CITY                |
+|  66456 |A Dingy Alleyway                               |CITY                |
+|  66457 |A Long Hallway in the Compound                 |CITY                |
+|  66458 |A Smaller Chamber                              |CITY                |
+|  66459 |The WyrmFrost Road                             |CITY                |
+|  66460 |A Shady Alleyway                               |CITY                |
+|  66461 |A Shady Alleyway                               |CITY                |
+|  66462 |An Intersection in the Alleyway                |CITY                |
+|  66463 |A Shady Alleyway                               |CITY                |
+|  66464 |A Bend in the Shady Alleyway                   |CITY                |
+|  66465 |The Echo Chamber                               |CITY                |
+|  66466 |The Walkway Along the City Walls               |CITY                |
+|  66467 |A Small Warehouse                              |INSIDE              |
+|  66468 |Street Along the City Walls                    |CITY                |
+|  66469 |A Tiny Cell                                    |CITY                |
+|  66470 |A Small Chamber in the Kraken Compound         |CITY                |
+|  66471 |Entry Hall of the Kraken Compound              |CITY                |
+|  66472 |A Small Office in the Compound                 |CITY                |
+|  66473 |The WyrmFrost Road                             |CITY                |
+|  66474 |Entrance to the Forge Room                     |CITY                |
+|  66475 |Mawl's Forge Room                              |CITY                |
+|  66476 |A Sinister Alleyway                            |CITY                |
+|  66477 |A Small Brick Dwelling                         |CITY                |
+|  66478 |A Shady Alleyway                               |CITY                |
+|  66479 |Garden Street in Neverwinter                   |CITY                |
+|  66480 |A Bend In The Walkway                          |CITY                |
+|  66481 |The Shop of Thieves                            |INSIDE              |
+|  66482 |End of the Street Along the Walls              |CITY                |
+|  66483 |A Dark Alley                                   |CITY                |
+|  66484 |End of the Dark Alley                          |CITY                |
+|  66485 |A Wide Courtyard                               |CITY                |
+|  66486 |A Nondescript Chamber                          |CITY                |
+|  66487 |The WyrmFrost Road                             |CITY                |
+|  66488 |Mawl's House of War                            |INSIDE              |
+|  66489 |A Bend in the Sinister Alleyway                |CITY                |
+|  66490 |A Bend in the Sinister Alleyway                |CITY                |
+|  66491 |The Alley of Killers                           |CITY                |
+|  66492 |A Dark Bar                                     |INSIDE              |
+|  66493 |Garden Street in Neverwinter                   |CITY                |
+|  66494 |A Narrowing In The Walkway                     |CITY                |
+|  66495 |Entrance to the Guild of Thieves               |INSIDE              |
+|  66496 |The Tavern's Back Room                         |CITY                |
+|  66497 |A Small, Dank Tavern                           |INSIDE              |
+|  66498 |A Dining Hall in the Opulent Dwelling          |CITY                |
+|  66499 |The Entryway of an Opulent Dwelling            |CITY                |
+|  66500 |The Harpers' Help                              |INSIDE              |
+|  66501 |The WyrmFrost Road                             |CITY                |
+|  66502 |Jermanis' House of Fine Gems                   |INSIDE              |
+|  66503 |A Sinister Alleyway                            |CITY                |
+|  66504 |A Poor Dwelling                                |CITY                |
+|  66505 |The Alley of Killers                           |CITY                |
+|  66506 |A Dark Bar                                     |INSIDE              |
+|  66507 |Garden Street in Neverwinter                   |CITY                |
+|  66508 |The Walkway Along the City Walls               |CITY                |
+|  66509 |Inside the Northern Dock Gate                  |CITY                |
+|  66510 |The Old Wharf Road                             |CITY                |
+|  66511 |The Old Wharf Road                             |CITY                |
+|  66512 |The Old Wharf Road                             |CITY                |
+|  66513 |A Bend in the Wharf Road                       |CITY                |
+|  66514 |Kaelen's Clock Shop                            |INSIDE              |
+|  66515 |The WyrmFrost Road                             |CITY                |
+|  66516 |Inside the Clock Tower                         |INSIDE              |
+|  66517 |A Cluttered Alleyway                           |CITY                |
+|  66518 |Inside a Ruined Building                       |INSIDE              |
+|  66519 |Entrance to the Old Assassin's Guild           |INSIDE              |
+|  66520 |A Dark Bar                                     |INSIDE              |
+|  66521 |Garden Street in Neverwinter                   |CITY                |
+|  66522 |End Of The Walkway Along the City Walls        |CITY                |
+|  66523 |The Old Wharf Road                             |CITY                |
+|  66524 |Kaelen's Workshop                              |INSIDE              |
+|  66525 |The WyrmFrost Road                             |CITY                |
+|  66526 |The Shining Serpent Inn                        |INSIDE              |
+|  66527 |The Shining Serpent's Bar                      |INSIDE              |
+|  66528 |Back Room of the Shining Serpent               |CITY                |
+|  66529 |The Hall of the Assassin                       |INSIDE              |
+|  66530 |The Master's Chamber                           |CITY                |
+|  66531 |Garden Street in Neverwinter                   |CITY                |
+|  66532 |A Large Storage Room                           |CITY                |
+|  66533 |A Large Dining Chamber                         |CITY                |
+|  66534 |A Bend in the Wide Hallway                     |INSIDE              |
+|  66535 |A Bend in the Wide Hallway                     |INSIDE              |
+|  66536 |A Small Chamber                                |CITY                |
+|  66537 |A Small Office                                 |CITY                |
+|  66538 |End of the Wide Hallway                        |INSIDE              |
+|  66539 |Along A Wide Hallway                           |INSIDE              |
+|  66540 |A Large Circular Room                          |CITY                |
+|  66541 |A Large Library                                |INSIDE              |
+|  66542 |A Magnificent Office                           |CITY                |
+|  66543 |Along A Wide Hallway                           |INSIDE              |
+|  66544 |The War Room                                   |CITY                |
+|  66545 |Atop A Large Staircase                         |INSIDE              |
+|  66546 |Upper Level of the Clock Tower                 |INSIDE              |
+|  66547 |Second Level of the Shining Serpent Inn        |INSIDE              |
+|  66548 |Main Desk of the Shining Serpent Inn           |INSIDE              |
+|  66549 |The Trophy Room                                |CITY                |
+|  66550 |A Balcony Over A Wide Stone Staircase          |INSIDE              |
+|  66551 |The Master Bedroom                             |CITY                |
+|  66552 |The Walkway Along the City Walls               |CITY                |
+|  66553 |The Walkway Along the City Walls               |CITY                |
+|  66554 |The Walkway Along the City Walls               |CITY                |
+|  66555 |The Walkway Along the City Walls               |CITY                |
+|  66556 |The Walkway Along the City Walls               |CITY                |
+|  66557 |The Walkway Along the City Walls               |CITY                |
+|  66558 |The Walkway Above The Northwest Gate           |CITY                |
+|  66559 |Atop The Northwestern Guard Tower              |CITY                |
+|  66560 |The Walkway Along the City Walls               |CITY                |
+|  66561 |The Walkway Along the City Walls               |CITY                |
+|  66562 |The Walkway Along the City Walls               |CITY                |
+|  66563 |The Walkway Along the City Walls               |CITY                |
+|  66564 |A Bend in the Walkway                          |CITY                |
+|  66565 |The Walkway Along the City Walls               |CITY                |
+|  66566 |On the Rooftops of Neverwinter                 |CITY                |
+|  66567 |The Walkway Along the City Walls               |CITY                |
+|  66568 |The Walkway Along the City Walls               |CITY                |
+|  66569 |On the Rooftops of Neverwinter                 |CITY                |
+|  66570 |On the Rooftops of Neverwinter                 |CITY                |
+|  66571 |The Walkway Along the City Walls               |CITY                |
+|  66572 |The Walkway Along the City Walls               |CITY                |
+|  66573 |On the Rooftops of Neverwinter                 |CITY                |
+|  66574 |The Walkway Along the City Walls               |CITY                |
+|  66575 |The Walkway Along the City Walls               |CITY                |
+|  66576 |A Narrow Wooden Walkway Over An Alley          |CITY                |
+|  66577 |A Bend in the Walkway                          |CITY                |
+|  66578 |The Walkway Along the City Walls               |CITY                |
+|  66579 |The Walkway Along the City Walls               |CITY                |
+|  66580 |On the Rooftops of Neverwinter                 |CITY                |
+|  66581 |On the Rooftops of Neverwinter                 |CITY                |
+|  66582 |A Wooden Walkway Between Buildings             |CITY                |
+|  66583 |A Delapidated Rooftop                          |CITY                |
+|  66584 |The Walkway Along the City Walls               |CITY                |
+|  66585 |A Tiny, Hidden Shop                            |CITY                |
+|  66586 |An End to the Walkway                          |CITY                |
+|  66587 |Along A Narrow Walkway                         |CITY                |
+|  66588 |Along A Narrow Connecting Walkway              |CITY                |
+|  66589 |A Rooftop Above The Tavern                     |CITY                |
+|  66590 |The End of the Walkway                         |CITY                |
+|  66591 |On the Rooftops of Neverwinter                 |CITY                |
+|  66592 |On the Rooftops of Neverwinter                 |CITY                |
+|  66593 |A Narrow Walkway Above Wharf Road              |CITY                |
+|  66594 |Third Level of the Shining Serpent Inn         |INSIDE              |
+|  66595 |A Hallway in the Shining Serpent Inn           |INSIDE              |
+|  66596 |A Bright Room in the Shining Serpent Inn       |INSIDE              |
+|  66597 |The Fourth Floor of the Shining Serpent Inn    |INSIDE              |
+|  66598 |An Opulent Room in the Shining Serpent Inn     |INSIDE              |
+|  66599 |A Small Room in the Shining Serpent Inn        |INSIDE              |
+|--------|-----------------------------------------------|--------------------|
+
+Number of rooms: 200 First room: 66400 Last room: 66599
+Average description length: 8 lines
+
+
+Objects info
+
+-- Vnum ------------------------ Name -------------------|---- Object type ----
+|        |                      Stats                    |                    |
+|--------|-----------------------------------------------|--------------------|
+|  66400 |the kraken key                                 |KEY                 |
+|  66401 |a small, sealed note                           |OTHER               |
+|  66402 |a piece of garbage                             |TRASH               |
+|  66403 |a large, carved desk                           |CONTAINER           |
+|  66404 |a large wooden desk                            |CONTAINER           |
+|  66405 |a massive war table                            |TRASH               |
+|  66406 |a large polster bed                            |TRASH               |
+|  66407 |a mirrored vanity                              |CONTAINER           |
+|  66408 |a large water clock                            |TREASURE            |
+|  66409 |a clock-in-progress sits here                  |TRASH               |
+|  66410 |a large stone statue                           |TRASH               |
+|  66411 |a kraken shortsword                            |WEAPON              |
+|        |Dam: 2d4                                       |                    |
+|  66412 |some kraken armor                              |ARMOR               |
+|        |AC: -10 DAMROLL 2                              |                    |
+|  66413 |a small, ornate ring                           |WORN                |
+|        |AC -4 HITROLL 1                                |                    |
+|  66414 |a tentacled torch                              |TRASH               |
+|  66415 |a lovely throw rug                             |WORN                |
+|        |AC -5                                          |                    |
+|  66416 |a bottle of Neverwinter's Finest               |DRINKCON            |
+|  66417 |a Neverwinter knife                            |WEAPON              |
+|        |Dam: 2d4 HITROLL 1                             |                    |
+|  66418 |a massive ballista                             |TREASURE            |
+|  66419 |a large ballista missile                       |WEAPON              |
+|        |Dam: 2d30                                      |                    |
+|  66420 |a gigantic catapult                            |TREASURE            |
+|  66421 |a large wooden crate                           |CONTAINER           |
+|  66422 |a large, banded barrel                         |CONTAINER           |
+|  66423 |a small crate                                  |CONTAINER           |
+|  66424 |some packing materials                         |TRASH               |
+|  66425 |some imported spices                           |TREASURE            |
+|  66426 |a kraken longsword                             |WEAPON              |
+|        |Dam: 4d3 HITROLL 1 DAMROLL 1                   |                    |
+|  66427 |a thick, purplish cloak                        |ARMOR               |
+|        |AC: -12 HITROLL 1                              |                    |
+|  66428 |a long, spiked polearm                         |WEAPON              |
+|        |Dam: 2d10 DAMROLL 1                            |                    |
+|  66429 |a silver fife                                  |INSTRUMENT          |
+|  66430 |a rosewood mandolin                            |INSTRUMENT          |
+|  66431 |a blast globe                                  |FIREWEAPON          |
+|        |Dam: 4d10                                      |                    |
+|  66432 |a serrated dagger                              |WEAPON              |
+|        |Dam: 8d2                                       |                    |
+|  66433 |some dry rations                               |FOOD                |
+|  66434 |some guard's armor                             |ARMOR               |
+|        |AC: -14                                        |                    |
+|  66435 |a suit of Neverwinter chainmail                |ARMOR               |
+|        |AC: -15 HITROLL 1                              |                    |
+|  66436 |a small brass statuette                        |TREASURE            |
+|  66437 |a lovely ceramic vase                          |TREASURE            |
+|  66438 |a large fountain                               |DRINKCON            |
+|  66439 |an eel pie                                     |FOOD                |
+|  66440 |a small, round loaf of bread                   |FOOD                |
+|  66441 |a sea-green robe                               |ARMOR               |
+|        |AC: -1                                         |                    |
+|  66442 |a vicious, curved dagger                       |WEAPON              |
+|        |Dam: 3d8 CON 1 DAMROLL 2                       |                    |
+|        |Specials: INFRAVISION; AWARE;                  |--------------------|
+|  66443 |a guard's shortsword                           |WEAPON              |
+|        |Dam: 2d6                                       |                    |
+|  66444 |a guard's bow                                  |FIREWEAPON          |
+|        |Dam: 2d10 DAMROLL 1                            |                    |
+|  66445 |a Neverwinter quiver                           |QUIVER              |
+|  66446 |a flight arrow                                 |MISSILE             |
+|        |Dam: 8d5                                       |                    |
+|  66447 |a tiny pendant                                 |ARMOR               |
+|        |AC: -3                                         |                    |
+|        |Specials: PROTECT EVIL;                        |--------------------|
+|--------|-----------------------------------------------|--------------------|
+
+Number of real objects in the zone: 203
+
+
+Mob info
+
+-- Vnum ------------------------ Name -------------------|-A-|--C-|-Q-|-S-|-L-|
+|        |                                               | G |  L | U | O | E |
+|        |                                               | G |  A | E | C | V |
+|        |                                               | R |  S | S | I | E |
+|        |                                               | O |  S | T | A | L |
+|--------|-----------------------------------------------|---|----|---|-L-|---|
+| 66400  |a Neverwinter guardsman                        |   |  TW| Y | Y | 35|
+| 66401  |a Neverwinter Elite                            |   |  TW| Y | Y | 45|
+| 66402  |a guard captain                                |   |  TW| Y | Y | 49|
+| 66403  |a mangy mongrel                                |   |    | Y | Y | 8 |
+| 66404  |a well-dressed merchant                        |   |  T | Y | Y | 28|
+| 66405  |Mawl Steelbender                               |   |   W| Y | Y | 49|
+| 66406  |Kaelen                                         |   |CM  | Y | Y | 45|
+| 66407  |a working-class citizen                        |   |   W| Y | Y | 20|
+| 66408  |a kraken guard                                 | Y |   W|   | Y | 25|
+| 66409  |a child messenger                              |   |    | Y | Y | 8 |
+| 66410  |a housewife                                    |   |    | Y | Y | 12|
+| 66411  |a militia member                               |   |  TW| Y |   | 28|
+| 66412  |a wandering minstrel                           |   |    | Y |   | 15|
+| 66413  |a beautiful minstrel                           |   |  T | Y |   | 18|
+| 66414  |a shady individual                             |   |  T | Y |   | 23|
+| 66415  |a wide-eyed traveler                           |   |    | Y |   | 21|
+| 66416  |a young adventurer                             |   |   W| Y |   | 24|
+| 66417  |a small child                                  |   |    | Y |   | 7 |
+| 66418  |a small child                                  |   |    | Y |   | 8 |
+| 66419  |Mawl's shopkeeper                              |   |   W| Y |   | 50|
+| 66420  |Kaelen's shopkeeper                            |   |CM  | Y |   | 50|
+| 66421  |I'lvan Darksteele                              | Y |  TW| Y |   | 51|
+| 66422  |Roalth Quickfinger                             |   |  T | Y | Y | 51|
+| 66423  |Juramis the jeweler                            |   |    | Y |   | 50|
+| 66424  |a quiet shopkeeper                             |   | M  | Y |   | 50|
+| 66425  |a strong-looking smuggler                      |   |   W| Y |   | 28|
+| 66426  |a petty thief                                  |   |  T | Y |   | 17|
+| 66427  |a quiet accountant                             |   |    | Y |   | 21|
+| 66428  |a Kraken assassin                              | Y |  TW|   |   | 32|
+| 66429  |a Kraken sorcerer                              | Y | M  |   |   | 28|
+| 66430  |the Kraken leader                              | Y |CMTW|   |   | 48|
+| 66431  |a Kraken elite                                 | Y |  TW|   |   | 32|
+| 66432  |Bug-eyed Earl, the echo mob                    |   |    | Y | Y | 51|
+| 66433  |the shopkeeper                                 |   | MT | Y |   | 50|
+| 66434  |the assassin                                   |   |  TW| Y |   | 18|
+| 66435  |the filthy beggar                              |   |  T | Y |   | 12|
+| 66436  |the tavern patron                              |   |    | Y |   | 21|
+| 66437  |the bartender                                  |   |   W| Y |   | 42|
+| 66438  |the bartender                                  |   |  TW| Y |   | 43|
+| 66439  |the bartender                                  |   |  T | Y |   | 45|
+| 66440  |the banker                                     |   |    | Y |   | 51|
+| 66441  |a worker                                       |   |    | Y |   | 15|
+| 66442  |a drunkard                                     |   |    | Y |   | 19|
+| 66443  |the evil bartender                             |   |  TW| Y |   | 48|
+| 66444  |a wall patrolman                               |   |  TW| Y |   | 40|
+| 66445  |a tiny pigeon                                  |   |    | Y |   | 2 |
+| 66446  |a gambler                                      |   |    | Y |   | 22|
+| 66447  |the casino owner                               |   |  TW| Y |   | 48|
+| 66448  |the archer                                     |   |   W| Y |   | 40|
+| 66449  |a street runner                                |   |   W| Y |   | 40|
+| 66450  |a gangly youth                                 |   |    | Y |   | 8 |
+| 66451  |the repairman                                  |   |    | Y |   | 12|
+| 66452  |a street cleaner                               |   |    | Y |   | 13|
+| 66453  |a female militia member                        |   |  TW| Y |   | 28|
+| 66454  |a sickly prisoner                              |   |    |   |   | 10|
+| 66455  |a deranged prisoner                            | Y |    |   |   | 23|
+|--------|-----------------------------------------------|---|----|---|---|---|
+
+Number of real mobs in the zone: 173
+Average level of the mobs: 26

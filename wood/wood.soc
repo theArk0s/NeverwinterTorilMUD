@@ -1,0 +1,466 @@
+;; ---==== WATER NYMPH ====---
+;; REPLY TRIGGERS
+
+;; PERIODIC ACTIONS
+
+MOB: 66200 LIST
+FLAG:   1            ;; Non-combat
+CHANCE: 12            
+DELAY:  4
+ACTION: 40           ;; Emote
+swims and splashes about.
+~
+DONE
+FLAG:   1            ;; Non-combat
+CHANCE: 11            
+DELAY:  4
+ACTION: 40           ;; Emote
+giggles girlishly.
+~
+DONE
+FLAG:   1            ;; Non-combat
+CHANCE: 13            
+DELAY:  4
+ACTION: 40           ;; Emote
+looks at you, then blushes and turns away, giggling.
+~
+LISTDONE
+
+;; ---==== GIANT FROGS ====---
+;; REPLY TRIGGERS
+
+;; PERIODIC ACTION LIST
+
+MOB: 66205 LIST
+FLAG:   1
+CHANCE: 9
+DELAY:  4
+ACTION: 40           ;; Emote
+croaks loudly.
+~
+DONE
+FLAG:   1
+CHANCE: 10
+DELAY:  4
+ACTION: 40           ;; Emote
+stares at you blankly.
+~
+LISTDONE
+
+;; ---==== BLACK RAVENS ====---
+;; REPLY TRIGGERS
+
+;; PERIODIC ACTION LIST
+
+MOB: 66208 LIST
+FLAG:   1
+CHANCE: 10
+DELAY:  4
+ACTION: 40           ;; Emote
+squawks loudly and flaps its wings.
+~
+DONE
+FLAG:   1
+CHANCE: 9
+DELAY:  4
+ACTION: 40           ;; Emote
+flits about from tree to tree.
+~
+LISTDONE
+
+;; ---==== BLACK BEAR ====---
+;; REPLY TRIGGERS
+
+;; PERIODIC ACTION LIST
+
+MOB: 66210 LIST
+FLAG:   1            ;; Non-combat
+CHANCE: 10            ;; Once/minute
+DELAY:  4
+ACTION: 31           ;; Growls
+~
+DONE
+FLAG:   1
+CHANCE: 11
+DELAY:  4
+ACTION: 40           ;; Emote
+raises its nose to the air as if smelling for something.
+~
+DONE
+FLAG:   1
+CHANCE: 12
+DELAY:  4
+ACTION: 40           ;; Emote
+appears to ignore your presence.
+~
+LISTDONE
+
+;; ---==== HARPER PATROLMEN ====---
+;; REPLY TRIGGERS
+
+MOB: 66211 TRIGGER     ;; JUST IN CASE ANYONE TRIED TO PEE IN THE WOODS
+FLAG:   5               ;; Non-combat, uses instigator
+CHANCE: 0
+DELAY:  4
+TRIGGER: 342            ;; Someone wets themselves
+ACTION: 130             ;; Slap the offender
+~
+FLAG:   5
+CHANCE: 0
+DELAY:  4
+ACTION: 17              ;; Say
+Time for some new leggings, eh? 
+~
+DONE
+
+MOB: 66211 TRIGGER     ;; JUST IN CASE ANYONE TRIED TO PEE IN THE WOODS
+FLAG:   36              ;; If he's targeted, use instigator
+CHANCE: 0
+DELAY:  4
+TRIGGER: 130            ;; Someone slaps the Harper
+ACTION: 17              ;; Slap the offender
+You'd best run, you insolent Fool!
+~
+FLAG:   5
+CHANCE: 0
+DELAY:  12			;; Wait another 3 seconds
+ACTION: 25              ;; Harper attacks the "insolent fool"
+~
+DONE
+
+;; PERIODIC ACTION LIST
+
+MOB: 66211 LIST
+FLAG:   1            ;; Non-combat
+CHANCE: 9            ;; Once/minute
+DELAY:  4
+ACTION: 17           ;; Say
+Just smell that fresh air!
+~
+DONE
+FLAG:   1
+CHANCE: 8
+DELAY:  4
+ACTION: 40           ;; Emote
+scans the area for trouble.
+~
+DONE
+FLAG:   1
+CHANCE: 10
+DELAY:  4
+ACTION: 40           ;; Emote
+stops suddenly and clutches his sword.
+~
+DONE
+FLAG:   1
+CHANCE: 10
+DELAY:  4
+ACTION: 40           ;; Emote
+paces about the road, protecting travelers.
+~
+DONE
+FLAG:   1		   ;;
+CHANCE: 8
+DELAY:  4
+ACTION: 153           ;; Attempts to hide
+~
+LISTDONE
+
+;; ---==== GLORPK THE QUEST TROLL ====---
+;; REPLY TRIGGERS
+
+MOB: 66213 TRIGGER     ;; JUST IN CASE ANYONE TRIED TO PEE UNDER HIS BRIDGE
+FLAG:   5               ;; Non-combat, uses instigator
+CHANCE: 0
+DELAY:  4
+TRIGGER: 342            ;; Someone wets themselves
+ACTION: 31             ;; Growl at offender
+~
+FLAG:   5
+CHANCE: 0
+DELAY:  8
+ACTION: 17              ;; Say
+Only Glorpk pee under Glorpk bridge, you die now.
+~
+FLAG:   5
+CHANCE: 0
+DELAY:  12		      ;; Give them 3 seconds to get the hell outta Dodge
+ACTION: 25              ;; Attacks offender
+~
+DONE
+
+MOB: 66213 TRIGGER     ;; Growls
+FLAG:   36              ;; If he's targeted, use instigator
+CHANCE: 0
+DELAY:  4
+TRIGGER: 31            ;; Someone growls at him
+ACTION: 31              ;; He growls back
+~
+DONE
+
+;; PERIODIC ACTION LIST
+
+MOB: 66213 LIST
+FLAG:   1            ;; Non-combat
+CHANCE: 9            ;; Once/minute
+DELAY:  4
+ACTION: 37           ;; Sulks
+~
+DONE
+FLAG:   1
+CHANCE: 10
+DELAY:  4
+ACTION: 40           ;; Emote
+drinks some of the putrid water from the River.
+~
+DONE
+FLAG:   1
+CHANCE: 12
+DELAY:  4
+ACTION: 120           ;; Licks
+~
+DONE
+FLAG:   1
+CHANCE: 9
+DELAY:  4
+ACTION: 40           ;; Emote
+hide in the shadows below the bridge.
+~
+DONE
+FLAG:   1		   ;;
+CHANCE: 10
+DELAY:  4
+ACTION: 31           ;; Just growls for the hell of it :)
+~
+LISTDONE
+
+;; ---==== DRUIDMOTHER ====---
+;; REPLY TRIGGERS
+
+MOB: 66218 TRIGGER
+FLAG:   1            ;; Non-combat
+CHANCE: 0            ;; Always
+DELAY:  4
+TRIGGER: 171         ;; Someone curses
+ACTION: 114           ;; Frown
+DONE
+
+MOB: 66218 TRIGGER
+FLAG:   32             ;; IF she's targeted
+CHANCE: 0             ;; Always
+DELAY:  4
+TRIGGER: 130          ;; Someone slaps her
+ACTION: 17            ;; Say
+Slap me again and you'll be sorry!
+~
+DONE
+
+;; PERIODIC ACTIONS
+
+MOB: 66218 LIST
+FLAG:   1             ;; Non-combat
+CHANCE: 9            ;; About once every 2 mins.
+DELAY:  0
+ACTION: 23           ;; Smile
+~
+FLAG:   1
+CHANCE: 8
+DELAY:  4
+ACTION: 17            ;; Say
+Are you prepared to train?
+~
+FLAG:   1
+CHANCE: 10
+DELAY:  8
+ACTION: 40            ;; Emote
+strolls peacefully around the glade.
+~
+FLAG:   1
+CHANCE: 11
+DELAY:  4
+ACTION: 17            ;; Say
+Beware the Wood! It is both beautiful and dangerous.
+~
+FLAG:   1
+CHANCE: 9
+DELAY:  4
+ACTION: 17            ;; Say
+Has anyone seen my &+Ws&+bt&+Wa&+bf&+Wf&N?  I'd really like it back.
+~
+LISTDONE
+
+;; ---==== NOLIN - OLD WOODSMAN ====---
+;; REPLY TRIGGERS
+
+;; PERIODIC ACTION LIST
+
+MOB: 66219 LIST
+FLAG:   1            ;; Non-combat
+CHANCE: 11            ;; Once/minute
+DELAY:  4
+ACTION: 17           ;; Say
+Just smell that fresh air!
+~
+DONE
+FLAG:   1
+CHANCE: 10
+DELAY:  4
+ACTION: 40           ;; Emote
+bends over to examine some tracks on the ground.
+~
+DONE
+FLAG:   1
+CHANCE: 9
+DELAY:  4
+ACTION: 40           ;; Emote
+peers off into the trees as if looking for something.
+~
+DONE
+FLAG:   1
+CHANCE: 12
+DELAY:  4
+ACTION: 40           ;; Emote
+suddenly drops to the ground and clutches his staff as if alarmed.
+~
+DONE
+FLAG:   1
+CHANCE: 10
+DELAY:  4
+ACTION: 17           ;; Say
+Be warned, these woods are a dangerous place for the untrained!
+~
+DONE
+FLAG:   1
+CHANCE: 11
+DELAY:  4
+ACTION: 40           ;; Emote
+gathers some herbs and places them in a small bag.
+~
+DONE
+FLAG:   1
+CHANCE: 9
+DELAY:  4
+ACTION: 17           ;; Say
+Has anyone seen my &+Ytoken&N?
+~
+LISTDONE
+
+;; ---==== ZONE ECHOES FROM BUG-EYED EARL ====---
+
+MOB: 66221 LIST
+FLAG: 0 				;; NONE
+CHANCE: 15				;; 17% Chance, or approx. once/min
+DELAY: 0				;; No Delay			
+ACTION: 1001                  ;; Zone Echo-Outside
+A loud scream echoes from within the wood and then suddenly falls silent.\n
+~
+DONE
+FLAG: 0 				;; NONE
+CHANCE: 14				;; 17% Chance, or approx. once/min
+DELAY: 0				;; No Delay			
+ACTION: 1001                  ;; Zone Echo-Outside
+A large, dark bird flies overhead.\n
+~
+DONE
+FLAG: 0 				;; NONE
+CHANCE: 14				;; 17% Chance, or approx. once/min
+DELAY: 0				;; No Delay			
+ACTION: 1001                  ;; Zone Echo-Outside
+Something moves about in the shadows, just out of view.\n
+~
+DONE
+FLAG: 0 				;; NONE
+CHANCE: 17				;; 17% Chance, or approx. once/min
+DELAY: 0				;; No Delay			
+ACTION: 1001                  ;; Zone Echo-Outside
+The wind whips through the woods, kicking up dust and dead leaves.\n
+~
+DONE
+FLAG: 0 				;; NONE
+CHANCE: 16				;; 17% Chance, or approx. once/min
+DELAY: 0				;; No Delay			
+ACTION: 1001                  ;; Zone Echo-Outside
+Something can be heard rustling in the leaves just down the path.\n
+~
+LISTDONE
+
+;; ---==== YOUNG WOODSMAN ====---
+;; REPLY TRIGGERS
+
+MOB: 66222 TRIGGER
+FLAG:   1            ;; Non-combat
+CHANCE: 0            ;; Always
+DELAY:  4
+TRIGGER: 342         ;; Someone wets themselves
+ACTION: 28           ;; Giggle
+~
+FLAG:   1
+CHANCE: 0
+DELAY:  4
+ACTION: 17           ;; Say
+Heh...I see you have that problem too.
+~
+DONE
+
+MOB: 66222 TRIGGER
+FLAG:   1             ;; Non-combat
+CHANCE: 0             ;; Always
+DELAY:  4
+TRIGGER: 111          ;; Someone farts
+ACTION: 17            ;; Say
+Whew...what have you been eating?
+~
+DONE
+
+;; PERIODIC ACTIONS
+
+MOB: 66222 LIST
+FLAG:   1
+CHANCE: 9
+DELAY:  4
+ACTION: 17            ;; Say
+I don't think I've ever been in this part of the woods before!
+~
+FLAG:   1
+CHANCE: 7
+DELAY:  8
+ACTION: 23            ;; Smile happily
+~
+FLAG:   1
+CHANCE: 8
+DELAY:  4
+ACTION: 17            ;; Say
+Umm...do you happen to know the way back to Neverwinter?
+~
+LISTDONE
+
+;; ---==== DRUID SHOPKEEPER ====---
+;; REPLY TRIGGERS
+
+;; PERIODIC ACTIONS
+
+MOB: 66225 LIST
+FLAG:   1             ;; Non-combat
+CHANCE: 12              
+DELAY:  0
+ACTION: 23           ;; Smile
+~
+FLAG:   1
+CHANCE: 13
+DELAY:  4
+ACTION: 17            ;; Say
+You gonna buy something or not?
+~
+FLAG:   1
+CHANCE: 14
+DELAY:  4
+ACTION: 17            ;; Say
+Don't just stand there...go do something!
+~
+FLAG:   1
+CHANCE: 15
+DELAY:  4
+ACTION: 17            ;; Say
+Beat it, buddy!  You bother me.
+~
+LISTDONE

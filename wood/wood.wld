@@ -1,0 +1,3371 @@
+<*> File Version 1 <*>
+#66200
+&+GAn Intersection in the &N&+cHigh Road&N~
+   The High Road passes through the dark Neverwinter Wood around the City
+of Neverwinter.  The road shows evidence of a great deal of travel, but 
+the forest surrounding it looks as though it could overgrow the road at 
+any time. Strange noises both animal and otherwise can be heard 
+periodically coming from the woods.  Rumors abound about treasures and
+terrors alike which can be found within the forest, but very few 
+adventurers who go in search of them ever return.  The High Road continues
+its mute trek through the forest to the north while the enormous northern
+gates of Neverwinter lie to the south.
+~
+662 0 1 40 40 20 
+D0
+The High Road continues.
+~
+~
+0 0 66200
+D1
+The High Road continues.
+~
+~
+0 0 66201
+D2
+The Northwestern Gates of Neverwinter.
+~
+~
+0 0 66400
+S
+#66201
+&+GThe &N&+cHigh Road&+G Around &+WNeverwinter&N~
+   This particular stretch of the road is bordered to the south by sharp
+drop-off into the warm, blue waters of the Neverwinter River. On the opposite
+banks of the river can be seen the aged stone walls of Neverwinter where the
+colorful banners for the city of Neverwinter wave lazily in the breeze. To
+the north of the road, dark and foreboding Neverwinter Wood forms a dense and
+treacherous wall of foliage stretching as far as the eye can see. The High
+Road continues east and west through here.
+~
+662 0 1 75 30 500 
+D1
+An intersection in the High Road.
+~
+~
+0 0 66202
+D3
+The High Road continues.
+~
+~
+0 0 66200
+E
+river water~
+The calm surface of the waters of the Neverwinter River deceptively mask
+the swift and brutal currents lurking below.
+~
+E
+drop drop-off~
+Not too far from the edge of the High Road, the waters of the Neverwinter
+River appear to have eroded away the normally rocky shore, creating a
+steep incline that would prove impossible for even the most nimble 
+adventurer to climb by themselves.
+~
+S
+#66202
+&+GThe &N&+cHigh Road&+G Around &+WNeverwinter&N~
+   As the road heads through this portion of the woods, the roar from the
+nearby Neverwinter River becomes almost deafening.  Likely due to the
+closeness of the river, thick, lush moss covers the trees and ground
+throughout this area, blanketing the area in a soft, green carpet.  The
+light breeze which occasionally blows through here brings with it a rich,
+earthy smell.  The High road continues both east and west through here.
+~
+662 0 1 75 30 500 
+D1
+The High Road continues.
+~
+~
+0 0 66203
+D3
+The High Road continues.
+~
+~
+0 0 66201
+S
+#66203
+&+GThe &N&+cHigh Road&+G Around &+WNeverwinter&N~
+   The High Road passes through the dark Neverwinter Wood as it heads around
+the city of Neverwinter. This particular stretch of the road is bordered to
+the south by a sharp and rocky drop-off into the ever warm, blue waters of
+the Neverwinter River. On the opposite banks of the river can be seen the
+weather-worn walls of Neverwinter which show need for repair in many places.
+Were it not for the boundary provided by the river, it seems as though the
+rabid growth of the forest would easily overtake the city walls.  The High
+Road continues east and west through here.
+~
+662 0 1 75 30 500 
+D1
+The High Road continues.
+~
+~
+0 0 66204
+D3
+The High Road continues.
+~
+~
+0 0 66202
+S
+#66204
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The High Road passes through the dark Neverwinter Wood around the City of
+Neverwinter. On both sides of the road stand the edges of the dark and
+dangerous Neverwinter Wood.  Strange cries echo from deep inside its dark
+pathways and the occasional unidentifiable shadow flits through the trees
+just beyond the safety of the road.  The road is wide through here, but even
+during the brightest times of the day, little light reaches ground here.  The
+High Road curves through the woods to both the east and west.
+~
+662 0 1 75 30 500 
+D1
+The High Road continues.
+~
+~
+0 0 66205
+D3
+The High Road continues.
+~
+~
+0 0 66203
+S
+#66205
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The darkness around the High Road grows somewhat deeper through here as
+the forest seems to encroach even further.  Despite the well-tended
+appearance of the road, this area has a very wild and uncontrolled feel to
+it.  Rustling in the bushes and trees around the road shows signs of life,
+but none of the denizens of this dark area ever make themselves visible.  
+The High Road continues east and west.
+~
+662 0 1 75 30 500 
+D1
+The High Road continues.
+~
+~
+0 0 66206
+D3
+The High Road continues.
+~
+~
+0 0 66204
+E
+bush bushes~
+While the bushes occasionally twitch and shake as though something is
+moving about inside them, no creature either peaceful or malevolent ever
+makes an appearance.
+~
+S
+#66206
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The shadows seem just a bit deeper and a hush fills the air as the High
+Road passes through this section of the Neverwinter Wood.  Although little
+can be seen through the dense trees surrounding the road, the occasional
+subtle movement of the bushes and the quiet rustle of leaves and grass 
+lends to the impression that something is definitely there.  The High Road
+continues both east and west.
+~
+662 0 1 75 30 500 
+D1
+The High Road continues.
+~
+~
+0 0 66207
+D3
+The High Road continues.
+~
+~
+0 0 66205
+E
+bush bushes~
+Many of the bushes here are thick with broad, flat leaves, creating a
+virtual wall of greenery alongside the High Road.
+~
+S
+#66207
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The rambling path of the High Road curves slightly through the woods as it
+passes through here, severely hindering the view of the trail both ahead and
+behind.  A slight wind occasionally rustles the leaves of the trees overhead,
+breaking the serene calm of the area only slightly.  Periodically, a stale
+smell drifts through the air something akin to dry, rotting leaves and other
+foliage.  The High Road continues both east and west from here on its never
+ending journey across the land.
+~
+662 0 1 75 30 500 
+D1
+The High Road continues.
+~
+~
+0 0 66208
+D3
+The High Road continues.
+~
+~
+0 0 66206
+E
+trees wood forest~
+The dark, twisted trees of the forest stretch high overhead.
+~
+S
+#66208
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The sudden, piercing calls of strange beasts echo from deeper in the wood
+as the pathway narrows slightly through here.  The normally well-kept High
+Road seems to be in need of some upkeep in this area as potholes and larger
+rocks mar its surface.  Unfortunately, with the less-than friendly ambiance
+of this place it would seem to reason that a repair crew will be a long time
+in coming.  Only the bravest of adventurers and the ever-vigilant Harpers
+dare to travel these pathways in these dark times.  The High Road continues
+east and west.
+~
+662 0 1 75 30 500 
+D1
+The High Road continues.
+~
+~
+0 0 66209
+D3
+The High Road continues.
+~
+~
+0 0 66207
+S
+#66209
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The High Road continues its shadowy trek through the foreboding 
+Neverwinter Wood through here.  The dense, overhead foliage of the Wood
+prevents a great deal of light from reaching the ground which keeps the 
+pathway of the road somewhat cooler and darker here than farther to the
+south.  Despite the relative closeness to the city of Neverwinter, this 
+area is still very wild and untamed.  The High Road continues both to the 
+east and west from here.
+~
+662 0 1 75 30 500 
+D1
+The High Road continues.
+~
+~
+0 0 66210
+D3
+The High Road continues.
+~
+~
+0 0 66208
+E
+bush bushes foliage~
+The bushes alongside the road are quite dense.
+~
+S
+#66210
+&+GBend in the &N&+cHigh Road&N~
+   The High Road widens slightly through here as it makes its way through the
+Neverwinter Wood.  On occasion, small woodland creatures can be seen foraging
+for food in the bushes alongside the road.  Although very common in most of
+the forests of the north, it is rare to see the small denizens of the
+Neverwinter Wood due to the dense foliage and many dangerous predators which
+tend to thin out their numbers.  Were it not for the dangerous reputation of
+the forest surrounding the trail, this area may well seem peaceful and
+relaxing.  The High Road curves through the woods to both the east and west.
+~
+662 0 1 50 50 500 
+D2
+The High Road continues.
+~
+~
+0 0 66225
+D3
+The High Road continues.
+~
+~
+0 0 66209
+E
+bush bushes~
+The bushes alongside the road appear to bear some sort of small, greenish
+berries that do not look like they would taste very good at all.
+~
+S
+#66211
+&+bThe End of the Neverwinter River&N~
+   The warm Neverwinter River floats lazily through here as it makes its way
+to the Trackless Sea.  The water laps gently on the shore, granting this area
+a peaceful and relaxed feeling.  Here and there, a smooth, moss-covered rock
+can be seen poking through the surface and frogs can be heard chirping and
+singing from the shallows near the forest.  As the river ends to the west,
+the great expanse of the Trackless Sea can be seen extending as far as the
+eye can see.
+~
+662 0 7 50 50 25 
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66212
+E
+shore~
+The shore of the river here is somewhat muddy, but littered with sharp,
+grayish rocks which help prevent erosion.
+~
+E
+frogs frog~
+There does not appear to be anything special about the frogs.
+~
+S
+#66212
+&+bAlong the Neverwinter River&N~
+   The water of the Neverwinter river flows lazily through here, occasionally
+dropping in small rapids and eddies.  Although the occasional rocks which dot
+its surface are somewhat sharp and treacherous looking, the relaxed flow of
+the river means they pose little threat to even the smallest of vessels.  
+Occasionally, small, unidentifiable lizards can be seen sunning themselves on
+rocks near the shore. On the south bank of the river, the great northern
+walls of Neverwinter can be seen looming at sharp, right angles against the
+sky.  The river flows from east to west through here.
+~
+662 0 7 50 50 25 
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66213
+D3
+The end of the Neverwinter River.
+~
+~
+0 0 66211
+E
+wall walls~
+The mighty stone walls of the city of Neverwinter are anchored firmly in the
+ground, very near the rocky banks of the river.  In places, there is not even
+enough room between the walls and the water for anyone to pass on foot without
+stepping into the river.
+~
+S
+#66213
+&+bAlong the Neverwinter River&N~
+   The tireless and ancient Neverwinter River flows west through here as it
+makes its way to the Trackless Sea.  On occasion, seagulls can be seen slowly
+gliding overhead, attesting to the nearness of the Trackless Sea.  North of
+here, a muddy bank meets sharp, rocky cliffs which lead up to the Neverwinter
+Wood.  In ages past, the level of the river was likely much higher than now,
+but the ceaseless flow of the warm waters has gradually eroded its way down
+through the thick, gray granite which lays under the entire area.  To the
+south, the river is bordered by the great northern walls of Neverwinter which
+have clearly seen better days.
+~
+662 0 7 50 50 25 
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66214
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66212
+E
+wall walls~
+Here, the walls of the city appear to be falling into slight disrepair. The
+constant presense of the waters of the Neverwinter River have clearly started
+to take their toll on the walls' foundations.  Repair crews should probably
+be sent to fix these areas as soon as possible.
+~
+S
+#66214
+&+bAlong the Neverwinter River&N~
+   Tiny eddies and swirls in the surface of the river lightly churn the water
+as it flows through here to the Trackless Sea.  Although the river is
+relatively low at present, in past years, flooding has raised the water high
+enough so as to allow large vessels to come as far inland as the northern
+gates of Neverwinter.  Light winters in the mountains far to the north in
+recent years are likely to blame for the currently low levels, although no
+one knows for sure from where the Neverwinter river draws its waters.
+~
+662 0 7 50 50 25 
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66215
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66213
+S
+#66215
+&+bAlong the Neverwinter River&N~
+   Although the Neverwinter River is used quite frequently by small craft for
+trafficking goods from the Trackless Sea to inland caravans, the exact source
+of the river still remains a mystery.  Theories about the source of the river
+range from dark, ancient magics to a simple, underground spring.  Several
+parties of adventurers have departed on expeditions to determine the source
+of the continually warm waters, but none have ever returned.  For now,
+though, the mysterious waters of the Neverwinter River stretch to the east
+and west from here.
+~
+662 0 7 50 50 25 
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66216
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66214
+S
+#66216
+&+bAlong the Neverwinter River&N~
+   As the Neverwinter River emerges from beneath the bridge leading to the
+nothern gates of Neverwinter, its waters continue their lazy journey to the
+Trackless Sea.  Here and there, small drop-offs create minor rapids in the
+river, but the rapids don't pose any threat to even the smallest of craft.
+To the south, the looming walls of Neverwinter hang over the river, creating
+small, shaded pools where fish occasionally jump as they attempt to catch
+their next meal.  The nearness of the city and the civilization that comes
+with it likely contributes to the amount of garbage which can be seen
+floating in the water here and there.
+~
+662 4 7 50 50 25 
+D1
+Under a bridge over the Neverwinter River.
+~
+~
+0 0 66217
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66215
+E
+fish~
+The fish of the river swim through the warm currents, oblivious to your
+presence.
+~
+E
+rapids drop-offs~
+Caused by a rather abrupt change in elevation, the rapids through here 
+are still gradual enough to allow safe passage for small watercraft.
+~
+S
+#66217
+&+LUnder a Bridge Over the &+bNeverwinter River&N~
+   This portion of the Neverwinter river is shaded by the great northern
+bridge leading to the northwestern gate of Neverwinter.  Large stone support
+pillars are sunk deep into the river bed to help support the mass of stone
+above.  The water here is somewhat stagnant and polluted with garbage thrown
+from the bridge overhead by careless adventurere and merchants.  Amongst the
+filth floats the occasional dead fish or unidentifiable portion of animal
+which lends a foul odor to this particular area of the river.  The river
+flows sluggishly from east to west through here.
+~
+662 0 2 8 30 500 
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66218
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66216
+S
+#66218
+&+bAlong the Neverwinter River&N~
+   The Neverwinter River floats lazily through here as it makes its way to
+the Trackless Sea.  To the east the river is somewhat rougher as the water
+flows through a series of small rapids, while the river seems calmer to the
+west.  Farther down the flow of the river, a large stone bridge can be seen
+spanning the distance between the cliffs on the northern shore and the gates
+of Neverwinter to the south.
+~
+662 4 7 50 50 25 
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66219
+D3
+Under a bridge over the river.
+~
+~
+0 0 66217
+S
+#66219
+&+bNear Rapids on the Neverwinter River&N~
+   The water of the Neverwinter River laps gently on the shore through here
+while small, water-smoothed rocks can be seen poking through the surface.
+The rocky cliffs to the north are water-soaked and covered with lichens and
+moss which grow easily in the misty air just below the falls.  To the south,
+the river is a little more turbulent as the river flows through some larger
+rapids at the base of the waterfalls.  West of here, the water flows through
+a series of smaller and less turbulent rapids as it gradually calms on its
+trek to the Trackless Sea.
+~
+662 0 7 50 50 25 
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66220
+D2
+The Neverwinter River continues.
+~
+~
+0 0 66231
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66218
+E
+rocks~
+The usually hard, sharp rocks of the river have been worn smooth through
+here by the constant flow of the river.
+~
+S
+#66220
+&+bSome Shallows on the Neverwinter River&N~
+   Here the Neverwinter river is much calmer and forms a marshy area.  Clumps
+of reeds sprout from the water near the shore and force travelers to abandon
+their rafts and wade through the slimy water.  Larger fish flip from the
+water here and there in an attempt to reach the numerous flying insects which
+buzz annoying in large swarms over the water.  Occasionally, a large swirl in
+the water attests to larger creatures staying out of sight beneath the murky
+surface of the river.  There is a path to the east of here while the river 
+continues west and south.
+~
+662 0 7 50 50 25 
+D1
+A path along the river.
+~
+~
+0 0 66221
+D2
+The Neverwinter River continues.
+~
+~
+0 0 66232
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66219
+S
+#66221
+&+YThe Rocky Banks of the &+bNeverwinter River&N~
+   A partially cleared section of the banks of the Neverwinter River allows
+small craft to access the water at this spot.  Here and there, remnants of
+old campfires show that this place does see a small amount of travel on
+occasion.  Large, rounded rocks abound in this area, many of which are
+covered with ancient lichens and moss.  Here and there, a recently-felled
+tree also attests to the presence of at least a few beavers on this stretch
+of the river.  To the west, the Neverwinter River bends through the forest
+towards the Trackless Sea.  A small path through the woods heads east.
+~
+662 0 2 40 80 500 
+D1
+A small path through the woods.
+~
+~
+0 0 66222
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66220
+S
+#66222
+&+YA Small Path Through the Woods&N~
+   As the small path winds its way through the woods, it appears to open up a
+bit to the west.  The forest seems less threatening in this area and light
+from the gray skies overhead manages to illuminate the path to a small
+extent.  This area seems to be covered mostly by smaller, sapling trees,
+indicating an area of relatively new growth.  The dark, moss-covered ground
+underfoot is pretty moist through this area, and smaller, marshy areas can be
+seen just off of the path.  The path continues deeper into the forest to the
+east, while it appears to open up somewhat off to the west.
+~
+662 0 1 20 65 500 
+D1
+A small path through the woods.
+~
+~
+0 0 66223
+D3
+A clearing on the banks is there.
+~
+~
+0 0 66221
+S
+#66223
+&+YA Split in the Path&N~
+   The small path through the Neverwinter Wood splits into two, separate
+trails here, forming a little bit of a clearing.  All around, the noises of
+the forest indicate an abundance of life.  Squirrels can be heard running
+about in the treetops, and the rustling of the brush near the ground attests
+to the whereabouts of other forest denizens.  To the south and west, the path
+appears to draw nearer to the Neverwinter River.  Off to the east, the trail
+disappears back into the thick foliage of the woods.
+~
+662 0 1 40 40 20 
+D1
+The trail continues.
+~
+~
+0 0 66224
+D2
+A small path along the river.
+~
+~
+0 0 66235
+D3
+The trail continues.
+~
+~
+0 0 66222
+S
+#66224
+&+YA Trail Through the Forest&N~
+   The winding trail through the Neverwinter Wood continues through here.
+Dark trees surround the pathway through here, and shadows keep the area in
+relative darkness.  All around, sounds of the forest show that life exists
+even in the depths of the forest.  Here and there, a rotting, moss-covered
+log lies on the ground, but most of the view through here is obscured by the 
+dense outcroppings of brush.  Small lizards and woodland creatures
+occasionally scurry about in the foliage in their quest for nourishment.  The
+trail through the forest continues west and south from here.
+~
+662 0 2 40 80 500 
+D2
+A small path through the woods.
+~
+~
+0 0 66236
+D3
+The trail continues.
+~
+~
+0 0 66223
+E
+trees wood forest~
+The dark trees of the forest encircle the area surrounding the High Road.
+Taken individually, the trees are no different than those anywhere else in
+the Realm.  However, the thick, dark nature of the Neverwinter Wood seems
+to give these otherwise normal trees a life of their own as though twisted
+and corrupted by some dark magic, welling up from the center of Faerun itself.
+~
+S
+#66225
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   As the long and winding High Road continues its march through the dark and
+foreboding Neverwinter Wood, the road here is surrounded by twisted and
+malformed trees.  Tortured cries seem to echo from deep inside the woods but
+it is impossible to identify them as belonging to man or beast.  In contrast
+to the broad, paved roadways to the south, the mighty High Road narrows
+through here and amounts to little more than a well-worn path.  The road can
+be seen extending both north and south.
+~
+662 0 1 30 75 500 
+D0
+The High Road continues.
+~
+~
+0 0 66210
+D2
+The High Road continues.
+~
+~
+0 0 66237
+S
+#66226
+&+YA Partially Hidden Path&N~
+   The path slopes downward slightly and enters the cave-like shelter of the
+Neverwinter Wood as it heads down the back side of the hill here.  The normal
+sounds of the forest seem oddly absent as the path delves deeper into the
+darkness of the wood.  Periodically, grayish stones line the sides of the
+path, possibly indicating some past significance for this trail.  The air
+seems cooler here and every once and a while, a bone-chilling breeze blows
+from the east.  The hidden path winds slowly east from here.
+~
+662 0 1 40 40 20 
+D1
+The path continues.
+~
+~
+0 0 66227
+D2
+~
+bushes secret~
+5 0 66240
+S
+#66227
+&+YAlong the Hidden Path&N~
+   Here and there in the shadows, small patches of blueish-white frost cling
+to the bark of the looming trees.  Likewise, the chill in the air grows
+perceptibly colder as the path heads deeper into the woods.  The small stones
+which line the sides of the path seem to be getting larger as the path heads
+east, and appear more regular and less disturbed by the forest.
+Periodically, a furry rabbit or similar creature will sprint hurriedly
+across the path, but this area seems largely lifeless.  East from here, the
+path seems to widen a bit.
+~
+662 0 1 40 40 20 
+D1
+The hidden path continues.
+~
+~
+0 0 66228
+D3
+The hidden path continues.
+~
+~
+0 0 66226
+S
+#66228
+&+YA Widening in the Path&N~
+   The dark pathway through the forest begins to widen considerably through
+here.  The grayish stones along the sides of the road are now several feet
+tall and intricately carved with scenes of death and battle.  Whomever or
+whatever placed these stones took a great deal of time in placing them.  Even
+the apparently long time they've spent unattended in the forest has had
+little effect on them.  Bits of lichen cling to the rocks in places, but
+their surface remains largely uncovered.  The trees through here are
+abnormally twisted in appearance and the frost on the ground appears to be
+growing more prevalent.  The path heads into a small clearing east of here
+and plunges back into the forest to the west.
+~
+662 0 1 40 40 20 
+D1
+The hidden path continues.
+~
+~
+0 0 66229
+D3
+A small clearing on the path.
+~
+~
+0 0 66227
+S
+#66229
+&+LAn Abandoned Stone Shrine&N~
+   High stone blocks mark the outline of an abandoned shrine that once
+dominated this small clearing.  Many of the pillars which once supported the
+roof appear to have collapsed long ago and the shrine now lies in ruins.
+Lichen cover the massive blocks in many places, but are held at bay by the
+thin, unnatural coating of frost which blankets the area.  Occasionally,
+tracks of some large creature can be seen in the frost, but are not clear
+enough to identify.  The large stone altar in the centar of the shrine seems 
+almost ludicrously large and one must wonder what exactly was sacrificed 
+here. The path continues west into the forest and east behind the shrine.
+~
+662 0 3 75 75 25 
+D1
+The hidden path continues.
+~
+~
+0 0 66230
+D3
+The path continues.
+~
+~
+0 0 66228
+S
+#66230
+&+LPath Behind the Shrine&N~
+   Although the path clearly leads behind the shrine to this area, it comes
+to an abrupt end in brush and debris.  The massive stone columns in this area
+have all toppled to the ground, creating small holes and crevices under
+their mass.  Sharp shards of rock line the ground, but remain covered by a
+thin coating of frost in the places hidden from the sun.  The ground here has
+been disturbed a great deal and it appears as though a large beast or beasts
+pass through here frequently.  The bone-numbing chill continues to hang in
+the air.
+~
+662 4 1 30 75 500 
+D2
+~
+debris brush~
+5 0 66244
+D3
+The ruined shrine.
+~
+~
+0 0 66229
+D5
+~
+stone hidden column pillar fallen~
+5 0 66336
+S
+#66231
+&+bNear Rapids on the Neverwinter River&N~
+   The warm, majestic waters of the Neverwinter River flow softly along the
+shore through here.  Although the rocks which occasionally protrude from the
+water are somewhat sharp and treacherous looking, they do not pose a danger
+to any but the smallest and weakest of canoes.  To the south and west, the
+river is bordered by the great northern walls of the city of Neverwinter.  To
+the north the water is quite turbulent as the lazy flow of the river turns
+into churning rapids.
+~
+662 0 7 50 50 25 
+D0
+The Neverwinter River continues.
+~
+~
+0 0 66219
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66232
+S
+#66232
+&+bNear Rapids on the Neverwinter River&N~
+   A small pool has formed on the river here as the rapids on the river begin
+to even out.  The water here is very dark and the pool which extends north
+and west appears as though it is very deep.  South of here, the waters of the
+pool are bordered by the long, northern walls of Neverwinter.  East, up the
+flow of the river, the water is quite turbulent as the river flows down from
+a series of waterfalls and turns to rapids.
+~
+662 0 7 50 50 25 
+D0
+The Neverwinter River continues.
+~
+~
+0 0 66220
+D1
+The Neverwinter River continues.
+~
+~
+0 0 66233
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66231
+E
+rapid rapids~
+The rapids appear somewhat calm here, but it is quite possible that high
+drop-offs exist farther downstream that would prevent watercraft from
+returning back to this point.
+~
+S
+#66233
+&+bNear Rapids on the Neverwinter River&N~
+   The waters of the Neverwinter River begin to calm here somewhat as they
+leave the rapids to the east and flow towards a small pool of sorts to the
+west.  Long grasses and reeds line the banks to the north, attesting to the
+relaxed flow of the waters and allowing some wildlife to take a foothold.
+Birds can be seen flitting between the reeds hunting for insects and
+protecting their nests.  East of here, the water is quite turbulent as the
+warm river is churned by rapids and waterfalls.
+~
+662 0 7 50 50 25 
+D1
+Some rapids on the river.
+~
+~
+0 0 66234
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66232
+S
+#66234
+&+bRapids on the Neverwinter River&N~
+   The Neverwinter River flows turbulently through this area.  Large and
+dangerous-looking rocks poke through the surface making any navigation of
+this portion of the river extremely treacherous.  In the calmer pools, small
+pieces of what look to be the remains of small rafts have accumulated,
+attesting to the danger of the river and the misfortune of previous
+travelers.  The rapids continue to the south in the form of waterfalls,
+preventing any attempt to move upstream.  The river looks calmer west of
+here.
+~
+662 0 7 50 50 25 
+D3
+The Neverwinter River continues.
+~
+~
+0 0 66233
+S
+#66235
+&+LAn Incline in the Trail&N~
+   The pathway through the woods winds along the river past here.  The ground
+is very soft due to the proximity of the water, but the thick, almost carpet-
+like moss which covers the area helps keep footing somewhat firm.  Reeds grow
+alongside the water in the shallows, and frogs hop about chasing insects.
+Every now and then, a turtle can be seen sunning itself on a rock in the
+river.  The path here does not look like it sees too much use, but evidence
+of past traffic is evident.  The path continues south along the river and
+north where it heads back into the woods.
+~
+662 0 2 40 80 500 
+D0
+A path through the woods.
+~
+~
+0 0 66223
+D2
+The path continues along the river.
+~
+~
+0 0 66246
+E
+reeds~
+The thick reeds appear to be flourishing in this area, sprouting new shoots
+and small, white flowers in numerous places.
+~
+S
+#66236
+&+LA Narrow Path Through the Forest&N~
+   This path is hard to make out through the thick bushes and thickets of the
+forest.  Although the trail does not appear to get much use, here and there a
+freshly-broken branch indicates some fairly recent use.  The dense
+underbrush, combined with the tall, dark trees makes this area very gloomy.
+Rustling can be heard all around this area, and once and a while, a small
+chipmunk or rabbit will dart across the path.  The path continues to the
+north and south from here.
+~
+662 0 1 30 75 500 
+D0
+The path continues.
+~
+~
+0 0 66224
+D2
+The path continues.
+~
+~
+0 0 66247
+S
+#66237
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The High Road passes through the dark and foreboding Neverwinter Wood.
+Small animals occasionally bound along the path, but there is evidence of
+larger creatures having passed through here recently.  Moss hangs down from
+the trees here and there only adds to the gloom of the area. The road here is
+narrow and amounts to little more than a well-worn path.  The High Road
+continues both north and south from here.
+~
+662 0 1 30 75 500 
+D0
+The High Road continues.
+~
+~
+0 0 66225
+D2
+The High Road continues.
+~
+~
+0 0 66250
+S
+#66238
+&+GThe Summit of a Small Hill&N~
+   The Neverwinter Wood stretches out as far as the eye can see from atop
+this hill in the forest.  Far to the southwest can be see the immense City of
+Neverwinter on the shores of the glittering Trackless Sea.  To the west, the
+hill drops off in a short, but steep and rocky cliff.  Peering over the edge,
+the outline of the High Road can be seen poking through the trees here and
+there as it slowly winds its way through the forest.  Far to the north, the 
+Spine of the World can barely be seen on the horizon.  The path slopes down
+to the east from here and re-enters the woods.
+~
+662 0 4 100 100 30 
+D1
+The path enters the forest.
+~
+~
+0 0 66239
+E
+spine world~
+The Spine of the World appears as little more than a thin, gray and white
+line rising above the horizon to the north.
+~
+S
+#66239
+&+LA Gentle Incline in the Trail&N~
+   The trail continues its gentle climb up the hill in the forest.  As the
+path winds upwards, the trees grow less and less dense.  The threatening
+darkness of the forest is somewhat abated as more light is able to filter
+through to the ground.  Birds singing from the trees and the chattering of
+squirrels as they race about almost makes this an almost peaceful area.  The
+path continues towards the summit of the hill west of here and plunges deeper
+into the woods in the east.
+~
+662 0 2 80 40 500 
+D1
+The path continues.
+~
+~
+0 0 66240
+D3
+The summit of a small hill.
+~
+~
+0 0 66238
+S
+#66240
+&+LA Gentle Incline in the Trail&N~
+   Here, the trail slopes upwards as it heads towards a hill in the forest.  
+The trees still crowd in close to the path through here, but appear to thin 
+out higher up on the hill.  Odd rocks lay scattered about around here, some 
+of which bear odd carvings and markings.  The purpose of the stones or what 
+they originally said will likely remain a mystery.  Situated in a rough 
+circle, they may once have marked a ceremonial area of some sort.  The trail 
+heads east and west from here.
+~
+662 0 2 80 40 500 
+D0
+~
+bushes secret hidden~
+5 0 66226
+D1
+The trail continues.
+~
+~
+0 0 66241
+D3
+The trail continues.
+~
+~
+0 0 66239
+E
+stones~
+The stones are all a dark gray color and lie scattered about in a rough
+circle.  Some bear odd carvings, some are broken in half, but all are now
+moss-covered and forgotten by whomever placed them here.
+~
+E
+carvings markings~
+The carvings are in no familiar language and appear very archaic.  Some are
+almost hieroglyphic in nature and seem to portray scenes of battle and death.
+~
+S
+#66241
+&+LA Slight Rise in the Trail&N~
+   As the path winds its way through the trees, the forest seems to darken
+further.  Strange noises can now be heard frequently from the surrounding
+vegetation.  Many tales tell of brave adventurers who have never returned
+from within the Neverwinter Wood and, looking around, those tales appear
+quite believable.  The trail winds east and west through here as it makes
+its way between the trees.
+~
+662 0 2 5 5 5 
+D1
+The trail continues.
+~
+~
+0 0 66242
+D3
+The trail continues up.
+~
+~
+0 0 66240
+S
+#66242
+&+LA Trail Through the Forest&N~
+   A hush has fallen over this area of the woods as the trail continues to
+weave between the trees into the depths of the Neverwinter Wood.  The brush
+is dense here, and appears very thorny and uninviting.  Small animals peek
+out from the underbrush on occasion, but largely remain out of sight.  A
+strange smell occasionally wafts through the air, reminiscent of rot and
+decay.  Large tracks of some kind can also be seen on the ground, indicating
+the occasional presence of larger creatures.  The trail winds east and west.
+~
+662 0 2 40 80 500 
+D1
+The trail continues.
+~
+~
+0 0 66243
+D3
+The trail continues.
+~
+~
+0 0 66241
+E
+tracks track~
+The tracks have been obscured by the elements and do not appear to have
+been made recently.
+~
+S
+#66243
+&+LA Bend in the Trail&N~
+   The woods seem to grow quieter as the trail bends slowly through here.
+High in the trees, ravens can be heard calling back and forth.  The brush
+along the ground becomes increasingly dense as the trail heads westward from
+here.  The once well-visible path slowly disappears as the forest reclaims
+its territory and well-packed earth is slowly replaced by a grassy path
+through the thickets.  The trail bends west and south through here.
+~
+662 0 2 50 50 500 
+D2
+The trail continues.
+~
+~
+0 0 66253
+D3
+The trail continues.
+~
+~
+0 0 66242
+S
+#66244
+&+BAlong a Hidden Trail&N~
+   Emerging from behind a dense thicket, the trail appears to continue to the
+south.  Obviously not used in a very long time, this trail is largely
+overgrown.  Claw marks along the bark of the trees here show evidence of a
+much larger and more dangerous creature having passed through here.
+Occasionally, small stones line the sides of the path, seeming to indicate
+that this path once had a purpose of some sort.  The trail can be seen
+heading to the south from here.
+~
+662 0 2 5 5 5 
+D0
+The trail is hidden by a dense thicket.
+~
+thicket secret hidden~
+5 0 66230
+D2
+The hidden trail continues.
+~
+~
+0 0 66254
+E
+marks claw~
+The claw marks on the tree penetrate the thick bark and cut deeply into 
+the wood itself.
+~
+S
+#66245
+&+bRapids on the Neverwinter River&N~
+   The warm waters of the Neverwinter River continue their turbulent passage
+through this area.  The constant churning of the water creates a light mist
+which hangs permanently in the air here.  In places, large logs and pieces of
+wood can be seen lodged against the dangerous rocks of the rapids.  The
+series of rapids continue to the north of here while travel south is barred
+by sharp dropoff from the waterfalls above.  The looming and moss-covered
+walls of the city of Neverwinter stand above the river to the west.
+~
+662 0 7 50 50 25 
+D0
+Some rapids on the river.
+~
+~
+0 0 66234
+E
+wood~
+The wood, appearing to have been planed flat, was likely part of another
+watercraft that was not sturdy enough to survive the sharp and dangerous
+rocks of the rapids.
+~
+S
+#66246
+&+LA Trail Up Some Cliffs&N~
+   As the path heads upwards and follows the river south through here, the
+water to the west becomes more and more turbulent.  Here and there,
+waterfalls span the river below, churning up mist and making travel along the
+river very treacherous.  As the path heads south, it gradually slopes uphill
+and grows more rocky.  On occasion, the path takes on a near-vertical slope,
+and forces one to partially climb up the slippery rocks in an effort to
+continue.  Here and there, snakes slither in and out of the grasses near
+shore, but other animal life is scarce.  The path continues both north and
+south along the river.
+~
+662 0 2 40 80 500 
+D0
+The path continues along the river.
+~
+~
+0 0 66235
+D2
+A bend in the path.
+~
+~
+0 0 66256
+S
+#66247
+&+YA Slight Bend in the Narrow Path&N~
+   Here, the narrow path curves slightly as it winds through the underbrush.
+The path is largely overgrown with brush and thorns continually poke and
+scratch at anything passing by.  The trail is eerily silent as it passes
+through here.  Occasionally, small animals can be heard rustling in the dry
+leaves of the forest floor, but the other normal sounds of the forest are
+absent.  Although it is hard to see too far ahead, the path can be seen to
+continue roughly north and east from here.
+~
+662 0 1 50 50 500 
+D0
+The path continues.
+~
+~
+0 0 66236
+D1
+The path continues.
+~
+~
+0 0 66248
+E
+leaves~
+The leaves on the ground are mostly a rusty-brown color and appear
+to come from a wide variety of trees.
+~
+S
+#66248
+&+YA Narrow Path in the Woods&N~
+   The narrow path continues its way amongst the trees of the dark,
+Neverwinter Wood through here.  Shadows shroud the area in an almost tangible
+gloom.  Occasionally, the branches of the trees overhead creak and groan as
+the frigid, north wind blows through here.  The thick leaves rustle in the
+breeze, but no other sounds come from the area.  The pathway continues east
+and west.
+~
+662 0 1 75 30 500 
+D1
+The path continues.
+~
+~
+0 0 66249
+D3
+The path continues.
+~
+~
+0 0 66247
+S
+#66249
+&+YA Narrow Path in the Woods&N~
+   As the narrow path continues deeper into the Neverwinter Wood and gets
+farther from the relative safety of the High Road, the darkness grows and the
+trees take on a more sinister appearance.  Although small animals and rodents
+occasionally dart across the path, this area of the forest appears largely
+lifeless.  The leaves of the forest floor dance about as the cool breeze
+blows.  The narrow path continues heads west and south.
+~
+662 0 1 30 75 500 
+D2
+The path continues.
+~
+~
+0 0 66259
+D3
+The path continues.
+~
+~
+0 0 66248
+S
+#66250
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   Here, dark shadows jumping from tree to tree accompany the strange sounds
+of the Neverwinter Wood.  The wind blowing through the trees seems little
+more than a moan of grief, reflecting the sadness and gloom which hangs over 
+this place like a blanket.  Boulders and rocks clutter the road and frustrate 
+the attempts of even the most nimble traveler to pass through here quickly.  
+The cluttered path of the High Road continues through the darkness both north 
+and south from here.
+~
+662 0 1 30 75 500 
+D0
+The High Road continues.
+~
+~
+0 0 66237
+D1
+The High Road continues.
+~
+~
+0 0 66251
+E
+boulders rocks rock~
+The usually clear path of the High Road has clearly not been maintained as
+well through here, reflected in the unusually large number of rough stones
+which lie strewn about at random.
+~
+S
+#66251
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The leaves of the trees here hang limply and a blight of some sort seems
+to be affecting the trees.  The lush, green foliage found throughout the rest
+of the forest seems somewhat duller here and the occasional dead tree stands
+like an old skeleton portending death to others.  The only vegetation which
+seems healthy is the long, danglimg moss which hangs down from the withering
+branches overhead.  The High road continues east and west from here.
+~
+662 0 1 75 30 500 
+D1
+The High Road continues.
+~
+~
+0 0 66252
+D3
+The High Road continues.
+~
+~
+0 0 66250
+S
+#66252
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   Through here, the High Road is littered with large, granite rocks which
+seems to form a random outcropping of some sort.  More, larger stones can be
+seen farther off into the forest.  Many of the stones are covered with a thin
+layer of grayish-green lichens.  In the shady area between some of the larger
+rocks, a thin layer of frost can be seen, attesting to the cold nights in the
+forest.  The High Road continues to the west and south.
+~
+662 0 1 30 75 500 
+D2
+The High Road continues.
+~
+~
+0 0 66262
+D3
+The High Road continues.
+~
+~
+0 0 66251
+S
+#66253
+&+LA Beaten Path Through the Forest&N~
+   Darkness grows as the path travels farther and farther into the
+Neverwinter Wood.  The trees themselves seem to press in against the sides of
+the road like wooden sentinels.  A chill hangs in the air here, numbing both 
+flesh and spirit alike.  The cool north breeze that blows through the trees,
+sounds like a whispered warning to the unwary against delving too far into
+the depths of the forest.  The path heads both north and south through here.
+~
+662 0 1 30 75 500 
+D0
+The path continues.
+~
+~
+0 0 66243
+D2
+The path continues.
+~
+~
+0 0 66265
+S
+#66254
+&+BA Hidden Stretch of the Trail&N~
+   Emerging from a seemingly impassible thicket to the north, the trail
+continues slightly through here.  Clearly, this secluded stretch has not seen
+use in years and is nearly reclaimed by the forest.  A small shelter has been
+constructed here, but no longer provides much of a refuge from the elements.
+A whitened skeleton, still wearing bits of rotted armor, lies half-buried in
+the dirt, most likely telling the fate of the shelter's last inhabitant.
+Sounds of larger creatures crashing about seem to come from all around here,
+adding to the evil feel of the place.  The path appears to continue to the
+south and north from here.
+~
+662 0 2 5 5 5 
+D0
+The path continues.
+~
+~
+0 0 66244
+D2
+The path continues.
+~
+~
+0 0 66266
+E
+shelter~
+The shelter looks as though it was once of good construction, but is now a 
+shambles. Although the wood has begun to rot, long, deep cuts can still be
+seen in its surface, apparently claw marks of some kind.
+~
+E
+skeleton~
+The skeleton lies half-buried in the dirt.  Even the skull's eternal grin of
+death seems too jovial for these surroundings.  The armor, once grand, is now
+rusted and useless and appears to have been ripped open in spots.
+~
+S
+#66255
+&+bRapids on the Neverwinter River&N~
+   The churning and boiling waters of the Neverwinter River continue their
+turbulent flow through this area.  Large slabs of grayish rock protrude from
+the surface of the water, making navigation of the river not only extremely
+difficult, but dangerous as well.  The mist in the air here is very thick, 
+and greatly limits visibility to perhaps a dozen meter, adding to the peril 
+of navigation.  The rapids of the river continue over a steep waterfall to 
+the north of here, while a much calmer pool lies south.
+~
+662 4 7 50 50 25 
+D0
+Some rapids on the river.
+~
+~
+0 0 66245
+D2
+A calm-looking pool.
+~
+~
+0 0 66267
+E
+mist~
+The mist is quite thick and seems somewhat unnatural as it gently swirls
+and ebbs in the light, cold breeze that blows through here on occasion.
+~
+S
+#66256
+&+LA High Rocky Point on the Trail&N~
+   As the path continues upwards, it grows rockier and more treacherous.
+Winding high above the river, the path alters its north-south heading and
+turns towards the east.  The path through here is barely discernable as it
+weaves through large, sharp rocks.  Here and there, the cliff on which the
+path passes seems to have broken up from age and frost, and dark crevices
+prevent progress.  Moss and lichens cling to everything, and other than one
+or two small trees growing out over the river, other vegetation is sparse.
+On the banks below to the south, a small, calm pool opens up on the river
+atop the rapids.  The path continues north and east, where it appears to
+slope downwards slightly and re-enter the woods.
+~
+662 0 2 5 5 5 
+D0
+The path continues along the river.
+~
+~
+0 0 66246
+D1
+The path continues.
+~
+~
+0 0 66257
+D5
+~
+crevice dark~
+5 0 66325
+S
+#66257
+&+LA Trail Heading Towards the Pool&N~
+   As the path slopes downwards to the east, it comes closer to the edge of
+the small pool on the river.  Willows abound along the shore forming a
+veritable wall in places.  Combined with the thick reeds and grasses growing
+from the water itself, access to the pool is effectively blocked.  The trail
+itself slowly becomes more discernable as it makes its way along the muddy
+ground through here.  To the west, the trail slowly climbs up a rocky slope
+while to the east it heads down into the darkness of the Neverwinter Wood.
+~
+662 0 2 40 80 500 
+D1
+The path continues.
+~
+~
+0 0 66258
+D3
+The path continues.
+~
+~
+0 0 66256
+S
+#66258
+&+LAn Abrupt End to the Trail&N~
+   Just as the trail re-enters the Neverwinter Wood, it comes to an abrupt
+end.  Tall trees shroud the area in shadows for the majority of the day and a
+wall of thick brambles prevents travel any deeper into the forest.  Animals
+can be heard scampering about in the brush, but none ever emerge from their
+hiding places.  A bird or two will periodically flit through the air, but
+this place is eerily silent.  Sounds come from deeper within the wood and
+bring up memories regarding the dark tales of the creatures that lurk in its
+depths.  The trail heads west from here.
+~
+662 0 2 5 5 5 
+D2
+Some brambles are there.
+~
+brambles secret~
+5 0 66270
+D3
+The path continues in that direction.
+~
+~
+0 0 66257
+S
+#66259
+&+YA Narrow Path in the Woods&N~
+   The narrow trail through the Neverwinter Wood splits here and heads in
+several directions, forming a very tiny clearing.  Tall bushes and small,
+scrub trees abound in this area providing shelter for the small animals of
+the forest.  To the north, the trail plunges deeper into the forest and the
+trail becomes obscured in the thick undergrowth.  South of here, the trail
+appears to open up as it approaches the banks of the Neverwinter River.  East
+of here, the trail makes its way through a dense thicket and heads back
+towards the High Road.
+~
+662 0 1 30 75 500 
+D0
+The path continues.
+~
+~
+0 0 66249
+D1
+The path continues.
+~
+~
+0 0 66260
+D2
+The banks of the river.
+~
+~
+0 0 66271
+S
+#66260
+&+YA Narrow Path Through a Thicket&N~
+   The narrow trail weaves its way through a dense thicket here.  Brambles
+and thorny bushes clutter the ground everywhere and limits the view of the
+trail to a few yards in each direction.  Birds flit in and out of the
+lushundergrowth around here, singing as they go.  Occasionally, light filters
+through the trees overhead, but the primarily gray skies over the Neverwinter
+Wood lend a very depressing feel to these surroundings.  The trail heads
+roughly east and west through the thicket.
+~
+662 0 1 75 30 500 
+D1
+The thicket continues that way.
+~
+~
+0 0 66261
+D3
+A small path through the forest is there.
+~
+~
+0 0 66259
+S
+#66261
+&+YA Narrow Path Through a Thicket&N~
+   Small animals run about through here as a small trail makes its way
+through a dense thicket.  While the thorny bushes make travel through here
+annoying to adventurers, they provide shelter for many of the smaller
+inhabitants of the forest.  Overhead, birds of prey occasionally circle,
+watching for their next meal.  A large, fallen tree lies to the east and
+apparently blocks the path while the trail continues on into the thicket to
+the west.
+~
+662 0 1 75 30 500 
+D1
+~
+tree secret thicket~
+5 0 66262
+D3
+The thicket continues.
+~
+~
+0 0 66260
+S
+#66262
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The High Road here is well traveled and wider. Just off the path to the
+west is a large fallen tree that appears to have been moved aside to clear
+the roadway, perhaps by the Harpers who continually patrol the area.  Trees
+falling and blocking the road are common, especially in the windier seasons.
+As the High Road twists and turns to the north, it appears to narrow some as
+the Neverwinter Wood continues to encroach on its boundaries.  The High Road
+continues north and east from here.
+~
+662 0 1 30 75 500 
+D0
+The High Road continues.
+~
+~
+0 0 66252
+D1
+The High Road continues.
+~
+~
+0 0 66263
+D3
+~
+tree secret~
+5 0 66261
+S
+#66263
+&+GA Slight Depression on the &N&+cHigh Road&N~
+   The High Road here is well traveled and wider but dips slightly,
+apparently from erosion. Just off the path to the west is a large fallen tree
+that appears to have been moved aside to clear the roadway, perhaps by the
+Harpers who continually patrol the area.  Trees falling and blocking the road
+are common, especially in the windier seasons.  As the High Road twists and
+turns to the north, it appears to narrow some as the Neverwinter Wood
+continues to encroach on its boundaries.  The High Road continues north and
+east from here.
+~
+662 0 1 40 40 20 
+D0
+The High Road continues.
+~
+~
+0 0 66252
+D1
+The High Road continues.
+~
+~
+0 0 66264
+D3
+The High Road continues.
+~
+~
+0 0 66262
+S
+#66264
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The High Road here is well traveled and well kept.  Serving as the main
+connection between the southern lands and the Savage North, the High Road is
+often cluttered with travelers and merchants.  Here and there, remains of a
+campfire can be seen just off of the side of the road, but none of them look
+too recent.  Large rocks, covered with lichens and moss, also line the side
+of the road and were likely cleared out by the Harpers who patrol the area,
+keeping the peace. The High Road continues west and south.
+~
+662 0 1 30 75 500 
+D2
+The High Road continues.
+~
+~
+0 0 66272
+D3
+The High Road continues.
+~
+~
+0 0 66263
+S
+#66265
+&+LA Beaten Path Through the Forest&N~
+   As the path makes its way through the Neverwinter Wood, the trees begin to
+take on a more sinister look.  It is clear that this area sees less traffic
+than the High Road as thick grasses are beginning to sprout through the
+packed earth of the trail.  Here and there, a log alongside of the road
+provides a place to sit and rest, but the uneasy feeling of the area would
+seem to warn against such a rest stop.  The path through the forest continues
+north and south.
+~
+662 0 1 30 75 500 
+D0
+The path continues.
+~
+~
+0 0 66253
+D2
+The path continues.
+~
+~
+0 0 66274
+S
+#66266
+&+BA Murky Dead End in the Trail&N~
+   The hidden trail through the forest comes to an abrupt halt here.  The
+dark trees here bear the scars of great claw marks and the underbrush is
+trampled and broken.  Large, unidentifiable imprints in the ground tell of
+the passing of some great creature, but exactly what that being may have been
+remains to be seen.  Perhaps the horrid tales of the beasts that live within
+the Neverwinter Wood have more basis in fact than most suspect.  This place
+has an evil feel to it.
+~
+662 0 2 5 5 5 
+D0
+The path continues.
+~
+~
+0 0 66254
+S
+#66267
+&+bA Small Pool on the Neverwinter River&N~
+   Just atop some falls, the Neverwinter River forms a relatively calm pool.
+The water here, despite the slight current, has a almost glass-like surface.
+Willows hang over the water near shore and contrast sharply with the tall
+and twisted trees of the rest of the Neverwinter Wood.  The chirping birds,
+croaking frogs, and buzzing of various insects adds a very calming feeling to
+this area.  Despite its close proximity to the city of Neverwinter, this pool
+seems almost untouched.  The looming and moss-covered walls of the City of
+Neverwinter stand above the pool to the west, while north, some steep
+waterfalls lead down rapids on the Neverwinter River.
+~
+662 0 7 42 42 16 
+D0
+Some rapids on the river.
+~
+~
+0 0 66255
+D1
+A calm-looking pool.
+~
+~
+0 0 66268
+D2
+A calm-looking pool.
+~
+~
+0 0 66276
+S
+#66268
+&+bA Small Pool on the Neverwinter River&N~
+   This is the middle of a small pool on the Neverwinter River.  Sunlight
+shines down on the warm water, and despite the chill in the air from its
+northern location, this area is very inviting.  Large willows hang over the
+water near shore to the north and beyond them lie the dark and foreboding
+Neverwinter Wood.  Small outcroppings of water reeds and lilly pads offer
+shelter for the various animals that make this pool their home. The small
+pool continues in all directions except north, where the willows prevent any 
+attempt to land on shore.
+~
+662 0 7 42 42 16 
+D1
+A calm-looking pool.
+~
+~
+0 0 66269
+D2
+A calm-looking pool.
+~
+~
+0 0 66277
+D3
+A calm-looking pool.
+~
+~
+0 0 66267
+S
+#66269
+&+bA Small Pool on the Neverwinter River&N~
+   This area of the pool is very shady and is bounded almost completely by 
+the large, overhanging willows.  Shadows cover much of the water, but despite 
+the darkness, the area does not seem threatening.  Just beyond shore, sounds 
+can be heard coming from the Neverwinter Wood, but they never intrude on the 
+serenity of the pool. Small outcroppings of water reeds and lilly pads offer 
+shelter for the various animals that make this pool their home. The small 
+pool continues to the west and south.
+~
+662 0 7 42 42 16 
+D2
+A calm-looking pool.
+~
+~
+0 0 66278
+D3
+A calm-looking pool.
+~
+~
+0 0 66268
+S
+#66270
+&+RA Hidden Glade in the Neverwinter Wood&N~
+   Surrounded on all sides by nearly impenetrable trees, this area seems to
+have been secluded for some time.  Despite its remote location, this tiny
+glade does have some evidence that it has been used in the past.  Here
+and there are the signs of previous campfires and shelters.  Tattered
+remnants of clothing and whitened bones protruding from the moist soil attest
+to more violent occurrences here.  From the trees surrounding this area 
+come the occasional sounds of a larger animal making its way through the
+forest, perhaps explaining the bones.
+~
+662 0 3 75 75 25 
+D0
+Some brambles are there.
+~
+brambles secret~
+5 0 66258
+S
+#66271
+&+YThe Muddy Banks of the River&N~
+   Here, a muddy stretch of the bank allows access to the Neverwinter River.
+The area looks as though it serves more often as a watering hole for
+wandering deer than as a dock for adventurers, but it still serves its
+purpose.  Thick mist hangs around the area and obscures most of the view, the
+outline of a rocky island can be seen to the south, across the river.  The
+sound of birds from the trees add a calming affect to this area, which feels
+relatively peaceful compared to the rest of the forest.  A narrow path
+continues north from here.
+~
+662 0 2 40 80 500 
+D0
+A narrow path is there.
+~
+~
+0 0 66259
+D2
+The Neverwinter River continues.
+~
+~
+0 0 66280
+S
+#66272
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   Even in the darkest areas of the Neverwinter Wood, it seems that beauty
+can be found. Alongside the path here, small, violet flowers bloom in the
+shade.  Deep thickets of bushes to the west also bear large, blueish berries.
+The untouched status of the berries seems strange in a forest with so much
+wildlife and appears to indicate that the natural denizens of the forest
+refrain from eating the lovely fruit. The High Road continues north and east
+from here.
+~
+662 0 1 30 75 500 
+D0
+The High Road continues.
+~
+~
+0 0 66264
+D1
+The High Road continues.
+~
+~
+0 0 66273
+S
+#66273
+&+GA Bend in the &N&+cHigh Road&N~
+   The High Road bends lazily southward through here.  This particular area
+is fairly open, and appears to serve as something of a stopping grounds for
+weary travelers.  Most of the trees have been cleared out through here, but
+the Neverwinter Wood never ends its assault to retake the area and overgrow
+the road.  Occasionally, strange noises can be heard coming from the woods
+around this place, but there is still something of a feeling of security
+about it.  In the very least, anything emerging from the wood would have to
+cross relatively open terrain which would give travelers some advanced
+warning.  The High Road continues west and south from here.  To the east is a
+small path leading off through the woods.
+~
+662 0 1 50 50 500 
+D1
+A path leads off that way.
+~
+~
+0 0 66274
+D2
+The High Road continues.
+~
+~
+0 0 66284
+D3
+The High Road continues.
+~
+~
+0 0 66272
+S
+#66274
+&+LA Beaten Path Through the Forest&N~
+   A wide path continues through the forest here, just off of the High Road.
+Appearing to get a good deal of traffic, the path, though obviously not as
+well-traveled as the High Road, is clearly defined as it makes its way
+through the forest here.  In this area, the remnants of many campfires can be
+seen, indicating that this crossing of the paths also serves as something of
+a campsite for weary travelers.  The path in the forest continues north and
+east while the High Road lies west.
+~
+662 0 1 30 75 500 
+D0
+The path continues.
+~
+~
+0 0 66265
+D1
+The High Road lies in that direction.
+~
+~
+0 0 66275
+D3
+The path continues.
+~
+~
+0 0 66273
+S
+#66275
+&+LA Gradual Bend in the Path&N~
+   The path narrows somewhat through here as it curves on its way through the
+trees.  A chill wind blows through here almost constantly, swirling leaves
+and dirt through the air.  Animals can be heard rustling about just off of
+the path, but most choose stay out of sight.  The occasional, unidentifiable
+cry can be heard coming from deeper in the wood, but this place seems
+relatively safe.  The path continues both west and north from here as it
+bends its way through the forest.
+~
+662 0 1 50 50 500 
+D2
+The path continues.
+~
+~
+0 0 66285
+D3
+The path continues.
+~
+~
+0 0 66274
+S
+#66276
+&+bA Small Pool on the Neverwinter River&N~
+   This area of the pool is shaded by the high walls of Neverwinter.  Here 
+and there, floating trash and discarded garbage attest to the close proximity 
+to the city.  The majority of the refuse, however, appears to have been 
+collected in piles on the shore.  Rustling under the various piles attests to 
+the presence of rats or other vermin, but none ever make their appearance.  
+The smell of the refuse is unpleasant, but not unbearable with the constant 
+fresh breeze over the pond.  The pool continues east and north where the 
+rumblings of a waterfall can be heard.
+~
+662 0 7 42 42 16 
+D0
+A calm-looking pool.
+~
+~
+0 0 66267
+D1
+A calm-looking pool.
+~
+~
+0 0 66277
+S
+#66277
+&+bA Small Pool on the Neverwinter River&N~
+   This is the middle of a small pool on the Neverwinter River.  Sunlight
+shines down on the warm water, and despite the chill in the air from its
+northern location, this area is very inviting.  Large willows hang over the
+water near shore to the north and beyond them lie the dark and foreboding
+Neverwinter Wood.  Small outcroppings of water reeds and lilly pads offer
+shelter for the various animals that make this pool their home. The
+small pool continues in all directions except south, where the great walls
+of Neverwinter border the shores.
+~
+662 0 7 42 42 16 
+D0
+A calm-looking pool.
+~
+~
+0 0 66268
+D1
+A calm-looking pool.
+~
+~
+0 0 66278
+D3
+A calm-looking pool.
+~
+~
+0 0 66276
+S
+#66278
+&+bA Small Pool on the Neverwinter River&N~
+   This is the beginning of a small pool on the Neverwinter River.  As the
+river widens through here, the current slows and forms a very serene pool.
+Large, drooping willows border the shores along the northern edge of the pool
+while the great walls of Neverwinter border to the south.  The pools waters
+are very inviting and clear.  In the depths of the pool can be seen large
+outcroppings of rock and leftover stone from the building of Neverwinter's
+walls.  large schools of fish can also be seen swimming in and out of the
+underwater features of the pond in search of food.
+~
+662 0 7 42 42 16 
+D0
+A calm-looking pool.
+~
+~
+0 0 66268
+D1
+The river continues.
+~
+~
+0 0 66279
+D3
+A calm-looking pool.
+~
+~
+0 0 66277
+S
+#66279
+&+bAlong the Neverwinter River&N~
+   The waters of the river flow lazily here to the sounds of birds singing.
+The lush foliage on the bank to the north provides the perfect shelter for
+animals which use the river for food.  Small swarms of insects also make this
+place their home, hovering just over the surface of the water and constantly
+annoying passing travelers.  Farther to the north, in the dark and fearsome
+expanse of the deep forest, darkers sounds can be heard, serving as a
+constant reminder of the dangers of this area, despite its apparent beauty.
+~
+662 0 7 50 50 25 
+D1
+The river continues.
+~
+~
+0 0 66280
+D2
+The river continues.
+~
+~
+0 0 66286
+D3
+A calm-looking pool.
+~
+~
+0 0 66278
+S
+#66280
+&+bAlong the Neverwinter River&N~
+   The Neverwinter River flows swiftly through here.  Despite its remote,
+northern location, the waters of the Neverwinter River are always warm and
+inviting, even in deepest winter.  This stretch of river is slightly
+turbulent as the water flows around a rocky island to the south.  Rocks worn
+smooth with time can be seen periodically poking through the surface of the
+water.  To the north, a small landing has been cleared through the thick
+foliage of the Neverwinter Wood to allow for the landing of small watercraft.
+The river continues both east and west through here.
+~
+662 0 7 50 50 25 
+D0
+A small landing.
+~
+~
+0 0 66271
+D1
+The river continues.
+~
+~
+0 0 66281
+D3
+The river continues.
+~
+~
+0 0 66279
+S
+#66281
+&+bAlong the Neverwinter River&N~
+   Low, overhanging branches create almost cave-like covering over the water
+here.  The dense, overhanging foliage of the area provides shelter for a
+myriad of birds and other animals which can be seen flying and hopping about
+along the shores.  Large fish jump into the air in search of insects or
+larger prey which venture too close to the surface of the water.  The slight
+breeze which blows through here is lightly scented by some of the wildflowers
+growing on the banks.  The powdery seeds of cattails also litter the air like
+swarms of white insects.  The flow of the river continues west from here,
+entering from the south where the water flows under a small bridge.
+~
+662 0 7 50 50 25 
+D2
+The river continues.
+~
+~
+0 0 66288
+D3
+The river continues.
+~
+~
+0 0 66280
+S
+#66282
+&+gA Small Clearing in the Forest&N~
+   The small clearing in the forest continues through here.  A chill breeze
+blows occasionally through the small clearing making the area quite cool at
+times.  Here and there, birds flit between the trees while chipmunks poke
+their heads out of their tunnels to get a look around.  In this largely open
+area, clumps of bushes help provide shelter for the smaller creatures of the
+forest from the birds of prey which occasionally circle overhead in search of
+food.  A large oak tree stands in the center of the clearing and looks quite
+climbable.  On occasion, a strange odor wafts through the air here.
+~
+662 0 2 138 138 500 
+D1
+A small clearing continues.
+~
+~
+0 0 66283
+D2
+A small clearing continues.
+~
+~
+0 0 66290
+D4
+Up into a tree.
+~
+~
+0 0 66337
+S
+#66283
+&+gA Small Clearing in the Forest&N~
+   A small clearing continues here.  A large, charred oak tree stands to the
+west of here.  Although surrounded by the dangerous Neverwinter Wood, this
+clearing is very peaceful and small animals occasionally bound about on the
+ground.  The sunlight filtering through the trees helps add some warmth to
+the cool air that hangs about.  The small clearing continues both south and
+west from here.
+~
+662 0 2 138 138 500 
+D2
+A small clearing continues.
+~
+~
+0 0 66291
+D3
+A small clearing continues.
+~
+~
+0 0 66282
+S
+#66284
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The High Road continues it's way through the forest here in a general
+north-south direction.  Clumps of grass poke through the hard dirt surface of
+the road, here and there, providing some much-needed fodder for horses and
+other traveling animals.  The huge trees of the Neverwinter Wood line both
+sides of the road like an impenetrable wall.  Many tales tell of evil beasts
+which lurk just off the path, awaiting a careless traveler kind enough to
+provide a tasty meal.
+~
+662 0 1 30 75 500 
+D0
+The road bends to the west.
+~
+~
+0 0 66273
+D2
+The High Road continues.
+~
+~
+0 0 66292
+S
+#66285
+&+LA Path Through the Wood&N~
+   The path in the forest continues to grow narrower and more overgrown as it
+passes through here.  Dense grass and thickets of thorny bushes have begun to
+disguise the original trail and even the trees seem to be reclaiming their
+lost territory.  While the increase in foliage appears to make traversing the
+path more difficult, the natural denizens of the Wood seem to be more
+prevalent here as nature reclaims some of her lost territory.  North of here,
+the path bends slightly to the west, while it continues south from here.
+~
+662 0 1 30 75 500 
+D0
+The narrow path continues.
+~
+~
+0 0 66275
+D2
+A path through the wood.
+~
+~
+0 0 66293
+E
+bush bushes~
+The bushes here appear especially dense and thorny in nature- typical of those
+found in the Neverwinter Wood.
+~
+S
+#66286
+&+bAlong the Neverwinter River&N~
+   The Neverwinter River flows swiftly through here along the walls of
+Neverwinter.  This stretch of river is slightly turbulent as the water flows
+around a rocky island to the east.  Along the western shore, the looming
+walls of Neverwinter are covered with moss and lichens, almost hiding their
+man-made nature.  To the east, a large, rocky island splits the Neverwinter
+River.  On the island can be seen a structure of some sort, but its features
+are obscured by a dense, unnatural-looking fog.  The river itself continues
+both north and south from here.
+~
+662 0 7 50 50 25 
+D0
+The river continues.
+~
+~
+0 0 66279
+D2
+The river continues.
+~
+~
+0 0 66294
+E
+island~
+This island, although a relatively regular formation along the Neverwinter 
+River, seems somehow unnatural when compared to its counterparts.  Simply
+viewing the island fills you with an uneasy feeling.
+~
+S
+#66287
+&+BThe Icewell Temple&N~
+   Occupying almost all of the surface of this small, rocky island is an
+ancient-looking stone temple.  Strange runes and designs cover the walls, and
+carvings in the stone, now faded with age, show many scenes of battle and
+death.  Rising out of the center of the temple floor is a well, apparently
+made entirely of ice.  A thick and unnatural mist continuously fills this
+shrine and no amount of wind seems to dissipate it.  Occasionally, there is a
+strange feeling as though a presence is watching, but the temple is totally
+abandoned.
+~
+662 266253 0 25 25 10 
+D1
+A bridge over the river.
+~
+~
+0 0 66289
+S
+#66288
+&+bUnder a Small Bridge&N~
+   Here, the Neverwinter River flows under a small bridge that connects a
+rocky island in the Neverwinter River, with the shore.  To the west, the
+large, rocky island rises up out of the water.  Its shores are made of steep,
+jagged rocks covered with moss and slime.  Overhead, the ancient wood and
+stone bridge creaks and groans with age, but shows no sign of weakness.  The
+river itself continues both north and south from here.
+~
+662 0 2 5 5 5 
+D0
+The river continues.
+~
+~
+0 0 66281
+D2
+The river continues.
+~
+~
+0 0 66296
+S
+#66289
+&+GA Small Bridge Over the &+bNeverwinter River&N~
+   This bridge appears to be very old, but is nonetheless extremely sturdy.
+Built from both rock and stone, it appears as though it may be dwarven in
+nature which would explain its longevity.  Here and there, a dank moss clings
+to the stone making it somewhat slippery, but the bridge is wide enough to
+traverse without fear of falling into the water below.  Occasionally, a thin
+mist will drift through the air, emanating from the island to the west.  The
+island itself is almost completely enshrouded in mist, but there is clearly a
+large structure on it occupying nearly its entire surface.  To the east is a
+small path in the Neverwinter Wood.
+~
+662 0 2 5 24 500 
+D1
+A small path through the forest.
+~
+~
+0 0 66290
+D3
+The icewell temple.
+~
+~
+0 0 66287
+E
+bridge~
+The stones of the bridge are cute very precisely and meticulously.  Even
+though they have experienced a great deal of exposure to the elements, the
+sharp-cut edges of the stone still appear as though they could rend flesh
+as easily as the sharpest razor.
+~
+S
+#66290
+&+gA Small Clearing in the Forest&N~
+   A small clearing opens up here in the woods.  The slight mist which
+occasionally filters through the clearing seems a bit thicker here, but does
+not impede vision in any way.  North of here stands a large oak tree which
+appears blackened from lightning strikes.  To the west, an ancient bridge
+crosses a portion of the Neverwinter River to a rocky, mist-shrouded island.
+A structure of some sort can be seen on the island, but it is nearly
+impossible to identify. The clearing continues both north and east from here
+while the bridge lies west.
+~
+662 0 2 138 138 500 
+D0
+A small clearing continues.
+~
+~
+0 0 66282
+D1
+A small clearing continues.
+~
+~
+0 0 66291
+D3
+A bridge over the river.
+~
+~
+0 0 66289
+S
+#66291
+&+gA Small Clearing in the Forest&N~
+   A small clearing opens up here in the woods.  The opening in the canopy
+allows some much needed sunlight to enter here, but the high trees still
+provide a good deal of protection from the elements.  Occasionally, a slight
+mist seems to hover about the ground here, but the sunlight filtering through
+the trees quickly burns it off.  In the northwest corner of the clearing
+stands a large oak tree which has been recently struck by lightning.  The
+clearing continues both north and west from here.
+~
+662 0 2 138 138 500 
+D0
+A small clearing continues.
+~
+~
+0 0 66283
+D2
+A path through the forest.
+~
+~
+0 0 66298
+D3
+A small clearing continues.
+~
+~
+0 0 66290
+S
+#66292
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The High Road continues it's way through the forest here in a general
+north-south direction.  Brambles and thickets of thorny shrubs occasionally
+sprout alongside the road, making this a very uncomfortable place to stop and
+rest.  Small rabbits and other animals occasionally dart in between the thick
+shrubs and many birds can be heard chirping in the area.  Periodically, a
+shadow or two will flit through the trees off of the road, but no sign of any
+large creatures can be seen.
+~
+662 0 1 30 75 500 
+D0
+The High Road continues.
+~
+~
+0 0 66284
+D2
+The High Road continues.
+~
+~
+0 0 66300
+S
+#66293
+&+LA Path Through the Wood&N~
+   As the brush and grasses begin to thicken here, the path becomes less and
+less discernable.  Clearly, the Neverwinter Wood is actively reclaiming this
+area and the trail threatens to disappear completely if not tended to.  The
+sounds of forest animals come from all around this place, adding to the
+feeling of seclusion.  Deer tracks can be seen on the ground here and there,
+but other physical evidence of wildlife is absent.  The path heads north and
+south from here.
+~
+662 0 1 30 75 500 
+D0
+The narrow path continues.
+~
+~
+0 0 66285
+D2
+A path through the wood.
+~
+~
+0 0 66301
+E
+tracks track~
+While the tracks are clearly those of a deer, the exact time that they were
+left cannot be determined due to the obfuscation of the elements.
+~
+S
+#66294
+&+bA Bend in the Neverwinter River&N~
+   The Neverwinter River bends slowly through here towards the walls of
+Neverwinter.  This stretch of river is relatively calm and has sporadic areas
+of calm along the city calls.  Refuse floating in the water also attests to
+the rivers close proximity to the walls of Neverwinter.  On southern shore, a 
+small, wooded glade can be seen tucked in between the river and the city
+walls.  To the northeast, a large, rocky island rises above the Neverwinter
+River.  On the island can be seen a structure of some sort, but its features
+are obscured by a dense, unnatural-looking fog.  The river itself continues
+both north and east from here.
+~
+662 0 7 50 50 500 
+D0
+The river continues.
+~
+~
+0 0 66286
+D1
+The river continues.
+~
+~
+0 0 66295
+S
+#66295
+&+bAlong the Neverwinter River&N~
+   The Neverwinter River floats lazily through here as it makes its way
+through the Neverwinter Wood.  The water laps gently on the shore to the
+south where a thick grove of trees can be seen.  To the north of here lies a
+large island of treacherous-looking rocks, dominated by a large stone
+structure.  A slight, unnatural fog also hangs in the air which seems to be
+coming from either the structure or the island itself.  The unusually warm
+waters of the river flows east and west through here.
+~
+662 0 7 50 50 25 
+D1
+The river continues.
+~
+~
+0 0 66296
+D3
+The river continues.
+~
+~
+0 0 66294
+S
+#66296
+&+bA Split in the Neverwinter River&N~
+   The warm waters of the Neverwinter River float lazily through here on
+their long trek to the Trackless Sea.  The water laps gently on the shore to
+the south and here and there, a rock can be seen poking through the surface.
+The river is split here by a large, rocky island to the northwest.  To the
+north, the river flows under an ancient bridge connecting the island to the
+shore.  To the west, the river flows towards the mossy city walls of
+Neverwinter.  A slight fog hangs in the air here, and seems to originate from
+the rocky island.
+~
+662 0 7 50 50 25 
+D0
+Under a bridge over the river.
+~
+~
+0 0 66288
+D1
+The river continues.
+~
+~
+0 0 66297
+D3
+The river continues.
+~
+~
+0 0 66295
+S
+#66297
+&+bA Bend in the Neverwinter River&N~
+   The Neverwinter River curves through the woods here as it makes its way to
+a more open area to the west.  This stretch of river is almost constantly
+shaded by the large, overhanging trees of the Neverwinter Wood.  The lazy
+flow of the river would likely grant this area a very serene feeling were it
+not for its proximity to the dangerous and foreboding Neverwinter Wood.  The
+river flows from the south towards the west from here.
+~
+662 0 7 50 50 500 
+D2
+The river continues.
+~
+~
+0 0 66305
+D3
+The river continues.
+~
+~
+0 0 66296
+S
+#66298
+&+gA Narrow Overgrown Path&N~
+   The narrow path bends through the woods here beneath the thick canopy of
+the trees.  Painful looking thickets of thorn bushes line both sides of the
+path through here and leave little option as to which directions travel is
+allowed.  The faint sound of running water attests to the nearness of the
+Neverwinter River, although no sign of the river itself can be seen though
+the dense foliage.  To the north, the path seems to open up slightly into a
+clearing in the forest.  East of here, the narrow pathway continues its trek
+through the forest.
+~
+662 4 1 40 40 20 
+D0
+A small clearing.
+~
+~
+0 0 66291
+D1
+An overgrown path.
+~
+~
+0 0 66299
+S
+#66299
+&+gA Narrow Overgrown Path&N~
+   This path is hardly visible among the bushes and thickets of the forest.
+Appearing, perhaps, to be an animal trail more than anything else, it wanders
+haphazardly about between the trees.  The dense underbrush, combined with the
+thick foliage of the trees makes this area very dark, even during midday.
+Rustling can be heard just off of the path as the smaller denizens of the
+woods are scared by intrusion into their domain and seek quieter areas.  The
+path continues to the west and south from here.
+~
+662 0 1 40 40 20 
+D2
+A crossing of paths.
+~
+~
+0 0 66307
+D3
+An overgrown path.
+~
+~
+0 0 66298
+E
+trees foliage tree~
+The trees through here grow dense and thick, blocking out most of the
+grayish sunlight from the skies above.
+~
+S
+#66300
+&+GThe &N&+cHigh Road &+GThrough Neverwinter Wood&N~
+   The High Road continues it's way through the forest here in a general
+north-south direction.  The road through here is hard-packed and worn.
+Occasionally, the remnants of a wagon track can be seen, but it appears as
+though few traders venture this far north.  Squirrels skitter through the
+trees overhead in search of nuts and other food.  Every once and a while, a
+cool wind blows down the road and kicks up a cloud of dust.  All in all, the
+area looks pretty desolate.  The High Road continues north and south through
+here.
+~
+662 0 1 30 75 500 
+D0
+The High Road continues.
+~
+~
+0 0 66292
+D2
+The High Road continues.
+~
+~
+0 0 66309
+S
+#66301
+&+LAn Ubrupt End in the Path&N~
+   Just as the path turns to head deeper into the wood, it disappears
+completely.  Trees and undergrowth surround the area and it appears as though
+the path has simply become too overgrown to discern.  Where this path led or
+who had originally used it will remain a mystery.  Squirrels hop from tree to
+tree here, and chipmunks skitter about on the ground, seemingly oblivious to 
+the intrusion on their home.  The path winds north from here.
+~
+662 0 1 40 40 20 
+D0
+The narrow path continues.
+~
+~
+0 0 66293
+S
+#66302
+&+gA Path Along the &+bRiver&N~
+   The path continues along the banks of the Neverwinter River.  Here and
+there, a small clump of reeds grows up out of the water providing some
+shelter for the small creatures that call the river their home.  High above
+the trees to the west can be seen the faint top of the walls of Neverwinter,
+indicating that the city itself is not far off despite the remote feel of
+this area.  The occasional snake slithers along the riverbank in search of
+its next meal, but other than that, this section of the path seems largely
+devoid of life.  South of here, a strange glowing can be seen coming from the
+trees while the path continues to the east.
+~
+662 4 1 75 30 500 
+D1
+The path continues.
+~
+~
+0 0 66303
+D2
+Entrance to a small grove.
+~
+~
+0 0 66310
+S
+#66303
+&+gA Path Along the &+bRiver&N~
+   The path continues along atop the muddy banks of the Neverwinter River
+through here.  In the deep water of the pools below, many large fish can be
+seen swimming about in search of food.  Here and there, small wisps of a
+strange mist seem to hang over the surface of the water, which almost appear
+to come from an rocky island far to the north.  The worn dirt path continues
+both east and west from here.
+~
+662 0 1 75 30 500 
+D1
+The path continues.
+~
+~
+0 0 66304
+D3
+The path continues.
+~
+~
+0 0 66302
+S
+#66304
+&+gA Bend Along the Banks of the &+bNeverwinter River&N~
+   The path along the banks of the Neverwinter River bends slowly to the
+south here.  Although in a fairly remote location, this path appears to get a
+fair amount of use.  Some small shrubs sprout along the banks, but they can
+provide shelter only for the few small animals that make this area of the
+woods their home.  From here, the pathway slopes slowly downwards to the
+south where it appears to be almost level with the great river itself and
+enters something of a small bog.
+~
+662 0 2 40 80 500 
+D2
+The path continues.
+~
+~
+0 0 66312
+D3
+The path continues.
+~
+~
+0 0 66303
+S
+#66305
+&+bA Bend in the Neverwinter River&N~
+   The Neverwinter River curves through here in the dark Neverwinter Wood.
+This stretch of river is almost constantly shaded by the large, overhanging
+trees of the woods.  The dense brambles and thickets on the shores here
+prevent any attempt to land craft so the only choice is to follow the warm 
+waters of the river.  To the southwest, occasional glimpses of dancing lights
+can be seen through the trees indicating some sort of activity.  The river
+flows from the east to the north through here.
+~
+662 0 7 50 50 500 
+D0
+The river continues.
+~
+~
+0 0 66297
+D1
+The river continues.
+~
+~
+0 0 66306
+S
+#66306
+&+bA Bend in the Neverwinter River&N~
+   Although the current of the river through here is very relaxed, occasional
+rocks and other debris in the water make navigation of this stretch of water 
+somewhat difficult.  Overhanging branches and limbs also threaten to snag 
+unwary travelers and pluck them from their vessels.  The annoying buzz of 
+hovering insects also helps make this place on of the less inviting stretches 
+of the Neverwinter River.  The river flows from the south to the west through 
+here.
+~
+662 0 7 50 50 500 
+D2
+The river continues.
+~
+~
+0 0 66314
+D3
+The river continues.
+~
+~
+0 0 66305
+S
+#66307
+&+gA Crossing of Paths&N~
+   Here in the trees, two small paths come together.  One heads south along
+the banks of the Neverwinter River and disappears into the woods.  The other
+path heads north into the woods towards what looks to be a small clearing in
+the trees.  The path heading south appears to get a fair deal of use and is
+pretty well-worn.  The one heading north is much fainter and is mostly
+overgrown.  Here and there, small animals dart furtively around in the trees,
+but this area is mostly devoid of life.
+~
+662 0 3 75 75 25 
+D0
+An overgrown path through the woods.
+~
+~
+0 0 66299
+D1
+A narrow path.
+~
+~
+0 0 66308
+D2
+A small path along the river.
+~
+~
+0 0 66315
+E
+river~
+The warm waters of the Neverwinter River, although barely visible through the
+trees, appear quite serene from here. 
+~
+S
+#66308
+&+gA Small Connecting Path&N~
+   A small path has been worn through the woods here, allowing travel deeper
+into the Neverwinter Wood.  This portion of the path is extremely narrow and
+seems to serve as a connection between the High Road to the east and a larger
+path to the west.  Strange noises come from the woods alongside the path and
+gives this area a definite sense of unease.  All around here, the tall trees
+of the Neverwinter Wood loom darkly overhead, shrouding this path in almost
+perpetual shadow.
+~
+662 5 1 40 40 20 
+D1
+The High Road.
+~
+~
+0 0 66309
+D3
+A small path in the woods.
+~
+~
+0 0 66307
+S
+#66309
+&+cAn Intersection in the &N&+cHigh Road&N~
+   Here, the High Road intersects a small path that disappears into the woods
+to the west.  While the High Road is a main thoroughfare and is well-kept by
+the Harpers who patrol the area, the path to the west looks treacherous at
+best.  All around here, the trees of the Neverwinter Wood take on an ever-
+darkening appearance as the distance from the city of Neverwinter grows.  The
+wide expanse of the High Road continues north and south from here, while the
+narrow path makes its way into the woods to the west.
+~
+662 0 1 40 40 20 
+D0
+The High Road continues.
+~
+~
+0 0 66300
+D2
+The High Road continues.
+~
+~
+0 0 66316
+D3
+A path through the woods.
+~
+~
+0 0 66308
+S
+#66310
+&+gOutside a Small Grove&N~
+   This small section of forest lies just outside of a small grove.  The
+trees here, although still part of the Neverwinter Wood, look much less
+threatening.  To the east, the trees have grown to form an intertwined 
+archway which leads into a beautiful grove.  Thorny, flowered vines twist
+over the arch in an odd mixture of danger and beauty.  The peaceful sounds of
+singing birds can be heard coming from within the grove.  To the north, a
+pathway winds its way eastward along the banks of the Neverwinter River.
+~
+662 0 4 100 100 30 
+D0
+A path along the river.
+~
+~
+0 0 66302
+D1
+A beautiful grove.
+~
+~
+0 0 66311
+S
+#66311
+&+gInside the Grove of Druids&N~
+   This picturesque grove marks the home of the druids of the Neverwinter.
+In sharp contrast to the dark and foreboding Neverwinter Wood, all around
+here, beautiful trees and plants of all kinds grow in a celebration of the
+powers of nature.  The grove is very serene and a warming peace befalls all
+those who enter it.  Sounds of chirping birds and the buzzing of the
+occasional bee are all the noise that disturb the tranquility of this place.
+The beautiful grove continues to the south, while the entrance leads out to
+the west.
+~
+662 0 4 75 75 500 
+D2
+The grove continues.
+~
+~
+0 0 66319
+D3
+A path through the woods.
+~
+~
+0 0 66310
+S
+#66312
+&+gA Muddy Path Along the &+bRiver&N~
+   The path winds its way through a low, marshy section of the riverbank.
+The mud here is several inches deep and makes walking difficult.  Other
+tracks appear in the mud, some of which are clearly humanoid and some which
+cannot really be identified at all.  Clumps of cattails and other marshy
+plants blossom all around this area and a faint, rotting smell seems to come
+from the ground itself.  Closer to the waters edge, the mud looks very
+treacherous and it is quite likely that anything venturing out too far into
+the small bog may never make it back.  The path continues north, where it
+appears to dry out a bit, and to the east.
+~
+662 0 1 30 75 500 
+D0
+The path continues.
+~
+~
+0 0 66304
+D1
+A path along the river.
+~
+~
+0 0 66313
+S
+#66313
+&+gA Small Path Along the &+bRiver&N~
+   The small dirt path continues along the banks of the Neverwinter River
+through here.  The path itself dips slightly and exhibits some small signs of
+erosion.  The river bends lazily alongside the path and is sporadically
+broken up by clumps of reeds and lilly pads.  Frogs croak from the shelter of
+the river and periodically, a large fish will leap from the water in an
+attempt to snag one of the low-flying insects.  This area has a very serene
+feel to it.  The path continues to bend alongside the riverbank to the west
+and south.
+~
+662 0 1 20 65 500 
+D2
+The path continues.
+~
+~
+0 0 66321
+D3
+A small footbridge.
+~
+~
+0 0 66312
+S
+#66314
+&+bAlong the Neverwinter River&N~
+   Water splashes about playfully as the Neverwinter River flows through here
+from underneath the city of Neverwinter to the south back towards the
+Neverwinter Wood to the north.  This stretch of river is almost constantly
+shaded by the large, overhanging trees of the woods on the banks to the east
+and west.  The dense brambles and thickets on the shores here prevent any
+attempt to land craft so the only choice is to follow the warm waters of the
+river.  To the south, a small bridge has been constructed of wood to allow
+crossing the river along the city walls.  Occasional bits of garbage in the
+water and the slight smell of sewage attests to the proximity of Neverwinter.
+The river continues north and south.
+~
+662 0 7 50 50 25 
+D0
+The river continues.
+~
+~
+0 0 66306
+D2
+The river continues.
+~
+~
+0 0 66322
+S
+#66315
+&+gA Small Path Along the &+bRiver&N~
+   This narrow dirt path travels north-south along the banks of the
+Neverwinter River.  Little more than a strip of bare earth in the woods, this
+path simply meanders around the trees of the Neverwinter Wood, roughly
+parallel to the river.  Just west of here are the waters of the river itself
+which occasionally glisten in the sun.  The path itself is shrouded in
+shadows most of the time, despite being near the edge of the woods.  The
+occasional fallen log or large rock periodically obscures the path, but for
+the most part it remains unbroken.  The path continues north and south from
+here.
+~
+662 0 1 20 65 500 
+D0
+A small path in the woods.
+~
+~
+0 0 66307
+D2
+A small path along the river.
+~
+~
+0 0 66324
+S
+#66316
+&+GA Bend in the &N&+cHigh Road&N~
+   Heading north towards the Spine of the World, the High Road meanders
+through a slight bend here.  The ground is packed hard and very worn here,
+showing evidence of wagon travel in the past.  In days gone by, dwarven
+craftsmen from the northern stronghold of Mithril Hall would use this road to
+bring their goods to market in cities like Waterdeep.  Travel has slowed in
+recent years, though, and the High Road has not seen nearly the amount of
+wagon traffic it once did.  The Neverwinter Wood is still held at bay at the
+edges of the road here, but clearly shows signs of slowly advancing to
+reclaim the land.  The High Road continues north and east from here.
+~
+662 0 1 50 50 500 
+D0
+The High Road continues.
+~
+~
+0 0 66309
+D1
+The High Road continues.
+~
+~
+0 0 66317
+S
+#66317
+&+GA Bend in the &N&+cHigh Road&N~
+   Meandering around a small bend here, the High Road continues its trek
+through the Savage North.  While rumors and legends abound about the terrible
+beasts lurking off of the road in the Neverwinter Wood, this stretch of the
+road is very close to the city of Neverwinter and feels fairly secure.
+However, tales of attacks this close to the city still circulate and only a
+fool-hearty adventurer lets their guard down in the shadows of the
+Neverwinter Wood.  The road bends west from here while the northeastern gates
+of Neverwinter lie to the south.
+~
+662 0 1 50 50 500 
+D2
+The northeastern gates of Neverwinter.
+~
+~
+0 0 66600
+D3
+The High Road continues.
+~
+~
+0 0 66316
+S
+#66318
+&+GThe Grove of the &+BDruids of the North&N~
+   In this corner of the grove, beautiful trees abound, carefully tended by
+the skillful druids.  Although located near the Neverwinter Wood, the trees
+here lack the twisted appearance of their nearby cousins, attesting to the
+skill and care of the local druids.  Songbirds fly about and squirrels leap
+playfully from tree to tree throughout the area.  The serene grove of the
+druids continues to the east from here.
+~
+662 0 4 75 75 500 
+D1
+The grove continues.
+~
+~
+0 0 66319
+S
+#66319
+&+GThe Grove of the &+BDruids of the North&N~
+   Deep, clear water forms a pool in the center of the grove here.  The
+waters of the pool ripple slightly in the breeze and fish can occasionally be
+seen swimming in its depths.  Small saplings form a beautiful, circular ring
+about the pool and bloom with sweet-smelling flowers year round.  The grove
+can be seen continuing east and west from here, with the entrance to the
+grove lying north.
+~
+662 0 4 75 75 500 
+D0
+The grove continues.
+~
+~
+0 0 66311
+D1
+The grove continues.
+~
+~
+0 0 66320
+D3
+The grove continues.
+~
+~
+0 0 66318
+S
+#66320
+&+GThe Grove of the &+BDruids of the North&N~
+   This corner of the grove serves as the home of the benevolent Druidmother
+of the North.  Lovely trees with silvery leaves ring the area and birds sing
+in beautiful tones from their enchanted branches.  Sunlight, a rarity this
+far north, seems to shine continually on this spot and lends a warmth to the
+grove despite the crisp breeze.  These factors combine to make the area very
+peaceful and serene.  The grove heads off to the west from here.
+~
+662 0 4 75 75 500 
+D3
+The grove continues.
+~
+~
+0 0 66319
+S
+#66321
+&+gA Small Path Along the &+bRiver&N~
+   The small dirt path continues along the banks of the Neverwinter River
+through here.  Slightly muddy from its proximity to the river and scattered
+with smoothed rocks, the path makes for some treacherous footing.  The
+Neverwinter River floats lazily along the shore, but emits a slight odor 
+attesting to the proximity of the city of Neverwinter.  Herons can be seen,
+on occasion, striding through the shallow water near shore in search of food.
+Jumping fish and other birds singing from the trees add to the natural beauty
+of this place.
+~
+662 0 1 20 65 500 
+D0
+The path continues.
+~
+~
+0 0 66313
+D1
+A small footbridge.
+~
+~
+0 0 66323
+S
+#66322
+&+bUnder a Small Foot Bridge&N~
+   This stretch of the Neverwinter River flows from underneath the city walls
+of Neverwinter to the south, beneath a tiny bridge overhead, and on into the
+Neverwinter Wood to the north.  Along the walls to the south, huge iron
+grates prevent access to the city from the river and no doubt help keep the
+sewers relatively free of the rivers more dangerous denizens.  From behind
+the grates, the smell of sewage is clearly stronger and the water here has an
+unpleasant look to it.  Overhead, a narrow wooden footbridge constructed
+allows for crossing the river which flows north from here.
+~
+662 0 2 5 5 5 
+D0
+The river continues.
+~
+~
+0 0 66314
+S
+#66323
+&+GA Small Footbridge Over the &+bRiver&N~
+   Rickety, weak-looking wood makes this narrow footbridge very treacherous.
+In places, rot appears to be making a foothold and it has clearly seen
+better days.  Despite its age and apparent weakness, however, the bridge does
+appear to get a fair amount of use as is evident by the narrow path worn
+through the moss which covers most of its surface.  Below, the waters of the
+Neverwinter River emit an unpleasant odor as they emerge from the dank sewers
+beneath Neverwinter.  The path through the woods continues both east and west
+from here.
+~
+662 0 7 50 50 25 
+D1
+A small path in the woods.
+~
+~
+0 0 66324
+D3
+A small path along the river.
+~
+~
+0 0 66321
+S
+#66324
+&+gA Small Path in the Woods&N~
+   A small path has been worn through the woods here, allowing travel deeper
+into the Neverwinter Wood.  This portion of the path emerges upon a small
+clearing in the forest near the city walls which can be seen looming over the
+trees just south of here.  This clearing does not appear to have been man-
+made and seems almost unnatural in the usually dense Neverwinter Wood.  It
+almost appears as though the trees themselves have been crafted into the
+shape of a clearing rather than having been cut away.  The Neverwinter River
+flows calmly by this small clearing to the west, where a small footbridge has
+been constructed to allow crossing.
+~
+662 0 1 20 65 500 
+D0
+A small path in the woods.
+~
+~
+0 0 66315
+D3
+A small footbridge.
+~
+~
+0 0 66323
+S
+#66325
+&+LA Small Crevice Descending Downwards&N~
+   This tiny crevice has opened up a rift in the cliff which descends
+downwards.  The walls of the crevice are covered with slippery moss and
+lichens, making attempts to both ascend and descend very treacherous.  The
+crevice shows no signs of recent use and most likely formed a long time ago
+as frost split apart the rocks of the cliff.  An odd odor can be detected
+drifting from the darkness below as a slight breeze makes its way up the
+crevice.
+~
+662 4 0 25 25 10 
+D4
+The crevice opens to daylight.
+~
+~
+0 0 66256
+D5
+A darkened cave.
+~
+~
+0 0 66326
+S
+#66326
+&+LInside Small Darkened Cavern&N~
+   This cave is very cold and dark.  Dripping water echoes constantly from
+deeper on in the tunnel.  Moss and fungus grow thick on the walls in the
+sparse light which occasionally filters down from the crevice above.  The
+strange smell present in the crevice is much stronger here and appears to
+come from the vegetation growing on the moist cavern walls.  Here and there,
+bones line the floor of the cave, likely from hapless animals which fell to
+their deaths from the crevice above.  The cave continues south while the
+crevice leads up from here towards daylight.
+~
+662 9 0 25 25 10 
+D2
+The cave continues.
+~
+~
+0 0 66327
+D4
+The narrow crevice heads upwards.
+~
+~
+0 0 66325
+S
+#66327
+&+LInside Small Darkened Cavern&N~
+   The narrow tunnel of the cave continues its descent into the depths of the
+cliff.  The walls here are very damp, and in places, water runs down in tiny
+rivulets and forms pools on the floor.  The slow trickle of water has slowly
+worn the floor very smooth and footing on its damp surface is treacherous at
+best.  A slight breeze whistles down the tunnel on occasion, moving the
+heavy, moist air down into the cavern depths and then back towards the cave
+opening, almost as if breathing.  The dripping of water is the only sound
+that can be heard.
+~
+662 9 0 25 25 10 
+D0
+The cave continues.
+~
+~
+0 0 66326
+D1
+The cave continues.
+~
+~
+0 0 66328
+S
+#66328
+&+LA Small Circular Chamber&N~
+   The cavern opens up a bit here, as a gaping hole opens in the cave floor.
+Water trickling down the walls and along the floor flows down into the hole
+in floor.  A thin, brackish slime grows on the floors and walls of the room
+and emits a rather pungent and unpleasant odor.  Small insects and lizards
+scamper about in the corners of the room, but none are large enough to pose a
+threat.  Sounds other than the flowing of water can be heard coming from
+within the hole, indicating inhabitants of some sort.  The cavern continues
+back to the west.
+~
+662 9 1 40 40 20 
+D3
+The cave continues.
+~
+~
+0 0 66327
+D5
+A dark hole heads downwards.
+~
+~
+0 0 66329
+E
+hole~
+Small cracks and ledges would seem to provide an adequate, if not slimy means
+for descending into the dark depths.
+~
+S
+#66329
+&+LBelow a &+rDark Hole&N~
+   The cavern continues to head downwards through here under a shower of
+water from above.  More and more water continues to seep from the walls and
+ceiling, most likely indicating that this cave lies near, if not under the
+Neverwinter River.  The slime which clung to the walls of the hole in the
+ceiling above is now quite thick and slippery.  It adheres to nearly
+everything that touches it in a thick, ichorous goo which all but ruins the
+appearance of adventuring equipment.  The stench of the slime is also much
+worse through here and the occasional wafts of air from above provide a
+welcome relief.  The cave continues downwards to the south and up through the
+hole in the ceiling.
+~
+662 9 0 25 25 10 
+D2
+The cavern continues.
+~
+~
+0 0 66330
+D4
+A dark hole heads upwards.
+~
+~
+0 0 66328
+S
+#66330
+&+LA Murky Tunnel&N~
+   The cavern heads slightly downwards through here, but appears to level off
+somewhat.  A thin layer of water and slime now covers the floor at all times,
+occasionally reaching almost a foot in depth.  The stench of the stagnant
+water is now very repulsive and seems to be mixed with other, even more foul
+odors.  As the tunnel heads south, the cavern appears to open up slightly,
+but the darkness prevents seeing too far ahead.
+~
+662 13 0 25 25 10 
+D0
+The tunnel continues.
+~
+~
+0 0 66329
+D2
+An underground cavern.
+~
+~
+0 0 66331
+S
+#66331
+&+gAn Underground Cavern&N~
+   Here, the slimy water covers the floor under a pool of filth several feet
+deep.  It is impossible to see more than an inch or two beneath the surface,
+but ripples and swirling in the water indicate the presence of other cavern
+dwellers.  Here and there, the white, bloated, and rotting bodies of dead
+cavern fish float on the surface of the muck.  The sound of dripping water
+monotonously echoes throughout this small cavern as water perpetually drips
+from the ceiling into the murky pool.
+~
+662 9 0 25 25 10 
+D0
+The tunnel heads that way.
+~
+~
+0 0 66330
+D1
+The cavern continues.
+~
+~
+0 0 66332
+D2
+The cavern continues.
+~
+~
+0 0 66333
+S
+#66332
+&+gAn Underground Cavern&N~
+   The murky pool of filth continues through this area.  Slime hangs thick on
+the cavern walls, but is occasionally marred by the deep claw marks of some
+unknown creature.  Here and there, stalactites and stalagmites have grown
+together to form narrow pillars connecting the floor to the ceiling.  From
+the looks of the rock formations, this cavern has been here a great deal of
+time.  The cavern continues through the murky water to the south and west.
+~
+662 9 0 25 25 10 
+D2
+The cavern continues.
+~
+~
+0 0 66334
+D3
+The cavern continues.
+~
+~
+0 0 66331
+S
+#66333
+&+gAn Underground Cavern&N~
+   In this corner of the cavern, the muck appears to be somewhat deeper than
+elsewhere.  A slight current in the water also attests to an outlet of some
+kind beneath the surface.  On the slimy walls, tiny white lizards can be seen
+scampering about in an attempt to avoid the light.  The dank air of the cave
+hangs thick through here, and combined with the occasional rotting bodies of
+fish, makes breathing quite nauseating.  The murky cavern heads both north
+and east from here.
+~
+662 9 0 25 25 10 
+D0
+The cavern continues.
+~
+~
+0 0 66331
+D1
+The cavern continues.
+~
+~
+0 0 66334
+S
+#66334
+&+gAn Underground Cavern&N~
+   The murky water is somewhat shallower through here and the cave floor
+actually emerges from the muck in the corner to form a slimy shelf.  On the
+narrow patch of floor in the corner, a strange nest of sorts appears to have
+been made.  The gruesome nest consists almost entirely of the whitened
+skeletons of cavern-dwelling animals, held together with the thick, black
+slime which grows throughout the cave. Here and there, though, a humanoid
+skull can also be seen, giving a mute testament to the fate of past visitors.
+The cave continues north and west.
+~
+662 9 0 25 25 10 
+D0
+The cavern continues.
+~
+~
+0 0 66332
+D3
+The cavern continues.
+~
+~
+0 0 66333
+S
+#66335
+&+MThe Echo Chamber&N~
+   This room floats in an ethereal void and contains only one, lowly
+inhabitant.  The denizen of this room is known across time and space as the
+great Arch-Fiend - Binky the Rabid Chipmunk, echo mob for the Neverwinter Wood
+near the city of Neverwinter.
+~
+662 32768 1 40 40 20 
+S
+#66336
+&+LA Chamber Under the Shrine&N~
+   It appears as though no one has been in this hidden chamber in centuries.
+Whatever its original purpose was may never again be known.  The walls of
+the chamber are of the same gray stone as the rest of the shrine, but are
+covered by an almost luminous sheet of bluish ice.  Any light in the room is
+reflected and refracted by the ice and gives the room an almost dazzling
+look.  On the floor of the chamber is a small, raised dias on which lie
+broken shards of some sort of whitish-blue pottery.  The only apparent exit
+is back up the staircase to the shrine.
+~
+662 1 1 25 25 10 
+D4
+Behind the ruined shrine.
+~
+~
+0 0 66230
+E
+shards shard pottery whitish blue~
+Upon closer inspection, it is possible to tell that the shards of pottery are
+not actually pottery at all, but instead appear to be the remains of a very
+large egg or group of eggs.
+~
+S
+#66337
+&+yUp In An Oak Tree&N~
+   From this higher vantage point, the vast expanse of the Neverwinter Wood
+stretches out as far as the eye can see.  The lush, dark green of the forest
+canopy is broken only sporadically by clearings and continues almost unbroken
+to the eastern and northern horizons.  To the southwest, the towers of the
+city of Neverwinter can barely be made out.  A large branch in the tree
+continues out to the west from here.  The bad smell in the air seems to be
+coming from the west.
+~
+662 4 3 75 75 25 
+D3
+A large branch.
+~
+~
+0 0 66338
+D5
+The clearing floor.
+~
+~
+0 0 66282
+S
+#66338
+&+yA Large Branch in the Oak Tree&N~
+   This large branch extends out a ways from the main trunk of the tree and
+bears a great deal of foliage.  The terrible smell in the air appears to be
+coming from here.  From this vantage point, the sparkling streak of the
+Neverwiner River can be seen winding through the woods to the southwest.  Out
+towards the end of the branch, some large bird appears to have made its nest.
+The main trunk of the tree lies to the east.
+~
+662 0 3 16 80 20 
+D1
+The main trunk.
+~
+~
+0 0 66337
+S

@@ -1,0 +1,775 @@
+#66400
+guard guardsman neverwinter regal~
+&+Wa &+bNeverwinter guardsman&N~
+&+WA regal &+bNeverwinter guardsman&+W stands here.&N~
+&+bThe guardsman stands stoically, constantly surveying the town around him 
+&+bfor signs of trouble.  Although he appears relatively at ease, the manner 
+&+bin which he carries himself suggests a great deal of strength and 
+&+btraining.&N
+~
+2489319488 301989896 0 550 S
+PH 0 0 
+35 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66401
+elite corpsman corps member~
+&+La &+WNeverwinter Elite&N~
+&+LA member of &+WNeverwinter's&N &+bElite Corps&+L patrols here.&N~
+This guardsman is an extremely well built and dangerous looking individual.
+Although his armor appears largely ceremonial, the years of training and
+rigorous screening the elite guards of Neverwinter must go through marks him
+as an expert in a fight and a deadly enemy.
+~
+2489319488 301998088 0 650 S
+PH 0 0 
+45 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66402
+guard captain~
+&+wa &+Bguard captain&N~
+&+wA captain of the &+BNeverwinter Guard&N&+w stands here.&N~
+&+BOnly the most dedicated and long-lived of Neverwinter's elite guardsmen
+&+Bever make it to the position of guard captain.  Unlike some cities and 
+&+Btowns who choose guard captains on political grounds, Neverwinter's are 
+&+Bchosen on skill alone, marking this fellow as quite dangerous indeed.&N
+~
+2489321540 301998120 2048 800 S
+PH 0 0 
+49 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66403
+dog dirty mongrel mangy~
+&+La mangy mongrel&N~
+&+LA dirty dog meaders about, sniffing at scraps and bits of garbage.&N~
+This dog looks quite sickly and smells terrible.  It is strange that he
+has not been picked up by the guards of Neverwinter and disposed of as it
+is unlikely that any owner would allow their pet to live like this.
+~
+1073742020 524292 0 0 S
+AD 0 0 
+8 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66404
+merchant~
+&+Ca well-dressed merchant&N~
+&+mA &+Cwell-dressed merchant&N&+m wanders about, preoccupied with business.&N~
+This merchant is clearly not from Neverwinter and is most likely only
+in town for business dealings.  His robes are expertly tailored and 
+hemmed with silver thread.  A slight jingle when he walks would also 
+seem to indicate a rather large purse.  His look is neither arrogant or
+sympathetic as he looks about the town.
+~
+2099392 0 0 100 S
+PH 0 0 
+28 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66405
+mawl steelbender~
+&+LMawl Steelbender&N~
+&+LMawl Steelbender, &+Rthe forge master, stands here working metals.&N~
+&+LThis dwarf appears most typical of most of his race.  His long black 
+&+Lbeard is flecked with bits of gray and his skin is thick and leathery
+&+Lfrom working in front of a hot forge.  His left eye appears to have been
+&+Lgouged out quite visciously, leaving a great deal of scarring.&N
+~
+306186306 268443688 2052 800 S
+PM 0 0 
+49 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66406
+kaelen ~
+&+GKaelen&N~
+&+LThe master clocksmith &+GKaelen&+L stands here.&N~
+&+GKnown throughout the realms as a skilled clock maker, Kaelen seems to be
+&+Gconstantly tinkering with one of his intricate designs.  A wild look in
+&+Ghis eyes belies a genius teetering on the brink of madness...although, a 
+&+Glifetime of the incessant dripping and ticking of clocks would likely be
+&+Genough to drive anyone mad.&N
+~
+1574978 268435500 2048 0 S
+P2 0 0 
+45 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66407
+worker citizen~
+&+ya working-class citizen&N~
+&+yA working-class citizen wanders slowly through here.&N~
+This individual appears quite healthy and well-dressed, but it is clear 
+that he is a working individual.  Despite his health, he looks very run-
+down and is constantly watching the time.  He keeps his eyes lowered most
+of the time, yet another indicator of his lower status in Neverwinter.
+~
+272632000 0 0 300 S
+PH 0 0 
+20 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66408
+kraken guard~
+&+ma kraken guard&N~
+&+mA kraken guard stands here.&N~
+&+mRecruited by the nefarious Kraken Society, this individual is obviously
+&+mnot the finest example of humanity.  His shifty gaze and scarred visage
+&+mwould seem to indicate a rather hard and ruthless past.&N
+~
+4196576 0 0 -400 S
+PH 0 0 
+25 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66409
+child messenger~
+&+ya child messenger&N~
+&+yA child runs through here, delivering messages.&N~
+&+yUsed throughout Neverwinter as a simple and easy way to convey messages,
+&+ychildren like these are constantly running about delivering the latest
+&+ygossip and news, usually for just a few copper.&N
+~
+16777408 0 0 400 S
+PH 0 0 
+8 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66410
+shopper housewife wife~
+&+wa housewife&N~
+&+wA housewife strolls about doing some shopping.&N~
+&+wLike many of the housewives of Neverwinter, this woman is going about
+&+wher daily task of getting a few needed essentials.  The higher incomes of
+&+wmost of Neverwinter's citizens makes daily shopping fairly commonplace, 
+&+weven among the city's poorer residents.&N
+~
+16779456 0 0 400 S
+PH 0 0 
+12 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66411
+militia guard member~
+&+La militia member&N~
+&+LA member of &+WNeverwinter's&+L militia stands here on guard.&N~
+&+LAlthough not officially part of the city guard, Neverwinter, like most
+&+Lcities, has its own citizens' militia.  These people usually aid the
+&+Lcity guard by keeping an eye out for trouble makers and settling petty
+&+Ldisputes without involving the authorities.&N
+~
+2438990016 0 0 700 S
+PH 0 0 
+28 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66412
+minstrel wandering~
+&+La &N&+cw&+ma&+cn&+md&+ce&+mr&+ci&+mn&+cg &+mm&+ci&+mn&+cs&+mt&+cr&+me&+cl&N~
+&+LA &N&+cw&+ma&+cn&+md&+ce&+mr&+ci&+mn&+cg &+mm&+ci&+mn&+cs&+mt&+cr&+me&+cl&+L plucks out a tune on his lute here.&N~
+&+LLike so many other professions, minstrels enjoy a great deal of success
+&+Lin Neverwinter.  This fellow, either on his own or as a hired entertainer
+&+Lfor the city, wanders the streets playing joyful tunes to keep everyone
+&+Lin good spirits.&N
+~
+192 0 0 570 S
+PH 0 0 
+15 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66413
+minstrel beautiful~
+&+ma beautiful &+Wminstrel&N~
+&+WA &N&+mbeautiful &+Wfemale minstrel stands here, entertaining the crowds.&N~
+&+WWith golden-brown hair and deep blue eyes, it is no wonder that several
+&+Wpeople have gathered to listen to this woman's songs.  Although not as 
+&+Wmusically inclined as many of the other minstrels in town, she still
+&+Wappears to entertain a great many with her looks as well as her music.&N
+~
+18874560 0 0 600 S
+PH 0 0 
+18 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66414
+shady individual~
+&+La shady individual&N~
+&+LA shady individual stands here, trying to avoid being seen.&N~
+With shifty eyes and a hard look, this individual does not seem to be on
+the up and up.  His furtive glances through the roaming crowds and
+obvious attempt to remain hidden in the shadows would mark him as one
+of Neverwinter's less desirable citizens.
+~
+2099392 268435488 0 100 S
+PH 0 0 
+23 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66415
+traveler~
+&+Ga wide-eyed traveler&N~
+&+GA wide-eyed traveler stands here, staring at the city.&N~
+&+GObviously a newcomer to town, this individual simply stands and stares
+&+Gat all of the happenings around him.  He seems facinated by every little
+&+Gperson and building he comes across.  Like so many others, he may be here
+&+Gsimply to see the sights, or perhaps is looking to start a career of
+&+Gadventuring.&N
+~
+192 0 0 650 S
+PH 0 0 
+21 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66416
+young adventurer~
+&+ra young adventurer&N~
+&+yA &+ryoung adventurer&+y stands here, eyeing the crowds.&N~
+&+rAlthough young, this individual seems to be fairly confident in his
+&+rabilities as an adventurer.  He already wears both the scars and spoils
+&+rof a few sucessful adventures and his enthusiastic appearance would seem
+&+rto indicate his desire for a few more.&N
+~
+20973760 0 0 650 S
+PH 0 0 
+24 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66417
+child small~
+&+Ba small child&N~
+&+BA small child runs about playing with his friends.&N~
+&+BRather plain-looking as children go, this small boy runs about in the
+&+Bstreet, laughing and screaming with his friends in some bizarre game
+&+Bof tag.&N
+~
+192 0 0 350 S
+PH 0 0 
+7 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66418
+child small~
+&+Ma small child&N~
+&+MA small child runs about playing with her friends.&N~
+&+MRather plain-looking as children go, this small girl runs about in the
+&+Mstreet, laughing and screaming with his friends in some bizarre game
+&+Mof tag.&N
+~
+194 0 0 350 S
+PH 0 0 
+8 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66419
+shopkeeper keeper~
+&+rMawl's shopkeeper&N~
+&+rMawl's shopkeeper stands here, waiting to sell you something.&N~
+&+LThis gnarled old dwarf looks as though he has been through just about
+&+Lall life has to offer.  Scarred from many battles and short even for 
+&+Lhis race, the poor fellow has to stand on a large stool simply to see
+&+Lover the counter of the store.&N
+~
+306186306 268443688 2052 400 S
+PM 0 0 
+50 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66420
+shopkeeper keeper~
+&+GKaelen's shopkeeper&N~
+&+GKaelen's shopkeeper&N&+w stands here, smiling politely.&N~
+A very congenial looking old man stands calmly waiting to help anyone
+interested in purchasing one of Kaelen's clocks.  His soft mannerisms
+and polite nature would seem to make him an excellent representative 
+to the many customers who frequent Kaelen's for the finest water clocks
+in all the Realms.
+~
+1574978 268435500 2048 200 S
+PH 0 0 
+50 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66421
+master i'lvan assassin darksteele~
+&+mI'lvan Darksteele&N~
+&+mI'lvan Darksteele,&+L master assassin, stands here.&N~
+&+LThis deadly woman was once the head of Neverwinter's small, but illustrious
+&+Lassassin's guild.  Her beauty and feminine form hides her dark and bloody
+&+Lpast, as well as her expert skill as a killer.  There is much danger to be
+&+Lfound in the depths of her &N&+mlavender eyes&+L and dark brown hair.&N
+~
+39848034 269025320 0 -800 S
+PH 0 0 
+51 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66422
+master roalth thief quickfinger~
+&+cRoalth Quickfinger&N~
+&+cRoalth Quickfinger,&+L head of the Guild of Rogues, sulks here.&N~
+&+cAlthough wealthy beyond the dreams of most, Roalth has chosen to forgoe a
+&+clife of luxury and, instead, leads the Rogues Guild of Neverwinter.  His
+&+cgraying hair and failing physique have in no way hindered his abilities as
+&+cone of the most skilled thieves in history.&N
+~
+270534726 301989928 0 -600 S
+PH 0 0 
+51 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66423
+Juramis shopkeeper keeper jeweler~
+&+yJuramis the &+Yj&+We&+Yw&+We&+Yl&+We&+Yr&N~
+&+yJuramis the &+Yj&+We&+Yw&+We&+Yl&+We&+Yr&+y stands here, waiting to be of service.&N~
+&+WThis large man has clearly spent a majority of his time sitting behind
+&+Wthe counter of a shop.  His large frame seems to strain under his ever
+&+Wincreasing weight and his breathing becomes somewhat labored at even the
+&+Wslightest amount of exercise.  Clearly, food and drink have never been 
+&+Wfar from his meaty grasp.&N
+~
+268437570 268435496 0 500 S
+PH 0 0 
+50 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66424
+shopkeeper quiet keeper shop~
+&+ba quiet shopkeeper&N~
+&+bA quiet shopkeeper stands here, calmly awaiting a customer.&N~
+&+bThis tiny, bespectacled man seems almost mousish in nature.  His tiny
+&+bbrown eyes squint out from behind thick lenses and his balding head
+&+bshines dully in the pale light of the shop.  Still, there is an air of
+&+bintelligence and wisdom in his otherwise insignificant appearance.&N
+~
+269486146 268443648 0 700 S
+PH 0 0 
+50 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66425
+smuggler strong~
+&+La &N&+rstrong-looking smuggler&N~
+&+LA &N&+rstrong-looking smuggler&+L stands here, inspecting stolen goods.&N~
+&+LThis fellow, while not appearing too bright, is clearly a member of one
+&+Lof Neverwinter's smuggling rings.  His pre-occupation with his duties and
+&+Lgeneral ignoring of your intrusion would seem to indicate either a strong
+&+Lconfidence in his abilites or some sort of protection or support from a 
+&+Llocal official.&N
+~
+4196548 524320 0 -600 S
+PH 0 0 
+28 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66426
+petty thief~
+&+La petty &+Cthief&N~
+&+LA petty &+Cthief&+L stands here, looking for an easy score.&N~
+Although stealing is punished most severly in Neverwinter, this
+individual has chosen it as a career nonetheless.  His ragged appearance
+and gaunt frame would seem to indicate that he is not particularily good
+at his profession, but appearances can be deceiving.
+~
+2099392 0 0 -450 S
+PH 0 0 
+17 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66427
+accountant~
+&+ma quiet accountant&N~
+&+mAn accountant sits here, calmly going over some books.&N~
+Clearly not a charter member of the Kraken Society, this individual would
+seem instead to be something of an outside contractor.  While it is 
+unlikely that his time here is entirely voluntary, he may still have some
+quiet allegiance to the group.
+~
+67111110 0 0 -500 S
+PH 0 0 
+21 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66428
+kraken assassin~
+&+La Kraken &+Rassassin&N~
+&+LA black-clad figure stalks quietly down the hall here.&N~
+&+LThis nimble and armed individual, wrapped from head to toe in a tight
+&+Lblack outfit, is likely a very deadly fellow.  Usually employed by the
+&+LKraken Society for the assassination of important individuals, this 
+&+Lparticular fellow's current assignment could be just about anything.&N
+~
+1080033376 270008352 0 -500 S
+PH 0 0 
+32 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66429
+kraken sorcerer~
+&+La &+MKraken&+L sorcerer&N~
+&+LA hooded, robed figure stands silently in the shadows.&N~
+&+LThe robes of this individual, although primarily plain and without
+&+Ladornment, feature the dark seal of the Kraken Society embroidered
+&+Lever so subtly on the front.  His exact purpose or nature is not
+&+Lreadily evident.&N
+~
+34605152 65544 0 -700 S
+PH 0 0 
+28 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66430
+kraken leader~
+&+Mthe Kraken leader&N~
+&+MThe leader of Neverwinter's Kraken Society stands here.&N~
+&+MQuite possibly one of the most evil individual's in town, this 
+&+Mfellow has sworn allegiance to the Kraken Society.  The exact nature
+&+Mof the Society and it's leaders is unknown, but their evil intentions
+&+Mare clear.  Evil seems to hang around this man like a second shadow.&N
+~
+41420898 65592 0 -900 S
+PH 0 0 
+48 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66431
+kraken elite~
+&+Wa &+MKraken &+Welite&N~
+&+WAn elite &+MKraken&+W guard stands here.&N~
+&+WRecruited by the nefarious Kraken Society, this individual is obviously
+&+Wnot the finest example of humanity.  As an elite member of the guard,
+&+Wthe primary duty of this individual is to guard the leader of the 
+&+WNeverwinter branch of the Society and carry out his wishes.&N
+~
+1180698848 268959752 0 -700 S
+PH 0 0 
+32 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66432
+echo mob earl~
+&+RBug-eyed Earl,&+L the echo mob&N~
+&+RBug-eyed Earl&+L stands here...echoing obscenities throughout the zone.&N~
+You see a very scary man, indeed.
+~
+2 0 0 0 S
+PH 0 0 
+51 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 0
+#66433
+shopkeeper keeper~
+&+wthe shopkeeper&N~
+&+wThe shopkeeper of the &+GHarpers' Help&N&+w stands here.&N~
+&+GFrom her slightly pointed ears, it is fairly evident that this woman
+&+Gis half-elven in nature which is not too uncommon in Neverwinter.  Her
+&+Gdark hair and slightly almond-shaped eyes lend her an appearance
+&+Gbefitting the best traits of both her parents.&N
+~
+271583298 268435496 0 800 S
+PH 0 0 
+50 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66434
+dangerous figure assassin~
+&+Lthe &+Rassassin&N~
+&+LA dangerous figure pads quietly through the shadows.&N~
+Clad entirely in black, this figure moves quickly and quietly through
+the darkness of the shadows in an attempt to remain hidden as she
+makes her way through town.
+~
+1080035392 270008320 0 -500 S
+PH 0 0 
+18 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66435
+filthy beggar~
+&+ythe &+Lfilthy beggar&N~
+&+yA &+Lfilthy beggar&N&+y sits here, looking for handouts.&N~
+Quite rare in a city as well-to-do as Neverwinter, this fellow seems
+to be very poor and unemployed.  It is doubtful that his current
+situation is not somewhat voluntary as there are usually more than
+enough jobs to go around in the city.
+~
+2099396 32 0 100 S
+PH 0 0 
+12 0 0 0d0+0 0d0+0
+0.0.0.0 0
+130 131 1
+#66436
+patron tavern~
+&+ythe tavern patron&N~
+&+yA tavern patron sits here, drinking quietly.&N~
+&+yTypical of many of the citizens of Neverwinter, this fellow seems to
+&+yenjoy himself and his drink a great deal.  While not a career drinker
+&+yfrom the looks of him, he is clearly no stranger to a bar.&N
+~
+2114 0 0 400 S
+PH 0 0 
+21 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66437
+bartender~
+&+gthe bartender&N~
+&+gA massive bartender stands here, selling drinks.&N~
+This fellow is, quite possibly, the largest bartender in the realms.
+Not quite in shape, he has clearly seen better days, but could most
+likely hold his own against several attackers in a bar fight.
+~
+272631874 268435496 0 300 S
+PH 0 0 
+42 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66438
+bartender~
+&+Lthe bartender&N~
+&+LA shady fellow stands here, mixing drinks.&N~
+With a dark patch where his left eye once was and more hair on his
+back than on his head, this fellow is quite dangerous looking indeed.
+While not appearing armed, is it doubtful that a sharp dagger or
+large club are far from his meaty grasp.
+~
+6293570 268435480 0 -300 S
+PH 0 0 
+43 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66439
+bartender~
+&+mthe bartender&N~
+&+WAn &N&+mattractive woman&+W stands here behind the bar.&N~
+&+WWith flowing &+Rred&+W hair and &+Gsea-green&+W eyes, this bartender may do as
+&+Wmuch business on the merits of her beauty as on the quality of her
+&+Wdrinks.  A wry smile crosses her lips on occasion, hinting at a
+&+Wrather quick, if not sarcastic wit within her beauteous facade.&N
+~
+2099266 268435496 0 500 S
+PH 0 0 
+45 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66440
+banker~
+&+Ythe banker&N~
+&+YThe banker stands here, neatly stacking and counting coins.&N~
+&+YAlthough well past middle-age, this fellow is still quite handsome
+&+Yand has clearly done well for himself through the years.  His graying
+&+Yhair is neatly combed and his thin beard is expertly trimmed.  He
+&+Ycarries himself with the aire of an experienced businessman.&N
+~
+2114 268435496 0 650 S
+PH 0 0 
+51 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66441
+worker working man~
+&+ba worker&N~
+&+rA &+bworking man&N lays here taking a nap.&N~
+&+bApparently quite exhausted, this fellow has decided to curl up and
+&+btake a cat nap.  His average appearance and dress would seem to 
+&+bindicate that he is one of the common workers in the city of
+&+bNeverwinter.&N
+~
+16779460 268443648 0 500 S
+PH 0 0 
+15 0 0 0d0+0 0d0+0
+0.0.0.0 0
+32 32 1
+#66442
+drunkard~
+&+Ma drunkard&N~
+&+MA drunkard sits here, swaying slightly.&N~
+This fellow appears to have had a bit too much to drink and appears
+to be on the brink of passing out.  Although his clothing appears to
+have been quite nice at one time, it is now soiled and ruined with
+age and mistreatment.
+~
+66 0 0 400 S
+PH 0 0 
+19 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66443
+bartender~
+&+rthe evil bartender&N~
+&+LAn &N&+revil-looking bartender&+L stands here, selling drinks.&N~
+&+rWith a dark look in his eyes and several visible weapons showing on
+&+rhis person, this fellow is clearly not the bartender to mess with.
+&+rAlthough his bar is well provisioned and seems quite busy, he does
+&+rnot appear too happy about anything.&N
+~
+6293570 268435496 0 -600 S
+PH 0 0 
+48 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66444
+guard guardsman wall patrolman~
+&+wa &+bwall patrolman&N~
+&+wA member of the city guard patrols diligently atop the city walls here.&N~
+&+bThis member of the city guard paces slowly back and forth through here,
+&+bever watchful for anything out of the ordinary.  His skin is quite tan
+&+band weather worn from the constant exposure to the elements.&N
+~
+2489319488 301998088 0 550 S
+PH 0 0 
+40 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66445
+pigeon tiny~
+&+La &N&+wtiny pigeon&N~
+&+LA small, &N&+wgray pigeon&+L waddles about here.&N~
+&+wThis ugly bird simply wanders about on the ground, oblivious to the 
+&+wevents going on around it.  Every now and then, it will peck timidly
+&+wat something, but seems largely unintersted in most things.&N
+~
+196 524292 0 0 S
+PH 0 0 
+2 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 0
+#66446
+gambler gambling man~
+&+ma gambler&N~
+&+yA &+mgambling man&+y stands here, cursing his luck.&N~
+&+yWith a rather haggared look in his eye and wearing fairly shabby
+&+yclothing, it appears as though this fellow's luck has pretty much
+&+yrun out.&N
+~
+66 0 0 400 S
+PH 0 0 
+22 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66447
+casino owner burly~
+&+Lthe casino owner&N~
+&+LA burly man sits here, eyeing the casino.&N~
+&+LWell-dressed and well-kept, despite this man's large and rather
+&+Ltish appearance, he is clearly an individual of some affluence.&N
+~
+308283460 301989952 0 -200 S
+PH 0 0 
+48 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66448
+guard archer~
+&+gthe archer&N~
+&+wA member of the city's &+gArcher Corps&+w stands here.&N~
+&+gDressed in light and supple armor, this individual has been trained
+&+gheavily in the use of ranged weapons for the defense of the city
+&+gwalls.  All of Neverwinter's archers are proficient in any number of
+&+gweapons, including how to work the massive ballistas and catapults
+&+gatop the city walls.&N
+~
+272631876 33816580 0 600 S
+PH 0 0 
+40 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66449
+runner street~
+&+wa &+Gstreet runner&N~
+&+wA &+Glovely street runner&N&+w strolls here, making her way through town.&N~
+&+GFairly rare in the city of Neverwinter, this attractive woman serves 
+&+Gas a sort of street vendor for local merchants.  Actual street vendors
+&+Gare not allowed on the streets of Neverwinter, so local merchants often
+&+Ghire professionals to make house calls for customers who cannot make it
+&+Gto the shop itself.&N
+~
+289409220 33554432 0 600 S
+PH 0 0 
+40 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66450
+gangly youth~
+&+Ra gangly youth&N~
+&+RA gangly youth strolls about aimlessly.&N~
+&+RTall and wirey, this boy looks a little out of place as he mills 
+&+Rabout around here.  His pants and shirt are growing too small for 
+&+Rhis long, narrow frame and are in sore need of replacement.&N
+~
+192 0 0 350 S
+PH 0 0 
+8 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66451
+repairman street~
+&+Lthe repairman&N~
+&+LA street repairman is here, inspecting the area.&N~
+A relatively plain looking fellow, this man is dressed in the uniform
+of one of Neverwinter's repair crews.  His overalls are clean, but have
+clearly seen a good deal of use.
+~
+2256 33554464 0 0 S
+PH 0 0 
+12 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66452
+streetcleaner cleaner~
+&+ca street cleaner&N~
+&+cOne of Neverwinter's street cleaners is here, picking up trash.&N~
+&+cThis relatively unaseeming young woman is one of the numerous people
+&+cemployed by the city to help keep the pristine streets of Neverwinter
+&+cfree of debris and litter.&N
+~
+2244 0 0 0 S
+PH 0 0 
+13 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66453
+female militia guard member~
+&+ca female militia member&N~
+&+cA member of &+bNeverwinter's&+c militia stands here on guard.&N~
+&+cAlthough not officially part of the city guard, Neverwinter, like most
+&+ccities, has its own citizens' militia.  These people usually aid the
+&+ccity guard by keeping an eye out for trouble makers and settling petty
+&+cdisputes without involving the authorities.&N
+~
+291506240 0 0 700 S
+PH 0 0 
+28 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66454
+sickly prisoner garos~
+&+wa sickly prisoner&N~
+&+wA frail, sickly man lies here in the corner of the cell.&N~
+&+wThis poor man has clearly been tortured, starved, and beaten by his captors.
+&+wHis skin is nearly transparent and his hair has grown long and matted with
+&+wwhat would seem like years of filth.  His arms and legs are gaunt and his
+&+wstomach has sunken well below his rib cage.  His thin, threadbare garment
+&+wbarely covers his thin form and provides little, if any, protection from the
+&+wchill stone walls of the cell.  A dark, somewhat formless tattoo is the only
+&+wtrue distinguishing feature left on this man.&N
+~
+2 0 0 0 S
+PH 0 0 
+10 0 0 0d0+0 0d0+0
+0.0.0.0 0
+130 130 1
+#66455
+deranged prisoner~
+&+La &N&+rderanged&+L prisoner&N~
+&+LA &N&+rderagned&+L prisoner is here, clearly out of his mind.&N~
+&+LThe abuse and torture this man has suffered has apparently overwhelmed him
+&+Land all that can be seen in his pale eyes is the occasional glint of madness.
+&+LHe looks about the room wildly, fearing and hating everything that moves.&N
+~
+1073743904 0 0 -300 S
+PH 0 0 
+23 0 0 0d0+0 0d0+0
+0.0.0.0 0
+130 130 1

@@ -1,0 +1,205 @@
+#662
+> filename: wood.zon~
+The Neverwinter Wood~
+66338 15 2 0
+4 0 0
+2 4 0 0
+0 0 0 0
+3 0 0 0
+5 7 0 0
+6 6 6 6
+****** Zone edited with TE 0.1 ******
+*
+****** Doors Table ******
+D 0 66226 2 5        * South exit from room 66226
+D 0 66244 0 5        * North exit from room 66244
+D 0 66256 5 5        * Down exit from room 66256
+D 0 66258 2 5        * South exit from room 66258
+D 0 66261 1 5        * East exit from room 66261
+D 0 66262 3 5        * West exit from room 66262
+D 0 66270 0 5        * North exit from room 66270
+D 0 66240 0 5        * North exit from room 66240
+D 0 66230 2 5        * South exit from room 66230
+D 0 66230 5 5        * Down exit from room 66230
+M 0 66203 2 66209    	* the large buck
+M 0 66211 3 66205    	* the Harper woodsman
+E 1 66202 3 5        	*      a shirt of Harper chainmail
+E 1 66201 3 11        	*      a green shield of the forests
+E 1 66200 3 16        	*      a shining steel longsword
+M 0 66201 9 66222    	* the shambling mound
+M 0 66202 4 66202    	* the deer
+M 0 66213 1 66217    	* Glorpk
+M 0 66205 4 66221    	* the giant frog
+M 0 66205 4 66221    	* the giant frog
+M 0 66209 4 66227    	* the white timberwolf
+M 0 66209 4 66228    	* the white timberwolf
+M 0 66209 4 66270    	* the white timberwolf
+M 0 66209 4 66270    	* the white timberwolf
+O 0 66223 1 66270 20   	* Nolin's forgotten pouch 20%
+P 1 66222 1 66223     	*     Nolin's token in the pouch
+M 0 66216 1 66229    	* the golem
+M 0 66215 3 66235    	* the snake
+M 0 66208 2 66240    	* the raven
+M 0 66208 2 66243    	* the raven
+M 0 66210 2 66247    	* the black bear
+M 0 66204 6 66222    	* the black bobcat
+M 0 66204 6 66249    	* the black bobcat
+M 0 66204 6 66250    	* the black bobcat
+M 0 66204 6 66238    	* the black bobcat
+M 0 66215 3 66253    	* the snake
+M 0 66215 3 66253    	* the snake
+M 0 66206 2 66259    	* the wolverine
+M 0 66211 3 66263    	* the Harper woodsman
+E 1 66202 3 5        	*      a shirt of Harper chainmail
+E 1 66201 3 11        	*      a green shield of the forests
+E 1 66200 3 16        	*      a shining steel longsword
+M 0 66200 3 66267    	* the water nymph
+M 0 66200 3 66269    	* the water nymph
+M 0 66207 3 66271    	* the stork
+M 0 66205 4 66271    	* the giant frog
+M 0 66228 8 66279       * some insects
+M 0 66228 8 66267       * some insects
+M 0 66228 8 66288       * some insects
+M 0 66228 8 66322       * some insects
+M 0 66200 5 66322    	* the water nymph
+M 0 66207 3 66271    	* the stork
+M 0 66205 4 66271    	* the giant frog
+M 0 66212 1 66272    	* the Harper woodsman
+E 1 66203 1 5        	*      a suit of etched mithril platemail
+E 1 66207 1 16        	*      a well-made longsword
+E 1 66204 1 17        	*      a long parrying dagger
+M 0 66204 6 66272    	* the black bobcat
+M 0 66200 3 66276    	* the water nymph
+M 0 66202 4 66282    	* the deer
+M 0 66202 4 66285    	* the deer
+M 0 66203 2 66291    	* the large buck
+M 0 66202 4 66291    	* the deer
+M 0 66206 2 66293    	* the wolverine
+M 0 66210 2 66301    	* the black bear
+M 0 66201 9 66208    	* the shambling mound
+M 0 66234 3 66238    	* the shambling mound
+M 0 66234 3 66303    	* the shambling mound
+O 0 66221 5 66324    	* a pile of leaves
+O 0 66221 5 66275    	* a pile of leaves
+O 0 66221 5 66301    	* a pile of leaves
+O 0 66221 5 66208    	* a pile of leaves
+O 0 66221 5 66253    	* a pile of leaves
+M 0 66205 4 66303    	* the giant frog
+M 0 66207 3 66304    	* the stork
+M 0 66211 3 66309    	* the Harper woodsman
+E 1 66202 3 5        	*      a shirt of Harper chainmail
+E 1 66201 3 11        	*      a green shield of the forests
+E 1 66200 3 16        	*      a shining steel longsword
+M 0 66220 1 66310    	* the living tree
+M 1 66235 1 66247 20    * little lost girl loads 20% of time tree does (boot)
+M 0 66207 3 66313    	* the stork
+M 0 66223 7 66328    	* the black slime
+M 0 66223 7 66328    	* the black slime
+M 0 66223 7 66328    	* the black slime
+M 0 66223 7 66328    	* the black slime
+O 0 66211 1 66334     	* a cruddy iron chest
+P 1 66210 1 66211     	*     a ring of terror in a cruddy iron chest
+P 1 66213 1 66211 70   	*     the Kinjite Dagger in the chest 70% at boot
+O 1 66235 1 66243 20    * special rock loads 20% of time at reboot
+M 0 66219 1 66300 3   	* Nollin, the woodsman 3% 
+E 1 66209 1 16        	*      a wooden staff
+M 0 66214 4 66332    	* the cavern hag
+M 0 66214 4 66333    	* the cavern hag
+M 0 66214 4 66334    	* the cavern hag
+M 0 66214 4 66334    	* the cavern hag
+M 0 66221 1 66335    	* bug-eyed Earl, the echo mob
+M 0 66224 2 66338    	* the hideous harpy
+M 0 66224 2 66338    	* the hideous harpy
+O 0 66218 2 66320     	* a torch
+O 1 66234 1 66238 15    * log loads 15% of time at reboot
+M 0 66218 1 66320    	* the druidmother
+E 1 66205 1 5        	*      robe of frosts
+O 0 66218 2 66319     	* a torch
+O 1 66216 1 66338 10   	* a large nest 10% at boot
+P 1 66217 1 66216     	*     a gigantic black egg in a large nest
+O 0 66219 12 66300    	* a mossy rock
+O 0 66219 12 66291    	* a mossy rock
+O 0 66219 12 66291    	* a mossy rock
+O 0 66219 12 66263    	* a mossy rock
+O 0 66219 12 66293    	* a mossy rock
+O 0 66219 12 66293    	* a mossy rock
+O 0 66219 12 66246    	* a mossy rock
+O 0 66219 12 66238    	* a mossy rock
+O 0 66219 12 66256    	* a mossy rock
+O 0 66219 12 66204    	* a mossy rock
+O 0 66219 12 66243    	* a mossy rock
+O 0 66219 12 66315    	* a mossy rock
+O 0 66224 5 66250    	* a bush
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66238 1 66224 1     * rare berries 1% of time
+O 0 66224 5 66241    	* a bush
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66239 1 66224 10     * rare berries 10% of time
+O 0 66224 5 66260    	* a bush
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66225 10 66224     	*     full of poison berries
+P 1 66240 1 66224 5     * rare berries 5% of time
+O 0 66224 5 66223 5    	* a bush loads 5% of time
+P 1 66241 2 66224       * rare berries
+P 1 66241 2 66224       * rare berries 
+O 0 66224 5 66266 20   	* a bush loads 20% of time
+P 1 66238 2 66224 1     * rare berries
+O 0 66220 4 66315    	* a bush
+O 0 66220 4 66203   	* a bush
+O 0 66220 4 66254    	* a bush
+O 0 66220 4 66293    	* a bush
+M 1 66230 6 66301 10    *orc soldier 10% at boot
+E 1 66232 18 16         * wield sword
+G 1 66215 1             * tiny brass key
+M 0 66225 1 66318    	* the druid shopkeeper
+G 1 7907 200
+G 1 7909 200
+G 1 7923 200
+G 1 7924 200
+G 1 7927 200
+G 1 7930 200
+G 1 7946 200
+G 1 7950 200
+G 1 7951 200
+G 1 7953 200
+G 1 7955 200
+G 1 7958 200
+G 1 7962 200
+O 0 66218 2 66318     	* a torch
+O 1 66236 1 66336 15	* drake egg loads 15% of time at boot
+O 0 7959 1 66319		* fountain in guild
+M 1 66222 1 66200 45   	* Leavey, the young woodsman 45% at reboot
+R 0 66266 66230		* 	removes drake skin from room 66266
+O 1 66229 1 66266		*     replace it with a pile of gore 
+R 0 66229 66230		* 	removes drake skin from room 66229
+O 1 66229 1 66229		*     replace it with a pile of gore 
+M 0 66226 1 66229 4   	* the spectre of the priest 4%
+M 1 66227 3 66230    	* the forest wraiths
+M 1 66227 3 66230    	* the forest wraiths
+M 1 66227 3 66230    	* the forest wraiths
+M 0 66229 1 66308 2     *orc captain loads 2% of time
+E 1 66231 10 5          * wears armor on body
+E 1 66233 16 6          * wears helmet on head
+E 1 66232 18 16         * wield sword primary
+M 1 66231 4 66308       *orc shaman
+M 1 66231 4 66308       *orc shaman
+M 1 66231 4 66308       *orc shaman
+M 1 66230 6 66308       *orc soldier
+E 1 66232 18 16         * wield sword
+M 1 66230 6 66308       *orc soldier
+E 1 66232 18 16         * wield sword primary
+M 1 66230 6 66308       *orc soldier
+M 1 66230 6 66308       *orc soldier
+E 1 66232 18 16         * wield sword primary
+F 2 66308 66229 66230   * all soldiers follow captain
+F 2 66308 66229 66231   * all shamen follow captain
+M 0 66233 1 66237 1     * hook horror loads 1% of time
+O 0 66237 1 66319       * fountain in druid grove
+M 1 66232 1 66299 10    * manticore loads 10% at boot
+O 0 66242 1 66287       * icewell in temple
+S

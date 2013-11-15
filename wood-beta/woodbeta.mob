@@ -1,0 +1,480 @@
+<*> File Version 1 <*>
+#66200
+nymph lovely water blue~
+the &+bwater nymph&N~
+A lovely, &+bblue water nymph&N is swimming here.~
+She swims about in the &+Bwater&N, carefree and child-like.  Completely
+&+Wnaked&N and very beautiful, she is in her own world and appears oblivious
+to you.
+~
+34605120 838871048 0 370 S
+HH 0 0 
+30 7 10 30d55+300 3d6+4
+3.6.4.62 22500
+131 131 2 0 10 
+#66201
+mound shambling leaves pile~
+the &+rshambling mound&N~
+A large &+rpile of leaves&N and filth lies here.~
+This &+yp&+ri&+yl&+re &+yo&+rf &+yl&+re&+ya&+rv&+ye&+rs&N and filth is evidently more than it appears.
+Every now and then, the mound quivers and shakes and appears to move on 
+its own.  Either it is home to creatures of the forest, or is something 
+else all together.
+~
+96 0 0 0 S
+OU 0 0 
+3 0 91 3d20+3 1d7+0
+66.72.14.1 300
+131 131 0   
+#66202
+large doe deer~
+the doe~
+A large doe is here foraging for food.~
+This deer appears relatively calm as it wanders about searching for food.
+Periodically, it lifts its head as if to check for predators, but soon
+resumes its foraging.
+~
+64 0 0 0 S
+A 0 0 
+1 0 97 1d20+1 1d7+0
+100.4.0.0 100
+131 131 2   
+#66203
+tall proud buck deer~
+the large buck~
+&+LA large, proud buck is wandering around here.&N~
+This buck has a huge, magnificent rack attesting to its age.  Its dark,
+brown fur is marred occasionally by scars on its flanks, showing that 
+the Neverwinter Wood has taken its toll on him.
+~
+64 0 0 0 S
+A 0 0 
+1 0 97 1d20+1 1d7+0
+0.0.0.0 100
+131 131 1   
+#66204
+large black bobcat~
+the &+Lblack bobcat&N~
+A large, &+Lblack bobcat&N prowls about here.~
+Rather unique to the Neverwinter Wood, this bobcat has pitch-black fur.
+It prowls around the depths of Neverwinter Wood in search of prey or 
+unwary travelers.
+~
+224 524320 0 0 S
+AF 0 0 
+2 1 94 2d20+2 1d7+0
+0.0.0.0 200
+131 131 0   
+#66205
+giant frog~
+the &+ggiant frog&N~
+A &+ggiant frog&N sits here, staring blankly.~
+This frog is quite large, but appears to be a regular frog in most 
+respects.  Despite the fact that it could likely swallow a medium-sized 
+dog, the frog seems to take no notice of anything around it and merely 
+hops about lazily.
+~
+192 0 0 0 S
+R 0 0 
+2 0 94 2d20+2 1d7+0
+0.0.0.0 200
+131 131 1   
+#66206
+mean wolverine~
+the &+Ww&+Lo&+Wl&+Lv&+We&+Lr&+Wi&+Ln&+We&N~
+A mean-looking &+Ww&+Lo&+Wl&+Lv&+We&+Lr&+Wi&+Ln&+We&N sulks here, growling.~
+Clearly not pleased, the &+Ww&+Lo&+Wl&+Lv&+We&+Lr&+Wi&+Ln&+We&N lazes about 
+here, growling at passing animals.  True to the nature of its species, this 
+animal appears to be in a perpetually bad mood and has been known to randomly 
+attack passing adventurers for practically no reason at all.
+~
+100 0 0 0 S
+AC 0 0 
+2 1 94 2d20+2 1d7+0
+0.0.0.0 200
+131 131 1   
+#66207
+stork~
+the &+Wstork&N~
+A &+Blong-legged &+Wstork&N wades through the shallows here.~
+This &+Bstork&N is very regal looking in its coat of &+Wwhite&N and 
+&+Lblack&N feathers. The bird wades quietly through the shallows, looking for 
+&+bfish&N and &+gfrogs&N to snare with its long sharp beak.
+~
+192 524288 0 0 S
+B 0 0 
+2 0 94 2d20+2 1d7+0
+0.0.0.0 200
+131 131 1   
+#66208
+black raven~
+the &+Lraven&N~
+A &+Llarge, black raven&N hops about here, cawing loudly.~
+This raven is quite large and is covered with shiny, &+Ljet black feathers&N.
+Although just an animal, the raven appears to watch you intently as it hops
+through the trees and there is a distinct malevolent feeling to its gaze.
+~
+64 0 0 -600 S
+B 0 0 
+4 1 88 4d20+4 1d7+0
+0.0.0.0 400
+131 131 0   
+#66209
+angry white wolf timberwolf~
+the &+Wwhite&N timberwolf~
+An angry, &+Wwhite &+Rtimberwolf&N prowls about here.~
+With &+Wsnow-white&N fur and menacing &+Rred&N eyes, it is difficult to tell 
+if this wolf is simply an albino or some &+Levil creation of magic&N.  
+Whatever the case, it clearly does not look kind and growls evilly at 
+anything that comes near it.
+~
+1073743968 33554432 0 -490 S
+A 0 0 
+15 3 55 15d25+37 2d6+1
+0.0.0.0 6000
+131 131 0   
+#66210
+huge black bear~
+the &+Lblack bear&N~
+A huge &+Lblack bear&N is here, lumbering about.~
+&+LThe bear appears to be very old, but still extremely dangerous.&N
+&+LEnormous claws and a mouth full of sharp teeth could easily rend the&N
+&+Lflesh from anything unlucky enough to be attacked.&N
+~
+1073743936 0 0 0 S
+AB 0 0 
+20 5 40 20d30+100 2d6+2
+0.0.0.0 8000
+131 131 0   
+#66211
+harper woodsman~
+the &+WHarper &+Gwoodsman&N~
+A &+WHarper &+Gwoodsman&N is here, patrolling the road.~
+A very stoic and noble-looking warrior, this man has dedicated his life to
+protecting travelers in the northlands who traverse the High Road.  Well-
+armed and battle-scarred, this man looks as though he can easily hold his own
+in any fight.
+~
+339740740 302522480 68 700 S
+PH 0 0 
+40 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66212
+harper woodsman~
+the &+WHarper woodsman&N~
+A well-armored &+WHarper&N is here, patrolling the road.~
+&+WThis Harper has exceptional armor and has clearly seen her share of&N
+&+Wbattles. Although fairly beautiful in appearance, her face is marred&N 
+&+Where and there by small scars, no doubt obtained in her long career as&N
+&+Wa Harper patroller.&N
+~
+339740740 302522480 68 850 S
+PH 0 0 
+45 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2
+#66213
+evil troll glorpk~
+&+RGlorpk&N~
+An &+Le&+gv&+Li&+gl &+Lt&+gr&+Lo&+gl&+Ll&N is here, protecting his bridge.~
+&+RGlorpk&N does not appear to be too happy with intruders under his bridge.  
+He is covered in filth and emits a foul, &+Gnauseating&N stench.  An evil 
+glint in his eyes and the myriad of &+Wpointy teeth&N in his mouth indicate 
+he is not one to be trifled with.
+~
+2099270 65576 0 -950 S
+PT 0 0 
+29 14 13 29d55+290 3d6+4
+5.3.38.8 21750
+131 131 1   
+#66214
+twisted hag~
+the &+Lcavern hag&N~
+A &+Ltwisted cavern hag&N stalks prey here.~
+&+yThis &+Levil&+y perversion of nature is covered with slimy green&N
+&+yskin and matted hair.  Resembling a demonic old lady, this creature&N
+&+ylurks about in the darkness of the cavern with its vicious claws and&N 
+&+yteeth, awaiting its next helpless meal.&N
+~
+1074792676 1572904 64 -970 S
+H 0 0 
+35 17 -5 35d70+525 4d6+7
+75.55.14.1 35000
+131 131 2   
+#66215
+green snake~
+the &+Gsnake&N~
+A &+Gdark green snake&N attempts to blend with the foliage here.~
+This relatively large snake slithers slowly through the underbrush of the
+Neverwinter Wood.  Dark green in color with splotches of black, the snake
+appears very adept at blending with the colors of the forest to prevent
+detection.
+~
+64 0 0 0 S
+RS 0 0 
+4 1 88 4d20+4 1d7+0
+5.68.24.3 400
+131 131 0   
+#66216
+ice golem~
+the &+Bice golem&N~
+An &+Bice golem&N stands here, guarding the ruined shrine.~
+&+BThis malevolent-looking golem appears to be a living being of magical&N
+&+Bice.  Whoever or whatever created it must have been very powerful.  Even&N
+&+Bthough the shrine it guarded has long since fallen to ruin, the golem&N
+&+Bstill stands as a silent testament to the magics which created it.&N
+~
+4196934 268501024 72 -800 S
+OG 0 0 
+32 16 -11 32d70+480 4d6+7
+0.0.0.0 32000
+131 131 0 0 20 
+#66217
+frost drake~
+the &+Bf&+Wr&+Bo&+Ws&+Bt &+Wd&+Br&+Wa&+Bk&+We&N~
+A deadly, adolescent &+Bf&+Wr&+Bo&+Ws&+Bt &+Wd&+Br&+Wa&+Bk&+We&N prowls through here.~
+&+LGleaming &+Wwhite scales&+L, &+mvicious claws&+L, and &+bsword-like &+bteeth&+L mark&N
+&+Lthis drake as a very deadly foe indeed.  Even in its obvious youth, a&N
+&+Lmalevolent gleam burns in its eyes and shows that it can be quite a&N
+&+Ldeadly opponent.&N
+~
+1074792575 104 64 -1000 S
+DK 0 0 
+40 20 -30 40d80+800 4d6+10
+0.0.0.0 40000
+131 131 0 9  
+#66218
+druid beautiful druidmother mother~
+the &+GDruidmother&N~
+The beautiful &+GDruidmother&N is here, wandering through the grove.~
+The &+GDruidmother&N is an ancient, yet beautiful woman.  Her wrinkled skin
+has taken on a somewhat &+rbarklike&N texture and color, and her long, 
+&+wsilver&N hair has a slight &+Ggreen&N tint to it.  She gazes at you with 
+&+Gdeep green&N eyes that brim with intelligence, wisdom, and peace, eager to 
+share her knowledge.
+~
+34080854 268443752 68 1000 S
+PH 0 0 
+59 29 -112 59d120+5900 7d6+35
+0.0.60.4 295000
+131 131 2 8 20 
+#66219
+old woodsman Nollin~
+&+CNollin&N, the woodsman~
+An &+Cold woodsman&N is here, wandering about.~
+&+GThe old woodsman looks as though he may have spent his entire life in&N
+&+Gthe shelter of the &+gNeverwinter Wood&+G.  Weather worn and tired&N
+&+Glooking, he seems content to just wander the paths of the forest until&N
+&+Ghe dies.&N
+~
+2112 524320 0 600 S
+PH 0 0 
+44 11 -52 44d90+1760 6d6+12
+6.4.22.21 110000
+131 131 1 8  
+#66220
+living tree~
+the &+Gliving tree&N~
+A &+Gliving tree of &+Lthorns&N grows here, guarding the druids grove.~
+The &+Gliving tree&N has been enchanted to protect the grove of the druids.
+It meanders about slowly on its root legs, sensing for life.  Its branches 
+are covered with wicked thorns and would make painful weapons.
+~
+4720706 268443720 0 500 S
+VT 0 0 
+58 29 -109 58d120+5800 7d6+35
+2.7.35.8 290000
+131 131 0   
+#66221
+echo mob binky rabid~
+&+RBinky the Rabid Chipmunk&+L, Neverwinter Wood's echo mob&N~
+Binky the Archfiend stands here...echoing obscenities throughout the zone.~
+&+LYou see a very scary and very rabid chipmunk, indeed.&N
+~
+2 0 0 0 S
+A 0 0 
+51 25 -83 51d110+4080 7d6+30
+0.0.0.0 255000
+131 131 0   
+#66222
+young woodsman Leavey~
+&+mLeavey&N, the young woodsman~
+A spry, &+myoung woodsman&N is here looking for adventure.~
+This young woodsman is wandering through the forest in search of adventure.
+The youthful look in his eye betrays his young age and inexperience although
+he tries his best to hide it.
+~
+4196560 32 0 300 S
+PH 0 0 
+16 8 52 16d30+80 2d6+2
+0.0.0.0 6400
+131 131 1 2  
+#66223
+black slime~
+the &+Lblack slime&N~
+A mass of &+Ldark, black slime&N oozes here.~
+&+LThis gelatinous mass of &+Bgoo&+L seems to ooze around with a mind of&N &+Lits own.&N  
+&+LConstantly seeking small creatures too slow to escape its &N
+&+Lgrasp, the slime would not appear to pose much of a threat to &N
+&+Ladventurers.&N
+~
+67110980 524320 0 0 S
+OS 0 0 
+18 9 46 18d30+90 2d6+2
+98.71.2.0 7200
+131 131 1   
+#66224
+harpy hideous ugly~
+the &+yhideous harpy&N~
+A hideous, &+yugly harpy&N flies about here.~
+&+LHalf woman, half bird, these creatures are known for their hideous &N
+&+Lappearance and rude mannerisms.  Harpies usually prefer to inhabit old&N
+&+Lruins, but these appear to have made their nest in a tree.&N
+~
+2082 134217784 0 -500 S
+AY 0 0 
+20 10 40 20d30+100 2d6+2
+0.0.0.0 8000
+131 131 2   
+#66225
+Gaelwyn druid shopkeeper keeper~
+&+gGaelwyn&N the shopkeeper~
+&+gGaelwyn&N, the shopkeeper of the grove is here, selling various wares.~
+&+GDespite the weathered appearance of the druid's face, the shopkeeper&N
+&+Gappears to be middle-aged.  A slight scowl on his face would seem to&N
+&+Gindicate that this hasn't been the best day for him.  One can only hope&N
+&+Ghe doesn't take his poor countenance out on his customers.&N
+~
+2 0 0 800 S
+PH 0 0 
+40 20 -20 40d80+800 4d6+10
+100.60.5.0 40000
+131 131 1   
+#66226
+priest spectre~
+an &+bundead priest&N~
+&+bThe spectre of a priest floats about the shrine.&N~
+This ghost appears sad and tormented.  The robes of its ghostly visage are 
+soaked in &+Rdark blood&N, as are its hands.  The dark, hollow sockets of its 
+skull seem to burn with a dark fire all their own.
+~
+526406 101253160 64 -420 S
+UG 0 0 
+30 15 10 30d27+150 3d6+4
+0.0.30.4 22500
+131 131 1 18 10 
+#66227
+forest wraith spectre~
+a &+cforest wraith&N~
+&+cA tattered and rotting spectre floats here.&N~
+This fiendish spirit, with its hideous and rotting appearance, seems sad
+and lost as it moans softly in the night.  Moonlight shines off of archaic 
+bits of armor and other clothing still hang on its gaunt frame as signs that 
+it may have been an adventurer in these very woods ages ago.
+~
+2144 101253160 64 -300 S
+US 0 0 
+10 2 70 10d10+5 1d6+0
+52.59.15.1 1000
+131 131 1   
+#66228
+swarm insects~
+a &+gswarm of insects&N~
+An annoying &+gswarm of insects&N hovers here.~
+This swarm of fly-like insects is quite annoying and seems quite hungry as
+it eagerly attacks anything flying near it.
+~
+96 67108864 0 0 S
+I 0 0 
+1 0 97 1d20+1 1d7+0
+126.29.0.0 100
+131 131 0   
+#66229
+orc captain~
+&+ythe orc captain&N~
+&+yAn ugly, orc captain stands here, leading his troops.&N~
+&+yThis ugly little fellow is pretty typical of his race in appearance.  His teeth
+&+yare thick and yellow, jutting from his slighly open, drooling mouth.  Beady
+&+ylittle eyes poke out from underneath his thick, yellowish brow, constantly
+&+ysurveying the area around him.&N
+~
+1614810624 33619968 0 -450 S
+HO 0 0 
+15 3 55 15d25+37 2d6+1
+0.0.0.0 6000
+131 131 1 1  
+#66230
+orc warrior~
+&+yan &+gorc warrior&N~
+&+yAn &+gorc warrior&+y is here, following his captain.&N~
+&+gThis orc warrior appears to have seen many vicious battles in his time and
+&+ghas not necessarily come out of all of them looking too well.  His already
+&+gugly appearance has been further marred by numerous scars and wounds, slighlty
+&+gdisfiguring his yellowed, pig-like face.&N
+~
+1614810626 33554464 0 -500 S
+HO 0 0 
+10 5 70 10d20+10 1d6+0
+74.74.1.0 1000
+131 131 1 1  
+#66231
+orc shaman~
+&+yan &+rorc shaman&N~
+&+yAn &+rorc shaman&+y is here, accompanying the raiding party.&N~
+&+rThis orc appears very much like the others of his race, almost pig-like in
+&+rappearance and quite disgusting.  However, unlike most orcs who are of
+&+rsomewhat lesser intelligence, this one has learned several of the arcane arts,
+&+rmaking him a dangerous foe.&N
+~
+1612189186 33554432 0 -740 S
+HO 0 0 
+20 10 40 20d30+100 2d6+2
+98.31.0.0 8000
+131 131 1 9 5 
+#66232
+manticore~
+&+ra manticore&N~
+&+rA dangerous manticore is here, wandering the &+gforest.&N~
+&+rAlthough very rare, especially with the increased traffic in the Neverwinter
+&+rWood near Neverwinter and the patrols of the Harpers, this creature appears
+&+rto have crawled out of the depths of the forest.  Its motivation for
+&+rventuring this close to the city of Neverwinter is unclear, but makes this
+&+rcreature no less dangerous in the long run.  With the body of a lion, the
+&+rhead of a man and the tail of a scorpion, this magical beast is quite deadly,
+&+reven for experienced adventurers.&N
+~
+1075316768 34078720 0 -750 S
+HH 0 0 
+25 6 25 25d40+187 3d6+3
+58.63.5.0 18750
+131 131 0   
+#66233
+hook horror~
+&+La &+Rhook horror&N~
+&+LA &+Rhook horror&+L prowls around here, looking for victims.&N~
+&+LThis hook horror stands about nine feet tall and has a tough, mottled grey
+&+Lexoskeleton, like that of an insect. Its limbs end in viciously curved hooks.
+&+LIts legs end in feet that have three small hooks, like long, sharp toes. Its
+&+Lhead is shaped like that of a vulture, including the hooked beak and 
+&+Linsect-like, multifaceted eyes.&N
+~
+1077938208 302252192 0 -600 S
+HH 0 0 
+15 3 55 15d25+37 2d6+1
+93.58.10.1 6000
+131 131 0   
+#66234
+mound shambling leaves pile~
+the &+rshambling mound&N~
+A large &+rpile of leaves&N and filth lies here.~
+This &+yp&+ri&+yl&+re &+yo&+rf &+yl&+re&+ya&+rv&+ye&+rs&N and filth is evidently more than it appears.
+Every now and then, the mound quivers and shakes and appears to move on 
+its own.  Either it is home to creatures of the forest, or is something 
+else all together.
+~
+96 0 0 0 S
+OU 0 0 
+22 5 34 22d40+165 3d6+3
+102.72.1.0 16500
+131 131 0   

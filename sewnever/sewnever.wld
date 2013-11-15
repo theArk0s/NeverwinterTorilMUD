@@ -1,0 +1,2132 @@
+<*> File Version 1 <*>
+#66900
+&+LA Dark Chamber Beneath the &N&+rRogues' Guild&N~
+&+L   This chamber is quite small and dark, almost no light penetrating its
+&+Ldepths from the room overhead.  Cold, stone walls drip quietly with the
+&+Lmoisture that gathers in small puddles scattered around the slipperly stone
+&+Lfloor of the chamber.  A large trapdoor is clearly visible in the ceiling
+&+Loverhead, as is the deep black outline of an ancient-looking iron-bound 
+&+Ldoorway set in the eastern wall.  The damp, musty odor of this chamber hints
+&+Lat a definite lack of ventilation, probably contributing to the thin, filmy
+&+Lwhite mildew that has started to accumulate in the lesser-used corners of
+&+Lthe chamber.&N
+~
+669 4361 1 25 25 10 
+D1
+A doorway leads east.
+~
+door doorway~
+1 -1 66901
+D4
+A ladder leads upwards.
+~
+~
+0 0 66495
+S
+#66901
+&+LThe Dark Hall of &N&+rRogues&N~
+&+L   This wide, circular hall is only dimly lit by a few smoking torches 
+&+Lset in rusted sconces anchored in the walls of the room.  The air of the
+&+Lchamber is quite damp and smells faintly of mold and mildew.  A simple
+&+Lrug has been laid on the floor of the chamber upon which a few chairs and
+&+La small desk of sorts have been arranged.  The gray stone walls of the
+&+Lchamber have been only slightly decorated with a few simple portraits of
+&+Lpast leaders of the guild while a plain wooden bookshelf appears to contain
+&+Lseveral volumes on theivery and some sort of loosely-kept records for the
+&+Lguild.  A large, iron-bound doorway in the western wall leads from the
+&+Lchamber towards the rest of the guild.&N
+~
+669 4194312 0 25 80 25 
+D2
+The bookshelf leads south.
+~
+bookshelf secret~
+5 -1 66905
+D3
+A doorway leads west.
+~
+door doorway~
+1 -1 66900
+S
+#66902
+&+LA Dark Tunnel Beneath the &+MKraken Compound&N~
+&+L   The ceiling of this narrow stone tunnel is supported by several thick
+&+Lwooden beams.  The wood of the beams appears quite new, as does the stone
+&+Lof the walls, indicating that this tunnel was perhaps constructed only
+&+Lrecently.  The air of the tunnel is remarkably dry and the stone and dirt
+&+Lflooring of the tunnel remains free of moisture.  Several deep, track-like
+&+Lgouges can be seen in the floor, appearing as though something quite heavy
+&+Lwas moved through here somewhat recently.  A trapdoor in the ceiling of
+&+Lthe tunnel leads upwards towards the Kraken Compound while the tunnel
+&+Lcontinues to the east of here where it appears to open up on a much larger
+&+Lchamber.&N
+~
+669 4353 0 10 50 10 
+D1
+The tunnel continues.
+~
+~
+0 0 66903
+D4
+A trapdoor leads upwards.
+~
+trapdoor~
+2 0 66444
+S
+#66903
+&+LA Dark Chamber Beneath the &+MKraken Compound&N~
+&+L   The wide room appears to be part man-made chamber and part natural
+&+Lcavern.  The catacombs and sewers beneath the city of Neverwinter are
+&+Lsomewhat famous for their often natural rock formations and this chamber
+&+Lwould appear to be an excellent example.  Overhead, a few small 
+&+Lstalactites have started to form from the mineral rich deposits left by
+&+Levaporating water.  A few corresponding stalagmites have started to form
+&+Lon the ground, but their growth has been disturbed by the collection of
+&+Lcrates and barrels stacked around the room.  The contents of some of the
+&+Lhalf-opened crates can be seen as primarily consisting of weapons and
+&+Larmor.  Stockpiles of this size would almost seem to rival those of the
+&+Lcity guard of Neverwinter, but it would take a small army to wield all of
+&+Lthem effectively.  The chamber continues to the east of here towards
+&+Lanother cavern while a smaller tunnel leads west from here.&N
+~
+669 4353 1 25 25 10 
+D1
+Another chamber lies there.
+~
+~
+0 0 66904
+D3
+Another tunnel lies there.
+~
+~
+0 0 66902
+S
+#66904
+&+LA Large, Dark Cavern&N~
+&+L   This natural cavern beneath the city of Neverwinter has apparently
+&+Lbeen discovered by the Kraken Society and used for storage purposes.
+&+LThe smoothe, natural stone walls have been lined with stacks of crates
+&+Land barrels, apparently filled with weapons and provisions.  It is 
+&+Lunclear from the current state of the room whether these items are
+&+Lbeing smuggled into the city of Neverwinter, or out of it.  The only
+&+Lsound audible in the chamber is the constant, quiet dripping of water
+&+Lfrom the stalactites overhead.  The drops of water form small rivulets
+&+Lwhich slowly gather in small pools on the cavern's floor.  The small
+&+Lpools, in turn, appear to flow slowly southward from this room towards
+&+Lanother chamber of the cavern.  A partially man-made room appears to
+&+Llie just to the west of here.&N
+~
+669 4353 0 25 25 10 
+D2
+Another chamber lies there.
+~
+~
+0 0 66908
+D3
+Another tunnel lies there.
+~
+~
+0 0 66903
+S
+#66905
+&+LThe End of a Tunnel in the &N&+gSewers&N~
+   The smooth stone block walls of the tunnel through the sewers of
+Neverwinter come to an abrupt end here.  Either this portion of the
+tunnel through the sewers of the city was never finished or was never
+intended to proceed any further.  A small drainage trench has been
+carved in the floor of the tunnel to help facilitate the drainage of
+the vile-smelling liquid that seeps in through the various drainage
+grates from the city above.  The stone tunnel through the sewers
+continues to the south of here as it winds its way beneath the city
+of Neverwinter far overhead.
+~
+669 4353 0 10 50 10 
+D0
+A secret passageway leads north.
+~
+wall secret~
+5 -1 66901
+D2
+The sewers continue.
+~
+~
+0 0 66909
+S
+#66906
+&+LA Forgotten Chamber&N~
+   Somehow, this small stone chamber in the sewers of Neverwinter
+appears to have been bricked-over and forgotten.  Several rusty stains
+on the walls of the room testify to the one-time existance of torch
+sconces.  The purpose of this chamber has long been forgotten, but
+several piles of rotting and disintegrating wood and cloth hint at
+what may have once been furniture of some sort.  The thick smell of
+death and decay hangs in the dense, moist air.  The only visible exit
+from this room appears to be through the cleverly bricked-over doorway
+to the south.
+~
+669 4353 0 25 25 10 
+D2
+The sewers continue.
+~
+wall secret~
+5 -1 66911
+S
+#66907
+&+LA Dark, &N&+bSubterranean Pool&N~
+&+b   A large, dark pool fills nearly the entire area of this massive
+&+bchamber, rippling slightly from the constant dripping of water from
+&+bthe ceiling overhead.  No amount of light seems to penetrate the
+&+bsurface of the black pool, preventing any attempts to discern the
+&+bactual depth of the water.  A narrow, slippery ledge runs around the
+&+bperimeter of the chamber, providing the only means of navigating
+&+baround the room.  A damp, slightly foul odor hangs in the air of the
+&+bchamber, apparently eminating from the dark waters of the pool.  There
+&+bare no really visible exits from the chamber, only several dark
+&+bcrevasses that may lead to other nearby chambers in the cave.&N
+~
+669 4353 0 25 25 10 
+D1
+Another chamber in the cave lies there.
+~
+crevasse wall secret~
+5 -1 66908
+S
+#66908
+&+LA Smaller, Damp Cavern&N~
+&+L   This chamber of the cave network is much smaller and wetter than
+&+Lthe others surrounding it as rivulets of water literally stream along
+&+Lits floor, only to disappear into several of the large cracks and
+&+Lcrevasses in the rough stone walls of the room.  The quiet sound of
+&+Lthe water running along the floor and the water dripping slowly from
+&+Lthe ceiling echoes softly in the cold, damp air.  Here and there, the
+&+Lconstant dripping of the water has started to form small, rounded
+&+Lstalactites and stalagmites.  An opening in the chamber walls leads
+&+Lnorth from here to another chamber in the network of caves.&N
+~
+669 4353 0 25 25 10 
+D0
+Another chamber in the cave lies there.
+~
+~
+0 0 66904
+D3
+Another chamber in the cave lies there.
+~
+crevasse wall secret~
+5 -1 66907
+S
+#66909
+&+LA Tunnel in the &N&+gSewers of Neverwinter&N~
+   A rather foul odor hand in the cool, damp air of this portion of
+the tunnel through the sewers.  Here and there, small corroded grates
+in the ceiling of the tunnel lead upwards to the city high overhead.
+The walls and floor of the tunnel are made from large, smooth stone
+blocks that appear to have held up quite well over the centuries.  A
+thin layer of greenish slime has started to collect on many of the
+blocks, making steady footing in the tunnel somewhat difficult.  The
+tunnel through the sewers continues to the north and east of here.
+~
+669 4353 0 50 10 10 
+D0
+The sewers continue.
+~
+~
+0 0 66905
+D1
+The sewers continue.
+~
+~
+0 0 66910
+S
+#66910
+&+LA Tunnel in the &N&+gSewers of Neverwinter&N~
+   Several large stone pipes drain their filth into this portion of
+the tunnel, filling the air with a damp, reeking stench.  Thick iron
+grates help to secure the pipes and apparently prevent anyone or 
+anything from crawling through them.  Rats, however, have no problem
+navigating through the grates and can be heard scurrying through the
+dark depths of the drain pipes.  In places, the smooth stone walls of
+the tunnel have become encrusted with slime and filth from the drain
+pipes.  This tunnel through the dark sewers of the city continues to
+the east and west from here.
+~
+669 4353 0 50 10 10 
+D1
+The sewers continue.
+~
+~
+0 0 66911
+D3
+The sewers continue.
+~
+~
+0 0 66909
+S
+#66911
+&+LA Tunnel in the &N&+gSewers of Neverwinter&N~
+   The cool damp air of the sewers here is occasionaly stirred by
+a light breeze of unkown origin.  The stone floor of the tunnel is
+quite slippery as a large amount of slime and filth has started to
+accumulate from the narrow channel of sewage running along the ground.
+Every now and then, the sound of some sort of small creature, most
+likey a rat, can be heard coming from down the dark tunnel from the 
+east or west.
+~
+669 4353 0 50 10 10 
+D0
+The wall opens up.
+~
+wall secret~
+5 -1 66906
+D1
+The sewers continue.
+~
+~
+0 0 66912
+D3
+The sewers continue.
+~
+~
+0 0 66910
+S
+#66912
+&+LA Tunnel in the &N&+gSewers of Neverwinter&N~
+   A constant dripping sound echoes through the sewers here, reflecting
+the constant streams of filthy water slowly trickling down the walls of
+the chamber from the ceiling overhead.  The thick, smooth stone walls
+of this tunnel through the sewers have grown slippery and overgrown 
+with various forms of slime and filth, emitting a rather rank and foul
+odor.  A small stream of sewage slowly flows down the center of the
+tunnel from west to east via a small stone channel that has been 
+constructed in the floor for just that purpose.  The tunnel itself
+continues both east and west through here as it heads through the dark
+sewers of the city.
+~
+669 4353 0 50 10 10 
+D1
+The sewers continue.
+~
+~
+0 0 66913
+D3
+The sewers continue.
+~
+~
+0 0 66911
+S
+#66913
+&+LThe End of a Tunnel in the &N&+gSewers&N~
+   This tunnel heading through the sewers of the city of Neverwinter 
+comes to an abrupt end here in a solid wall of stone.  A small iron 
+grate set eastern wall allows the channel of filth flowing down the
+channel in the center of the tunnel's floor to drain away to some 
+other, unseen portion of the vast network of sewers beneath the city.
+The usual, foul odor of the sewers continues through here, hanging 
+heavily in the thick, moist air.  Every now and then, the stone ceiling
+overhead is perforated by a rusted iron grate leading upwards towards
+the unseen street-level of the city.  Despite the apparent ventilation
+of the grates, however, no light or air from the city high above manage
+to penetrate the overall gloom of the surrounding sewers.
+~
+669 4353 0 10 50 10 
+D1
+The sewers continue.
+~
+grate secret iron~
+5 -1 66914
+D2
+The sewers continue.
+~
+wall secret~
+5 -1 66917
+D3
+The sewers continue.
+~
+~
+0 0 66912
+S
+#66914
+&+LThe End of a Small Tunnel in the &N&+gSewers&N~
+   This small, rather dry tunnel ends here in a flat, almost featurless
+wall of stone.  The only break in the wall appears to be a small, corroded
+iron grate through which a steady stream of muck and filth slowly flows
+into a narrow cistern in the floor.  The edges of the cistern itself is
+crusted with the dried remnants of the filth that slowly drains downward
+into the seemingly bottomless pit.  No more than a hand-span wide, the
+cistern is not large enough to allow normal creatures to pass down into
+its depths, but a subtle rustling sound of sorts would seem to lend
+credibility to the fact that some sort of creature makes the small hole
+its home.  The small tunnel through the sewers slopes slowly upwards as
+it continues to the east of here.
+~
+669 4353 0 5 44 7 
+D1
+The sewers continue.
+~
+~
+0 0 66915
+D3
+The sewers continue.
+~
+grate secret~
+5 -1 66913
+S
+#66915
+&+LA Small Tunnel in the &N&+gSewers of Neverwinter&N~
+   This narrow passageway slopes slowly downwards from east to west as
+it passes through the sewers beneath the city of Neverwinter.  This 
+particular stretch of the tunnel is surprisingly dry considering its
+subterranean location.  A slightly foul smell hangs in the air from the
+small amounts of slowly rotting waste and sewage that have accumulated
+on the smooth stone floors of the tunnel.  A slight draft passes down the
+tunnel from some unseen source, stirring the occasional cobwebs dangling
+from the slightly rounded stone ceiling overhead.
+~
+669 4353 0 44 5 7 
+D1
+The sewers continue.
+~
+~
+0 0 66916
+D2
+The sewers continue.
+~
+wall secret~
+5 -1 66918
+D3
+The sewers continue.
+~
+~
+0 0 66914
+S
+#66916
+&+LA Small Tunnel in the &N&+gSewers of Neverwinter&N~
+   This small tunnel appears to make its way through the upper levels
+of the sewers of Neverwinter.  Although a slight smell hangs in the damp
+air, this portion of the tunnel is relatively clean.  The walls, floor
+and ceiling are made of smooth, well-carved stone blocks that appear to
+have been recently mortared.  A few traces of a greenish slime can be
+seen taking hold on some of the blocks, but the vast majority seem quite
+clean and new.  It is possible that this particular tunnel serves more
+as an access point for the city's repair crews than an actual conduit
+for runoff from the city.  A trapdoor in the ceiling overhead leads
+upwards where the apparent sounds of merriment can be heard.
+~
+669 4353 0 44 5 7 
+D3
+The sewers continue.
+~
+~
+0 0 66915
+D4
+A trapdoor leads upwards.
+~
+trapdoor~
+5 0 66528
+S
+#66917
+&+LIn the Sewers of &N&+cNeverwinter&N~
+   This dank, stone-lined tunnel serves as one of the main arteries for
+the sewers of Neverwinter.  Here, the artery comes to a rather abrupt
+end to the north as it meets with a solid stone wall cutting in the
+opposite direction.  While the stones of this main artery are dark and
+rounded with ages of wear, the stones of the wall to the north are 
+much lighter and appear to be of newer construction.  As the main
+artery in the sewers heads south from here, it slopes gradually
+downwards, typically meaning that it is one of the much older, original
+tunnels of the first sewers created for the city.  Over time, these
+tunnels have slowly been superceded and closed off by the city workers
+who constantly work to improve the sewage removal system.
+~
+669 4353 0 25 25 10 
+D0
+The sewers continue.
+~
+wall secret~
+5 -1 66913
+D2
+The sewers continue.
+~
+~
+0 0 66921
+S
+#66918
+&+LAn Abrupt End in the Tunnel&N~
+   The tunnel through the sewers of Neverwinter comes to an abrupt stop
+here as it ends in a solid wall of brick.  Several thick roots from some
+unseen tree high above pierce the ceilings and walls at odd intervals,
+gradually twisting their way through the nutrient-rich soil surrounding
+the tunnel.  A few thin trickles of filthy water run down the walls here
+and there, gathering in small puddles that eventually flow southward
+down the path of the tunnel as it continues through the sewers.  A musty,
+slightly foul and damp odor hangs in the air here, but nothing nearly as
+horrific as found elsewhere in the tunnels through the sewers of such a
+large city.
+~
+669 4353 0 25 25 10 
+D0
+The sewers continue.
+~
+wall secret~
+5 -1 66915
+D2
+The sewers continue.
+~
+~
+0 0 66922
+S
+#66919
+&+LAround a Wide &N&+bCistern&N~
+   The narrow, railed ledge around the wide cistern in the sewers
+continues through here, ending in a large, rusted grate.  Far below, the
+tepid waters of the sewers of Neverwinter gather in the large stone
+cistern where they slowly drain off into the ground beneath the city.
+In the few places where dim illumination can reach it, the high stone
+ceiling over the chamber around the cistern shows evidence of massive
+water damage and in places, large roots have broken through and now
+dangle limply in the damp, foul air of the sewers.  The stone walkway
+around the edge of the cistern continues to the east from here.
+~
+669 4353 0 25 25 10 
+D1
+The cistern continues.
+~
+~
+0 0 66920
+D2
+The sewers continue.
+~
+grate secret~
+5 -1 66924
+S
+#66920
+&+LAround a Wide &N&+bCistern&N~
+   Throuh here, a narrow, stone walkway bends around the gaping maw of
+a large stone cistern set in the ground far below.  An ancient-looking
+iron railing lines the edge of the walkway around the cistern, providing
+at least minimal protection against what would certainly be a life-ending
+fall into the foul waters below.  Here and there, streams of sewage drain
+from pipes overhead into the cistern, churning the surface of waters.
+The smell along the walkway is anything but pleasant, but not nearly as
+powerful as elsewhere in the dank sewers beneath the city.  The walkway
+around the cistern continues to the south and west from here.
+~
+669 4353 0 25 25 10 
+D2
+The cistern continues.
+~
+~
+0 0 66925
+D3
+The cistern continues.
+~
+~
+0 0 66919
+S
+#66921
+&+LIn the Sewers of &N&+cNeverwinter&N~
+   As this dark, stone artery through the sewers passes beneath the
+city here, it slopes slowly downwards from north to south.  A thin trail
+of sewage and filth trickles down the center of the roughly circular
+tube.  A thin layer of slime, combined with the wet sewage and the
+downward slope of the tunnel makes the footing here somewhat precarious.
+A somewhat dry, musty smell permeates the air of the passageway.  Overhead,
+thin, whispy strands of a moss-like plant hang down listlessly, 
+occasionally stirred by some unseen and unfelt movement of the air.
+~
+669 4353 0 25 25 10 
+D0
+The sewers continue.
+~
+~
+0 0 66917
+D2
+The sewers continue.
+~
+~
+0 0 66927
+S
+#66922
+&+LIn the Sewers of &N&+cNeverwinter&N~
+   This portion of the tunnel through the sewers of Neverwinter jogs a bit
+as it passes through here, apparently avoiding a series of massive roots
+which pierce the ceiling and walls of the northern portion of the tunnel.
+Thin rivulets of moisture slowly stream down through the gaps in the
+ceiling caused by the roots' intrusion, gradually draining away through a
+small, rusted iron grate in the south wall.  Such massive roots could only
+be from one of the large, older trees found near the gardens of the city,
+and were probably here long before the sewers were constructed.  This
+tunnel through the sewers continues both north and east through here.
+~
+669 4353 0 25 25 10 
+D0
+The sewers continue.
+~
+~
+0 0 66918
+D1
+The sewers continue.
+~
+~
+0 0 66923
+D2
+The sewers continue.
+~
+grate secret~
+5 -1 66928
+S
+#66923
+&+LIn the Sewers of &N&+cNeverwinter&N~
+   A rather foul and putrid stench hangs in the air of this chamber, 
+apparently eminating from a much darker and filther series of tunnels to
+the east of here.  While this portion of the passageway through the sewers
+of the city may smell quite bad, the walls are actually relatively clean
+for a sewer, and their stone blocks seem rather smooth and in good repair.
+Thick cobwebs dangle from the ceiling overhead, polluted with a thick
+layer of dust and moisture.  An occasional breeze of unknown origin will
+periodically pass down the tunnel, bringing the cool, damp scent of stale
+and fetid air with it.  This tunnel through the sewers continues both east
+and west from here.
+~
+669 4353 0 25 25 10 
+D1
+The sewers continue.
+~
+~
+0 0 66954
+D2
+The sewers continue.
+~
+wall secret~
+5 -1 66929
+D3
+The sewers continue.
+~
+~
+0 0 66922
+S
+#66924
+&+LA Small Chamber Near The &N&+bCistern&N~
+   Judging by the random and somewhat haphazard nature of the stone blocks
+that compromise the walls of this room, it would appear as though this small
+room was largely constructed as an afterthought.  A small, grated window
+in the eastern wall looks out over the dark expanse of the massive waste 
+cistern beneath the city, possibly allowing an engineer to keep an eye on
+sewage levels.  A small, well-like opening in the floor of the chamber would
+seem to provide access to the cistern itself for purposes unknown.  An 
+extremely foul odor hangs in the air of this small room, emanating from the
+thick cocoon-like buildup of slimy goo that has collected in the upper
+corners of the chamber.  The only exit from the chamber is back through the
+small, hinged grate in the northern wall.
+~
+669 4353 1 19 19 7 
+D0
+The sewers continue.
+~
+grate secret~
+2 0 66919
+S
+#66925
+&+LA Wide &N&+bCistern&+L in the &N&+gSewers&N~
+   The tunnels through the sewers of Neverwinter come to an end here, 
+reaching the edge of a massive stone cistern that occupies the wide chamber
+directly to the west of here.  Stretching far off past the point where any
+light can penetrate, this cistern appears to be a major collection point for
+the sewage runoff from the city high overhead.  The thin trail of sewage
+from the tunnel to the east empties into the cistern in a waterfall of filth,
+joined by several other streams from pipes located around the cistern.  A
+narrow stone walkway with a rusted, ancient-looking railing continues around
+the edge of the cistern to the north of here.  Meanwhile the dark tunnels
+through the sewers of Neverwinter continue to the east of here.
+~
+669 4353 0 25 25 10 
+D0
+The cistern continues
+~
+~
+0 0 66920
+D1
+The sewers continue.
+~
+~
+0 0 66926
+S
+#66926
+&+LIn the Sewers of &N&+cNeverwinter&N~
+   This arched-ceiling tunnel continues to carve its way through the 
+sewers of Neverwinter, winding slowly downward as it heads from east to
+west through here.  A stone channel built into the floor of the tunnel
+funnels a steady stream of wastewater and murky debris towards some 
+unknown destination farther to the west of here.  A warm, foul odor hangs
+in the damp air, slowly seeping into the very stones of the tunnel.  Along
+the base of the walls, several small iron grates have been set into the
+stone, apparently connecting this tunnel to several smaller drain pipes
+from the city high above.
+~
+669 4353 0 25 25 10 
+D1
+The sewers continue.
+~
+~
+0 0 66927
+D3
+The sewers continue.
+~
+~
+0 0 66925
+S
+#66927
+&+LAn Intersection in the Sewers of &N&+cNeverwinter&N~
+   As this stone tunnel makes its way south through the sewers beneath
+Neverwinter, it divides into two smaller tunnels that bend off towards
+the west and southeast.  The stone trench in the floor that is used to
+channel the sewer runoff continues from here down the tunnel to the
+west.  The tunnel to the south of here narrows significantly and appears
+largely unfinished compared to the larger and better-maintained tunnel
+to the west.  The main tunnel that heads north from here slopes gradually
+upwards as it makes its way through the sewers.
+~
+669 4353 0 25 25 10 
+D0
+The sewers continue.
+~
+~
+0 0 66921
+D2
+The sewers continue.
+~
+~
+0 0 66930
+D3
+The sewers continue.
+~
+~
+0 0 66926
+S
+#66928
+&+LA Small, &N&+yRoot-Filled&+L Chamber&N~
+&+L   This small room is almost completely overgrown with thick, fibrous roots.
+&+LThe damp, stoney walls and ceiling of the chamber appear to have partially
+&+Lcollapsed from the pressure of the intruding roots.  Here and there, moisture
+&+Lhas collected in small, slimy pools on the stone floor of the chamber,
+&+Lfilling the air with an almost noxious odor.  A few ancient torch sconces
+&+Lstill hang on the collapsing walls, now little more than rusted stubs of
+&+Lmetal.  The only apparent exit from this small room would appear to involve
+&+Lcrawling through the small, rusted grate set along the floor in the norther
+&+Lwall of the chamber.&N
+~
+669 4353 0 25 25 10 
+D0
+The sewers continue.
+~
+grate secret~
+2 0 66922
+S
+#66929
+&+LA Large, Hidden Room&N~
+&+L   Several ancient-looking pieces of wooden furniture stand around the large,
+&+Lcircular expanse of this room, apparently forgotten.  The stone walls and
+&+Lfloor of this room appear to have remained relatively dry considering the
+&+Ldamp surroundings of the sewers.  The exact purpose of this chamber cannot be
+&+Limmediately discerned, but the rather cruel appearance of some of the
+&+Lfurniture would seem to indicate a rather nefarious past.  Dark stains on the
+&+Lfloor and walls, originally taken for water stains or slime buildup, now
+&+Lappear to be the ancient remnants of blood stains, blackened with age.  The
+&+Lair of the chamber has a decidedly stale and slightly rotten odor to it,
+&+Ladding to the uneasy feeling at the realization of what horrors probably
+&+Ltranspired here in the past.&N
+~
+669 4353 0 25 25 10 
+D0
+The sewers continue.
+~
+wall secret~
+2 0 66923
+S
+#66930
+&+LThe End of the Sewers of &N&+cNeverwinter&N~
+   This narrow, unfinished portion of the tunnels through the city sewers
+comes to an end here in a mound of earth and stone.  A small pile of the
+large, grayish stones used to construct the rest of the tunnels lies
+forgotten along one of the walls, awaiting the eventual completion of
+this tunnel.  The usual foul odor of the sewers has been replaced here
+with a much more natural, earthy smell from the exposed dirt walls.  The
+tunnel continues to the north of here where it rejoins the more finished
+stone tunnels of the sewers.
+~
+669 4353 0 25 25 10 
+D0
+The sewers continue.
+~
+~
+0 0 66927
+D5
+The sewers continue.
+~
+trapdoor secret~
+5 -1 66931
+S
+#66931
+&+rA &+LDark&N&+r Tunnel Beneath the City&N~
+&+L   This small chamber appears to be the start of a series of long and dark
+&+Ltunnels, deep beneath the city of Neverwinter.  The walls are formed of
+&+Lancient blocks of stone that appear to have stood here for a millenia.  An
+&+Lold, iron ladder attached to the blocks of the northern wall leads upwards
+&+Lfrom here through a wooden trapdoor in the ceiling, presumably toward the
+&+Lsewers of Neverwinter.  The tunnels through here are surprisingly dry
+&+Lconsidering the dampness of the sewers overhead, apparently testifying to
+&+Lthe skill and forethought of the city engineers.  The path of the dark, 
+&+Lancient tunnel leads southward from here.&N
+~
+669 4353 0 10 50 10 
+D2
+The tunnel continues.
+~
+~
+0 0 66935
+D4
+The sewers continue.
+~
+trapdoor secret~
+2 0 66930
+S
+#66932
+&+rA Collapsed Portion of the &+LDark&N&+r Tunnel&N~
+&+L   Large blocks of stone and debris have fallen from the ceiling here, 
+&+Lblocking the path of the tunnel to the north.  The thick layer of dust
+&+Lon the blocks and stone would seem to indicate that the collapse of the
+&+Ltunnel occurred quite some time ago, perhaps even centuries.  The rest of
+&+Lthe tunnel appears structurally sound as it heads south from here.  The
+&+Lremaining stone walls of the tunnel still bear the ancient soot from the
+&+Lfires of torches that burned long ago.  The hard-packed dirt flooring of
+&+Lthe passage still bears the faint footprints of someone or something that
+&+Lpassed through here, and adds an earthy smell to the old air of the tunnel.&N
+~
+669 4353 0 25 25 10 
+D2
+The tunnel continues.
+~
+~
+0 0 66936
+S
+#66933
+&+rA Bend in the &+LDark&N&+r Tunnel&N~
+&+L   The ancient, dusty stone walls of the tunnel curve slowly through here,
+&+Lheading gradually from south to east.  Several small recessed alcoves line
+&+Lthe walls of the tunnel at odd intervals, currently devoid of whatever 
+&+Ldecoration or objects they once held.  The hard dirt flooring of the
+&+Ltunnel here appears heavily scarred through here, as if something large
+&+Lpassed through here recently.  A dry, somewhat musty smell hangs in the
+&+Lair here, eminating from the earthen floor and the dry, ancient wooden
+&+Ltimbers that help support the low stone ceiling of the tunnel.&N
+~
+669 4353 0 50 50 500 
+D1
+The tunnel continues.
+~
+~
+0 0 66934
+D2
+The tunnel continues.
+~
+~
+0 0 66938
+S
+#66934
+&+rIn An Ancient &+LDark&N&+r Tunnel&N~
+&+L   Having existed here long before the construction of the city high
+&+Loverhead, the origin of these tunnels remain a mystery to this day.  The
+&+Llow ceilings would seem to attest to builders of much shorter stature than
+&+Lmost humans, but no real evidence of the original architects has ever been
+&+Lfound.  Rumors have recently surfaced in the city suggesting that the
+&+Ltunnels may lead all the way to an ancient corner of the Underdark, but no
+&+Lone has ever been able to discover any such link.  The remoteness of these
+&+Ltunnels, combined with the many dangerous creatures known to lurk here
+&+Lhave served to keep the tunnels relatively unexplored.&N
+~
+669 4353 0 25 25 10 
+D1
+The tunnel continues.
+~
+~
+0 0 66935
+D3
+The tunnel continues.
+~
+~
+0 0 66933
+S
+#66935
+&+rIn An Ancient &+LDark&N&+r Tunnel&N~
+&+L   A thick layer of dust clings to the stone walls of the tunnel here,
+&+Llaying apparently undisturbed for some time.  The heavy wooden beams that
+&+Lsupport the low stone ceiling seem to have remained sturdy despite their
+&+Lage, likely preserved through the centuries by the temperate dryness of
+&+Lthe tunnel's air.  Here and there, a few whispy cobwebs hang from the
+&+Lbeams, slowly gathering their own coating of dust.  Despite the dangerous
+&+Lreputation given to these tunnels by the inhabitants of the city overhead,
+&+Lvery little physical evidence of any dangerous creatures can be seen in
+&+Lthe tunnel.  Several large nooks and crevices can be seen in the stone
+&+Lwalls, however, and would seem to provide ample hiding places for the
+&+Lrumored denizens of the tunnel.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel continues.
+~
+~
+0 0 66931
+D3
+The tunnel continues.
+~
+~
+0 0 66934
+S
+#66936
+&+rIn An Ancient &+LDark&N&+r Tunnel&N~
+&+L   Overhead, the thick wooden beams supporting the ceiling of the tunnel 
+&+Lcreak slightly, still groaning slightly under the centuries of constant
+&+Lweight from above.  Although these tunnels have burrowed their way through
+&+Lthe bedrock below the present city of Neverwinter for hundreds of years, the
+&+Lrelatively recent construction of the city's sewer network and increased 
+&+Lgrowth of the town itself have started to collapse weaker passageways.  In a
+&+Lfew recent instances, major cave-ins beneath the city have caused structural
+&+Ldamage to some of the city's buildings.  The recent cave-ins have also
+&+Lprompted increased involvement from the city guard in order to deal with the
+&+Loccasional monster caught wandering from the tunnels to wreak havoc in the
+&+Lcity high above.  This portion of the old, dark tunnel continues north, east,
+&+Land south from here.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel continues.
+~
+~
+0 0 66932
+D1
+The tunnel continues.
+~
+~
+0 0 66937
+D2
+The tunnel continues.
+~
+~
+0 0 66940
+S
+#66937
+&+rA Collapsed Portion of the Ancient &+LDark&N&+r Tunnel&N~
+&+L   As the ancient tunnels beneath the city wind through here, they come to a
+&+Lrather abrupt end where a cave-in has collapsed the ceiling overhead.  A
+&+Lthick layer of dust covers the debris, partially from the cave-in itself, and
+&+Lpartially from the natural accumulation of sediments over hundreds of years.
+&+LA few fractured, broken timbers poke from the pile of rocks and rubble like
+&+Lthe dried, aged bones of a long-dead creature.  While the layer of dust on
+&+Lthe debris is largely untouched, several large, fresh tracks mar the hard-
+&+Lpacked earthen surface of the tunnel's floor.  While the pathway to the east
+&+Lis blocked by debris, the ancient tunnel continues to the west.&N
+~
+669 4353 0 25 25 10 
+D1
+The tunnel continues.
+~
+rocks secret~
+5 -1 66938
+D3
+The tunnel continues.
+~
+~
+0 0 66936
+S
+#66938
+&+rA Collapsed Portion of the Ancient &+LDark&N&+r Tunnel&N~
+&+L   A large portion of the tunnel's western wall has collapsed here, strewing
+&+Llarge boulders and smaller rocks throughout the walkway.  Here and there, the
+&+Lbroken timbers from the ceiling of the collapsed tunnel protrude from the
+&+Lrubble, sticking out at sharp, ragged angles.  Clearly out of place, and likely
+&+Lplaced as a warning by whatever creatures still inhabit these ancient halls, a
+&+Lhuman skull has been skewered on one of the jagged timbers, the sharp wooden
+&+Lslivers of the timber still poking brutally through one of the eye sockets of
+&+Lthe time-yellowed skull.  This ancient, snaking passage beneath the city
+&+Lcontinues roughly north and south past here.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel continues.
+~
+~
+0 0 66933
+D2
+The tunnel continues.
+~
+~
+0 0 66941
+D3
+The tunnel continues.
+~
+rocks secret~
+5 -1 66937
+S
+#66939
+&+LA Small, Ancient Store Room&N~
+&+L   This small, circular room once served as a simple store room for the
+&+Lsupplies of the builders of these tunnels.  A few shattered barrels and crates
+&+Llie around the room, now devoid of whatever contents they may have once held.
+&+LHere and there, the hard dirt flooring of the stone-walled room bears a dark
+&+Lcrimson stain, but it is not possible from the great age of the stains whether
+&+Lthey represent large blood stains or something innocuous like spilled red wine.
+&+LThe ancient wooden door of the room still stands securely fastened to the 
+&+Leastern wall by thick, iron hinges.&N
+~
+669 4353 0 42 42 16 
+D1
+The tunnel continues.
+~
+door~
+2 -1 66940
+S
+#66940
+&+rThe End of the Ancient &+LDark&N&+r Tunnel&N~
+&+L   A large wooden door in the western wall marks the end of this branch of the
+&+Lancient tunnels beneath the city.  A rusted metal stub protrudes from the
+&+Lstone blocks of the southern wall, the only apparent remnants of an iron torch
+&+Lsconce that once provided dim illumination for the tunnel's inhabitants.
+&+LDespite the age of the tunnels and nearly everything in them, the wood of the
+&+Ldoor in the western wall still appears sturdy and is bound with thick bands
+&+Lof a blackened metal.  Several large iron hinges still anchor the door solidly
+&+Lto the surrounding walls, apparently withstanding the steady decay of time that
+&+Lhas damaged so many other areas of the tunnels.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel continues.
+~
+~
+0 0 66936
+D3
+An ancient store room lies there.
+~
+door~
+2 -1 66939
+S
+#66941
+&+rThe End of the Ancient &+LDark&N&+r Tunnel&N~
+&+L   The stone-walled tunnels deep below Neverwinter come to an end here in a
+&+Lpair of carved stone doors.  The ancient scenes carved into the surface of the
+&+Ldoors depict dark, hooded creatures pillaging and raiding several of the small
+&+Lvillages that stood in the Neverwinter Wood before the modern day city of
+&+LNeverwinter was founded.  Many of the scenes appear to take place at night
+&+Lunder moonless, starry skies.  Although these doors are clearly centuries old
+&+Land small cracks have appeared in places, the detail of the carvings seems to
+&+Lhave held up remarkably well.  The ancient passageway itself continues through
+&+Lthe darkness to the north of here.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel continues.
+~
+~
+0 0 66938
+D2
+Another room lies there.
+~
+door~
+2 -1 66943
+S
+#66942
+&+RAn Old, Abandoned Temple&N~
+&+r   The room clearly served as a temple of sorts for one of the groups
+&+rthat occupied these ancient tunnels some time in the past.  Although the
+&+roriginal builders of the tunnels have never been found, several other
+&+rgroups of semi-civilized creatures have occupied the tunnels in recent
+&+rhistory.  The perimeter of this temple is clearly of the same make and
+&+rdesign of the original architecture, but the stone statues and altar of
+&+rthe makeshift temple appear to have been added more recently.  The
+&+rbrownish stone statues are very crudely carved and feature several ugly,
+&+rfrog-like creatures holding various weapons.  The altar is carved in a
+&+rsimilarily crude manner, but is dominated by the image of a many-eyed
+&+rcreature with a gaping, fang-filled mouth.  Several rough, wooden
+&+rtorches stand around the room at regular intervals, providing a decent
+&+ramount of light and casting ghoulish, flickering shadows of the statues
+&+rabout the walls of the chamber.&N
+~
+669 4353 0 25 25 10 
+D1
+The temple leads east.
+~
+~
+0 0 66943
+S
+#66943
+&+RA Large, Rectangular Chamber&N~
+&+r   The brownish stone blocks of this room appear quite old, but several recent
+&+rrepairs appear to have been made to some of the more damaged areas.  The hard-
+&+rpacked earth of the chamber's floor bears numerous gouges and signs of recent
+&+rtraffic, possibly of large numbers of creatures.  A few, crude stone benches
+&+rhave been arranged around the room that do not appear to have been part of the
+&+roriginal room's decor.  The low ceiling of the chamber, combined with the
+&+rrandom placement of benches and looming, shadowy darkness gives this room an
+&+rominous feel.  To the west of here, a faint glow can be seen coming from an
+&+radjacent chamber while a pair of stone doors leads north from the chamber.&N
+~
+669 4357 0 25 25 10 
+D0
+A tunnel leads north.
+~
+~
+2 -1 66941
+D2
+Another chamber lies there.
+~
+rocks secret~
+5 -1 66944
+D3
+Another room lies there.
+~
+~
+0 0 66942
+S
+#66944
+&+LA Dark, Natural Shaft&N~
+&+L   This long, lightless shaft leads vertically through the ancient tunnels
+&+Lbeneath the city.  High overhead, a small pinprick of light at the top of the
+&+Lshaft would seem to lead to the inaccessable light of the surface.  The
+&+Lgroundless floor of the shaft leads only downwards towards more darkness.  A
+&+Lloose pile of rocks along the northern wall would seem to lead to a chamber
+&+Ladjacent to the shaft, but without any true handholds or footholds along the
+&+Lwalls of the chamber, only someone with the ability to fly would be able to
+&+Lavoid the likely life-ending tumble into the darkness below.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel continues.
+~
+rocks secret~
+5 -1 66943
+D5
+The shaft continues.
+~
+~
+0 0 66986
+F
+100
+S
+#66945
+&+LA Chamber Beneath the &N&+yMoonstone Mask&N~
+&+w   The stone-walled basement beneath the Moonstone Mask comes to a rather
+&+wabrupt end here.  A few small barrels and crates, most likely provisions for
+&+wthe bar and inn above, have been stored here.  Despite the apparent age of
+&+wthe objects themselves, the relative lack of any dust on the crates and 
+&+wbarrels would seem to indicate that they have been placed here only recently.
+&+wRumors abound in the city of Neverwinter that the chambers beneath the
+&+wMoonstone Mask contain a passageway leading to the depths of the Underdark
+&+witself.  From the looks of things here, however, the fabled chambers would
+&+wappear to simply contain the general provisions one would expect to find in
+&+wany storage room of the city.&N
+~
+669 4361 1 25 25 10 
+D2
+The basement continues.
+~
+~
+0 0 66947
+S
+#66946
+&+LA Chamber Beneath the &N&+yMoonstone Mask&N~
+&+w   Several large crates, filled with linens for the inn above, have been
+&+wstacked in this portion of the basement beneath the Moonstone Mask,
+&+woccupying the vast majority of floor space in this small chamber.  A few
+&+wempty torch sconces hang on the walls of the chamber, allowing for the 
+&+wmounting of torches or other light sources should extended periods of time
+&+wneed to be spent here.  The linens in the crates appear to be very similar
+&+wto those found in the bedchambers of the Mask, and all are embroidered in
+&+wa golden-colored thread with fine detailing.  The chamber itself, despite
+&+wthe simple stone walls and location far beneath the city of Neverwinter,
+&+wis completely dry, possibly hinting at the presence of some sort of
+&+wpreservation spell to protect the delicate fabric of the linens.  The
+&+wbasement of the Moonstone Mask continues to the east of here.&N
+~
+669 4361 1 25 25 10 
+D1
+The basement continues.
+~
+~
+0 0 66947
+D2
+~
+wall secret~
+5 -1 66949
+S
+#66947
+&+LThe Basement of the &N&+yMoonstone Mask&N~
+&+w   This short, narrow stone hallway beneath the sprawling complex of the
+&+wMoonstone Mask appears to serve as a small basement or storage area of
+&+wsorts.  The grayish stone walls of the basement appear rather crude in
+&+wcomparison to the grandeur overhead, but likely serve their purpose
+&+wquite adequately.  A few small kegs line the southern wall of the chamber,
+&+wlikely containing the ale and wine used while entertaining the guests of
+&+wthe inn.  Ajoining chambers lead off from here to the north and west while
+&+wthe hallway through the basement continues to the east.&N
+~
+669 4361 0 25 25 10 
+D0
+The basement continues.
+~
+~
+0 0 66945
+D1
+The basement continues.
+~
+~
+0 0 66948
+D3
+The basement continues.
+~
+~
+0 0 66946
+S
+#66948
+&+LThe Basement of the &N&+yMoonstone Mask&N~
+&+w   This stone hallway appears to be the beginning of the basement beneath
+&+wthe Moonstone Mask of Neverwinter.  The air of the basement is somewhat
+&+wcool, but completely devoid of any moisture, helping to aid in the 
+&+wpreservation of any supplies stored here.  A large stone stairway along
+&+wthe western wall leads upwards through a large trapdoor to the main levels
+&+wof the complex while a narrow stone hallway leads off to the west of here,
+&+wpresumeably to other chambers of the basement.&N
+~
+669 4361 0 25 25 10 
+D3
+The basement continues.
+~
+~
+0 0 66947
+D4
+The Moonstone Mask.
+~
+trapdoor~
+7 -1 66770
+S
+#66949
+&+LA Hidden Chamber Beneath the &N&+yMoonstone Mask&N~
+&+L   This small, stone-walled chamber appears to have been purposely built
+&+Land hidden in the basement for the protection of whatever has been stored
+&+Lhere.  A small rug covers the floor of the room, deadening any footfalls
+&+Land helping to soundproof the chamber as well.  The walls of the room are
+&+Lcompletely devoid of any decoration, although magical light sources have
+&+Lbeen hung on the western and eastern walls to provide a constant, dim
+&+Llight for the chamber.  The only other major feature of the room is the
+&+Llarge, iron-bound chest standing along the western wall, probably
+&+Lcontaining whatever it is this room was designed to conceal.&N
+~
+669 4361 1 25 25 10 
+D0
+The basement continues.
+~
+wall secret~
+2 -1 66946
+S
+#66950
+&+LAlong a Dark Passageway&N~
+&+r   An icy chill hangs in the cool air of this narrow passageway beneath
+&+rthe compound.  The blocks of the walls have been crudely cobbled together
+&+rand are made of a rough, dark stone.  Moisture coats nearly the entire
+&+rsurface of the walls and floor, apparently condensing in the cold air. 
+&+rAs the passageway heads south from here, it slopes downwards to where it
+&+rappears to enter a larger chamber of some sort.  A peculiar odor hangs in
+&+rthe air of the passageway, but it is not immediately identifiable nor is
+&+rit necessarily foul in nature.  The only other visible exit from the
+&+rtunnel is via the trapdoor in the ceiling that leads upwards to the rest
+&+rof the massive compound.&N
+~
+669 4353 0 25 25 10 
+D2
+The tunnel continues.
+~
+~
+0 0 66951
+D4
+A trapdoor leads upwards.
+~
+trapdoor trap~
+2 0 66486
+S
+#66951
+&+LA Large, Dark Chamber&N~
+&+r   This large, round chamber appears to serve as some sort of storage
+&+rarea for the compound overhead.  Several barrels and crates have been
+&+rstacked around the walls of the room, apparently keeping cool in the
+&+rdarkness of the chamber.  The ceiling of this room slowly drips with
+&+rcondensation from the moist air collecting on the cold, stone blocks
+&+roverhead.  A small, rusty drain in the center of the sloped floor 
+&+rappears to divert most of the water away from the goods stored in the
+&+rroom, but several of the crates and barrels still bear the dark stains
+&+rfrom an apparent flood.  Several empty, rusted torch sconces hang on 
+&+rthe walls of the room, but do not appear to have been used for some time.
+&+rA narrow tunnel leads northwards from the chamber up a slight incline.&N
+~
+669 4353 0 25 25 10 
+D0
+A tunnel leads north.
+~
+~
+0 0 66950
+S
+#66952
+&+LA Narrow, &N&+rFoul&+L-&+GS&N&+gm&+Ge&N&+gl&+Gl&N&+gi&+Gn&N&+gg&+L Tunnel&N~
+&+G   This narrow tunnel is almost completely black and smells absolutely
+&+Ghorrible.  The walls are covered in a thick, blackish slime and drip with
+&+Gmoisture.  Several small, grated openings in the eastern and western
+&+Gwalls slowly trickle what could only be raw sewage into the chamber where
+&+Git oozes gradually southward down the tunnel.  Here and there, the small
+&+Gremains of several dead rats rot slowly in the filth, apparently victims
+&+Gof starvation or some sort of infection.  This dank tunnel through the
+&+Gsewers of the city continues to the south, while a small trapdoor in the
+&+Gceiling leads upwards and appears to provide a small amount of fresh air.&N
+~
+669 4353 0 25 25 10 
+D2
+The tunnel continues.
+~
+~
+0 0 66953
+D4
+A trapdoor leads upwards.
+~
+trapdoor trap~
+2 0 66529
+S
+#66953
+&+LA Narrow, &N&+rFoul&+L-&+GS&N&+gm&+Ge&N&+gl&+Gl&N&+gi&+Gn&N&+gg&+L Tunnel&N~
+&+G   Several rotting rat corpses line the dark, filthy walls of the tunnel,
+&+Gbut have apparently been stripped of the majority of their flesh.  A thin,
+&+Gvile trail of sewage gradually makes its way down the center of the
+&+Gtunnel, collecting here and there in small pools of filth.  The stench
+&+Gemitted by the combination of sewage and rotting flesh is quite nauseating
+&+Gand almost overpowering at times.  This dank tunnel through the sewers of
+&+Gthe city continues to both the north and south from here.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel continues.
+~
+~
+0 0 66952
+D2
+The tunnel continues.
+~
+~
+0 0 66954
+S
+#66954
+&+LA T-Intersection in a &N&+rFoul&+L-&+GS&N&+gm&+Ge&N&+gl&+Gl&N&+gi&+Gn&N&+gg&+L Tunnel&N~
+&+G   A wide, rusted grate occupies most of the floor of this portion of
+&+Gthe tunnel.  Several thin streams of sewage flow through the grate, 
+&+Gentering from ajoining sections of the tunnel to the north and east. A
+&+Gthin, whispy cloud of foul-smelling steam wafts slowly upwards from the
+&+Ggrate, filling the room with a horrible smell.  The air here seems a
+&+Glittle warmer than that in surrounding tunnels, possibly from the heat
+&+Ggenerated by the decomposition clearly occuring in the chamber below the
+&+Ggrate.  To the north and east, dark, foul-smelling tunnels seem to
+&+Gcontinue through the sewers while a much larger and cleaner-looking
+&+Gsection of the tunnel heads westward from here.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel continues.
+~
+~
+0 0 66953
+D1
+The tunnel continues.
+~
+~
+0 0 66955
+D3
+The tunnel continues.
+~
+~
+0 0 66923
+S
+#66955
+&+LA Narrow, &N&+rFoul&+L-&+GS&N&+gm&+Ge&N&+gl&+Gl&N&+gi&+Gn&N&+gg&+L Tunnel&N~
+&+G   A steady stream of sludge and refuse leaks down the floor of this
+&+Gsloping tunnel, filling the air with a vile stench.  A majority of the
+&+Gwaste appears to be rotten food scraps, possibly from a restaurant,
+&+Gthat have attracted a great number of rats who crawl and burrow amongst
+&+Gthe filth.  Several large patches of a shiny, blackish slime have
+&+Gstarted to take hold on the rough stone walls of the tunnel, feeding on
+&+Gthe rich nutrients from the waste.  The tunnel slopes gradually upwards
+&+Gas it passes east from here, while an intersection of sorts can be seen
+&+Gto the west.&N
+~
+669 4353 0 25 25 10 
+D1
+The tunnel continues.
+~
+~
+0 0 66956
+D3
+The tunnel continues.
+~
+~
+0 0 66954
+S
+#66956
+&+LBeneath a Massive Drain Pipe&N~
+&+G   Set in the stone ceiling of this portion of the tunnel, this massive
+&+Gdrain pipe appears to be the source of a great deal of the foul-smelling
+&+Ggarbage that pollutes this portion of the sewers.  Globs of rotten food
+&+Gand other unmentionable revulsions fall almost constantly from some
+&+Gunseen source above.  The sheer volume of waste would seem to suggest
+&+Gthat this larger drain pipe is actually fed by numerous pipes from
+&+Gthroughout the city of Neverwinter.  As the filth gathers slowly in the
+&+Gtunnel, it gradually oozes its way to the west from here, aided by
+&+Ggravity and the general downward slope of the tunnels floor.&N
+~
+669 4353 0 25 25 10 
+D3
+The tunnel continues.
+~
+~
+0 0 66955
+S
+#66957
+&+WBefore A Massive Set of Doors&N~
+&+r   This small room is dominated by the pair of massive, solid metal doors
+&+ranchored securely to the southern wall.  The floor of the stone chamber
+&+ris covered in a thick, red rug bearing the image of a giant golden scale.
+&+rThe smooth, stark stone walls of the chamber are completely devoid of any
+&+rdecoration save a few, evenly placed torch sconces.  The predominant 
+&+rfeature of the room, the massive metal doors of the temple's vault, reach
+&+rnearly twenty feet from the chamber's floor to its ceiling.  Large runes
+&+rof warding have been forged into the gleaming silver surface of the doors,
+&+rlikely to keep away unwanted visitors or would-be thieves.  A large wood
+&+rand metal ladder leads upwards through a large trapdoor in the ceiling of
+&+rthe chamber towards the main halls of the temple.&N
+~
+669 8421449 0 25 25 10 
+D2
+The vault continues.
+~
+doors door metal massive~
+3 66905 66959
+D4
+A trapdoor leads up.
+~
+trapdoor secret~
+2 0 66784
+S
+#66958
+&+RIn The Vault of Tyr&N~
+&+L   The smooth stone walls of the vault continue through here, sparsely
+&+Ldecorated despite the treasures held within.  Every now and then along
+&+Lthe length of this hall-like chamber, neighboring chambers can be seen
+&+Lbehind thickly-barred grates, holding large quantities of the temple's
+&+Lwealth.  Some of the treasure-chambers contain large, opened chests of
+&+Lgems and coins, gleaming softly in the dim light provided by the
+&+Loccasional wall-mounted torch.  Although it is possible to look through
+&+Lthe thick bars leading to the neighboring chambers, the bars themselves
+&+Lare solidly anchored into the stone, providing no visible means of
+&+Lingress or egress.  It has been rumored that the powerful wizards of the
+&+Ltemple magically teleport items to and from the vault in order to help
+&+Lmaintain a high level of security.  At the western end of this chamber,
+&+La spiraling stone staircase leads even deeper into the depths of the
+&+Lvault.&N
+~
+669 8421449 0 25 25 10 
+D1
+The vault continues.
+~
+~
+0 0 66959
+D5
+The vault continues.
+~
+~
+0 0 66963
+S
+#66959
+&+RIn The Vault of Tyr&N~
+&+L   This small chamber serves as the main foyer of the massive vault
+&+Lbeneath the Temple of Tyr.  Long rumored to house not only the vast
+&+Lwealth of the temple, but several items of increadible magical power
+&+Las well, very few people have actually dared to tempt the wrath of the
+&+Lgod of Justice by raiding its riches.  The Temple of Tyr is easily the
+&+Lwealthiest of Neverwinter's many temples as all criminal fines paid to
+&+Lthe city are housed here, along with much of Lord Nashar's personal
+&+Lwealth.  The guards and wizards assigned to guard the vault are highly
+&+Ltrained and have orders to immediately use force against any unwelcome
+&+Ltrespassers.  A wide stone archway leads down a small staircase to the
+&+Least of this room towards another passageway through the vault while
+&+Lanother chamber lies to the west of here.  The massive metal doors of
+&+Lthe vault entrance lead north from this room towards the rest of the
+&+Lmain temple complex.&N
+~
+669 8421449 0 25 25 10 
+D0
+The vault continues.
+~
+doors door~
+3 66905 66957
+D1
+The vault continues.
+~
+~
+0 0 66960
+D3
+The vault continues.
+~
+~
+0 0 66958
+S
+#66960
+&+RIn The Vault of Tyr&N~
+&+L   The thick stone walls of the vault continue through here, continuing
+&+Ltheir quiet trek through the bowels of the city of Neverwinter.  A pair
+&+Lof thick, red and gold tapestries hang on the cold northern wall,
+&+Ldecorated with the golden scales that symbolize Tyr, the god of Justice.
+&+LThe quiet passageway through the vault continues to the south of this
+&+Lroom while a small stone staircase leads upwards to the west of here
+&+Ltowards the upper level of the vault, eventually exiting somewhere in
+&+Lthe massive Temple of Tyr.&N
+~
+669 8421449 0 25 25 10 
+D2
+The vault continues.
+~
+~
+0 0 66961
+D3
+The vault continues.
+~
+~
+0 0 66959
+S
+#66961
+&+RIn The Vault of Tyr&N~
+&+L   A slight chill hangs in the air of this portion of the vault in stark
+&+Lcontrast to the typically warm, dry air found elsewhere in the tunnels.
+&+LA few ancient-looking torches hang in sconces on the walls, emitting a 
+&+Lsoft light as they glow with their eternal, magical flames.  The grayish
+&+Lstone of the walls of the tunnel have been intricately carved here,
+&+Ldepicting what appears to be scenes of a cataclysmic war between several
+&+Ldeities.  Clearly visible among the carvings are scenes depicting Tyr and
+&+Lhis followers doing battle with dark, hooded figures.  In other scenes,
+&+Lthe now-dead god Bane can be seen, falling in battle to Torm, the patron
+&+Lgod of the paladins.  The various carvings twist and intermingle along the
+&+Lwalls, eventually meeting in a great stone arch over a set of thick, metal
+&+Ldoors.  The tunnel itself continues through the vault to the north of here.&N
+~
+669 8421449 0 25 25 10 
+D0
+The vault continues.
+~
+~
+0 0 66960
+D2
+The vault continues.
+~
+doors door~
+2 -1 66964
+S
+#66962
+&+RIn The Vault of Tyr&N~
+&+L   This portion of the stone passageway through the vaults of Tyr bends at
+&+La gradual angle as it heads from east to south through here.   Here and there,
+&+Linterspersed with the magical torches that provide their dim, smokeless light,
+&+Lseveral pennants hang limply on the smooth stone walls.  The fabric of the 
+&+Lpennants has a smooth, satin sheen that manages to catch and reflect the
+&+Lmeager light of the ensconced light sources.  The floor of the tunnel 
+&+Lcontinues to dip gradually downwards as it heads towards the southwest from
+&+Lhere.  To the east, a spiral staircase can be seen down the dim length of
+&+Lthe tunnel, leading upwards to higher levels within the vault.&N
+~
+669 8421449 0 25 25 10 
+D1
+The vault continues.
+~
+~
+0 0 66963
+D2
+The vault continues.
+~
+~
+0 0 66966
+S
+#66963
+&+RIn The Vault of Tyr&N~
+&+L   This small passageway makes its way through the vault of Tyr, dimly lit
+&+Lby the few magical torches which line the walls at odd intervals.  The 
+&+Lsmooth stone floor of the passage angles slowly downward as the tunnel
+&+Lheads westward from the base of a wide spiral staircase at its eastern 
+&+Lend.  Here and there, small alcoves have been hollowed out in the walls 
+&+Lof the hall, but each stands glaringly devoid of any decoration whatsoever.
+&+LDespite the tunnel's current distance beneath the city of Neverwinter, the
+&+Lair of the tunnel is comfortably warm and surprisingly dry, most likely
+&+Lmaintained by magical means.&N
+~
+669 8421449 0 25 25 10 
+D3
+The vault continues.
+~
+~
+0 0 66962
+D4
+The vault continues.
+~
+~
+0 0 66958
+S
+#66964
+&+RIn The Vault of Tyr&N~
+&+L   A wide bronze brazier stands in the center of this chamber, filled with
+&+Lred, glowing embers.  Although the air above the brazier wavers visibly with
+&+Lintense heat, the room itself is rather cool and apparently unaffected by
+&+Lthe burning coals.  A small, narrow chimney can be seen in the ceiling
+&+Lapproximately a dozen meters or so overhead, allowing the small amount of
+&+Lsmoke produced by the brazier to silently waft from the chamber, presumably
+&+Lout to the surface high overhead.  The grayish stone walls of the room are
+&+Llargely unadorned, except for a narrow band of red marble or granite that
+&+Lhas been sandwiched between the blocks of the chamber at about waist level.
+&+LA smaller room can be seen to the east of here while a pair of thick metal
+&+Ldoors leads north.&N
+~
+669 8421449 0 25 25 10 
+D0
+The vault continues.
+~
+doors door~
+2 -1 66961
+D1
+The vault continues.
+~
+~
+0 0 66965
+S
+#66965
+&+RIn The Vault of Tyr&N~
+&+L   This small chamber curves gently from west to south as it weaves its way
+&+Lbetween several of the vault's treasure rooms.  The thickly-barred rooms 
+&+Lsurrounding the chamber are filled with all sorts of priceless objects
+&+Ladorned with gold and precious gems.  Most of the items were probably donated
+&+Lto the temple as offerings or penance and are now stored here, far beneath
+&+Lthe city, for safekeeping.  As with many if not all of the actual treasure
+&+Lrooms of the vault, physical access to the valuables is blocked by solid bars
+&+Lwith no means of opening.  The treasures themselves are teleported down to the
+&+Ltreasure rooms by powerful mages of the temple, each of whom know the location
+&+Lof only a select few treasure rooms as a security precaution.  The magical 
+&+Ltransport of the actual valuables, combined with the heavily armed guards who
+&+Lpatrol the vault, makes this place one of most secure treasuries in the Realms.
+&+LRumor has it that even Lord Nashar of Neverwinter keeps a majority of his
+&+Lwealth in the temple's vault, rather than the various banks of the city or even
+&+Lthe towering fortress of Castle Never.  The vault continues to the west and
+&+Lsouth from here.&N
+~
+669 8421449 0 25 25 10 
+D2
+The vault continues.
+~
+~
+0 0 66971
+D3
+The vault continues.
+~
+~
+0 0 66964
+S
+#66966
+&+RIn The Vault of Tyr&N~
+&+L   This large, circular chamer opens up beneath a high, domed stone ceiling.
+&+LThe normally gray flooring common throughout the chambers of the vault has
+&+Lbeen replaced here by a sun-like geometric pattern of alternating shades of
+&+Lpolished marble.  Thin brass bands have been inlaid between the marble pieces,
+&+Lhelping to maintain the pattern and add a golden sheen to the edges of the
+&+Lsun pattern.  Around the chamber, a quartet of black-marble pillars veined
+&+Lwith red and gold helps to support the ceiling high overhead.  A tunnel leads
+&+Lnorth from the chamber, curving off through the complex that makes up the
+&+Lvaults beneath the Temple of Tyr.  In the southern wall, a heavy set of metal-
+&+Lbound doors leads to yet another section of the vaults.&N
+~
+669 8421449 0 25 25 10 
+D0
+The vault continues.
+~
+~
+0 0 66962
+D2
+The vault continues.
+~
+doors door~
+2 -1 66967
+S
+#66967
+&+RIn The Vault of Tyr&N~
+&+L   This small room apparently serves primarily as a conduit towards a lower
+&+Llevel of the vault complex.  The only real feature of the chamber is the
+&+Lnarrow stone staircase that spirals downwards through a circular opening in
+&+Lthe center of the room's stone floor.  A few ancient tapestries, their colors
+&+Llong-since faded from their original glory, hang along the walls of the
+&+Lchamber at odd intervals but add very little color to the otherwise gray
+&+Lwalls of the room.  A musty smell hangs in the room, eminating not from the
+&+Lancient thread of the tapestries, but from the cooler air wafting up through
+&+Lthe orifice of the stairway.  A pair of double doors serves as the only other
+&+Lvisible means of egress from the chamber.&N
+~
+669 8421449 0 25 25 10 
+D0
+The vault continues.
+~
+doors door~
+2 -1 66966
+D5
+The vault continues.
+~
+~
+0 0 66968
+S
+#66968
+&+LAbove a Seemingly Bottomless Chasm&N~
+&+L   This room consists of little more than a small stone platform clinging to
+&+Lthe base of the spiral stone staircase that leads upwards through a circular
+&+Lhole in the ceiling of the chamber.  Except for a narrow stone walkway that
+&+Lleads off to the east, the rest of the room consists of a dark, black void.
+&+LThe chasm below the platform and walkway, apparently a natural formation in
+&+Lthe deep bedrock beneath the city of Neverwinter, extends downwards into
+&+Ldarkness and silence as far as the senses can reach.  The musty smell
+&+Levident in the room above apparently originates from far below in the
+&+Ldarkness.  Deep, unexplored chasms such as this are likely the source of the
+&+Lrumors about the passages that exist beneath the city that many claim lead
+&+Lto the heart of the Underdark itself.&N
+~
+669 8421449 0 25 25 10 
+D1
+The vault continues.
+~
+~
+0 0 66969
+D4
+The vault continues.
+~
+~
+0 0 66967
+S
+#66969
+&+WA Platform Before Some &N&+cMassive Doors&N~
+&+L   This small platform stands at the precipice of a gaping chasm that yawns
+&+Linto darkness to the west.  A narrow walkway of stone leads westward across
+&+Lthe void towards a spiraling stone staircase that seems suspended in midair.
+&+LAt the end of the walkway, a pair of increadibly large mithril doors stand
+&+Lanchored firmly into the stone walls of the platform.  The doors, clearly of
+&+Ldwarven make, depict numerous scenes of battles between stout, armored 
+&+Ldwarves and ugly and twisted fiends of the Underdark.  While this chamber in
+&+Lthe vault is most likely not the original resting place for these doors, their
+&+Lsomber position before the cavernous maw seems oddly fitting for such proud
+&+Lworks of the mountain-dwelling dwarves.&N
+~
+669 8421449 0 25 25 10 
+D1
+The vault continues.
+~
+doors door~
+3 0 66970
+D3
+The vault continues.
+~
+~
+0 0 66968
+S
+#66970
+&+LA &+WTreasure Chamber&+L of the &+RTemple of Tyr&N~
+&+w   Relatively small in size, this plain stone-walled room is dimly lit
+&+wby several magical torches anchored around its perimeter.  A thin, red
+&+wcarpet has been laid on the cold stone floor of the room, providing
+&+wminimal padding and sound insulation.  Here and there, a few small sealed
+&+wchests stand anchored to the floor, most likely containing various
+&+wartifacts or vaulable treasures of the temple.  A heavy set of doors
+&+wanchored to the western wall servers as the only means of egress from the
+&+wroom, leading back to the twisting hallways of the vault complex.&N
+~
+669 8421449 1 100 100 70 
+D3
+The vault continues.
+~
+doors door~
+2 -1 66969
+S
+#66971
+&+RIn The Vault of Tyr&N~
+&+L   This portion of the passageway through the vault is lined with nearly a 
+&+Ldozen, multi-colored tapestries and pennants.  Some of the weavings appear
+&+Lquite old and brittle, despite the relatively well-controlled climate of the
+&+Ltunnel.  The scenes depicted on the tapestries are quite varied, as are their
+&+Loverall artistic styles, probably indicating that these tapestries are
+&+Lactually not related to each other in any way, but are merely additional
+&+Lgifts donated to the temple that some priest did not want to go to total
+&+Lwaste.  At the southern end of this long tunnel, a slightly brighter light
+&+Lcan be seen from a larger, circular chamber.  North of here, a curved chamber
+&+Llined with treasure rooms can be seen, gently twinkling in the dim torchlight.&N
+~
+669 8421449 0 25 25 10 
+D0
+The vault continues.
+~
+~
+0 0 66965
+D1
+The vault continues.
+~
+tapestry secret~
+5 -1 66972
+D2
+The vault continues.
+~
+~
+0 0 66974
+S
+#66972
+&+LA Small, Hidden Chamber&N~
+&+w   Situated neatly behind a large tapesty hanging over the opening in the
+&+wwestern wall, this chamber is rather well-camoflaged.  The exact purpose
+&+wfor the chamber cannot be immediately ascertained, but the large chest
+&+wanchored to the floor probably has something to do with its intended purpose.
+&+wWhy the designers of the vault did not secure the chest in one of the more
+&+wsecured treasure rooms remains a mystery, but they most assuredly had their
+&+wreasons.  The walls of this room, while well-masoned and maintained, are
+&+wmade of simple gray stones more rough-hewn than those found elsewhere in
+&+wthe vault.  The only visible egress from the chamber would seem to be through
+&+wthe tapestry securely anchored over the aperture in the western wall.&N
+~
+669 8421449 0 25 25 10 
+D3
+The vault continues.
+~
+tapestry secret~
+5 -1 66971
+S
+#66973
+&+MThe Echo Chamber&N~
+&+L   This room floats in an ethereal void and contains only one, wretched
+&+Linhabitant.  The denizen of this room is, across all of time and space, known
+&+Lonly as the vile Arch-Fiend - &+YJohnny Lemonhead&N, echo mob for the sewers
+&+L of the city of Neverwinter.&N
+~
+669 32768 1 40 40 20 
+S
+#66974
+&+RIn The Vault of Tyr&N~
+&+L   This large, well-lit circular chamber surrounds a wide, spiraling stone 
+&+Lstaircase that burrows even farther downward into the depths of the vault.
+&+LA warm, steady breeze makes its way upwards from the staircase, lightly
+&+Lbillowing the red and gold pennants hanging on the stone walls of the room.
+&+LAs with several other rooms in the vault, a decorative band of red granite
+&+Lor marble has been sandwiched into the walls of the room at about waist
+&+Llevel.  In addition, several large pillars of red marble veined with flecks
+&+Lof black and gold, surround the periphery of the chamber, supporting the
+&+Lhigh, arched stone ceiling overhead.  A slightly narrow passageway continues
+&+Lto the north of here, leading to other parts of the temple's vault.&N
+~
+669 8421449 0 25 25 10 
+D0
+The vault continues.
+~
+~
+0 0 66971
+D5
+The vault continues.
+~
+~
+0 0 66975
+S
+#66975
+&+RIn The Vault of Tyr&N~
+&+L   The gray stone walls of this chamber have been adorned with thick, forged
+&+Lplates of solid gold.  The plates have been engraved with various passages
+&+Lpertaining to Tyr in a myriad of languages and dialects.  The words seem to
+&+Ldance and burn as the highly-polished gold reflects the ambient light provided
+&+Lby the magical torches spaced about the chamber.  The western and eastern walls
+&+Lof the chamber are further adorned with evenly-spaced braziers, burning 
+&+Lcontinuously with red-hot coals.  The heat from the braziers is almost hard to
+&+Lbear at times as the only outlet for their warmth is upwards along the
+&+Lspiraling stone staircase that leads to the higher levels of the vault complex.&N
+~
+669 8421449 0 25 25 10 
+D2
+The vault continues.
+~
+~
+0 0 66976
+D4
+The vault continues.
+~
+~
+0 0 66974
+S
+#66976
+&+LAbove a Seemingly Bottomless Chasm&N~
+&+L   This passage through the vaults beneath the Temple of Try winds precariously
+&+Lalong narrow, arched-stone walkways suspended over what appears to be a deep 
+&+Lchasm of nothingness.  The dim light provided by the widely dispersed torches
+&+Lalong the far walls of the chamber barely provide enough illumination to make
+&+Lout the gray stone of the walkways amid the surrounding gloom.  On occasion, it
+&+Lseems as though something can almost be sensed moving amid the veil of darkness
+&+Lbelow, but despite such premonitions, nothing emerges from the depths except for
+&+La cool, slightly fetid breeze reminiscent of mold and fungus.  The arched
+&+Lwalkways of this room end in larger stone platforms to the northern and eastern
+&+Lends of the chasm.&N
+~
+669 8421449 0 25 25 10 
+D0
+The vault continues.
+~
+~
+0 0 66975
+D1
+The vault continues.
+~
+~
+0 0 66977
+S
+#66977
+&+wA Narrow Ledge Along the &+LChasm&N~
+&+L   This small platform stands as a staging area of sorts between the dark,
+&+Lgaping chasm just to the west, and a pair of gigantic gold-embossed doors to
+&+Lthe east.  Anchored to the stone walls of the chamber with massive mithril
+&+Lhinges, the doors are obviously meant to withstand a great deal of punishment.
+&+LAlthough at first glance the doors themselves appear to be made of a dark,
+&+Llaquered wood, closer inspection reveals that they are actually made of a
+&+Lhighly-polished stone detailed to appear like wood.  The exquisite
+&+Lcraftsmanship of the doors would normally make them treasures in and of
+&+Lthemselves were it not for their sheer size and the value of the fabled
+&+Ltreasures rumored to reside elsewhere in the sprawling complex of the vaults.&N
+~
+669 8421449 2 40 80 500 
+D1
+The vault continues.
+~
+doors door~
+2 0 66978
+D3
+The vault continues.
+~
+~
+0 0 66976
+S
+#66978
+&+LThe &+WMain Treasure Vault&+L of the &+RTemple of Tyr&N~
+&+w   This massive, sealed stone chamber serves as the main repository for
+&+wthe Temple of Tyr.  The only exit from the room is through a heavily
+&+wguarded door set in the solid stone of the western wall.  Several small,
+&+wmagical fires burn around the perimeter of this room, providing dim
+&+willumination for the chamber, but shedding absolutely no heat to warm
+&+wthe cool, crisp air.  The high ceilings of the vault room are supported
+&+wby thick, marble pillars the color of blood streaked with veins of black,
+&+wwhite, and gold.  Several large, iron-bound chests, purportedly containing
+&+wvarious items of wealth and power, are spread around the chamber resting
+&+won thick, soft rugs to protect the highly-polished marble floors.&N
+~
+669 8421449 0 100 100 70 
+D3
+The vault continues.
+~
+doors door~
+2 0 66977
+S
+#66979
+&+cA Chamber Beneath the Warehouse&N~
+&+L   This square, stone-walled chamber seems to serve no true purpose
+&+Lother than as a connecting room between the dark tunnel below and
+&+Lthe warehouse overhead.  A small, wooden trapdoor in the ceiling 
+&+Loverhead leads upwards to the main level of the warehouse while a
+&+Lsimple metal ladder leads downwards through the gray stone flooring
+&+Lof the room into the darkness of the tunnels below.  Every now and
+&+Lthen, a warm, damp, and slightly odorous breeze will occasionally
+&+Lwaft upwards from the tunnel beneath the room, bringing with it the
+&+Lunmistakable smell of rot and decay.&N
+~
+669 4353 1 25 25 10 
+D4
+A trapdoor leads upwards.
+~
+trapdoor~
+2 -1 66730
+D5
+A tunnel leads down.
+~
+~
+0 0 66980
+S
+#66980
+&+gA Dank, &+bFlooded&+g Tunnel&N~
+&+L   The dark, almost black stone walls of this tunnel are covered in a
+&+Lthick, slimy layer of filth.  Large clumps of a moss-like slime grow
+&+Ljust above the waterline where the brackish, knee-high water meets
+&+Lthe rounded slope of the tunnel walls.  Small whorls and eddies
+&+Loccasionally churn the surface of the stagnant water, hinting as some
+&+Lsort of creatures, most likely leeches, dwelling in the putrescence.
+&+LThe foul-smelling tunnel continues through the filth to the south of
+&+Lhere while a corroded metal ladder affixed to the wall to the north
+&+Lleads upwards.&N
+~
+669 4353 0 25 25 10 
+D2
+The tunnel leads south.
+~
+~
+0 0 66981
+D4
+A room lies there.
+~
+~
+0 0 66979
+S
+#66981
+&+gA Dank, &+bFlooded&+g Tunnel&N~
+&+L   A horrible smell wafts up from the mounds of rotting garbage and
+&+Lfoodstuffs that float lazily on the surface of the putrid, green-black
+&+Lwater of the tunnel.  Large insects crawl about atop the random islands
+&+Lof filth, feeding on the rich nutrients of the garbage and breeding
+&+Lwildly in the primordial soup.  The low, curved ceiling of the tunnel
+&+Lcauses most humans of normal height to have to bend annoyingly close to
+&+Lthe surface of the water.  The partially-flooded tunnel continues from
+&+Lnorth to south through here.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel leads north.
+~
+~
+0 0 66980
+D2
+The tunnel leads south.
+~
+~
+0 0 66982
+S
+#66982
+&+gA Dank, &+bFlooded&+g Tunnel&N~
+&+L   The constant, hypnotic sound of dripping water echoes down the water-
+&+Lfilled tunnel as is continues through here.  The slope of the generally
+&+Llevel tunnel seems to increase slightly from north to south through here,
+&+Lcausing at least a minimal amount of southward current in the horribly
+&+Lpolluted and vile knee-high water.  The bricks of the tunnel's walls and
+&+Lceiling, once light gray in color, have since darkened to almost black
+&+Lwith the constant presence of the sewage-filled water.  In the presence
+&+Lof such nutrient-rich water, a dark green jelly-like slime has started
+&+Lto grow on portions of the walls and ceiling, apparently several inches
+&+Lthick in places.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel leads north.
+~
+~
+0 0 66981
+D2
+The tunnel leads south.
+~
+~
+0 0 66985
+S
+#66983
+&+gA Corner of the Large, &+bFlooded&+g Chamber&N~
+&+L   The ancient, stone walls of this chamber have been stained almost
+&+Lblack in color from the constant presence of the murky water that covers
+&+Lthe chamber's floor.  Several different levels of water stains on the
+&+Lwalls would seem to indicate that the level of the water in the chamber
+&+Lis somewhat variable over time.  Currently, the foul-smelling waters of
+&+Lthe chamber are about knee-high in depth, although some variance in the
+&+Lchamber's unseen floor makes certain areas slightly deeper or shallower
+&+Lthan others.  A thick, green layer of slime and general crud floats
+&+Llazily atop the water throughout most of the chamber, broken in places
+&+Lby patches of relative clarity where the dark, brackish waters can be
+&+Lseen directly.  Every now and then, the movements of some unseen denizen
+&+Lof the filth can be seen churning the surface of the water, indicating
+&+Lperhaps that this is not the safest place to spend an extended period of
+&+Ltime.  The flooded chamber continues to the east of here.&N
+~
+669 4353 0 25 25 10 
+D1
+The tunnel leads east.
+~
+~
+0 0 66984
+S
+#66984
+&+gA Large, &+bFlooded&+g Chamber&N~
+&+L   Only the slightest amount of light seems to penetrate the pervasive
+&+Lgloom of this chamber, eminating from the very top of a long, stone
+&+Lpipe of sorts set in the ceiling of this room.  High overhead, near the
+&+Ltop of the pipe, a barrier of some sort appears to have been constructed,
+&+Lfiltering out the majority of what little light the pipe provides.  A
+&+Lsmall pile of debris, half-submerged in the knee-high waters of the chamber
+&+Lwould seem to have fallen from the pipe overhead at some point in the
+&+Lrecent past.  This flooded chamber somewhere in the sewers of Neverwinter
+&+Lcontinues to the west and south from here, while a delapidated iron grate
+&+Lmarks the entrance to a tunnel of sorts to the east of here.&N
+~
+669 4353 0 25 25 10 
+D1
+The tunnel leads east.
+~
+~
+0 0 66985
+D2
+The tunnel leads south.
+~
+~
+0 0 66986
+D3
+The tunnel leads west.
+~
+~
+0 0 66983
+S
+#66985
+&+gA Bend in the Dank, &+bFlooded&+g Tunnel&N~
+&+L   As this dank, flooded tunnel continues through the sewers of 
+&+LNeverwinter here, it bends at a sharp right angle as it enters what 
+&+Lappears to be a larger chamber or cistern to the west of here.  The
+&+Ltunnel itself appears quite old, although the constant presence of the
+&+Lsewage-ridden waters may have had a premature aging effect on the stone
+&+Lof the tunnel walls.  A small, rusted iron grate can be seen in the
+&+Lceiling of the tunnel near the center of the bend, leading upwards
+&+Lthrough a long, narrow stone pipe towards a small glimmer of daylight.
+&+LAn ancient iron grate along the western edge of the tunnel appears to
+&+Lhave served at some point as a barrier between this tunnel and the 
+&+Lchamber to the west, but has since fallen into disrepair and lies bent,
+&+Lmangled, and half-submerged in the putrid water.&N
+~
+669 4353 0 50 50 500 
+D0
+The tunnel leads north.
+~
+~
+0 0 66982
+D3
+The tunnel leads west.
+~
+~
+0 0 66984
+S
+#66986
+&+gA Corner of the Large, &+bFlooded&+g Chamber&N~
+&+L   A horrible smell fills this portion of the flooded chamber, even
+&+Lworse than the general stench of this entire area.  The odor appears
+&+Lto eminate from a rather large, half-rotted corpse floating lazily
+&+Lin the putrid water.  Although the corpse is badly decomposed and very
+&+Llitte of it remains except for the majority of the torso and a portion
+&+Lof one of the limbs, it is still relatively easy to assess that this
+&+Lcreature was once a humanoid of some sort.  In places, the bones of
+&+Lthe torso appear to have been chewed clean, most likely by the numerous
+&+Lparasitic and scavanging creatures that make the dark sewers of
+&+LNeverwinter their home.  The large, flooded chamber continues through
+&+Lthe sewers to the north of here.&N
+~
+669 4353 0 25 25 10 
+D0
+The tunnel leads north.
+~
+~
+0 0 66984
+S

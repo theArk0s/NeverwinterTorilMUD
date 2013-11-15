@@ -1,0 +1,129 @@
+SHOP: 66419
+BT: 5 6
+PO: 7907 66417
+HOURS: CCCCCCOOOOOOOOOOOOOOOCCC
+ROOM: 66488
+MBCASH: $n says, 'If you can't afford it, don't try and buy it, $N!'
+
+MBHAVE: $n says, 'Is that supposed to be a joke?'
+
+MBUY: $n says, 'I'll take that off your hands...here's %S.'
+
+MCLOSE: $n says, 'We're closed for the night, come back later.'
+
+MNBUY: $n merely shakes his head.
+
+MOPEN: $n says, 'Come on already!  Time's a wasting laddies!'
+
+MSCASH: $n says, 'Sorry...I can't afford that right now.'
+
+MSELL: $n says, 'Here you go $N, only %s!  Be careful with it.'
+
+MSHAVE: $n frowns and says, 'We seem to be fresh outta those, $N. Try again.'
+
+HATES:  NPC EVILS
+;;END OF SHOP NR. 66419
+
+SHOP: 66420
+BT: 11 13
+PO: 7907
+HOURS: CCCCCCOOOOOOOOOOOOOCCCCC
+ROOM: 66502
+MBCASH: $n says, 'Sorry, $N, but you don't have quite enough money.'
+
+MBHAVE: $n says, 'Check again, I don't think you've got any more, $N.'
+
+MBUY: $n says, 'Sure! I'll give you %S.'
+
+MCLOSE: $n says, 'Kaelen's is now closed.  Come back tomorrow.'
+
+MNBUY: $n says, 'Sorry, $N, we don't buy those anymore.'
+
+MOPEN: $n says, 'Step right up for the finest clocks in the Realms!'
+
+MSCASH: $n sighs and says, 'I can't afford that, sorry.'
+
+MSELL: $n says, 'That's only %s!  Enjoy it, $N.'
+
+MSHAVE: $n shrugs and says, 'Sorry...I don't think we have those.'
+
+HATES:  EVILS
+;;END OF SHOP NR. 66420
+
+SHOP: 66423
+BT: 8 13
+PO: 7907
+HOURS: CCCCCCOOOOOOOOOOOOOCCCCC
+ROOM: 66502
+MBCASH: $n says, 'You're a bit short on cash there, $N.'
+
+MBHAVE: $n grunts and says, 'I don't see any of those, $N.'
+
+MBUY: $n says, 'What the heck...here's %S for your trouble.'
+
+MCLOSE: $n says, 'I'm closing shop for the night, catch me tomorrow.'
+
+MNBUY: $n says, 'Sorry, $N, but I don't buy those.'
+
+MOPEN: $n says, 'Open for business...step right up!'
+
+MSCASH: $n frowns and says, 'Sorry...even I don't have that kind of money.'
+
+MSELL: $n says, 'Here you go $N, only %s!  Enjoy.'
+
+MSHAVE: $n says, 'I have no idea what you're talking about.'
+
+HATES:  EVILS
+;;END OF SHOP NR. 66423
+
+SHOP: 66424
+BT: 2 4 32
+PO: 7907
+HOURS: CCCCCCOOOOOOOOOOOOOCCCCC
+ROOM: 66502
+MBCASH: $n says, 'I'm sorry, $N, but you don't have enough cash.'
+
+MBHAVE: $n says, 'You don't seem to have it, $N.'
+
+MBUY: $n says, 'Sure, $N! Here's %S.'
+
+MCLOSE: $n says, 'Sorry, but we're closed now. Come back later.'
+
+MNBUY: $n says, 'Sorry, $N, I don't deal in those.'
+
+MOPEN: $n says, 'We're open! Feel free to look around.'
+
+MSELL: $n says, 'That's only %s!  Here you go, $N.'
+
+MSHAVE: $n says, 'Sorry, but we don't carry those.'
+
+HATES:  EVILS
+;;END OF SHOP NR. 66424
+
+SHOP: 66433
+CASTING:
+BT: 10 11 15 22 30
+PO: 7946 7949 7951 7952 7955 7957
+HOURS: CCCCCCOOOOOOOOOOOOOOOOCC
+ROOM: 66500
+MBCASH: $n says, 'Sorry $N, but you seem to be a little short of cash.'
+
+MBHAVE: $n says, 'Umm...you seem to be fresh out, $N.'
+
+MBUY: $n says, 'Sure!  I suppose I can always use a few more of those.'
+
+MCLOSE: $n says, 'Sorry, we're closed now.  Come back tomorrow at 6 AM.'
+
+MNBUY: $n says, 'Sorry, $N...I don't buy that kind of stuff here.'
+
+MOPEN: $n says, 'The Harpers' Help is open! If we don't have it, you don't need it.'
+
+MSCASH: $n says, 'Sorry, but I can't afford that right now.'
+
+MSELL: $n says, 'Here you go $N, only %s.  Have a good time with it.'
+
+MSHAVE: $n says, 'Can't seem to find any of those...maybe we're out.'
+
+HATES:  NPC EVILS
+;;END OF SHOP NR. 66433
+

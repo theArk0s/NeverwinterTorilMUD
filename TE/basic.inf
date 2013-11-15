@@ -1,0 +1,44 @@
+********************************* Zone info ***********************************
+Number: 1 Zone name: Basic
+
+Rooms info
+
+-- Vnum ------------------------ Name -------------------|---- Sector type ----
+|--------|-----------------------------------------------|--------------------|
+|  1     |Toril Area Editor Command Center.              |CITY                |
+|--------|-----------------------------------------------|--------------------|
+
+Number of rooms: 1 First room: 1 Last room: 1
+Average description length: 8 lines
+
+
+Objects info
+
+-- Vnum ------------------------ Name -------------------|---- Object type ----
+|        |                      Stats                    |                    |
+|--------|-----------------------------------------------|--------------------|
+|  1     |a blackboard                                   |TRASH               |
+|  2     |a suit of saurial armor                        |ARMOR               |
+|        |AC: -12 CON 1                                  |                    |
+|  3     |an ancient fireplace                           |CONTAINER           |
+|  4     |a singed journal                               |TRASH               |
+|--------|-----------------------------------------------|--------------------|
+
+Number of real objects in the zone: 1
+
+
+Mob info
+
+-- Vnum ------------------------ Name -------------------|-A-|--C-|-Q-|-S-|-L-|
+|        |                                               | G |  L | U | O | E |
+|        |                                               | G |  A | E | C | V |
+|        |                                               | R |  S | S | I | E |
+|        |                                               | O |  S | T | A | L |
+|--------|-----------------------------------------------|---|----|---|-L-|---|
+| 1      |The servant                                    |   |    |   |   | 1 |
+| 2      |the Druidmother                                |   |C   |   |   | 59|
+| 3      |an old servant                                 |   |  T |   |   | 28|
+|--------|-----------------------------------------------|---|----|---|---|---|
+
+Number of real mobs in the zone: 1
+Average level of the mobs: 1

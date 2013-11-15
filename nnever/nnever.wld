@@ -1,0 +1,5051 @@
+<*> File Version 1 <*>
+#66400
+&+LOutside the Northwestern Gates of &N&+cNeverwinter&N~
+   Here, a wide stone bridge spans the Neverwinter River between the High 
+Road and the walled city of &+wNeverwinter&N.  The bridge is obviously of 
+very sturdy contstruction and sees a great deal of use from travelers and 
+merchants alike.  High stone railings line the bridge's sides where banners 
+bear intricate designs of the Great Seal of the City of Neverwinter.  Far 
+below, the warm waters of the Neverwinter River flow westward in their trek 
+towards the Trackless Sea.  The huge gates of Neverwinter lie south of here, 
+a remnant of the days long ago when wandering orc hordes threatened to 
+overrun the city.  However, relatively peaceful as these times may be, the 
+city guards still diligently patrol the walls in a perpetual watch for 
+danger.
+~
+664 4 1 50 50 20 
+D0
+The High Road continues.
+~
+~
+0 0 66200
+D2
+The northwestern gates of Neverwinter.
+~
+gate gates~
+2 -1 66407
+E
+seal great~
+&+wThe royal badge of the city is a white swirl much akin to a sideways 'M', 
+&+wpointing to the right. It connects three different, &+Wwhite snowflakes&N, 
+&+weach encircled by silver and &+bblue haloes&N.
+~
+E
+river~
+&+bThe waters of the Neverwinter River flow relatively calmly below the
+&+bwalkway here as they near their destination in the Trackless Sea.&N
+~
+S
+#66401
+&+rInside A Large Keep&N~
+&+w   Here, where the great stone walls surrounding Neverwinter converge, a 
+&+wlarge keep has been consructed.  In this corner of the keep, a spiral 
+&+wstone staircase heads upwards to the walkway along the top of the city 
+&+wwalls.  Small windows look out from the northern and western walls which 
+&+wcan double as arrow slots for archers in the event of an attack.  From the 
+&+wlooks of things, though, this keep has seen very little use in its time.  
+&+wThe sound of the ocean crashing on the shore can be heard through the 
+&+wthick stone walls, indicating the proximity to the Trackless Sea.&N
+~
+664 8 0 25 25 10 
+D1
+A storage room in the keep.
+~
+door~
+1 -1 66402
+D2
+The entrance to keep.
+~
+~
+0 0 66409
+D4
+The walkway atop the city walls.
+~
+~
+0 0 66552
+E
+stairs staircase~
+&+LThe stairs are made of stone and lead upwards to the walkway above the
+&+Lcity walls.  Small wooden torches provide minor illumination of their
+&+Lsurface.&N
+~
+S
+#66402
+&+rA Storage Room in the Keep&N~
+&+w   This small stone chamber is used to stockpile weapons and armor for the 
+&+wcity guards to use in the event of an attack.  Here and there, standard 
+&+wissue longswords and leather armor lie about in piles.  The thin layer of 
+&+wdust over just about everything in the room shows that there has been very 
+&+wlittle demand for these supplies in recent years.  Here and there, a mouse 
+&+wscampers about in the darkness, further attesting to the disuse of the 
+&+wroom.  The only exit appears to be the thick oaken door which leads back 
+&+winto the keep.&N
+~
+664 9 1 25 25 10 
+D3
+Inside the keep.
+~
+door~
+1 -1 66401
+E
+longswords~
+The longswords appear to be of average quality at best.
+~
+E
+armor leather~
+The leather armor is standard issue for soldiers and militia of the city
+and would only provide meager protection from attacks.
+~
+E
+dust~
+The thin layer of dust appears to have been undisturbed for some time.
+~
+S
+#66403
+&+yA Small Dwelling&N~
+   This small dwelling has been built right up against the city walls here.  
+Despite its small size, it is relatively well-kept.  Even the poorest 
+inhabitants of Neverwinter can usually afford a modest home of their own.  
+The owner of the house is most likely a lower-class worker for one of the 
+various warehouses in town.  In the windows of this room, small potted 
+flowers have been planted and add a pleasant odor to the air of the place.  A 
+small fireplace dug into the floor in the corner serves to both heat the room 
+in winter and provide a place for cooking.  A narrow doorway heads east into 
+an ajoining room, most likely a bedroom of some kind.
+~
+664 8 1 40 40 20 
+D1
+An ajoining room lies that way.
+~
+~
+0 0 66404
+D2
+The road along the city walls.
+~
+door~
+1 -1 66411
+E
+flowers~
+The flowers are relatively fresh and were likely picked from the open
+fields near the city.
+~
+E
+fireplace~
+The fireplace is little more than a hole in the flooring, lined with
+stones to help contain the heat.
+~
+S
+#66404
+&+yA Crowded Bedroom&N~
+   Sleeping mats have been spread on the floor in this room to provide places 
+for family members to sleep.  A tiny window in the south wall looks out onto 
+the road along the city walls and the occasional breeze from outside provides 
+a small amount of ventilation.  A small wooden dresser stands in the back 
+corner of the room, most likely storing the family's few meager possessions.  
+This room, much like the other, is fairly clean and appears pretty well-
+kept.  A narrow doorway leads out into the entrance room.
+~
+664 8 1 40 40 20 
+D3
+An ajoining room lies that way.
+~
+~
+0 0 66403
+E
+mats~
+The mats appear to be made of a rough, woven grass covered in a rather
+thin, woolen sheet.
+~
+E
+dresser~
+The wooden dresser is very plain and poorly made.
+~
+S
+#66405
+&+rThe Sleeping Quarters in the Keep&N~
+&+w   Row upon row of bunks line the room here, each with a small wooden chest 
+&+wtucked neatly beneath it.  The sparse living quarters attest to the lowly 
+&+wstatus of the regulars in the town guard.  Despite the spartan decor and 
+&+wliving conditions, the members of the town guard are well paid and, once 
+&+welevated to the status of elite guard, they enjoy a fairly high standard of 
+&+wliving.  A stack of freshly cut wood stands next to a large fireplace in the 
+&+wfar wall drying out so that it can be used for heat during Neverwinter's long 
+&+wand hard winters.  A large stone doorway opens up in the eastern wall to the 
+&+wentrance of the barracks.&N
+~
+664 8 0 25 25 10 
+D1
+The walkway continues.
+~
+~
+0 0 66406
+S
+#66406
+&+rEntrance to the Keep&N~
+&+w   This room servers as a storage room and shelter from the elements for the 
+&+wguards of the northwestern gate.  When the weather is too cold to remain 
+&+woutside, the guards will come in here to warm up.  Large windows open up in 
+&+wthe eastern and southern walls and allow the guards a wide view of the small 
+&+wcourtyard just inside the city gates here.  Unadorned wooden benches line the 
+&+wwalls in here, allowing patrolling guards to rest their weary legs during 
+&+wchanges in the watch.  A small desk in the corner indicates that this also 
+&+wserves as something of a staging office in the event of an arrest.  A strong 
+&+woaken door leads east from here.&N
+~
+664 0 1 40 40 20 
+D1
+The northwestern gates of Neverwinter.
+~
+door~
+1 -1 66407
+D3
+The sleeping quarters.
+~
+~
+0 0 66405
+S
+#66407
+&+LInside the Northwestern Gates of &N&+cNeverwinter&N~
+&+L   Two gates bound with iron and decorated with shining Mithril protect 
+&+Lthe Northern entrance to the city of Neverwinter.  Made by the dwarves of 
+&+LMithril Hall, these gates are made to withstand attacks from hostile 
+&+LLuskan to the north.  The gates are anchored to the city's thick walls on 
+&+Leither side by giant iron hinges and a portcullis is waiting above to 
+&+Lfurther prevent any potential invaders from gaining access to the city.  
+&+LThe gates here have just been replaced and are much newer than at the 
+&+Lother entrances to Neverwinter.  Unlike at most of the other gates of 
+&+LNeverwinter, however, the walkway along the top of the city walls here 
+&+Lprovides almost no shelter from the elements.&N
+~
+664 4096 1 50 50 20 
+D0
+Outside the northwestern gates.
+~
+gate gates~
+2 -1 66400
+D1
+The entrance to the northwest keep.
+~
+door~
+1 -1 66408
+D2
+The Wyrmfrost Road.
+~
+~
+0 0 66415
+D3
+The gate's guard house.
+~
+door~
+1 -1 66406
+E
+door~
+The door is made of sturdy oak and is hung with strong iron hinges.
+~
+E
+portcullis~
+Serving as an additional level of protection for the city, the gate-like
+portcullis can be dropped at a moments notice, sending its sharply spiked
+anchors firmly into the pavement below the gate.
+~
+S
+#66408
+&+rInside the Northwest Keep&N~
+&+w   Small chunks of stone and a thin layer of dust line the floor of this 
+&+wkeep.  The walls here appear to be in relatively poor shape and it looks 
+&+was though this keep could use some renovation.  A small stack of fresh 
+&+wblocks in the corner, along with some mortar mix and trowels would 
+&+windicate that such a renovation is being planned, but has not yet begun.  
+&+wAn ancient stone staircase leads upwards to the path atop the city walls.  
+&+wAlthough the rest of the keep appears to be in poor shape, the staircase 
+&+wlooks to be in sound condition.  A thick oaken door leads west from the 
+&+wkeep to the northwestern gates of Neverwinter.&N
+~
+664 8 0 25 25 10 
+D3
+The northwestern gates of Neverwinter.
+~
+door~
+1 -1 66407
+D4
+The walkway atop the city walls.
+~
+~
+0 0 66559
+E
+blocks~
+The blocks appear to have been freshly cut and are made of the same hard,
+gray granite that is found throughout the region and comprimises a great
+deal of the buildings and roadways of the city.
+~
+S
+#66409
+&+rEntrance to the Northwest Keep&N~
+&+w   This large room serves as the entrance chamber for the northwest keep 
+&+wof the city of Neverwinter.  In times of war, these keeps serve as 
+&+wlookout points and archer towers for the defense of the city from 
+&+wattackers.  In the past, hostile parties from nearby Luskan frequently 
+&+wassaulted the city and these keeps proved crucial to the city's defense.  
+&+wIn recent years, though, the city of Neverwinter has seen very little 
+&+wconflict and these keeps have gone largely unused.  A high stone archway 
+&+wleads north to a staircase leading up to the top of the city walls, while 
+&+wa thick wooden doorway leads east of here to the street along the city 
+&+wwalls.&N
+~
+664 12 0 25 25 10 
+D0
+Another chamber in the keep.
+~
+~
+0 0 66401
+D1
+The road along the city walls.
+~
+door~
+1 -1 66410
+S
+#66410
+&+wBend in the Street Along the City Walls&N~
+&+L   This is where the roads along the northern wall ends.  The road here is 
+&+Lwell paved and despite it's remote location, looks as though it sees a lot of 
+&+Lfoot traffic.  To the west you can hear the crash of the surf as the 
+&+cTrackless Sea&+L crashes against the shore outside of Neverwinter's walls.  East 
+&+Lare the great northern gates of Neverwinter and south, the narrow street 
+&+Lturns into a darkened thoroughfare through the Warehouse District.&N
+~
+664 0 1 30 75 500 
+D1
+The road along the city walls.
+~
+~
+0 0 66411
+D2
+The road along the city walls.
+~
+~
+0 0 66421
+D3
+The northwest guard keep.
+~
+door~
+1 -1 66409
+S
+#66411
+&+wThe Road Along the City Walls&N~
+&+L   This narrow, stone-paved street winds east and west through here along the 
+&+Lwalls of Neverwinter.  Although this area of the city is relatively quiet, 
+&+Lthe street is well worn and apparently gets a good deal of traffic.  Here and 
+&+Lthere, uncommon bits of trash and garbage lie about, giving the area a rancid 
+&+Lsmell.  To the west, a large stone keep rises above the walls of Neverwinter 
+&+Land casts a shadow in the street.  North of here is the entrance to a small 
+&+Ldwelling while all along the road to the south is a large, stone-walled 
+&+Lbuilding.&N
+~
+664 0 1 75 30 500 
+D0
+A small dwelling.
+~
+door~
+1 -1 66403
+D1
+The road along the city walls.
+~
+~
+0 0 66412
+D3
+The road along the city walls.
+~
+~
+0 0 66410
+E
+trash garbage~
+&+GThe trash and bits of garbage appear to be a mixture of leftover foodstuffs
+&+Gand bits of cloth.  In any event, they emit a rather foul stench of rot and
+&+Gprobably aren't too healthy.&N
+~
+S
+#66412
+&+wThe Road Along the City Walls&N~
+&+L   As the street winds along the city walls through here, it slopes slightly 
+&+Ldownwards.  The pavings stones of the street have been worn smooth from 
+&+Lcenturies of use and travel.  On both sides of the road, high stone walls 
+&+Lrise up and keep the area in relative shade.  This area of the warehouse 
+&+Ldistrict has had problems with thieves as of late, but the regular patrols 
+&+Lof the city guard keep this street fairly safe.  Here and there, stray dogs 
+&+Lrun about in between the buildings.  The street continues east and west 
+&+Lthrough here.&N
+~
+664 0 1 75 30 500 
+D1
+The road along the city walls.
+~
+~
+0 0 66413
+D3
+The road along the city walls.
+~
+~
+0 0 66411
+S
+#66413
+&+wThe Road Along the City Walls&N~
+&+L   A stack of empty wooden crates lines the southern side of the street here 
+&+Las it winds along the northern city walls.  The northern warehouse district 
+&+Lof Neverwinter is famous for the many goods from around the world that pass 
+&+Lthrough it.  Many goods come here from ships crossing the Trackless Sea for 
+&+Ltransport on to Waterdeep and other interior regions.  Likewise, many goods 
+&+Lfrom the Underdark are brought up through deep caverns under the city for 
+&+Ltrade on the surface.  The road through here is wide enough to allow for 
+&+Lcarts hauling crates of goods to pass although this street seldom sees such 
+&+Lcommercial traffic.  The street along the city walls continues both east and 
+&+Lwest from here.&N
+~
+664 4 1 75 30 500 
+D1
+The road along the city walls.
+~
+~
+0 0 66414
+D2
+A dingy alleyway.
+~
+~
+0 0 66424
+D3
+The road along the city walls.
+~
+~
+0 0 66412
+S
+#66414
+&+wThe Road Along the City Walls&N~
+&+L   The wide street along the city walls begins to narrow somewhat through 
+&+Lhere as it heads west into the warehouse district.  The street is well paved 
+&+Lwith large stones, smooted with age.  Shouts can be heard coming from the 
+&+Lnorthern plaza outside of the northern gates which lies just to the east of 
+&+Lhere.  Some of the dealings in this part of town are of the less-than-legal 
+&+Lsort, and one has to take care not to fall victim to the theives and 
+&+Lsmugglers which make their livings on these streets.&N
+~
+664 0 1 75 30 500 
+D1
+The northern plaza of Neverwinter.
+~
+~
+0 0 66415
+D3
+The road along the city walls.
+~
+~
+0 0 66413
+S
+#66415
+&+cThe Northern Plaza of Neverwinter&N~
+&+C   This small plaza serves as a gathering place for adventurers, as well as a 
+&+Csmall center for traveling merchants.  The entire plaza is paved with a 
+&+Csmooth, gray stone that has seen a great deal of wear.  Here and there, stray 
+&+Cdogs and cats run about in the hustle and bustle.  To the west of here, the 
+&+Cstreet along the city walls and heads towards the northwest keep above the 
+&+Ccity walls.  Regular patrols of the city watch frequent the area to help keep 
+&+Cthe peace and ensure the safety of the citizens of Neverwinter.  The small 
+&+Cplaza continues east and south from here while the immense northern gates of 
+&+CNeverwinter lie to the north.&N
+~
+664 0 1 40 40 20 
+D0
+The northwestern gates of Neverwinter.
+~
+~
+0 0 66407
+D1
+The plaza continues.
+~
+~
+0 0 66416
+D2
+The plaza continues.
+~
+~
+0 0 66426
+D3
+The road along the city walls.
+~
+~
+0 0 66414
+S
+#66416
+&+cThe Northern Plaza of Neverwinter&N~
+&+C   This corner of the plaza is slightly sheltered by the walkway along the 
+&+Ctop of the city walls which runs overhead.  To the north, the high stone 
+&+Cwalls of the city's northeast keep loom over the plaza, casting a long 
+&+Cshadow on the ground.  The activity of the plaza seems a little calmer here 
+&+Cand people walk about, calmly perusing the wares availsable at the small 
+&+Cstands of the traveling merchants.  Directly to the east lies a small, out of 
+&+Cthe way shop of some kind while the plaza continues both west and south from 
+&+Chere.&N
+~
+664 0 1 40 40 20 
+D1
+A small, forgotten shop.
+~
+~
+0 0 66417
+D2
+The plaza continues.
+~
+~
+0 0 66427
+D3
+The plaza continues.
+~
+~
+0 0 66415
+S
+#66417
+&+gA Quaint Little Shop&N~
+   This quaint little shop appears very well-kept, but does not seem to 
+attract too much business.  The vast majority of business in Neverwinter
+is conducted in small shops such as this one, but the uncommon presence
+of traveling merchants outside this establishment appears to have had a
+negative impact on this shopkeeper's business.  The only apparent feature
+of this room is a small, wooden counter along the back wall.
+~
+664 0 1 40 40 20 
+D3
+The northern plaza of Neverwinter.
+~
+~
+0 0 66416
+S
+#66418
+&+LA Ransacked Building&N~
+   This building appears to have been torn apart by someone.  Broken crates, 
+furniture, chucks of stone block, and random trash all lay strewn about on 
+the ground.  Occasional slash marks on the wooden walls of the building make 
+it look as though a vicious sword fight must have taken place here.  In 
+places, tiny splotches of blood on the ground also tend to point to the 
+possibility of a large fight of some sort.  A musty odor seems to permeate 
+the area, giving this building a very unpleasant feel.  The doorway heads 
+south into a darkened alley in the warehouse district.
+~
+664 9 0 25 25 10 
+D2
+A darkened alleyway.
+~
+door~
+2 0 66429
+E
+blood splotches~
+The stains on the ground are most definitely the remains of a previous
+battle in the room.  For the most part, the droplets of blood are 
+relatively small and sporadic, but here and there, larger pools of dried
+blood testify to more severe wounds.
+~
+S
+#66419
+&+yThe Back Room of a Quaint Tavern&N~
+   This room, like the rest of this quaint bar, smells of freshly cooked 
+food.  The smells of ale, smoke, and the mossy stew this tavern is famous for
+all combine for a very unique and spicy odor which permeates everything in 
+the place.  Despite the well-kept nature of the bar, the wooden floor here is 
+very sticky with spilled drinks and other, similar mishaps.  The polished, 
+wooden bar in this back room looks as though it sees a great deal of use, and 
+several booths along the walls house all sorts of characters involved in 
+various conversations.  A doorway leads south to the main room of the bar.
+~
+664 8 1 25 25 10 
+D2
+A quaint bar.
+~
+~
+0 0 66430
+E
+floor stains~
+The floor here is sticky and stained with what appears to be ages of spilled
+drinks and ales.  Here and there, small burn marks and darker stains, most
+likely representing spilled blood, indicate that this tavern has probably
+seen its fair share of fights.
+~
+S
+#66420
+&+LA Tiny Apartment&N~
+   Obviously the dwelling of someone very poor, this apartment is extremely 
+small and dirty.  Rags lie here and there in the corners and a ratty, old 
+straw mat has been rolled up and placed in the corner, no doubt the humble 
+bed of whomever lives here.  Rats can be heard scurrying though the walls of 
+the place and occasionally stick there heads out of the large cracks between 
+the blocks of the walls.  The blocks themselves appear to be somewhat damp 
+and mildewed, making this place look even less inviting.  Such dwellings are 
+very rare in Neverwinter, but apparently a few do exist.  A small doorway 
+leads out into the streets.
+~
+664 8 1 40 40 20 
+D1
+The street along the city walls.
+~
+~
+0 0 66421
+S
+#66421
+&+wThe Road Along the City Walls&N~
+&+L   This narrow, stone-paved street winds east and west through here along the 
+&+Lwalls of Neverwinter.  Here, the street narrows significantly and appears to 
+&+Lbe in pretty poor condition.  The multi-story buildings near here loom high 
+&+Lover the streets and very little light manages to filter down to the ground.   
+&+LThe people wandering about here keep their eyes focused on the ground and 
+&+Lmove very quickly to their destinations, indicative of most Neverwintans.  
+&+LThe street continues both north and south.&N
+~
+664 0 1 30 75 500 
+D0
+The street continues.
+~
+~
+0 0 66410
+D2
+The street continues.
+~
+~
+0 0 66432
+D3
+A tiny apartment.
+~
+~
+0 0 66420
+E
+buildings building~
+The buildings here are all rather plain and un-decorated.  Nothing of any
+real interest catches your eye.
+~
+S
+#66422
+&+LA Dark Storage Room&N~
+&+L   This room has been cleaverly concealed within the architecture of the 
+&+Llocal buildings so that its location might be well hidden.  Only by a 
+&+Lthorough examination of the surrounding builings would one notice that a 
+&+Lsecret room might exist in one of them.  Whomever designed this room 
+&+Lclearly had an illicit purpose for it in mind.  The walls are all well-
+&+Lplastered and this room is very dry and warm, indicating some sort of 
+&+Linsulation has been placed in the walls to control the temperature.  A 
+&+Lnarrow wooden ladder leads up through a trap door from here and a small 
+&+Ldoorway leads south.&N
+~
+664 8421377 1 40 40 20 
+D2
+A narrow hallway.
+~
+~
+0 0 66433
+D4
+An ajoining room.
+~
+trap secret~
+6 0 66532
+E
+ladder~
+The ladder is made of very rough wood, but the rungs have been polished and
+worn smooth under what must be a relatively high amount of foot traffic.
+~
+S
+#66423
+&+LA Small, Dirty Dwelling&N~
+   Ruined furniture and the smell of rotting food are the most noticeable 
+features of this tiny hovel.  Despite the delapidated appearance of the 
+place, it appears as though someone has at least tried to make this place 
+liveable.  While there is a great deal of garbage left laying around here, 
+some of it appears to have been collected in a corner of the dwelling by the 
+fireplace for burning.  Ash and soot on the chimney above the fireplace 
+indicate that it does see a good deal of use, most likely during 
+Neverwinter's long and cold winters.  A small doorway leads south into a dark 
+alley.
+~
+664 8 1 40 40 20 
+D2
+A dingy alleyway.
+~
+~
+0 0 66434
+E
+garbage pile~
+The pile of garbage appears to consist mostly of leftover foodstuffs, 
+combined with the occasional scrap of cloth or paper.  The garbage emits a
+slight smell, but the somewhat cool temperature of the room has apparently
+kept the odor to a minimum.
+~
+S
+#66424
+A Dingy Alleyway~
+   This narrow walkway between buildings is littered with filth.  Old crates 
+and boxes lie scattered about, providing shelter for rats and other vermin 
+which seem to be everywhere.  The alley is kept in an almost constant state 
+of darkness by several large walkways which cross overhead between buildings.  
+This alley would make an ideal hangout for thieves and there is no wonder why 
+it appears to see very little traffic from the locals.  The alleyway 
+continues north and south from here.
+~
+664 5 1 40 40 20 
+D0
+The street along the city walls.
+~
+~
+0 0 66413
+D2
+A dingy alleyway.
+~
+~
+0 0 66435
+S
+#66425
+&+MThe Meeting Hall&N~
+&+m   This chamber is clearly a vast meeting hall of some sort.  Row upon row 
+&+mof wooden benches line the floor of this room, all facing a smaller, 
+&+mraised dias on the norther wall.  The walls of the chamber are lined with 
+&+mthe dark purple draperies found throughout the compound but instead of the 
+&+mstandard wood paneling of the rest of the building, the walls here have 
+&+mbeen enameled a thick, gloss black.  On the northern wall, above the 
+&+mraised dias, is an immense tapestry bearing the emblem of the dark star 
+&+mwith the squid-like creature at its center.  This room has a very evil 
+&+mfeel to it and seems to contain a maelvolent presense of some sort.&N
+~
+664 8421384 1 40 40 20 
+D2
+A small hallway.
+~
+doors door~
+1 665 66436
+E
+dias~
+Approximately half a meter higher than the rest of the room, the dias is
+made of a black, highly-polished marble with streaks of a very dark
+purple crystal resembling amethyst.
+~
+S
+#66426
+&+cThe Northern Plaza of Neverwinter&N~
+&+C   Merchants and shoppers hustle about in this corner of the plaza, haggling 
+&+Cover the price of their goods and services.  Shouts and yells echo about as 
+&+Cpeople search for the best deals.  The clientele of the plaza do not look 
+&+Cquite as wealthy as those of Neverwinter's more well-known marketplaces, but 
+&+Cthey apparently make enough of a living to buy some of the more premium goods 
+&+Coffered by the merchants here.  To the north, the yawning gates of 
+&+CNeverwinter can be seen leading out into the wilderness of the north while 
+&+Cthe wide Wyrmfrost Road heads south from here to the city center of 
+&+CNeverwinter.&N
+~
+664 0 1 40 40 20 
+D0
+The plaza continues.
+~
+~
+0 0 66415
+D1
+The plaza continues.
+~
+~
+0 0 66427
+D2
+The Wyrmfrost Road.
+~
+~
+0 0 66437
+S
+#66427
+&+cThe Northern Plaza of Neverwinter&N~
+&+C   The well-paved northern plaza of Neverwinter continues through here.  A 
+&+Csmall fountain in this corner of the plaza pleasantly gurgles with crystal 
+&+Cclear water as people hurry about.  Here and there, adventurers are stretched 
+&+Cout, relaxing near the fountain waters as they prepare to venture out into 
+&+Cthe reaches of the far north in search of fame and fortune.  A small flock of 
+&+Cpigeons also hovers about in the area, diving upon tiny scraps of food.  The 
+&+Cplaza continues north and west from here.&N
+~
+664 0 1 40 40 20 
+D0
+The plaza continues.
+~
+~
+0 0 66416
+D3
+The plaza continues.
+~
+~
+0 0 66426
+S
+#66428
+&+LInside a Large Building&N~
+   Small boxes and crates are stacked in the corners of this room.  From the 
+looks of things, it seems that this building serves as a small staging area 
+for the shipments of goods around the city.  Cobwebs cling to the ceiling in 
+places, but in general the room seems well-kept.  A ladder attached to the 
+northern wall leads up through a trap door in the ceiling to the roof of the 
+building.
+~
+664 8 0 25 25 10 
+D2
+An adjacent room.
+~
+~
+0 0 66439
+D4
+The roof of the dwelling.
+~
+~
+0 0 66566
+E
+ladder~
+The ladder is made of a smooth, dark wood and appears to be used on a
+somewhat frequent basis.
+~
+S
+#66429
+&+wEnd of the Quaint-Looking Alleyway&N~
+&+m   The quaint and flower-filled alleyway comes to an end here in a jumble of 
+&+mtiny buildings.  The paving stones of the alley are extremely rough and 
+&+muneven here, but have been worn smooth and slick with age.  Surrounding the 
+&+mend of the alley, the old brick buildings of the warehouse district look 
+&+moddly tired and depressed.  A tiny tavern, aptly named "The Warhouse", rests 
+&+moff to the east while a tiny dwelling of some sort lies north of here.&N
+~
+664 5 1 40 40 20 
+D0
+A ransacked dwelling.
+~
+door~
+3 -1 66418
+D1
+The Warehouse Tavern.
+~
+~
+0 0 66430
+D2
+A quaint alley continues.
+~
+~
+0 0 66440
+E
+warehouse tavern~
+Through the dirty, smoke-stained windows of the Warehouse Tavern, a few
+solemn patrons can be seen enjoying a drink or two.
+~
+S
+#66430
+&+yThe Warehouse Tavern&N~
+   One of the few taverns in the warehouse district, this quaint little bar 
+is one of the few hang-outs for the many warehouse workers of Neverwinter.  
+Like many, if not all of the taverns in Neverwinter, this tavern is very 
+well-kept exhibits a great deal of refinement, despite its meager 
+surroundings.  The smell of fresh moss stew provides a very pleasant odor to 
+the place and several patrons are seated at the long bar along the back wall.
+A tiny doorway leads north into a back room of some sort.
+~
+664 8 0 100 100 70 
+D0
+The back room.
+~
+~
+0 0 66419
+D3
+A quaint alleyway.
+~
+~
+0 0 66429
+E
+bar~
+The bar is made of a rough, warped wood with a thinly-varnished surface.
+Numerous stains have forever discolored the usually lightly tinted wood.
+~
+S
+#66431
+&+gA Filthy Hovel&N~
+   This dirty, little, one-room apartment could hardly be considered livable, 
+even by the lower standards of the warehouse district.  A thin layer of 
+rotting garbage lies strewn across the ground and emits a terrible odor.  The 
+buzz of swarms of flies and insects is almost deafening in here and sickly 
+rats run around in the filth, no doubt carrying numerous diseases.  Anyone 
+unfortunate enough to call this place home must be poor indeed.  The only 
+visible exit is back through the doorway to the east to the street along the 
+city walls.
+~
+664 8 0 25 25 10 
+D1
+The street along the city walls.
+~
+~
+0 0 66432
+S
+#66432
+&+wThe Road Along the City Walls&N~
+&+L   Tiny dwellings and immense warehouses continue to line the sides of the 
+&+Lstreet along the city walls as it continues its north-south trek through 
+&+Lhere.  The wide, flat paving stones of the road have seen a lot of wear, but 
+&+Lstill provide adequate support for the shipments of goods that move through 
+&+Lthis area.  The high buildings lining the road prevent a great deal of light 
+&+Lfrom reaching the ground and add a slight chill to the air.  Although the 
+&+Lroad is patrolled at regular intervals by the trained city guards of 
+&+LNeverwinter, this place can still be somewhat treacherous, even in daylight.  
+&+LThe street continues to the north while a large warehouse lies south.&N
+~
+664 4 1 30 75 500 
+D0
+The street continues.
+~
+~
+0 0 66421
+D2
+A large warehouse.
+~
+~
+0 0 66443
+D3
+A filthy hovel.
+~
+~
+0 0 66431
+S
+#66433
+&+LA Narrow Hallway&N~
+   This narrow hallway is very dark and cluttered, but is surprisingly dry 
+and warm.  Along the walls, wooden crates and boxes bearing a sea creature-
+like emblem can be seen.  The skittering of rats in the walls can be heard 
+now and then, but none of the creatures ever makes an appearance.  The walls 
+of the hallway are well plastered and appear as though they receive a good 
+amount of care, perhaps indicating that this hallway is still in regular 
+usage.  From here, the hallway continues both north towards a small room, and 
+south towards another room of sorts.
+~
+664 8421377 0 25 25 10 
+D0
+A storage room.
+~
+~
+0 0 66422
+D2
+A tiny room.
+~
+~
+0 0 66444
+S
+#66434
+A Bend in the Dingy Alleyway~
+   The narrow alleyway slowly bends through here as it skirts between the 
+large buildings of the warehouse district.  In the middle of the walkway, 
+here, is a large slimy grate into which drains a steady trickle of water.  
+The grate emits a foul odor and there is no doubt that it leads directly into 
+the sewers of Neverwinter.  On both sides of the alley, tall buildings, most 
+likely warehouses of some sort, rise high above the city.  To the east and 
+south, the alley continues.
+~
+664 1 1 40 40 20 
+D0
+A dirty dwelling.
+~
+~
+0 0 66423
+D1
+A dingy alleyway.
+~
+~
+0 0 66435
+D2
+A dingy alleyway.
+~
+~
+0 0 66445
+E
+grate~
+The grate, like hundreds of others like it in the city, allows rainwater
+and other runoff to flow safely into the vast, complex maze of the sewers
+below Neverwinter before ending ultimately in the Trackless Sea.
+~
+S
+#66435
+&+LA Dingy Alleyway&N~
+   The dirty alleyway continues through here between the buildings of the 
+warehouse district.  Broken cobblestone covered with ages of filth and muck 
+line the ground through here.  In places, tiny rivulets of water leak down 
+from the roofs of the building and drain into the unseen sewers of 
+Neverwinter.  Here and there, rats poke about in the piles of trash and 
+discarded crates, looking for homes and something to eat.  The top of this 
+alley is partially covered by an overhead walkway between the two buildings 
+which only adds to the gloom of this place.  The alley continues both north 
+and west from here.
+~
+664 1 1 40 40 20 
+D0
+A dingy alleyway.
+~
+~
+0 0 66424
+D3
+A dingy alleyway.
+~
+~
+0 0 66434
+E
+walkway~
+High above the streets, several planks have been placed between the rooftops,
+allowing for someone or something to pass freely between them.  Little effort
+appears to have been made to hide the planks from view.
+~
+S
+#66436
+&+mA Small Hallway&N~
+   This short hallway leads from the large chamber to the south to yet 
+another set of doors to the north.  A low, humming sound seems to be coming 
+from the north and this small hallway practically reverberates with the 
+noise.  Other than the rather plain carpeting along the floor of the chamber, 
+this room is without any kind of decoration at all.  The doors to the north 
+are set with two metallic copies of the emblem found throughout the compound.
+~
+664 8421384 1 40 40 20 
+D0
+A door leads north.
+~
+door doors~
+1 -1 66425
+D2
+A large, ornate chamber.
+~
+door~
+2 0 66447
+S
+#66437
+&+WThe&N &+WW&+Cy&N&+cr&+wm&N&+WF&+wr&N&+co&+Cs&N&+Wt&N &+WRoad&N~
+&+c   The wide thoroughfare of the Wyrmfrost Road continues it north-south 
+&+cpath through Neverwinter here.  Well-paved and constantly patrolled by the 
+&+cguards of Neverwinter, this is one of the busiest and safest roads through 
+&+ctown, even here in the warehouse district.  Traveling merchants and 
+&+csalesmen often peddle their wares in stores here to the many adventurers 
+&+cwho use Neverwinter as a base of operations.  To the north lies the 
+&+cnorthern plaza of Neverwinter and the city's northwest gates while the 
+&+cWyrmfrost Road heads south towards the center of town and the great garden 
+&+csquare of Neverwinter.  East is the northern &+CBank of Neverwinter&N.
+~
+664 0 1 40 40 20 
+D0
+The northern plaza of Neverwinter.
+~
+~
+0 0 66426
+D1
+The northern bank of Neverwinter.
+~
+~
+0 0 66438
+D2
+The Wyrmfrost Road.
+~
+~
+0 0 66448
+S
+#66438
+&+CThe Northern Bank of &+WNeverwinter&N~
+&+L   This spacious building serves as the northern branch of Neverwinter's 
+&+Lbanking system.  Located just within the northwest gates, this branch 
+&+Lserves many adventurers and merchants as they make their way out of town.  
+&+LThe rich, wood paneling and lavish decor hints at the wealth of the 
+&+Lbanking system.  A carved marble counter along the eastern wall separates 
+&+Lthe banking attendants from the customers.  Behind the counter is the 
+&+Lenormous, solid mithril vault where the funds are stored.&N
+~
+664 8 2 40 80 500 
+D3
+The Wyrmfrost Road.
+~
+~
+0 0 66437
+S
+#66439
+Inside a Large Building~
+   Much like the clean and well-kept buildings surrounding it, this building 
+seems to be well cared for.  The walls and floors of this building are free 
+of debris and seem recently refinished.  Although the building lacks any 
+furnishings or other signs of life, but it seems as though a large amount 
+of traffic comes through here on a regular basis.  To the north lies another 
+room.
+~
+664 8 0 25 25 10 
+D0
+An adjacent room.
+~
+~
+0 0 66428
+D1
+A quaint alleyway.
+~
+~
+0 0 66440
+S
+#66440
+&+wA Quaint Alleyway&N~
+&+m   The brick buildings surrounding the alleyway here look well-kept and 
+&+mnicely decorated.  The tall building to the east appears to be the remains of 
+&+mthe Old Potters' Guild.  Although unused by the potters of Neverwinter for 
+&+mdecades, the old building now serves no known purpose.  Another large 
+&+mbuilding to the west also appears to be a warehoue of some kind, but some 
+&+mstructural damage seems to have caused the collapse of the roof in places.  
+&+mThe quaint-looking alleyway continues both north and south through here.&N
+~
+664 1 1 40 40 20 
+D0
+A quaint alley continues.
+~
+~
+0 0 66429
+D1
+The Old Potters' Guild.
+~
+~
+0 0 66441
+D2
+A quaint alley continues.
+~
+~
+0 0 66451
+D3
+A damaged warehouse.
+~
+~
+0 0 66439
+S
+#66441
+&+RThe Old Potter's Guild&N~
+&+r   At its height, the Potter's Guild of Neverwinter was renowned for its 
+&+rcreative and beautiful designs.  The works of the Guild were highly prized 
+&+rthroughout the Realms and adorned many of the greatest Royal courtrooms.  
+&+rIn recent decades, however, the Guild has remained empty as the increase 
+&+rin trade with the elves, dwarves, and the Underdark has slowly forced the 
+&+rpotters out of business.  A doorway leads west to a quaint-looking alley 
+&+rwhile the Guild continues south.&N
+~
+664 8 0 25 25 10 
+D2
+The guild continues.
+~
+~
+0 0 66452
+D3
+A quaint alleyway.
+~
+~
+0 0 66440
+S
+#66442
+Another Room in the Dwelling~
+   The smell of rotting flesh in this room is practically unbearable.  Like 
+the first room in this dwelling, the walls of this room have been ripped open 
+and furniture lies strewn about on the floor.  Here and there, piles of 
+clothing have been thrown about, and a delapidated bed near the northern wall 
+marks this room a having been a bedroom of sorts.  A tiny window in the 
+eastern wall provides some ventilation, but also serves as a conduit for the 
+clouds of flies which have begun to accumulate in this room.  A wood-framed 
+doorway leads to the south.
+~
+664 8 1 25 25 10 
+D2
+An ajoining room in the dwelling.
+~
+~
+0 0 66453
+E
+clothes clothing piles pile~
+The clothes that have been thrown about the room do not appear to have been 
+very expensive and it is quite likely that the inhabitants of this house 
+were not very wealthy.  The clothes look as though they might have belonged 
+to a merchant of some sort.
+~
+E
+bed~
+The bed in this chamber has had its mattress slashed and feathers now lie all 
+over the floor.  In places, blood stains coat the feathers in a sad 
+memorial to the previous owners of this dwelling.
+~
+S
+#66443
+Inside a Large Warehouse~
+   This large building appears to be fairly new compared to the other 
+buildings in the area.  Large, wooden beams support the broad roof which 
+helps to keep the goods stored in this building out of the elements.  The 
+various boxes and crates stacked in this building contain goods of all sorts 
+which are destined for other markets around the realms.  Neverwinter's 
+bustling sea trade and northern location on the High Road make its warehouses 
+a popular choice for merchants who wish to transport goods throughout the 
+Realms.
+~
+664 8 0 25 25 10 
+D0
+The street along the city walls.
+~
+~
+0 0 66432
+S
+#66444
+&+LA Tiny Room&N~
+   This tiny room appears to be a temporary storage area of some sort.  
+Crates and boxes are stacked on wooden pallets and appear ready for shipment 
+at any time.  It is more than likely that this room is used by one of 
+Neverwinter's many smuggling groups for transporting illegal goods in and out 
+of the city.  The room appears deserted at the moment, but with the stacks of 
+goods that appear ready for shipment, it is a safe bet that the smugglers 
+will not be gone for too long.  A large trapdoor in the floor leads downwards 
+into darkness while a narrow hallway leads north.
+~
+664 8421377 1 40 40 20 
+D0
+A narrow hallway.
+~
+~
+0 0 66433
+D5
+A dark room.
+~
+trapdoor door secret~
+2 0 66902
+S
+#66445
+&+LA Dingy Alleyway&N~
+   The smell of rot and decay is particularily strong through this section of 
+the alley.  The piles of garbage and old crates no doubt contribute to the 
+unpleasant odor of the place.  The old cobblestone paving of the alley has 
+clealy seen better day and is entirely covered by filth and dirt in most 
+places.  Every now and then, a bird or two will flit by overhead, but the 
+primary inhabitants of this place are clearly the numerous rats which scurry 
+about in the numerous shadows of the place.  The dingy alley continues 
+between the buildings both north and south from here.
+~
+664 1 1 40 40 20 
+D0
+A dingy alleyway.
+~
+~
+0 0 66434
+D2
+A dingy alleyway.
+~
+~
+0 0 66456
+S
+#66446
+&+MEnd of the Hallway&N~
+&+m   The paneled hallway leading through the compound comes to an end here.  
+&+mThe only visible exit from this point is a thick, wooden door which leads 
+&+mto the east. The corners of the hallway are filled with large, thorny, 
+&+mpotted plants which seem to move with minds of their own.  On a pedestal 
+&+mby the northern wall, between the plants, is a statue carved from shiny 
+&+mobsidian. The statues seems to be of the same, many-legged sea creature 
+&+mrepresented in the emblems found throughout the compound.&N
+~
+664 8421384 1 40 40 20 
+D1
+A large chamber.
+~
+door~
+2 0 66447
+D2
+The hallway continues.
+~
+~
+0 0 66457
+E
+plant plants thorny~
+The plants are very viney and squirm about as though alive and grasping 
+for prey.  These plants are almost certainly carnivorous and stading too 
+close to them would likely be ill-advised.
+~
+E
+creature statue shiny obsidian~
+The statue is very disturbing to look at.  Clearly, the squid-like 
+creature depicted is a representation of evil itself.  It almost feels as 
+though the statue returns your gaze and, though impossible, its obisdian 
+limbs appear to waver and twist on their own.
+~
+S
+#66447
+&+MA Large, Ornate Chamber&N~
+&+m   Vaulted ceilings rise high above the polished marble floors of this 
+&+mimmense room.  Tall pillars of either a dark, polished wood or a black 
+&+mstone of some sort help support the ceiling in here.  Stained glass 
+&+mwindows in the ceiling help provide light for the room and color 
+&+meverything in strange, dark shades of violet and grey.  Huge, double doors 
+&+mlead north from this chamber while a smaller room to the south appears to 
+&+mcontain a large stairway leading upwards.&N
+~
+664 8421384 1 40 40 20 
+D0
+A smaller hallway.
+~
+doors double huge~
+2 0 66436
+D2
+A smaller room.
+~
+~
+0 0 66458
+D3
+A long hallway.
+~
+door~
+2 0 66446
+E
+pillar pillars~
+Upon closer inspection, the pillars can be seen to be made of a very dark, 
+marbled stone of some sort.  Dark, purple veins run through the stone and the 
+light occasionally glints off a metallic substance of some sort deep within 
+the rock.
+~
+E
+windows stained glass~
+The windows in the ceiling are made primarily from a dark purple glass inset 
+with the black emblem found throughout the rest of the compound.  Despite the 
+dark color of the glass, a great deal of light still manages to find its way 
+through to the interior of the room.
+~
+S
+#66448
+&+WThe&N &+WW&+Cy&N&+cr&+wm&N&+WF&+wr&N&+co&+Cs&N&+Wt&N &+WRoad&N~
+&+c   The wide thoroughfare of the Wyrmfrost Road continues it north-south 
+&+cpath through Neverwinter here.  As it makes it way through the warehouse 
+&+cdistrict, high buildings rise on both sides of the road.  As the road 
+&+cheads south towards the center of town, it slopes slightly uphill.  Far to 
+&+cthe southeast, the palace of Lord Nasher, Castle Never, can be seen rising 
+&+cover the other buildings of the city.  The Wyrmfrost Road is very well 
+&+cpaved and is constantly bustling with traffic and commerce.  The road 
+&+ccontinues both north and south through here.&N
+~
+664 0 1 40 40 20 
+D0
+The Wyrmfrost Road.
+~
+~
+0 0 66437
+D2
+The Wyrmfrost Road.
+~
+~
+0 0 66459
+S
+#66449
+A Large Warehouse~
+   The large warehouse continues through here.  Boxes and crates of every 
+imaginable size and shape are all neatly stacked and catalogued according to 
+owner and destination.  The air in here is somewhat dry, but the dryness is 
+desired because the buildings are designed to keep goods from getting 
+moisture damage.  Small skylights in the ceiling allow some light to 
+penetrate the building, but the majority of the interior remains largely 
+unlit.  A small desk near the wall serves as a post for a clerk of some sort. 
+The warehouse continues to the east.
+~
+664 8 0 25 25 10 
+D1
+A large warehouse.
+~
+~
+0 0 66450
+S
+#66450
+A Large Warehouse~
+   This enormous building serves as one of the many storage facilities for 
+goods shipped through Neverwinter.  Row upon row of stacked crates and 
+barrels line the inside of the building.  The almost constant activity in the 
+building has worked up a thin cloud of dust which attests to the dry, 
+controlled climate of the building.  The warehouse continues off to the west 
+while a doorway leads south to a shady alleyway.
+~
+664 8 0 25 25 10 
+D2
+A shady alley.
+~
+~
+0 0 66461
+D3
+A large warehouse.
+~
+~
+0 0 66449
+E
+dust~
+The thin layer of dust appears to have been undisturbed for some time.
+~
+S
+#66451
+&+wA Quaint Alleyway&N~
+&+m   Although lined with stacks of crates like many of the other alleys of the 
+&+mwarehouse district, this alleyway also shows signs of upkeep and travel.
+&+mA very flowery odor permeates this area of the alley and hints at a 
+&+mmultitude of plants and vegetation growing nearby.  Despite its location in 
+&+mthe relatively poor area of town, the inhabitants of this area keep this 
+&+malley relatively clean and liveable like the rest of Neverwinter.  The quaint 
+&+malleyway winds both north and south from here.&N
+~
+664 1 1 40 40 20 
+D0
+A quaint alley continues.
+~
+~
+0 0 66440
+D2
+An intersection in the alleyway.
+~
+~
+0 0 66462
+S
+#66452
+&+RThe Old Potter's Guild&N~
+&+r   Shards of broken pottery lie strewn about the floor here, covered in 
+&+rthe dust and neglect of the years.  The massive kilns which were once used 
+&+rto fire the rough works of the Guild.  Now, however, the kilns lie cold 
+&+rand unused as they have for decades.  In the corners of the room, rats 
+&+rscurry about, disturbed at the presence of strangers in their domain.  
+&+rHundreds of cobwebs hang from the rafters like thin, gray tapestries.  The 
+&+rGuild continues to the north.&N
+~
+664 8 0 25 25 10 
+D0
+The guild continues.
+~
+~
+0 0 66441
+E
+dust~
+The thin layer of dust appears to have been undisturbed for some time.
+~
+E
+shards potter~
+The broken pot does not appear to have been very valuable and was little more
+than kiln-dried clay at the time it was broken.
+~
+E
+cobwebs~
+The whispy cobwebs are covered and thickened with dust, leading one to believe
+that even the spiders have abandoned this building.
+~
+S
+#66453
+A Ransacked Building~
+   This building has been turned inside-out by someone or something.  The 
+walls have been ripped open in places and the remains of some furniture and 
+several crates lay strewn on the floor.  It is pretty clear that whomever 
+tore this place apart was looking for something rather important.  A few 
+pools of dried blood on the floor would seem to indicate that the theft did 
+not go entirely unnoticed.  A narrow, wood-framed doorway leads north into 
+another chamber in the dwelling.
+~
+664 8 0 25 25 10 
+D0
+Another chamber in the dwelling.
+~
+~
+0 0 66442
+D1
+The street along the city walls.
+~
+~
+0 0 66454
+E
+remains furniture~
+The debris appears to have been a small chair and perhaps an ottoman at
+one time.  Now, however, there is little left other than a broken wooden
+frame and some tattered fabric that the rats have not yet carried away
+for their nests.
+~
+E
+dried blook~
+The once red stains of blood have long since turned a dark, rusty brown.
+~
+S
+#66454
+&+wThe Road Along the City Walls&N~
+&+L   The street along the city walls narrows slightly as it runs through here.  
+&+LThe buildings surrounding the road seem to be more run-down here, and some 
+&+Leven exhibit an occasional caved-in roof.  Although much nicer than the 
+&+Lpoorer areas of cities like Waterdeep, this is clearly this is not the most 
+&+Laffluent neighborhood of Neverwinter.  Only the very poorest or most devious 
+&+Lof people would call this area their home.  Off to the east, a dark and 
+&+Lnarrow alleyway cuts between a couple of delapidated warehouses, while a 
+&+Lterrible-looking dwelling lies off to the west.  The street itself runs to 
+&+Lthe south from here.&N
+~
+664 0 1 30 75 500 
+D1
+A dingy alleyway.
+~
+~
+0 0 66455
+D2
+The street continues.
+~
+~
+0 0 66468
+D3
+A ransacked dwelling.
+~
+~
+0 0 66453
+S
+#66455
+&+LA Dingy Alleyway&N~
+   Just off of the street along the city walls, this alleyway seems to 
+quickly take on a very dark and sinister appearance.  There is no doubt that 
+alleyways such as this one are the source of the more dangerous elements of 
+Neverwinter's warehouse district.  Although fairly wide at its opening near 
+the city walls, this alley quickly narrows as it winds between buildings and 
+is almost always shrouded in shadows.  Empty crates and boxes line the sides 
+of the alley and only add to the sinister appearance of this place.  The 
+alleyway itself continues east and west through here.
+~
+664 1 1 40 40 20 
+D1
+A dingy alleyway.
+~
+~
+0 0 66456
+D3
+The street along the city walls.
+~
+~
+0 0 66454
+S
+#66456
+&+LA Dingy Alleyway&N~
+   The narrow alleyway continues its way between the buildings through here.  
+The only sound here is the contant sound of dripping and running water as it 
+makes its way to the unseen sewers.  Although the alleyway appears largely 
+deserted, there is the distinct feeling of some other presence near here.  It 
+is quite possible that the shadows of the alleyway hide more than just rats 
+and rotting garbage.  The slick, slimy stones of the alleyway bend west and 
+north as they make their way through here.
+~
+664 1 1 40 40 20 
+D0
+A dingy alleyway.
+~
+~
+0 0 66445
+D3
+A dingy alleyway.
+~
+~
+0 0 66455
+S
+#66457
+&+MA Long Hallway in the Compound&N~
+&+m   This dimly-lit hallway runs north and south through the compound.  The 
+&+mrich wood paneling continues through here, and small pedestals line the 
+&+mhallway holding various statues and urns.  The floor of the hallway is 
+&+mcarpeted with a thick, purple rug.  A black, thorny pattern has been woven 
+&+minto the surface of the rug, further adding to the malevolent feeling of 
+&+mthis place.  The hallway continues north and south.&N
+~
+664 8421384 1 10 50 10 
+D0
+The hallway continues.
+~
+~
+0 0 66446
+D2
+The main entryway.
+~
+~
+0 0 66471
+E
+urns urn~
+The urns are clearly well-made and many depict scenes of violent storms at 
+sea.  On some, thick, black tentacles are enveloping large ships and dragging 
+them under the waves.
+~
+E
+statues statue~
+The statues here are as vile-looking as those in the entryway.  While many 
+statues are of the same, dark, carved wood as those in the entry hall, some 
+are also made of carved and polished stone set with luminous gems.
+~
+S
+#66458
+&+MA Smaller Chamber&N~
+&+m   This room is much less ornater than those in the rest of the compound.  
+&+mThe walls here are well-plastered and cared for, but don't bear 
+&+mdecorations of any kind.  The only real feature of this room is a large 
+&+mstairway heading upwards to another level of the compound.  The upper 
+&+mfloors appear less lighted than these lower ones amd it is impossible to 
+&+mmake out any real detail about the upstairs from here.  The only other 
+&+mvisible exit from this room is back through the large chamber to the 
+&+mnorth.&N
+~
+664 8421384 1 40 40 20 
+D0
+A large, ornate chamber.
+~
+~
+0 0 66447
+D4
+A stairway leads up.
+~
+~
+0 0 66545
+S
+#66459
+&+WThe&N &+WW&+Cy&N&+cr&+wm&N&+WF&+wr&N&+co&+Cs&N&+Wt&N &+WRoad&N~
+&+c   The wide expanse of the great Wyrmfrost Road continues through the city 
+&+cof Neverwinter both north and south through here.  The large, flattened 
+&+cpaving stones of the road provide ample support for the many wagons of 
+&+cgoods which pass through the city bound for the markets of the larger 
+&+csouthern cities like Waterdeep.  The buildings alongside the road continue 
+&+cto grow larger and more important looking as the road winds southward 
+&+ctowards the center of the city.  In this area, the tight grouping of 
+&+cenormous storage buildings clearly mark this as Neverwinter's warehouse 
+&+cdistrict.  Off to the east, a narrow and shadow enshrouded alleyway winds 
+&+coff between the buildings.&N
+~
+664 0 1 40 40 20 
+D0
+The Wyrmfrost Road.
+~
+~
+0 0 66448
+D1
+A shady alleyway.
+~
+~
+0 0 66460
+D2
+The Wyrmfrost Road.
+~
+~
+0 0 66473
+E
+road stones paving~
+The excellent condition of the road would seem to indicate that it is
+regularily patrolled by repair crews to ensure it is well-maintained.
+~
+S
+#66460
+&+LA Shady Alleyway&N~
+&+L   Just off the Wyrmfrost Road, this shady alleyway twists its way through 
+&+Lthe buildings of the warehouse district.  Shouts and commotion of all sorts 
+&+Lcan be heard around here and although the alley is fairly small, it seems 
+&+Llike it is well used.  Stacks of crates and barrels line the alley through 
+&+Lhere, waiting further transport through the city.  To the west is the wide 
+&+LWyrmfrost Road while the alley continues to the east.&N
+~
+664 4 1 40 40 20 
+D1
+A shady alleyway.
+~
+~
+0 0 66461
+D3
+The Wyrmfrost Road.
+~
+~
+0 0 66459
+E
+barrel barrels~
+The majority of the barrels appear to be empty and in poor repair.
+~
+S
+#66461
+&+LA Shady Alleyway&N~
+&+L   The shady alleyway widens slightly through here as it winds between the 
+&+Lbuildings.  To the north, a large building of some sort, most likely a 
+&+Lwarehouse, rises above stacks of crates.  The commotion of the alley seems 
+&+Leven more apparent here and it looks as though this particular part of the 
+&+Lalley serves as one of the major shipping centers of northern Neverwinter.  
+&+LThe alley continues east and west through here while the large warehouse is 
+&+Lnorth.&N
+~
+664 4 1 40 40 20 
+D0
+A large warehouse.
+~
+~
+0 0 66450
+D1
+A shady alleyway.
+~
+~
+0 0 66462
+D3
+A shady alleyway.
+~
+~
+0 0 66460
+S
+#66462
+&+RAn Intersection in the Alleyway&N~
+&+w   The shady alleyway seems less busy here as it intersects another, smaller 
+&+walley between the buildings.  There are still several stacks of crates here, 
+&+wbut many of them appear as though they have been here for quite some time.  
+&+wThe shadows of the alley seem slightly deeper here, but that is most likely 
+&+wdue to the height of the buildings surrounding the area.  The well-traveled, 
+&+wshady alleyway continues east and west through here while the smaller, 
+&+wdarker, and more sinister-looking alley heads south.&N
+~
+664 0 1 40 40 20 
+D0
+A quaint alleyway.
+~
+~
+0 0 66451
+D1
+A shady alleyway.
+~
+~
+0 0 66463
+D2
+A sinister alleyway.
+~
+~
+0 0 66476
+D3
+A shady alleyway.
+~
+~
+0 0 66461
+S
+#66463
+&+LA Shady Alleyway&N~
+&+L   The shady alleyway continues to wind between the buildings here.  The 
+&+Lbrick buildings surrounding the alley here seem unusually run down.  Like 
+&+Lthe rest of the alleyway, stacks of crates and barrels lie alongside the 
+&+Lpathway awaiting transport.  Every now and then, a rat will dart in and out 
+&+Lof the shadows of the alleyway, but other than that the alley seems 
+&+Lrelatively clean.  The alley itself continues east and west from here.&N
+~
+664 0 1 40 40 20 
+D1
+A shady alleyway.
+~
+~
+0 0 66464
+D3
+An intersection in the alleyway.
+~
+~
+0 0 66462
+S
+#66464
+&+LA Bend in the Shady Alleyway&N~
+&+L   A particularily foul odor seems to permeate this particular stretch of the 
+&+Lalley.  Despite the overhang of the walkway along the top of the city walls, 
+&+Lwhich would seem to provide a good deal of shelter, this area of the alley 
+&+Lseems well weathered and battered by the elements.  In places, moisture forms 
+&+Ltiny rivulets on the walls of the alley, and a thick, hairy moss has taken 
+&+Lhold in the shadiest corners.  The alley continues to the west and south.&N
+~
+664 0 1 50 50 500 
+D2
+A shady alleyway.
+~
+~
+0 0 66478
+D3
+A shady alleyway continues.
+~
+~
+0 0 66463
+E
+moss~
+The moss is dark green in color and appears almost slimy with moisture.
+~
+S
+#66465
+&+RThe Echo Chamber&N~
+&+r   This room floats in an ethereal void and contains only one, lowly
+&+rinhabitant.  The denizen of this room is known across time and space as 
+&+rthe great Arch-Fiend - Bug-eyed Earl, echo mob for the northern half of
+&+rthe city of Neverwinter.&N
+~
+664 32768 1 40 40 20 
+S
+#66466
+&+wThe Walkway Above the City Walls&N~
+&+L   The walkway along the city walls continues its march around the
+&+Lperimeter of the city through here.  To the north, far below the worn and
+&+Lweathered battlements lies the churning Neverwinter river.  Passing closely
+&+Lto the city walls, it is amazing that erosion has not caused problems.  
+&+LLuckily for the city, the rocky banks of the river protect the high walls
+&+Lwhich surround the city from the majority of the river's fury.  The walkway
+&+Lalong the walls continues both east and west from here.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66480
+D3
+The walkway continues.
+~
+~
+0 0 66578
+E
+river~
+The waters of the Neverwinter River slowly churn and roll on their long and
+winding journey to the Trackless Sea.
+~
+S
+#66467
+&+yA Small Warehouse&N~
+   This is just one of the many warehouses which make up a majority of the 
+buildings in northern Neverwinter.  This structure is used primarily by the 
+merchants of Neverwinter for storing their goods while waiting for ships or 
+caravans to take them to other parts of the realms.  The majority of the 
+space in this building is taken up by boxes and crates of every size and 
+shape.  A small table near the entrance serves as a post for a guard or other 
+watchman to ensure the security of the goods while they await transport.
+~
+664 8 0 25 25 10 
+D1
+The street along the city walls.
+~
+~
+0 0 66468
+S
+#66468
+&+wThe Road Along the City Walls&N~
+&+L   The buildings alongside the road here encroach slightly upon the road, 
+&+Lcausing it to narrow somewhat.  The farther south the road goes, the worse 
+&+Lthe neighborhoods surrounding it become.  Long shadows cover most of the 
+&+Lground through here, even during midday and shadowy figures move about 
+&+Lquietly on agendas of their own.  To the west of here is a small, run-down 
+&+Lwarehouse which is typical of the poverty of the surrounding area.  East of 
+&+Lhere, however, rise the walls of a mammoth building which seem to be in very 
+&+Lgood condition.  It is clear that the building was originally just one of the 
+&+Lcity's many warehouses, but significant external improvements have been made 
+&+Lrecently.&N
+~
+664 0 1 30 75 500 
+D0
+The street continues.
+~
+~
+0 0 66454
+D2
+The street continues.
+~
+~
+0 0 66482
+D3
+A small warehouse.
+~
+~
+0 0 66467
+S
+#66469
+&+LA Tiny Cell&N~
+&+L   The smell of this tiny cell is almost unbearable.  Filth and crud cake
+&+Lthe walls and floor of the cell, adding to the stench.  Even in the 
+&+Ldarkness, darker stains of what can only be blood can be seen on the cold 
+&+Lstones of the cell floor.  More disturbing than the even smell and stains, 
+&+Lbloody marks on the walls and door appear to be the signs that the last 
+&+Lfew occupants of the cell tried to claw and scratch their way out to 
+&+Llittle avail.  The only evident exit from the room is through a thick 
+&+Lsteel door to the east.&N
+~
+664 8421385 1 40 40 20 
+D1
+A small chamber.
+~
+cell steel door~
+3 -1 66470
+S
+#66470
+&+MA Small Chamber in the Kraken Compound&N~
+&+m   This chamber seems to be some sort of guard post.  A rack of weapons 
+&+mrests against the wall and several small bits of armor lie strewn on the 
+&+mfloor. Hanging above a small desk in the far corner are several wicked-
+&+mlooking instruments of torture.  Slightly more disturbing than their 
+&+mpresence in the room is the fact that they looked well-used.  Blood stains 
+&+mthe wall behind several of the implements.  An ornate wooden door leads 
+&+meast from here to the entry hall of the compound, while a steel cell of 
+&+msome sort lies west.&N
+~
+664 8421384 1 19 19 7 
+D1
+The entry hall.
+~
+door~
+2 0 66471
+D3
+A tiny cell.
+~
+cell steel door~
+3 -1 66469
+S
+#66471
+&+MEntry Hall of the Kraken Compound&N~
+&+m   This large room is elaborately decorated with rich, purple tapestries 
+&+mand valuable artwork.  The walls here are paneled in a rich, dark wood 
+&+mwhich has been exquisitely stained and varnished until it practially 
+&+mglows.  Wooden carvings of twisted beasts decorate the various niches of 
+&+mthe room.  Whomever owns this place is clearly well-funded, but the room 
+&+meminates a distinctively malevolent feel.  A long, shadowy hallway leads 
+&+mnorth while thick, wooden doors lead east and west from here.&N
+~
+664 8421384 1 25 80 25 
+D0
+A long hallway.
+~
+~
+0 0 66457
+D1
+A small office.
+~
+door~
+2 0 66472
+D2
+A wide courtyard.
+~
+door gates gate doors~
+2 0 66485
+D3
+A small chamber.
+~
+door~
+2 0 66470
+E
+tapestries tapestry purple~
+The tapestries appear to be made of a thick, velvety fabric.  Rich, black 
+silk in the shape of the same sea-creature emblem as the rest of the compound 
+has been sewn onto most of the tapestries.
+~
+E
+carvings beasts twisted~
+The wooden carvings in the room appear to be of many vile, twisted looking 
+demons of some sort.  All the carvings sport large horns, fangs, and claws. 
+Some of the demon-like creatures appear to be aquatic in nature.
+~
+E
+wood wooden paneling panel~
+The wooden paneling of the room appears to be made of a rich, burled walnut.  
+Even small quatities of this wood would be extremely expensive and 
+the paneling of an entire room like this could likely fund a small army for 
+quite some time.
+~
+S
+#66472
+&+MA Small Office in the Compound&N~
+&+m   This office is lavishly decorated with the same grandeur as the main 
+&+mentry hall.  Behind the large desk, which takes up the majority of the 
+&+mroom, hangs a large stone carving.  The carving itself depicts various 
+&+mscenes of war and death.  The only light in the office comes from two 
+&+msmall, barred windows which amount to little more than arrow slits in the 
+&+meastern wall on either side of the carving.  A set of ancient bookshelves 
+&+mline the southern wall.&N
+~
+664 8421384 1 19 19 7 
+D2
+~
+book shelf bookshelves books shelves door secret~
+5 0 66486
+D3
+The main entryway.
+~
+door~
+2 0 66471
+E
+carving stone large~
+The stone carving itself appears very ancient and was most likely part of 
+an old temple.  Whomever has transplanted it here, has done so painstakingly 
+to ensure the artifact was not damaged.  The scenes on the carving itself are 
+quite disturbing.
+~
+E
+books book bookshelves shelves~
+The bookshelves appear very old and contain perhaps a hundred volumes.  
+Many of the books are practically falling apart from age and are written in 
+an unknown language.
+~
+S
+#66473
+&+WThe&N &+WW&+Cy&N&+cr&+wm&N&+WF&+wr&N&+co&+Cs&N&+Wt&N &+WRoad&N~
+&+c   Rising high above the city, the multi-story buildings of the warehouse 
+&+cdistrict of Neverwinter loom like stone sentinels above the Wyrmfrost Road 
+&+cas it winds through town.  Alongside the road, merchants have set up 
+&+cstands of all sorts from which to peddle the wares they have collected 
+&+cfrom throughout the Realms.  It has been said that if adventurers cannot 
+&+cfind what they are looking for in the vast maketplaces of Neverwinter, it 
+&+csimply mustn't be needed.  South of here, the Wyrmfrost Road heads 
+&+cslightly uphill towards the center of town while the great northwest gates 
+&+cof Neverwinter lie far to the north.&N
+~
+664 0 1 40 40 20 
+D0
+The Wyrmfrost Road.
+~
+~
+0 0 66459
+D2
+The Wyrmfrost Road.
+~
+~
+0 0 66487
+S
+#66474
+&+rEntrance to the &+RForge Room&N~
+&+L   This room is obviously a workshop for Mawl's weaponsmiths.  It is here 
+&+Lthat the renowned weapons of Mawl Firesgleam are fashioned from the finest 
+&+Lsteel and mithril in the north.  The room itself is somewhat cramped and 
+&+Llittered with all sorts of tools, but from it have come some of the greatest 
+&+Lblades of history.  The ringing of the anvils of the forge is much louder 
+&+Lhere and the air in the room has a sulfurous quality to it due to the 
+&+Lnearness of the fire.  To the south is the main showroom of the store while 
+&+Least lies the main forge room itself.&N
+~
+664 12 1 50 50 20 
+D1
+The forge room.
+~
+~
+0 0 66475
+D2
+Another room.
+~
+~
+0 0 66488
+S
+#66475
+&+RMawl's Forge Room&N~
+&+r   The sweltering heat in this room is almost unbearable.  The primary 
+&+rfeature of this room is a large, open furnace used to smelt the metal for 
+&+rMawl's weapons which glows nearly white with heat.  Each different metal 
+&+rhas its own area of the furnace to ensure the best possible temperature 
+&+rduring the forging process.  Large anvils used for the initial finishing 
+&+rof the various weapons line the walls of the room and are worked on by 
+&+rseveral of Mawl's assistants.  The smoke and steam from the forge escapes 
+&+rthrough an immense chimney in the ceiling of the room, keeping the air in 
+&+rhere relatively clean.&N
+~
+664 8 1 50 50 20 
+D3
+An adjacent room.
+~
+~
+0 0 66474
+S
+#66476
+&+RA Sinister Alleyway&N~
+&+L   This narrow and shadowy alleyway winds and twists between several 
+&+Lbuildings as it passes through here.  This alley appears to get much less 
+&+Ltraffic than the neighboring alleys.  These smaller alleyways of Neverwinter 
+&+Lcan be extremely dangerous, especially after dark.  The brick buildings 
+&+Lsurrounding the alleyway keep this area in shadows for most of the day and, 
+&+Las a result, the air in here is fairly cool and condensing water makes the 
+&+Lground quite slippery in places.  The alley continues north and south from 
+&+Lhere.&N
+~
+664 1 1 40 40 20 
+D0
+An intersection in the alleyway.
+~
+~
+0 0 66462
+D2
+A bend in the sinister alleyway.
+~
+~
+0 0 66490
+S
+#66477
+&+LA Small&N &+rBrick&N &+LDwelling&N~
+   This old brick building has clearly seen better times.  Once probably used 
+as a small warehouse, the collapse of this building's roof has long since 
+ended its usefulness for storing goods.  Here and there in the rafters, 
+several bird nests have been built, most likely by the flocks of pigeons 
+found in the city.  The rustling of rats from underneath the remains of the 
+roof also hint at the level of delapidation of the building.  The only 
+apparent exit is through the doorway to the south.
+~
+664 9 1 40 40 20 
+D2
+The alley of killers.
+~
+~
+0 0 66491
+S
+#66478
+&+LA Shady Alleyway&N~
+&+L   Low, squat dwellings line the sides of the alley through here, attesting 
+&+Lto the poverty of this areas inhabitants.  Occasionally, a slight breeze will 
+&+Ltwist through the narrow expanse of the alleyway, spinning and lifting the 
+&+Llightest bits of garbage in tiny whirlwinds.  The area seems largely devoid 
+&+Lof life, despite the presence of the rundown houses.  The alley continues 
+&+Lnorth from here while a larger street lies east.&N
+~
+664 4 1 40 40 20 
+D0
+A shady alleyway.
+~
+~
+0 0 66464
+D1
+Garden street lies that way.
+~
+~
+0 0 66479
+S
+#66479
+&+GGarden Street in &+WNeverwinter&N~
+   Green vegetation and flowering plants of all kinds add to the natural 
+feel of this tree-lined avenue.  Here, Garden Street comes to an end in
+a circular garden of sorts.  Small stone benches and planters full of
+creeping vines and other plant life create a peaceful, natural area for
+quiet contemplation and though.  Birds can be heard singing overhead and
+an occasional low buzzing in the air hints at a variety of insect life as
+well.  Garden Street heads south from here while a shady alleyway leads
+off to the west.
+~
+664 0 1 30 75 500 
+D2
+Garden street continues.
+~
+~
+0 0 66493
+D3
+A shady alleyway.
+~
+~
+0 0 66478
+S
+#66480
+&+wA Bend In The Walkway&N~
+&+L   As the walkway curves from west to south here, small fortifications have
+&+Lbeen made for archers and catapults.  Through the years, the defenses along
+&+Lthe city's walls have been in a constant state of change to keep 
+&+LNeverwinter's would-be enemies confused.  Unfortunately, this policy also 
+&+Lleads to a certain amount of waste and confusion among the members of the 
+&+Lcity guard who are constantly re-positioned throughout the city.  Here, it 
+&+Lappears as though a few birds have decided to make nests out of the remains 
+&+Lof some of the fortifications.  The walkway continues west and south from 
+&+Lhere.&N
+~
+664 0 1 50 50 500 
+D2
+The walkway continues.
+~
+~
+0 0 66494
+D3
+The walkway continues.
+~
+~
+0 0 66466
+S
+#66481
+&+LThe Shop of &N&+rRogues&N~
+&+L   The light in this room is very dim, but it is still possible to make out a 
+&+Lgood deal of the detail here.  The walls of this room are adorned with 
+&+Lseveral of the various wares available from this shop.  A few paintings also 
+&+Ladorn the walls of the chamber, most of which seem to be portaits of some 
+&+Lsort.  Most likely, these portraits are of past theives from the guild who 
+&+Lachieved some measure of greatness or reknown in the region.  The only 
+&+Lvisible exit is south.&N
+~
+664 8 0 50 50 20 
+D2
+Entrance to the guild of thieves.
+~
+~
+0 0 66495
+S
+#66482
+&+bEnd of the Street Along the Walls&N~
+   Rather abruptly, the street along the city walls comes to an end here.  
+Originally, this street would have continued the entire way around the walls 
+inside the city of Neverwinter, but recent unregulated construction has 
+started to block the road in places.  In times of war, this would never be 
+allowed, but the recent peace has led to a rather lax attitude towards such 
+matters.  At the end of the road, a dark and narrow alley leads off to the 
+east.
+~
+664 0 1 30 75 500 
+D0
+The street continues.
+~
+~
+0 0 66468
+D1
+A dark alley.
+~
+~
+0 0 66483
+S
+#66483
+A Dark Alley~
+   This extremely narrow and dark alleyway actually appears relatively clean, 
+despite its remote location.  Small wooden crates and boxes are stacked 
+neatly along the sides of the alley, each bearing the same, strange emblem. 
+The path between the crates appears to be well-used, although the alley 
+itself seems deserted at the moment.  Even though the alley appears cleaner 
+and more used than many of its counterparts in the warehouse district, this 
+place has a distinctively dangerous feel to it.  There is the distinct 
+feeling of a presence of some sort watching the area.
+~
+664 1 1 40 40 20 
+D1
+A dark alley continues.
+~
+~
+0 0 66484
+D2
+A dank bar.
+~
+~
+0 0 66497
+D3
+End of the wall road.
+~
+~
+0 0 66482
+E
+emblem strange~
+The emblem is burned into the surface of all the crates and resembles a 
+many-legged sea creature of some sort.  Surrounding the creature is a black, 
+many-pointed star which gives the symbol a very menacing look.
+~
+S
+#66484
+End of the Dark Alley~
+   Here, the dark alleyway comes to an end at a pair of gigantic iron gates.  
+Although heavily rusted, the iron gates to the east still appear extrememly 
+sturdy and capable of withstanding a great deal of damage.  There are no 
+visible peepholes in the gate itself, but there are no doubt observation 
+points hidden somewhere in the alleyway.  Clearly, whoever or whatever has 
+constructed this place does not wish to have its activities disturbed.  The 
+only other visible exit from the alleyway is back to the west.
+~
+664 133 1 40 40 20 
+D1
+The gates bar the way.
+~
+gates gate iron kraken~
+3 -2 66485
+D3
+The dark alley continues.
+~
+~
+0 0 66483
+E
+iron gate gates~
+The gates are extremely well-contructed, despite their apparent age.  
+Looking more closely at them, it can be seen that the hinges appear freshly 
+oiled and well cared for.  There appears to be a faint inscription of some 
+sort in the surface of the gates.
+~
+E
+inscription surface~
+From what can be made out, the damaged inscription reads: 'Passw r  Plea '
+~
+S
+#66485
+&+LA Wide Courtyard&N~
+   In sharp contrast to the dark, narrow alleyway which leads here, this 
+courtyard is very open and airy.  The courtyard itself is intricately tiled 
+with dark purple and black marble.  The pattern of the tiles resembles a 
+many-pointed black star with a multi-legged sea creature of some sort at its 
+center.  Surrounding the courtyard on all sides is an immense, multi-story, 
+fortified compound.  The compound appears to have been a warehouse at one 
+time, but seems to have recently undergone some serious improvements.  Large, 
+carved oak doors lead into the compound to the north while the iron gates 
+lead west into the alley.
+~
+664 8421376 1 40 40 20 
+D0
+A giant entry hall.
+~
+door doors~
+2 0 66471
+D3
+A dark alley continues.
+~
+iron gate gates kraken~
+3 -2 66484
+E
+iron gate gates~
+The gates are extremely well-contructed, despite their apparent age.  
+Looking more closely at them, it can be seen that the hinges appear freshly 
+oiled and well cared for.
+~
+S
+#66486
+&+LA Nondescript Chamber&N~
+   This room is finely plastered, but without decoration of any kind.  The 
+four walls of the room are very dry and well-maintained, but bear no markings 
+or anything distinct about them.  The floor of the room is paved with 
+smoothed, gray stones, most likely from the riverbed of the Neverwinter 
+River.  Near the northern wall, the paving stones bear scratches as though 
+something heavy were drug across them.  In the center of the floor, a plain 
+stone stairway leads down into darkness.
+~
+664 8421384 1 40 40 20 
+D0
+~
+wall secret door~
+5 0 66472
+D5
+A dark tunnel.
+~
+~
+0 0 66950
+S
+#66487
+&+WThe&N &+WW&+Cy&N&+cr&+wm&N&+WF&+wr&N&+co&+Cs&N&+Wt&N &+WRoad&N~
+&+c   As the Wyrmfrost Road winds northward through the city of Neverwinter, 
+&+cit heads slightly downhill towards the great northern gates which can be 
+&+cseen far in the distance.  Shouts from the various travelers and merchants 
+&+cof the road echo off of the walls of the buildings through here which rise 
+&+chigh above the road.  To the northwest, an immense warehouse of some sort 
+&+ccan be seen with guards perched on the rooftops.  In the building just 
+&+ceast of here is a large shop with a sign above the door reading &+L'Mawl's 
+&+RHouse of War&+L'&N&+c.  The ring of a hammer and anvil can be heard coming from 
+&+cwithin the shop and thick, black smoke wafts out from a soot-covered 
+&+cchimney in the roof.  The Wyrmfrost Road continues both north and south 
+&+cthrough here.&N
+~
+664 4 1 40 40 20 
+D0
+The Wyrmfrost Road.
+~
+~
+0 0 66473
+D1
+Mawl's House of War.
+~
+~
+0 0 66488
+D2
+The Wyrmfrost Road.
+~
+~
+0 0 66501
+S
+#66488
+&+LMawl's &+RHouse of War&N~
+&+L   This immense shop is decorated with every possible weapon imaginable.  
+&+LFrom daggers to halberds, all of the implememts of war are hung from the 
+&+Lwalls and ceilings in an impressive display.  Some of the weapons appear to 
+&+Lhave seen a great deal of use and bear the obvious signs of battle.  The 
+&+Ldried, red coating on some of the blades indicates that a few are even in 
+&+Lneed of a serious cleaning.  A large glass case along the far wall appears to 
+&+Lshowcase some of the finer pieces of the collection.  From the north, the 
+&+Ldistict sounds and smells of an active forge can be heard.  Through the door 
+&+Lto the west, the Wyrmfrost Road winds its way through the city of 
+&+LNeverwinter.&N
+~
+664 8 0 50 50 20 
+D0
+Another room lies that way.
+~
+~
+0 0 66474
+D3
+The Wyrmfrost Road.
+~
+~
+0 0 66487
+S
+#66489
+&+RA Bend in the Sinister Alleyway&N~
+&+L   The shadows continue to deepen here as the sinister-looking alley 
+&+Lcontinues to wind through the warehouse district.  The sounds of dripping 
+&+Lwater and the occasional rustle from the shadows are the only noises that 
+&+Lpenetrate the darkness here.  Mist collects along the ground in places 
+&+Lthrough here as the warmer air from Neverwinter's sewers rises and meets the 
+&+Lcooler air of the alleys.  The sinister-looking alley bends to the east and 
+&+Lsouth through here.&N
+~
+664 1 1 50 50 500 
+D1
+A bend in the sinister alleyway.
+~
+~
+0 0 66490
+D2
+A sinister alleyway.
+~
+~
+0 0 66503
+S
+#66490
+&+RA Bend in the Sinister Alleyway&N~
+&+L   The sinister-looking alleyway through the warehouse district bends 
+&+Lslightly here as it makes its way between the buildings.  Occasional pools of 
+&+Lmurky water through here would seem to indicate that this particular section 
+&+Lof the alleyway must be a relatively low point.  The odd smell to this 
+&+Lsection of the alley is most likely caused by the bits of rotting garbage and 
+&+Lstagnant water lying about.  A dwelling of some sort lies to the south while 
+&+Lthe sinister alleyway heads west from here.  Off to the east lies the 
+&+Linfamous and extremely dangerous alley of killers.&N
+~
+664 1 1 50 50 500 
+D0
+A sinister alleyway.
+~
+~
+0 0 66476
+D1
+The alley of killers.
+~
+~
+0 0 66491
+D2
+A poor dwelling.
+~
+~
+0 0 66504
+D3
+A sinister alleyway.
+~
+~
+0 0 66489
+S
+#66491
+&+LThe Alley of &+RKillers&N~
+   This is without a doubt the worst of Neverwinter's neighborhoods.  This 
+short alleyway is infamous for the murderers and theives which make it their 
+home.  No one in their right mind ventures through these streets even during 
+the daytime and definitely never at night.  Piles of garbage line the sides 
+of this alley and the smell here is terrible, but bearable.  Long shadows 
+shroud the alley to the south while a slightly wider and brighter alley lies 
+to the west.  A dark little dwelling is north.
+~
+664 1 1 30 75 500 
+D0
+A dark dwelling.
+~
+~
+0 0 66477
+D2
+The alley of killers.
+~
+~
+0 0 66505
+D3
+A shady alleyway.
+~
+~
+0 0 66490
+S
+#66492
+A Dark Bar~
+   This room, like the rest of the dark bar, appears very well decorated and
+well kept.  Here and there, paintings of dark figures hang on the walls, 
+dimly illuminated by torchlight.  Below each of the paintings hangs a small
+plaque, accompanied by what appears to be a variety of small weapons, many of
+which are wicked-looking daggers.  At the tables and booths of the room, 
+several dark figures are seated.  Most engage themselves in a silent drink,
+while a select few hold hushed conversation.  The main room of the bar lies
+to the south while a brass spiral staircase leads upwards to the roof of the
+building.
+~
+664 8 0 25 25 10 
+D2
+The main room of the bar.
+~
+~
+0 0 66506
+D4
+A trapdoor leads to the roof.
+~
+~
+0 0 66589
+E
+stained stain floor~
+   The rich hardwood of the floor is well-kept, but a multitude of strange 
+stains mar its surface.  Upon closer inspection, the stains can 
+umistakeably be identified as blood.
+~
+S
+#66493
+&+GGarden Street in &+WNeverwinter&N~
+   Although somewhat delapidated housing lines the sides of the street
+through here, the meticulous care given to the beautiful plant life on the
+street still creates a scene of beauty.  Much like the famous gardens of
+Neverwinter in the center of town, the plants on Garden Street are kept
+green and lively year round.  Neverwinter's higher standard of living allows
+many of its citizens the small luxury of gardens of their own within the 
+city, further adding to the natural splendor of the surroundings.  Garden
+Street leads both north and south from here.
+~
+664 0 1 30 75 500 
+D0
+Garden street continues.
+~
+~
+0 0 66479
+D2
+Garden street continues.
+~
+~
+0 0 66507
+S
+#66494
+&+wA Narrowing In The&+L Walkway&N~
+   The walkway along the city walls narrows somewhat through here.  
+Apparently, construction or alteration of a building below here has caused 
+minor changes in the city wall itself.  Although the walkway narrows 
+somewhat, the small degree of change in no way affects the passability of 
+this area.  Here and there, the battlements atop the city walls have started 
+to age slightly and appear as though they could use some minor repairs.  The 
+stone walkway along the city walls continues to the north and south from 
+here.
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66480
+D2
+The walkway continues.
+~
+~
+0 0 66508
+S
+#66495
+&+LEntrance to the Guild of &N&+rRogues&N~
+&+L   This darkened room serves as a small entryway and meeting chamber for the 
+&+Lthieves of Neverwinter.  Although known as '&N&+cThe City of Skilled Hands&+L' for its
+&+Lmany craftsmen and artisans, the city of Neverwinter has always had its fair 
+&+Lshare of rogues who use their own skilled hands to prey on the multitude of 
+&+Lmerchants and travelers who frequent the city.  Although very powerful at one 
+&+Ltime, the guild of rogues in Neverwinter has declined in membership in the 
+&+Lrecent years, due largely to the increased patrols of the city guard and Lord
+&+LNashar's strong stance against crime in the city.  The walls in this room are 
+&+Lvery sparse and the chamber itself is actually quite bare in general.  There 
+&+Lis another room to the north, while a ladder towards the southern wall decends
+&+Ldown into darkness.&N
+~
+664 8 0 25 25 10 
+D0
+A dark chamber.
+~
+door~
+1 0 66481
+D1
+A back room in the tavern.
+~
+panel~
+1 0 66496
+D5
+A dark chamber.
+~
+~
+0 0 66900
+S
+#66496
+&+yThe Tavern's Back Room&N~
+&+w   This room seems must less crowded than the the main room, but no cleaner.  
+&+wIn fact, the air in this room smells even more putrid than the other, if that 
+&+wis possible.  The few tables in this room are primarily unoccupied, but the 
+&+wdarker recesses of the room appear to hold several patrons engaged in quiet 
+&+wdiscussions or negotiations.  Occasionally, loud grunts or cackles break the 
+&+wrelative hush of the room, but such outbursts are rare.  The only visible 
+&+wexit lies to the east.&N
+~
+664 8 1 40 40 20 
+D1
+A small, dank tavern.
+~
+~
+0 0 66497
+D3
+~
+panel door secret~
+5 0 66495
+S
+#66497
+&+yA Small, Dank Tavern&N~
+&+w   Shouts and the sounds of breaking glass are the first sounds to greet 
+&+wanyone entering this filthy little tavern.  Glances ranging from guarded 
+&+wlooks to the occasional hate-filled glare are the only acknowledgement that 
+&+wanyone recieves upon entering the bar.  Clouds of smoke mingle with the smell 
+&+wof sweat and spilled ale to give this place a definitely unappealing odor all 
+&+wits own.  Taking a closer look at the floor of the tavern, darker stains dot 
+&+wthe floor here and there showing that some of the brawls here end less than 
+&+wpeacefully.  A small door to the west leads to another of the tavern's rooms.&N
+~
+664 8 0 25 25 10 
+D0
+A dark alleyway.
+~
+~
+0 0 66483
+D3
+Another room lies that way.
+~
+~
+0 0 66496
+S
+#66498
+&+WA &+LDining Hall&+W in the Opulent Dwelling&N~
+&+W   Lavish wooden paneling and an intricately tiled floor give this room
+&+Wa cozy and warm feeling, despite its relatively large size.  In the center
+&+Wof the room lies a finely carved, oaken table.  High-backed, cushioned seats
+&+Wline the side and ends of the table and look quite comfortable.  Light
+&+Wshining in through tall windows in the walls appears to have had little 
+&+Weffect in fading the beatiful surface of the table.  For colder nights, a
+&+Wlarge fireplace resides in the western wall.  Minor smoke stains on the wall 
+&+Wabove the fireplace indicate that it sees a good deal of use.  To the east
+&+Wlies the entry hall of the dwelling.&N
+~
+664 8 1 25 80 25 
+D1
+An entry hall.
+~
+~
+0 0 66499
+S
+#66499
+&+WThe &+LEntryway&+W of an Opulent Dwelling&N~
+&+W   Rich, marbled floors and polished stone pillars mark the entryway to this
+&+Wlarge building.  The costly statues and paintings which adorn this room 
+&+Wattest to the wealth of the buildings owner.  Aside from the statues and 
+&+Wartwork, many colorful tapestries and implements of war also adorn the walls 
+&+Wof this dwelling.  To the west, through a carved stone archway, lies a large
+&+Wdining hall of some sort.  A wide stone staircase leads up from here to 
+&+Wanother level in the dwelling.&N
+~
+664 8 1 40 40 20 
+D2
+The street along the western walls.
+~
+door~
+3 -1 66513
+D3
+A dining hall.
+~
+~
+0 0 66498
+D4
+A stairway leads up.
+~
+~
+0 0 66550
+S
+#66500
+&+GThe Harpers' Help&N~
+&+L   This shop is extremely busy and is frequented by adventurers of every 
+&+Limaginable sort.  On the walls hang display items of all kinds of 
+&+Ladventuring supplies and tools.  Here, travelers, adventurers and 
+&+Lwandering merchants stock up on the foodstuffs and implements necessary to 
+&+Ltravel about the realms.  The Harpers' Help is named in memory of the 
+&+LHarpers who wander about the region, helping to ensure the peace and 
+&+Lsafety of realms.  The main counter of the shop lies along the western 
+&+Lwall of this large room while display cases and racks line the other walls 
+&+Lto display the various goods for sale in the shop.&N
+~
+664 8 0 25 25 10 
+D1
+The Wyrmfrost Road.
+~
+~
+0 0 66501
+S
+#66501
+&+WThe&N &+WW&+Cy&N&+cr&+wm&N&+WF&+wr&N&+co&+Cs&N&+Wt&N &+WRoad&N~
+&+c   The immense fortress of Lord Nasher looms ever larger to the southeast 
+&+cas the Wyrmfrost Road winds its way towards the center of town.  
+&+cOccasionally, the clang of weapons and armor can be heard as the ever-
+&+cpresent city watch patrols through the area.  The constant patrols of the 
+&+ccity guards help ensure the safety of the citizens of the city, as well as 
+&+cthe travelers and merchants who use Neverwinter as a gateway to the vast 
+&+crealms of Toril.  The wide road continues north and south from here.  West 
+&+cof here is a bustling shop while east is an exsquisite looking shop.&N
+~
+664 0 1 40 40 20 
+D0
+The Wyrmfrost Road.
+~
+~
+0 0 66487
+D1
+A large apartment.
+~
+~
+0 0 66502
+D2
+The Wyrmfrost Road.
+~
+~
+0 0 66515
+D3
+A busy shop.
+~
+~
+0 0 66500
+S
+#66502
+&+LJermanis' &+YHouse of Fine Gems&N~
+   The wood paneled walls of this shop are lined with large, glass cases.  
+Inside, gems and fancy jewelry of every imaginable type can be seen, 
+glittering in the torchlight.  Jermanis Brightsilver is famous throughout
+the area around Neverwinter for his skill in creating magnificent works
+of art with metals of all kinds.  His skill can easily be seen in the many
+works on display in this shop.  In past years, Jermanis had worked as the 
+court jeweler for Lord Nasher, but went into business for himself nearly a
+decade ago.
+~
+664 8 0 50 50 20 
+D3
+The Wyrmfrost Road.
+~
+~
+0 0 66501
+S
+#66503
+&+RA Sinister Alleyway&N~
+&+L   A cool, wet smell drifts through this area, smelling of a hint of mold
+&+Land mildew.  The shade of the buildings surrounding this alley keeps this
+&+Larea abnormally cool and water from the frequent rains has pooled on the 
+&+Lground in places.  Periodically, a small rat will dart out of the shadows, 
+&+Lsteal a drink from the putrid water, and then scurry back to its hiding 
+&+Lplace.  The alleyway continues both north and south from here.&N
+~
+664 0 1 40 40 20 
+D0
+A bend in the alleyway.
+~
+~
+0 0 66489
+D2
+A cluttered alley.
+~
+~
+0 0 66517
+S
+#66504
+A Poor Dwelling~
+   The smell of rotting wood and dust fills the air in this place.  Although
+relatively clean compared to other dwellings in this area, this particular
+home does not appear to have been lived in for a while.  A layer of dirt 
+and small debris covers the floor, bearing the tracks of many small animals.
+Overhead, the wooden rafters which support the leaky roof of the dwelling
+creak and moan in the gentle breeze.  The only feature in the abandoned 
+building appears to be a small alcove in the southern wall.  However, 
+whatever once adorned the recess has long since disappeared.  It appears as 
+though this dwelling will soon fall apart under its own weight and poor 
+construction.  To the north lies a dark alley.
+~
+664 8 1 40 40 20 
+D0
+A sinister alleyway.
+~
+~
+0 0 66490
+S
+#66505
+&+LThe Alley of &+RKillers&N~
+   The dark and dangerous alley of killers comes to an abrupt end here.  Long 
+shadows hide the darkest recesses of the alley, but occasional sounds hint at 
+the presence of other creatures in the darkness.  The stones of the alley 
+through here are slick with dampness from some unseen water source and seem 
+to give slightly under foot.  Occasional shouts can be heard coming from a 
+dark bar to the east while the alley heads north from here.
+~
+664 1 1 30 75 500 
+D0
+The alley of killers.
+~
+~
+0 0 66491
+D1
+A dark bar.
+~
+~
+0 0 66506
+S
+#66506
+A Dark Bar~
+   Despite the fact that this bar is in a relatively poor area of town, its
+condition can only be described as immaculate.  Low light helps to hide the 
+majority of the details of the place, but polished wood and brass fixtures 
+seem to dominate the bar's decor.  The bar itself seems stocked with nearly
+every liquer immaginable, some of which have been imported from the farthest
+reaches of Faerun.  The patrons of this bar mostly keep to themselves, but 
+seem well kept.  The only feature of the bar which seems strangely out of
+place would be the floor which consists of hardwood that has been horribly
+stained in places.  The bar has adjacent rooms to the north and south.
+~
+664 8 0 25 25 10 
+D0
+An adjacent room in the bar.
+~
+~
+0 0 66492
+D2
+An adjacent room in the bar.
+~
+~
+0 0 66520
+D3
+The alley of killers.
+~
+~
+0 0 66505
+E
+stained stain floor~
+The rich hardwood of the floor is well-kept, but a multitude of &+cstrange&N 
+stains mar its surface.  Upon closer inspection, the stains can umistakeably 
+be identified as &+rblood&N.
+~
+S
+#66507
+&+GGarden Street in &+WNeverwinter&N~
+   The twisting pathway of Garden Street continues to weave through the
+warehouse district as it continues its north-south trek through here.  
+The farther south the street leads, the cleaner and larger the dwellings
+surrounding it become and the more grandiose the plant life lining the
+street appears.  Although the northern districts of Neverwinter tend to
+be slightly poorer than those of the south, even the poorest of the 
+city's citizens enjoy the luxury of the beautiful gardens for which the
+city is famous.  The shady alleyway continues to the north and south from
+here.
+~
+664 0 1 30 75 500 
+D0
+Garden street continues.
+~
+~
+0 0 66493
+D2
+Garden street continues.
+~
+~
+0 0 66521
+S
+#66508
+&+wThe Walkway Above the City Walls&N~
+&+L   Stacks of building materials and tools atop the walls here would seem to
+&+Lindicate that preparations are being made for repairs or upgrades to the city
+&+Lwalls here.  Constantly in a state of change and renewal, the city of 
+&+LNeverwinter often has dozens of such projects going on at the same time.  In
+&+Lfact, as soon as a project is finished, there are usually one or two new 
+&+Lprojects starting up and, as such, a staff of craftsmen and workers is 
+&+Lconstantly employed by Lord Nashar to keep the city in good repair.  The 
+&+Lwalkway along the city walls continues north and south from here.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66494
+D2
+The walkway continues.
+~
+~
+0 0 66522
+S
+#66509
+&+LInside the Dock Gates of Neverwinter&N~
+   An enourmous gate bound with iron and decorated with shining Mithril 
+leads west from here to the docks of Neverwtiner. Like the other gates of 
+the city, thes gates were made by the dwarves of Mithril Hall far to the 
+north, these gates are made to withstand any attacks.  Since the risk of a
+naval assault on Neverwinter is slight, the dock gates are left open most 
+of the time.  However, in the event such an attack occurred, the gates 
+could be closed off and staffed with armed guards in a matter of minutes. The
+alcove overhead helps provide a measure of shelter to this place.  To the
+east lies the Old Wharf Road around the western walls while the docks lie
+to the west.
+~
+664 4096 1 50 25 500 
+D1
+The old wharf road.
+~
+~
+0 0 66510
+D3
+The docks of Neverwinter.
+~
+gate gates dock~
+1 -1 66509
+S
+#66510
+&+LThe &N&+yOld Wharf &+LRoad&N~
+   The street near the western walls comes to an end here as it meets the 
+massive dock gates of Neverwinter.  Here, in the cobblestones which make up 
+the street, the Seal of the City of Neverwinter has been beautifully rendered 
+in colored stone.  Despite the relatively high amount of traffic this road 
+recieves from travelers, merchants, and regular patrols of the city guard, 
+the seal has remained in extraordinary condition.  West of here is a large 
+alcove in the city walls where the northern gate leading to the docks reside.  
+The street itself continues to the east of here.
+~
+664 0 1 50 25 500 
+D1
+The road continues.
+~
+~
+0 0 66511
+D3
+The road continues.
+~
+~
+0 0 66509
+E
+seal great~
+The royal badge of the city is a white swirl much akin to a sideways 'M', 
+pointing to the right. It connects three different, white snowflakes, each
+encircled by silver and blue haloes.
+~
+S
+#66511
+&+LThe &N&+yOld Wharf &+LRoad&N~
+   The smell of the sea is even more distinct here as the road alongside the
+western walls nears the docks of Neverwinter.  The trees which have lined the 
+street continue through here, but seem somewhat smaller.  These trees, unlike 
+some of the other, larger trees, were most likely planted by those 
+responsible for the original laying of the road.  Even in their relative
+youth, however, these trees have probably grown here for nearly a century.
+The roar of the ocean breaking on the shores outside of Neverwinter can now 
+be heard slightly above the din of the city.  The street continues to the 
+east and west.
+~
+664 0 1 50 25 500 
+D1
+The road continues.
+~
+~
+0 0 66512
+D3
+The road continues.
+~
+~
+0 0 66510
+S
+#66512
+&+LThe &N&+yOld Wharf &+LRoad&N~
+   The trees surrounding the road are immense here, and appear older than
+the city itself.  In places, the trees completely overhang the road, 
+providing a natural canopy.  Large, stone planters filled with flowers 
+from all over Faerun line the whole area, granting this portion of the 
+street a degree of natural, park-like serenity.  Chirping songbirds and a
+slight salt smell to the breeze add to the beauty of this place even more.
+The street continues east and west.
+~
+664 0 1 50 25 500 
+D1
+The road continues.
+~
+~
+0 0 66513
+D3
+The road continues.
+~
+~
+0 0 66511
+S
+#66513
+&+LA Bend in the &N&+yWharf Road&N~
+   The street surrounding the western walls curves to the west here as it 
+heads towards the Northern Dock Gate.  A large and opulent dwelling lies to 
+the north, most likely the residence of one of the wealthier merchants of
+Neverwinter.  Large, healthy trees line the street through here, adding 
+to the beauty of the area.  Everything about the area here has a well-
+kept feel to it and it is obvious that a great deal of time and money is
+spent maintaining the street.  The street continues south and west.
+~
+664 0 1 25 50 500 
+D0
+A large, opulent building.
+~
+door~
+3 -1 66499
+D2
+The road continues.
+~
+~
+0 0 66523
+D3
+The road continues.
+~
+~
+0 0 66512
+S
+#66514
+&+gKaelen's Clock Shop&N~
+   Clocks of every shape, size, and configuration hang along the walls of the 
+shop, keeping perfect time.  The clocks of Kaelen are famous throughout the 
+realms for the increadible craftsmanship and their uncanny accuracy.  Each 
+one is hand made by Kaelen and due to this are extremely expensive.  The rich 
+and wealthy of Toril often seek out unique clocks from Kaelen to display as 
+status symbols in their homes.  A wide counter stands along the western wall 
+and a narrow doorway leads south through a dividing curtain.
+~
+664 8 0 25 25 10 
+D1
+The Wyrmfrost Road.
+~
+~
+0 0 66515
+D2
+Kaelen's workshop.
+~
+~
+0 0 66524
+S
+#66515
+&+WThe&N &+WW&+Cy&N&+cr&+wm&N&+WF&+wr&N&+co&+Cs&N&+Wt&N &+WRoad&N~
+&+c   Here, the Wyrmfrost Road is surrounded by immense, beautiful buildings.  
+&+cNeverwinter is well-known throughout the Realms for its fine craftsmen and 
+&+cskilled architects, and the buildings here testify to their abilities.  To 
+&+cthe east, an immense and fabulous looking building rises several stories 
+&+cabout the city.  Its false front is decorated with a garden-like variey of 
+&+cplants and interspersed scenes of the famous battles of Neverwinter carved 
+&+cin rich marble.  High atop the building is an immense clock which can be 
+&+cseen from nearly everwhere in the city.  Its regular and rythmic chimes 
+&+ckeep time with uncanny, unmatched accuracy.  To the west lies the famous 
+&+cshop of Kaelen the master clockmaker.&N
+~
+664 4 1 40 40 20 
+D0
+The Wyrmfrost Road.
+~
+~
+0 0 66501
+D2
+The Wyrmfrost Road.
+~
+~
+0 0 66525
+D3
+A large, regal shop.
+~
+~
+0 0 66514
+S
+#66516
+&+rInside the Clock Tower&N~
+&+y   This sparse room contains little more than a tiny table, a chair, and a 
+&+ystaircase leading upwards.  Large, wooden support beams bound with iron help 
+&+ysupport the massive clock mechanism which can be heard ticking loudly 
+&+yoverhead.  The small table and chair appear to be recently cleaned and likely
+&+yserve as a desk for whomever oversees the maintenance of the clock.  Over the
+&+yincessanct ticking of the clock, the chirping of birds can also be heard
+&+ywhich would help account for the white carpeting of bird droppings which coat
+&+ythe stairs leading upwards.  The doorway to the east leads back out to a
+&+ycluttered alleyway.&N
+~
+664 8 0 25 25 10 
+D1
+A cluttered alleyway.
+~
+door~
+3 -1 66517
+D4
+The top of the tower.
+~
+~
+0 0 66546
+S
+#66517
+A Cluttered Alleyway~
+   Debris covers the floor of this alleyway, apparently the remains of a
+half-collapsed building to the east.  Large wooden beams and chunks of
+stone block now almost block passage to the south and make footing in
+the alleyway somewhat treacherous.  Squeaking sounds from beneath the 
+rubble would seem to indicate that rats have taken up residence in the
+remains of the building.  North of here, the alley appears to clear up
+somewhat, while to the west, a doorway leads into a tall, tower-like
+building.
+~
+664 1 1 40 40 20 
+D0
+A sinister alleyway.
+~
+~
+0 0 66503
+D1
+~
+rubble debris secret~
+5 0 66518
+D3
+~
+door~
+3 -1 66516
+S
+#66518
+&+yInside a Ruined Building&N~
+   The remnants of this dwelling can hardly be called a building anymore. 
+Only three of the original four walls still stand, and the only roof the
+building has is the wide, grayish sky over Neverwinter.  Exactly what
+happened to this building remains to be seen, but the northern warehouse
+district is known for its aged buildings.  It's possible that time was the
+culprit which brought this building down.  Judging by the whitened bones 
+which occasionally protrude from the rubble, it looks as though the 
+building may well have come down right on top of its previous occupants. An
+alleyway strewn with debris lies to the west through a large pile of rubble.
+~
+664 8 0 25 25 10 
+D3
+~
+rubble debris secret~
+5 0 66517
+S
+#66519
+&+LEntrance to the &+ROld Assassin's Guild&N~
+&+r   Much like the bar outside, this room is lavishly decorated.  The floors of
+&+rthe room are covered in a thick, dark carpeting and the walls bear a rich,
+&+rwood paneling.  A large portrait of a dark figure predominates the northern
+&+rwall of the room, accompanied by a small brass plaque.  Although no visible
+&+rlight source can be seen in the room, a dim light provides enough 
+&+rillumination to see clearly.  A larger chamber can be seen to the south, 
+&+rwhile a panel in the wall to the east appears more worn than the others.  In
+&+rages past, this room served as the entryway to the local Assassin's Guild, but
+&+rpolitical changes in the area have since forced its closing and many of its
+&+rmembers have since dispersed to other areas of the Realms.&N
+~
+664 8 0 25 25 10 
+D1
+~
+secret panel~
+5 0 66520
+D2
+An adjacent chamber.
+~
+~
+0 0 66529
+E
+plaque brass~
+'To Kill is To Live'
+~
+S
+#66520
+A Dark Bar~
+   This room, much like the other rooms of the bar, is very well decorated.
+Rich, polished wood and brash fixtures dominate the room.  Dim torches 
+provide the only light in the room leaving the farthest corners in total
+darkness.  Dark figures, seeming to merge with the shadows themselves are
+seated at the various booths along the walls.  The floor in this room, like
+the floors in the rest of the bar, appears to bear numerous dark stains on
+its surface.  The only visible exit from the room is through the doorway
+that leads to the main room of the bar.
+~
+664 8 0 25 25 10 
+D0
+The main room of the bar.
+~
+~
+0 0 66506
+D3
+~
+secret panel~
+5 0 66519
+E
+stained stain floor~
+The rich hardwood of the floor is well-kept, but a multitude of &+cstrange 
+&+cstains&N mar its surface.  Upon closer inspection, the stains can 
+umistakeably be identified as &+rblood&N.
+~
+S
+#66521
+&+GGarden Street in &+WNeverwinter&N~
+   The buildings surronding the street here appear to be in better condition
+than most of the others in the area.  The distinctive smell of fresh mead
+and mulled wine fills the air through here, mingling with the fragrances from
+the many plants along the street, and hinting at the nearness of a
+brewery or large tavern.  Occasionally, silent figures can be seen strolling
+casually amonst the trees and plants of the area, apparently lost in the
+beauty and splendor of the city.  Garden Street continues both north and south through here.
+~
+664 0 1 30 75 500 
+D0
+A shady alleyway.
+~
+~
+0 0 66507
+D2
+A shady alleyway.
+~
+~
+0 0 66531
+S
+#66522
+&+wEnd Of The Walkway Along the &+LCity Walls&N~
+   Almost suddenly, the walkway along the top of the city walls comes to an
+end here.  Apparently, the proximity of the Neverwinter river to the walls
+below would seemingly preclude any chance of an attack from farther along
+the walls.  Far to the southeast, the battlements atop the walls can be seen
+beginning again, closer to the northeastern gate of the city where the 
+Neverwinter Wood nears the walls again.  The walkway along the city walls
+continues to the north from here.
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66508
+S
+#66523
+&+LThe &N&+yOld Wharf &+LRoad&N~
+   The elaborate street around the western walls continues through here.  The 
+intricate patters of the cobblestones on the ground must have taken years to
+design and lay.  Far to the east, the grand palace of Lord Nasher rises high 
+into the sky.  Guards constantly patrol high on the wall ramparts above, as 
+well here on the street level.  Occasionally, the sweet smell of flowers 
+drifts through here, brought on the cool breeze from the Trackless Sea.  The 
+street continues north and south from here.
+~
+664 0 1 25 50 500 
+D0
+The road continues.
+~
+~
+0 0 66513
+D2
+The road continues.
+~
+~
+0 0 66622
+S
+#66524
+&+gKaelen's Workshop&N~
+   Long, highly polished wooden tables fill this room and are covered with 
+all sorts of tools and clocks in progress.  In this room, the greatest water 
+clocks in the realms are painstakingly made and assembled.  The clutter in 
+this room seems almost unbearable, and yet there appears to be some sort of 
+method to the madness of the arrangement of the place.  The ample light in 
+the room is supplied by large, stained glass windows which look out on the 
+city.  The only apparent exit from this room is through a narrow doorway in 
+the northern wall which leads out to the shop.
+~
+664 8 0 25 25 10 
+D0
+The shop lies in that direction.
+~
+~
+0 0 66514
+S
+#66525
+&+WThe&N &+WW&+Cy&N&+cr&+wm&N&+WF&+wr&N&+co&+Cs&N&+Wt&N &+WRoad&N~
+&+c   The broad Wyrmfrost Road continues its trek to through the city of 
+&+cNeverwinter through here.  As the road nears the center of town to the 
+&+csouth, the buildings alongside the road take on more elegant and officious 
+&+cappearances.  The variety of plants and flowers decorating the buildings 
+&+clining the road help attest to the skill of Neverwinter's famous 
+&+cgardeners.  Even in the harsh winters, this road remains clear and lined 
+&+cwith the lush, fragrant vegetation.  To the north lies the bustling 
+&+cwarehouse district of Neverwinter while south lies the center of town and 
+&+cNeverwinter Square.  East of here, a large, silver sign ornately proclaims
+&+cthe location of the famous &+GShining Serpent Inn&N&+c which provides shelter and 
+&+chospitality to weary travelers.  To the south lies the intersection of the
+&+cWyrmfrost Road and Coldsteel Street.&N
+~
+664 4 1 40 40 20 
+D0
+The Wyrmfrost Road.
+~
+~
+0 0 66515
+D1
+The Shining Serpent Inn.
+~
+~
+0 0 66526
+D2
+The Wyrmfrost-Coldsteel intersection.
+~
+~
+0 0 66624
+E
+inn~
+The Shining Serpent Inn is a simple mud-brick building rising four stories
+above the Wyrmfrost Road.  Many of the windows of the building are made of
+stained glass which glints faintly in the sunlight.
+~
+S
+#66526
+&+YThe &+GShining Serpent&+Y Inn&N~
+   Shouts and raucous laughter mark this large room as the entrance to the 
+famed Shining Serpent Inn.  Scattered about the room are various tables and 
+booths at which sit a wide variety of travelers and adventurers, each with a 
+tale to tell of their heroics.  Waitresses hurry about the room carrying 
+trays laden with large tankards of ale and piled high with the large bowls of 
+stew for which this inn is known.  Although some of the adventurers 
+inhabiting this room look less than friendly, the mood of the room is very 
+light-hearted and cheerful.  A broad, stone staircase leads upwards to the 
+rooms of the inn while a broad doorway leads east into a quieter room which 
+serves as the inn's bar.
+~
+664 12 0 25 25 10 
+D1
+The inn's bar lies that way.
+~
+~
+0 0 66527
+D3
+The Wyrmfrost Road.
+~
+~
+0 0 66525
+D4
+The inn's reception room.
+~
+~
+0 0 66547
+S
+#66527
+&+YThe Bar of the &+GShining Serpent&N~
+   Unlike the boisterous and lively main room of the inn, the bar is much 
+quieter and subdued.  The lighting in this room is quite a bit dimmer than in 
+the main room, making it difficult to see into some of the far corners.  
+Hushed conversations and sipped drinks make up a majority of the activity in 
+this room.  The cautious and frequent glances of the occupants of the bar 
+would seem to indicate that not all of the dealings here are above board.  A 
+wide, polished marble bar lines the entire northern wall of this room, behind 
+which are bottles of every imaginable potable in the realms.  A wide doorway 
+leads west into the much louder and more active main room of the inn while a
+smaller, less-noticeable door leads east to a smaller room.
+~
+664 8 0 50 50 20 
+D1
+A back room of the bar.
+~
+door~
+3 -1 66528
+D3
+The inn's main room.
+~
+~
+0 0 66526
+S
+#66528
+&+YBack Room of the &+GShining Serpent&N~
+   This room appears to be something of a small casino.  Several felt-covered
+tables are spread about the room where gamblers engage in a variety of games.
+Occasionally, heated arguments erupt at the tables, but are usually resolved
+quickly by the large, armed bouncers who constantly patrol the room.  From
+the looks of things, this little casino appears very popular and very 
+profitable.  A doorway in the western wall leads out to the bar of the 
+Shining Serpent Inn.
+~
+664 8 1 25 25 10 
+D3
+The inn's main bar.
+~
+door~
+3 -1 66527
+D5
+~
+trap secret~
+5 0 66916
+S
+#66529
+&+LThe Hall of the &+RAssassin&N~
+&+r   The walls of this enourmous pillared chamber are covered with daggers of
+&+revery imaginable size and shape.  Some of them appear to be centuries old 
+&+rwhile others gleam as though forged merely days ago.  Beneath each is a small
+&+rbrass plaque bearing simply a name and a number.  Dark, blood-red tapestries
+&+rand gold-rimmed curtains hang throughout the room, granting an odd degree of
+&+rwarmth to this shrine of death.  A smaller room lies to the north while a 
+&+rtrapdoor leads downward from here, presumably to the sewers of Neverwinter.&N
+~
+664 8 0 25 80 25 
+D0
+An adjacent room.
+~
+~
+0 0 66519
+D1
+An adjacent chamber.
+~
+door~
+7 -1 66530
+D5
+A trapdoor leads downwards.
+~
+trapdoor trap~
+3 -1 66952
+S
+#66530
+&+LThe Master's Chamber&N~
+&+L   This room appears to be a very well decorated office of sorts.  A large
+&+Lwooden desk takes up a majority of the center of the room and is littered
+&+Lwith a multitude of parchment documents.  Bookshelves filled with volumes
+&+Lranging from history to anatomy line the walls, and even a potted plant or 
+&+Ltwo appear to have found homes here.  Along the southern wall, a collection
+&+Lof daggers hang in an elaborate display case, as well as several vials of
+&+Ldark liquid.  A tattered training dummy also stands somewhat forgotten in a
+&+Lfar corner of the room.  The only visible exit is through the door to the 
+&+Lwest.&N
+~
+664 8 1 40 40 20 
+D3
+An adjacent room.
+~
+door~
+7 -1 66529
+S
+#66531
+&+GGarden Street in &+WNeverwinter&N~
+   Bright sunshine bathes the ground of the street here, highlighting much 
+of the plant life and foliage.  Occasionally, odd bits of garbage and other 
+items can be seen where careless passers by have tossed them.  Normally,
+such small articles of litter would be quickly picked up and disposed of by
+the street cleaners who constanly patrol the city.  In this case, it appears
+as though this section of Garden Street has simply been skipped over or has
+not been cleaned too recently.  South of here, lies the wide, bustling expanse
+of the Garden Street and Coldsteel Street intersection.
+~
+664 0 1 30 75 500 
+D0
+A shady alleyway.
+~
+~
+0 0 66521
+D2
+The Coldsteel-Garden Street intersection.
+~
+~
+0 0 66630
+S
+#66532
+&+LA Large Storage Room&N~
+   This room, unlike the majority of the compound, has rough, hardwood 
+flooring.  Deep, ragged scratched in the surface would seem to indicate
+that relatively heavy objects have been moved through here somewhat 
+frequently.  Although dimly lit, it is possible to make out the outlines of
+crates and boxes stacked in the corners of the room.  The air in the room is
+uncommonly dry and dust is practically non-existant.  A wooden trapdoor in 
+the floor leads downwards, while a sturdy oaken door leads south into another
+room.
+~
+664 8421384 1 40 40 20 
+D2
+An adjacent chamber.
+~
+door~
+2 0 66536
+D5
+A trapdoor leads down.
+~
+trapdoor secret trap~
+6 0 66422
+S
+#66533
+&+MA Large Dining Chamber&N~
+&+m   The massive table in the center of the room, complete with place 
+&+msettings for several dozen people would seem to mark this room as a dining 
+&+mhall for the compound.  The large, dark tapestries which hang over the 
+&+mrich wood paneling of the room bear images of the ocean.  Many portray 
+&+mscenes of violent storms at sea.  Several show large vessels being hauled 
+&+munder the waves by massive, black tentacles.  The plates and other pieces 
+&+mof the place settings all bear the same insignia found throughout the rest 
+&+mof the Kraken compound.&N
+~
+664 8421384 1 50 50 20 
+D1
+An adjacent chamber.
+~
+door~
+3 -1 66534
+S
+#66534
+&+MA Bend in the Wide Hallway&N~
+&+m   Murmured conversations and strange sounds echo down the wide path of 
+&+mthe hallway through here.  The thick carpeting found throughout most of 
+&+mthe compound has been replaced here with a marvelous wooden floor.  
+&+mMultiple types of wood of various colors spread out in an intricately 
+&+mdesigned woven pattern which continues in both directions down the 
+&+mhallway, seemingly without repeating.  The hallway itself passes south and 
+&+meast from here while a thick wooden door is set in the western wall.&N
+~
+664 8421384 0 50 75 100 
+D1
+The hallway continues.
+~
+~
+0 0 66535
+D2
+The hallway continues.
+~
+~
+0 0 66538
+D3
+An adjacent chamber.
+~
+door~
+3 -1 66533
+S
+#66535
+&+MA Bend in the Wide Hallway&N~
+&+m   As the hallway curves through the upper levels of the compound here, 
+&+mthe lighting dims somewhat as the narrow, stained glass windows in the 
+&+mwalls allow only thin, darkly colored shafts of light to penetrate the 
+&+mgloom.  The intricate hardwood flooring and wooden paneling on the walls 
+&+mmakes this particular stretch of hallway something of an echo chamber.  
+&+mThe path of the hallway itself bends both west and south from here.&N
+~
+664 8421384 0 50 75 100 
+D2
+The hallway continues.
+~
+~
+0 0 66539
+D3
+The hallway continues.
+~
+~
+0 0 66534
+S
+#66536
+&+MA Small Chamber&N~
+&+m   The wide stained glass windows in this room allow a good deal of light 
+&+mto penetrate the pressing gloom of the room.  The windows appear somewhat 
+&+mout of place in such a small, unadorned room, but it is most likely that 
+&+mthe intended function of this room was something different at an earlier 
+&+mtime.  Now it appears that this room has been converted to an inpromptu 
+&+mcloset of sorts.  Crates and boxes filled with all sorts of mundane, as 
+&+mwell as unusual items, have been piled from floor to ceiling throughout 
+&+mmuch of the room.  Deep scratches in the wooden floor of the room lead 
+&+mbetween a chamber to the south through a door to the north.&N
+~
+664 8421384 1 40 40 20 
+D0
+An adjacent room.
+~
+door~
+2 66905 66532
+D1
+Another chamber lies there.
+~
+door~
+2 0 66537
+D2
+Another chamber lies there.
+~
+~
+0 0 66540
+E
+scratches~
+The scratches in the floor would seem to indicate that something rather
+heavy and cumbersome was moved through here.
+~
+S
+#66537
+&+MA Small Office&N~
+&+m   This tiny room appears to be a makeshift office of some sort.  Nearly 
+&+mall of the comfortable furniture has been removed from this room so that 
+&+mseveral rather plain-looking desks could be placed along the walls.  Hard,
+&+mwooden chairs have been placed around the room as well.  On each of the 
+&+mdesks, stacks of papers and scrolls have been haphazardly piled in what
+&+mappears to be no real order at all.  A small wooden door leads west from
+&+mhere while a larger, more ornate door leads south.&N
+~
+664 8421384 1 40 40 20 
+D2
+An adjacent room.
+~
+door~
+3 0 66541
+D3
+A plain door leads west.
+~
+door~
+2 66673 66536
+E
+paper papers scroll scrolls~
+&+wThe papers and scrools piled on the desks, although written in a 
+&+wstrange and unusual dialect, appear to contain many numbers and dates.
+&+wLikewise, a few locations can be seen amongst the hand-written notes, 
+&+wincluding '&+bWaterdeep&+w', '&+rLuskan&+w', and '&+gBaldur's Gate&+w'.&N
+~
+S
+#66538
+&+MEnd of the Wide Hallway&N~
+&+m   The long, wide hallway through the upper level of the Kraken compound 
+&+mcomes to an end here in a massive pair of double doors.  Each door is set 
+&+mwith a large, etched metal copy of the Kraken insignia which seem to glow
+&+mmalevolently in the dull light of the hallway.  On both sides of the 
+&+mdoors, large statues of carved marble stand like silent sentinels.  The 
+&+mhallway leads back to the north while the two massive doors lead to the 
+&+msouth.&N
+~
+664 8421384 0 25 25 10 
+D0
+The hallway continues.
+~
+~
+0 0 66534
+D2
+Massive doors lead to the south.
+~
+doors~
+2 0 66542
+E
+statue statues marble carved~
+The statues bear the likeness of hooded, robed figures.  In their right
+hands, they hold gnarled staves while thier left hands are bent and held in
+arcane gestures.  Around their necks on the outside of their robes hangs the
+carved likeness of the Kraken Seal found throughout the compound.
+~
+S
+#66539
+&+MAlong A Wide Hallway&N~
+&+m   The intricate patterns of the wood flooring continue through this 
+&+mstretch of the otherwise bland hallway.  Occasionally, small tables or 
+&+mpedestals will stand alongside the walls, but very few actually support 
+&+manything.  It almost appears as though the builders of this place have not 
+&+myet finished installing all of the decor which seems strange considering 
+&+mthe lavish appearance of the lower levels.  The hallway can be seen 
+&+mcontinuing both north and south in the dim light.&N
+~
+664 8421384 0 25 25 10 
+D0
+The hallway continues.
+~
+~
+0 0 66535
+D2
+The hallway continues.
+~
+~
+0 0 66543
+S
+#66540
+&+MA Large Circular Room&N~
+&+m   The wooden floor of this room has clearly seen better days.  A great 
+&+mdeal of traffic across the floor has worn deep ruts in the wood and 
+&+mstripped away most of the protective varnish.  Large boxes, mostly empty 
+&+mor filled with packing straw, have been stacked in the corners, apparently 
+&+mawaiting their cargo.  Strangely out of place, a large, circular stone has 
+&+mbeen set in the floor in the center of the room.  The only visible exit 
+&+mfrom the room is through a doorway to the north.&N
+~
+664 8421384 1 40 40 20 
+D0
+An adjacent chamber.
+~
+~
+0 0 66536
+E
+stone~
+The surface of the stone, rather than being smooth as first suspected, is
+actually covered in its entirety with various runes and magic sigils of an
+unknown origin or purpose.
+~
+S
+#66541
+&+MA Large Library&N~
+&+m   Shelves line the walls of this room from floor to ceiling.  Books of 
+&+mevery size and description have been gathered here from around the realms.
+&+mMany of the books appear to be historical in nature, and many appear to be
+&+msome of the oldest atlases of the realms in existence.   Also on the 
+&+mshelves are several books on strategy as well as some magical texts in an 
+&+munknown and ancient language.  The air in the room is noticeably drier and 
+&+mwarmer than the rest of the compound, most likely a protective spell of 
+&+msome sort to preserve the books.  Small doorways lead both north and east 
+&+mfrom here.&N
+~
+664 8421384 0 25 25 10 
+D0
+A newer doorway leads north.
+~
+door~
+3 -1 66537
+D1
+A doorway leads east.
+~
+doorway door~
+2 66673 66542
+E
+shelves~
+&+yMade of a heavy wood, possibly from the Neverwinter Wood itself, these
+&+yshelves easily bear the weight of the great tomes they hold.&N
+~
+S
+#66542
+&+LA Magnificent Office&N~
+   This enourmous room is lavishly decorated, right down to the immense
+desk at its center which appears to be made of carved stone.  The small 
+fireplace in the southern wall appears well used, although it is currently
+cold.  Thick, luxurious carpeting covers the floor and throughout the room, 
+rare artifacts from around the realms have been collected and displayed.  A 
+large map adorns the wood paneled wall to the east.  Massive, double doors 
+lead north while a smaller door leads west.
+~
+664 8421384 1 40 40 20 
+D0
+Massive doors lead to the north.
+~
+door doors~
+2 0 66538
+D2
+~
+fireplace secret~
+5 0 66544
+D3
+A door leads west.
+~
+door~
+3 66673 66541
+E
+map~
+&+wThe map appears to be a very detailed schematic of the northern realms
+&+wfrom south around Baldur's Gate to the Spine of the World to the north.  
+&+wSeveral notes have been made on the map, but are in an indecipherable dialect.
+&+wA large red circle has been drawn around some of the islands in the 
+&+wTrackless Sea to the west of Neverwinter, but no reason is noted.&N
+~
+E
+carpet floor~
+&+mThe carpet in this room is a rich, deep purple in color and as soft as
+&+mdown to the touch.  Behind the desk, it is odd to note that sooty footprints
+&+mlead across the carpet from the desk into the fireplace.&N
+~
+E
+fireplace~
+&+rThe fireplace is extremely large, composed mostly of carved stone of the 
+&+rsame type as the desk.  To no surprise, the Kraken Seal is promintnely 
+&+rdisplayed above the mantle in beautiful, if not disturbing, relief carving.&N
+~
+S
+#66543
+&+MAlong A Wide Hallway&N~
+&+m   In this portion of the hallway, the thick carpeting found throughout
+&+mmuch of the compound has been replaced with an intricately patterend 
+&+mwooden flooring.  Panels of dozens of types of wood twist and bend around
+&+mone another in a weave-like pattern with no noticeable repetition.  With 
+&+mthe disappearance of the carpeting, the sounds of the hallway change from
+&+mhushed murmurs and deadened conversations to haunting, echoing sounds 
+&+mcoming from much further away.  The hallway itself continues unhindered 
+&+mboth to the north and to the south.&N
+~
+664 8421384 0 25 25 10 
+D0
+The hallway continues.
+~
+~
+0 0 66539
+D2
+The hallway continues.
+~
+~
+0 0 66545
+S
+#66544
+&+LThe War Room&N~
+   This room, in sharp contrast to the office north of here, is devoid of 
+all luxurious refinement.  Instead, cold stone walls and floors give this
+room a dark, somber feel.  The majority of the room is occupied by an
+enourmous table on which a model of the city of Neverwinter and the 
+surrounding areas has been placed.  The Kraken Compound is displayed most
+prominantly in the city as a dark, purplish building of carved stone.  Oddly
+enough, a very similar structure has been placed on the islands to the west 
+of the city even though they have been thought to be largely uninhabited.
+~
+664 8421384 1 40 40 20 
+D0
+~
+fireplace secret~
+5 0 66542
+S
+#66545
+&+MAtop A Large Staircase&N~
+&+m   The majority of the light in this small area comes from the large 
+&+mstairway leading down to the lower floor.  Without any large windows in 
+&+mthe walls here, the only real illumination visible on this floor comes 
+&+mfrom down a long hallway to the north.  Large potted plants on either side 
+&+mof the stairway's top lend a jungle-like feel to this place.  However, it 
+&+mappears as though the wide hallway to the north is largely unadorned.  The 
+&+mlarge staircase leads down from here, while the hallway leads north.&N
+~
+664 8421384 0 25 25 10 
+D0
+The hallway continues.
+~
+~
+0 0 66543
+D5
+A staircase leads down.
+~
+~
+0 0 66458
+E
+plant plants~
+&+GThe potted plants appear to be some sort of miniature palm or fern.  Their
+&+Gdense fronds give them a very bushy appearance.  Despite the gentle, lush
+&+Gappearance of the plants in general, several large, thorny protrusions would
+&+Gseem to advise against getting too close to them.&N
+~
+S
+#66546
+&+rUpper Level of the Clock Tower&N~
+&+y   The vast majority of the space on this level of the clock tower is taken
+&+yup by the massive clock machinery used to keep time.  Unlike the famous water
+&+yclocks of Neverwinter, this clock is a standard mechanical one.  The slow, 
+&+yrythmic ticking of the clock blends perfectly with the noise from the streets
+&+ybelow, forming a subtle symphony of activity.  Periodically, birds can be
+&+yheard flapping about in the rafters overhead and the thick, white layer of
+&+ydroppings on the floor would seem to indicate that many spend a great deal of
+&+ytime here.  A window looks out over the street to the west, while a stairway 
+&+yleads downward to the base of the tower.&N
+~
+664 8 0 25 25 10 
+D5
+Lower level of the tower.
+~
+~
+0 0 66516
+E
+window street~
+Through the window, the hustle and bustle of the Wyrmfrost Road spreads 
+out north and south.  The citizens of Neverwinter and countless visitors
+carry about on their routines, looking like a thousand small ants.
+~
+S
+#66547
+&+ySecond Level of the &+GShining Serpent&N&+y Inn&N~
+   The loud, racous chatter of the lower level of the inn seems far removed
+from this peaceful chamber.  Thick carpeting on the floors and many brightly
+colored tapestries on the walls help to dampen the noise from the bar below 
+so that weary travelers may find a quiet place to rest.  Several large, soft
+chairs line the walls of the room, giving the inn a somewhat luxurious feel.  
+The Inn of the Shining Serpent continues to the east from here while a 
+staircase leads downwards where the sounds of the bar can be heard.
+~
+664 8 0 25 25 10 
+D1
+Another room lies that way.
+~
+~
+0 0 66548
+D4
+A staircase leads up.
+~
+~
+0 0 66594
+D5
+The staircase leads down.
+~
+~
+0 0 66526
+S
+#66548
+&+yMain Desk of the &+GShining Serpent&N&+y Inn&N~
+   This room, like the rest of the Inn, is very quiet.  Thick, luxurious
+carpeting covers the floors, adding a degree of elegance to what is otherwise
+a fairly average inn.  Although the bar below seems constantly occupied and
+teeming with life, the inn itself is deserted.  Even the worker normally
+present at the reception desk is absent, most likely enjoying the socializing
+of the tavern below.  Despite the presence of the generally affluent citizens
+of Neverwitner, this inn appears to see little business, possibly due to its
+rates which tend to be a bit high for the average traveler of the north.  A
+larger room lies to the west of here.
+~
+664 8 0 25 25 10 
+D3
+Another room lies that way.
+~
+~
+0 0 66547
+S
+#66549
+&+WThe Trophy Room&N~
+&+W   The contents of this room could best be described as trophies.  While some
+&+Wof the pieces may qualify as pieces of art or genuine artifacts, the majority
+&+Wwould seem to be generally worthless and of only sentimental value.  Included
+&+Wamong the pieces displayed on the walls are several old, battered weapons, a
+&+Wdelapidated suit of armor, and a few portraits of individuals in adventuring
+&+Wgear.  It is quite possible that this home belongs to one of the old 
+&+Wadventurers of the north who has decided to make Neverwinter their home in 
+&+Wtheir old age.  A doorway leads east from here to the rest of the dwelling.&N
+~
+664 8 1 40 40 20 
+D1
+A doorway leads east.
+~
+~
+0 0 66550
+S
+#66550
+&+WA Balcony Over A Wide Stone Staircase&N~
+&+W   The rich marble flooring of the lower level of the dwelling is continued
+&+Weven here in the upper story.  The majestic artwork, however, has been 
+&+Wreplaced by potted plants and other, more natural fixtures.   High above, 
+&+Wskylights in the ceiling allow some of the natural light from outside to
+&+Wfilter into the dwelling.  West of here lies a smaller chamber, while to the
+&+Weast there appears to be a large bedroom of some sort.  A wide, stone 
+&+Wstaircase leads back down to the lower level of the dwelling.&N
+~
+664 8 0 25 25 10 
+D1
+A bedroom lies there.
+~
+~
+0 0 66551
+D3
+An adjacent room.
+~
+~
+0 0 66549
+D5
+A stairway leads down.
+~
+~
+0 0 66499
+S
+#66551
+&+WThe Master Bedroom&N~
+&+W   In this room, a multitude of comfortable furniture and thick, luxurious 
+&+Wcarpeting has replaced the rather sterile decor present throughout the
+&+Wrest of the dwelling.  Rather than expensive pieces of artwork, the occupant
+&+Wof this room has chosen more common pieces of local folk art.  Scenes of
+&+Wnearby landmarks and portraits of the Neverwinter Wood would seem to be a
+&+Wmuch more accurate portrayal of the owner's true taste in artwork.  The light
+&+Win the room is supplied by two rather simple stained-glass windows in the
+&+Wsouthern wall.  A doorway leads west to the rest of the dwelling.&N
+~
+664 8 1 40 40 20 
+D3
+An adjacent room.
+~
+~
+0 0 66550
+S
+#66552
+&+wThe Walkway Above the City Walls&N~
+&+L   The stones of the walkway along the top of the city walls have been worn
+&+Lsmooth over countless years of constant patrolling.  In the more traveled
+&+Lareas, a small trough has been worn in the softer stones and pools of water
+&+Lhave collected here and there.  High top poles here and there, the standards
+&+Lof the city of Neverwinter flap lazily in the breeze.  To the south, the vast
+&+Lcity spreads out as far as the eye can see.  The walkway continues east and
+&+Lsouth from here.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66553
+D2
+The walkway continues.
+~
+~
+0 0 66560
+D5
+A staircase leads downward.
+~
+~
+0 0 66401
+S
+#66553
+&+wThe Walkway Above the City Walls&N~
+&+L   The shouts and constant clamor of a major city well up from the ground
+&+Lbelow here and fill the air with life.  City guards can be seen constantly
+&+Lpatrolling atop the walls here, ever vigilant against the threat of an attack
+&+Lfrom hostile Luskan to the north.  In the hundreds of years of the history of
+&+Lthe city, the walls have never been successfully breached, but Lord Nasher
+&+Land his guards take no chances in their defense of the citizenry.  The stone
+&+Lwalkway continues to the east and west from here.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66554
+D3
+The walkway continues.
+~
+~
+0 0 66552
+S
+#66554
+&+wThe Walkway Above the City Walls&N~
+&+L   A small guard post of sorts has been set up here on the pathway.  A set
+&+Lof mounts for heavy crossbows have been set in the stone walls here, allowing
+&+Larchers and guards to quickly establish defensive positions.  Although the
+&+Lpost appears to have seen a good deal of use in its history, the crossbow
+&+Lmounts and stone archer blinds are well cared for and kept in constant 
+&+Lreadiness should the city come under attack.  The stone walkway continues to
+&+Lthe east and west from here.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66555
+D3
+The walkway continues.
+~
+~
+0 0 66553
+S
+#66555
+&+wThe Walkway Above the City Walls&N~
+&+L   The worn stones of the walkway continue their trek atop the city walls 
+&+Lthrough here.  The constant patrol of the guards adds a sense of activity and
+&+Lliveliness to the walkway, but in reality, there is actually very little to 
+&+Lsee and do here.  The dark expanse of the Neverwinter Wood stretches as far 
+&+Lto the north as the eye can see, while the bustling city of Neverwinter 
+&+Lcontinues into the distance to the south.  The stone walkway continues both
+&+Least and west from here.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66556
+D3
+The walkway continues.
+~
+~
+0 0 66554
+S
+#66556
+&+wThe Walkway Above the City Walls&N~
+&+L   The rather dull and ininterseting monotony of the walkway atop the city 
+&+Lwalls continues through here.  The smooth, worn stones show darker stains
+&+Lhere and there, possibly attesting to blood spilt long ago in one of the many
+&+Lattacks against the city.  However, these attacks have become much less 
+&+Lfrequent in recent history and, as such, the stains of old have started to
+&+Lfade.  The stone walkway continues both east and west from here.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66557
+D3
+The walkway continues.
+~
+~
+0 0 66555
+S
+#66557
+&+wThe Walkway Above the City Walls&N~
+&+L   As the walkway atop the city walls nears the northwestern gates of the 
+&+Lcity, the path of the walkway becomes much wider and sturdier, allowing
+&+Lfor large equipment and greater numbers of troops to be stationed there.
+&+LThrough here, anchors have been set in the walkway for catapults and large
+&+Lmetal cauldrons used to pour boiling liquids down upon any force foolish
+&+Lenough to attempt an attack on the city itself.  The walkway continues to
+&+Lthe east and west from here.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66558
+D3
+The walkway continues.
+~
+~
+0 0 66556
+S
+#66558
+&+wThe Walkway Above The Northwest Gate&N~
+&+L   Here, above the northwestern gate to Neverwinter, the walkway has been
+&+Lheavily fortified and equipped to withstand assaults.  Here and there,
+&+Lstacks of munitions and light arms have been gathered under waterproof
+&+Lcoverings so as to be ready at a moments notice.  Although attacks on the
+&+Lcity have become less frequent in past years, the presence of hostile
+&+LLuskan to the north means the city must prepare for the worst at all times.
+&+LThe walkway continues to the west and to the east from here where it enters
+&+Lthe shelter of the northwestern keep.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66559
+D3
+The walkway continues.
+~
+~
+0 0 66557
+S
+#66559
+&+rAtop The Northwestern Keep&N~
+&+w   As the walkway passes through the upper level of the northwestern 
+&+wguard tower, it turns southward to follow the curvature of the city
+&+wwalls.  A stone staircase in the floor leads down to the main level of
+&+wthe keep, while large, arched stone doorways lead to the west and
+&+wsouth from here.  In the corners of the keep, stacks of crossbows and
+&+wother ranged weapons have been stockpiled to help the city guard and
+&+wmilitia members defend the city walls from any attempted onslaught.&N
+~
+664 4 1 40 40 20 
+D2
+The walkway continues.
+~
+~
+0 0 66561
+D3
+The walkway continues.
+~
+~
+0 0 66558
+D5
+The first floor of the guard keep.
+~
+~
+0 0 66408
+S
+#66560
+&+wThe Walkway Above the City Walls&N~
+&+L   The roar of the relentless waves of the Trackless Sea crashing on the
+&+Lrocky shore carries up to the top of the city walls here.  Stretching as
+&+Lfar to the west as the eye can see, the Trackless Sea boils and churns
+&+Lfrom the constant winds of the north.  Dotting the horizon to the west, a
+&+Lsmall chain of islands can be seen, jutting precariously above the
+&+Lsurface of the water.  Southwest of here, Neverwinter's naturally calm
+&+Lharbor provides respite to the trading ships who traverse these waters as
+&+Lthey move their goods from market to market.  The walkway atop the city
+&+Lwalls continues to the north and south.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66552
+D2
+The walkway continues.
+~
+~
+0 0 66565
+S
+#66561
+&+wThe Walkway Above the City Walls&N~
+&+L   A gentle, chilly breeze blows across the pathway here, sending a slight
+&+Lchill into the flesh.  Stretching as far as the eye can see to the north and
+&+Least, the vast Neverwinter Wood stands like a menacing green wall around the
+&+Lcity.  Although the regions of the Wood near the city are relatively safe,
+&+Lmany dark dangers are said to await within the deeper reaches of the forest.
+&+LThe city guards who patrol the walls through here are constantly on the 
+&+Llookout for any threats to the city which may emerge from the depths of the
+&+LWood.  The walkway along the city walls continues north and east from here.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66559
+D1
+The walkway continues.
+~
+~
+0 0 66562
+S
+#66562
+&+wThe Walkway Above the City Walls&N~
+&+L   The centuries old battlements of the city continue through here.  Every 
+&+Lnow and then, wooden or stone blinds have been added to the walls to allow
+&+Lsome of the city's archers protected vantage points from which to fire.
+&+LAlthough attacks are infrequent as of late, several scarred areas of the
+&+Lwalls and the evidence of repair work would seem to indicate that at least
+&+La few attempts on the city have been defended from here.  The stone path of
+&+Lthe walkway along the city walls continues both east and west of here.  To
+&+Lthe south, some rooftops of the city can be reached with little difficulty.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66563
+D2
+Some rooftops lead off that way.
+~
+~
+0 0 66566
+D3
+The walkway continues.
+~
+~
+0 0 66561
+S
+#66563
+&+wThe Walkway Above the City Walls&N~
+&+L   Small pools of water have collected in the low areas of the stone 
+&+Lwalkway through here, indicating a recent storm.  Frequent weather changes
+&+Lare quite common in the city of Neverwinter due to its location in the 
+&+Lnorth and its proximity to the sometimes chaotic Trackless Sea.  Although 
+&+Lthe seasons can be harsh in this area, the sturdy stone walls of Neverwinter
+&+Lhave handled the wear and tear successfully for centuries.  Thanks in part
+&+Lto the constant repairs and improvements made on the walls, it is quite 
+&+Lpossible that they will stand for several more centuries.  The walkway
+&+Lcontinues to the east and west from here.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66564
+D3
+The walkway continues.
+~
+~
+0 0 66562
+S
+#66564
+&+wA Bend in the Walkway&N~
+&+L   The stone walkway atop the city walls bends gently from west to south 
+&+Lthrough here, following the curvature of the city walls.  Laid out roughly
+&+Lin the shape of an eye, Neverwinter is one of the most beautiful and
+&+Lcomplicated cities in the Realms.  With four main gates to defend, the 
+&+Lmembers of the city guard are constantly patrolling atop the city walls,
+&+Lever vigilant in their roles as lookouts and protectors.  The stone
+&+Lpath of the walkway continues both to the west and south from here.&N
+~
+664 0 1 50 50 500 
+D2
+The walkway continues.
+~
+~
+0 0 66567
+D3
+The walkway continues.
+~
+~
+0 0 66563
+S
+#66565
+&+wThe Walkway Above the City Walls&N~
+&+L   A thin, wispy mist hangs in the air here.  The cool breeze combined with
+&+Lthe churning waters of the Trackless Sea below often create thick fogs which
+&+Lcan cover the city in a gray, cottony blanket.  Far off in the water, the
+&+Lbells of warning bouys can be heard, clanking as they rock in the waves of 
+&+Lthe sea.  The rocky waters of the Trackless Sea near Neverwinter have claimed
+&+Lmany strong ships with their jagged outcroppings and such bouys have been
+&+Lplaced by Lord Nashar to avert as many naval disasters as possible.  The
+&+Lwalkway along the city walls continues both north and south.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66560
+D2
+The walkway continues.
+~
+~
+0 0 66568
+S
+#66566
+&+BOn the Rooftops of &+WNeverwinter&N~
+   The wide, flat rooftops of the city create a relatively level walkway
+through here.  Most are covered with dull, grayish shingles made of slate
+or a similar stone.  Here and there where water has gathered on the rooftops,
+the footing can become somewhat treacherous, but the travel on the roofs is
+relatively easy going.  From the looks of things, at least a few individuals 
+have used these rooftops for traveling above the streets of the city, only
+their purpose remains to be seen.  The rooftops continue south from here
+while the walkway along the top of the city walls lies to the north.
+~
+664 5 1 40 40 20 
+D0
+The walkway along the city walls.
+~
+~
+0 0 66562
+D2
+The rooftops continue.
+~
+~
+0 0 66570
+D5
+A trapdoor leads down.
+~
+~
+0 0 66428
+S
+#66567
+&+wThe Walkway Above the City Walls&N~
+&+L   Deep scratches in the surface of the stone here, show evidence of 
+&+Lsomething very heavy having been carted across the blocks here.  Although
+&+Llarge catapults and ballista are frequently moved across the tops of the
+&+Lcity walls, they rarely cause any damage to the surface of the walkway.  It 
+&+Lis possible that a damaged catapult or ballista may have been hauled through
+&+Lhere in need of repairs.  The walkway along the city walls continues both 
+&+Lnorth and south.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66564
+D2
+The walkway continues.
+~
+~
+0 0 66571
+S
+#66568
+&+wThe Walkway Above the City Walls&N~
+&+L   The walkway has started to sag through here, probably under its own 
+&+Lweight.  The massive stone blocks of the city walls and the walkways have
+&+Lstood for ages near the shore of the Trackless Sea, but the constant pounding
+&+Lof the waters and range of climate in the north have clearly taken their 
+&+Ltoll.  Here and there, marks have been drawn on the blocks, indicating 
+&+Ldirection and degree of sag.  It would appear that the city engineers have
+&+Lalready been alerted to the problems of the walls here, and are likely 
+&+Lworking on a solution or organizing repairs.  The walkway along the city 
+&+Lwalls continues both north and south.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66565
+D2
+The walkway continues.
+~
+~
+0 0 66572
+S
+#66569
+&+BOn the Rooftops of &+WNeverwinter&N~
+   The rooftops above the city come to an end here as the yawning expanse of
+city streets opens up around the building.  From the sounds of the clamor and
+excitement below, it would appear that the streets below here are some of the
+larger thoroughfares of the city.  To the west of here, across the gap 
+created by the streets lies a massive structure with barred windows.  
+Although the building appears to have been a warehouse at one time, it now 
+seems to resemble a prison more than anything else.  The slate stone roofs of 
+the city of Neverwinter continue to the east from here.
+~
+664 5 1 40 40 20 
+D1
+The rooftops continue.
+~
+~
+0 0 66570
+S
+#66570
+&+BOn the Rooftops of &+WNeverwinter&N~
+   The rooftops of the city broaden out here.  The slope of the roof of this
+building appears somewhat steeper than those around it, but it is not too 
+steep as to inhibit travel.  From the ill-repair of the slate shingles here 
+and there and the large, rather featureless nature of the roof itself, it
+would seem that the building below is a warehouse of some sort.  Quite common
+in northern Neverwinter, warehouses actually make up a majority of the 
+buildings around here.  The stone roofs of the city continue to the north, 
+west, and south from here.
+~
+664 5 1 40 40 20 
+D0
+The rooftops continue.
+~
+~
+0 0 66566
+D2
+The rooftops continue.
+~
+~
+0 0 66573
+D3
+The rooftops continue.
+~
+~
+0 0 66569
+S
+#66571
+&+wThe Walkway Above the City Walls&N~
+&+L   The walkway along the city walls continues through here, near the vicinity
+&+Lof the Old Potters' Guild.  The massive stone chimneys of the guild's kilns
+&+Lcan still be seen just to the west of the walls here.  The stones of the 
+&+Lwalls still show the dark, sooty stains from years of exposure to the exhaust
+&+Lfrom the guild's projects.  The walkway along the city walls continues both 
+&+Lnorth and south.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66567
+D2
+The walkway continues.
+~
+~
+0 0 66574
+S
+#66572
+&+wThe Walkway Above the City Walls&N~
+&+L   The slight sag in the city walls continues through here, but is less
+&+Lnoticeable than it is to the north.  The catapults normally positioned on
+&+Lthe walls overlooking the harbor have been removed through here, most likely
+&+Ldue to the weakening of the walls.  Neverwinter has never faced a major naval
+&+Lassault, but the ever-prepared Lord Nashar insists on covering every possible
+&+Lcontingency to ensure the safety of the citizenry.  The walkway along the 
+&+Lcity walls continues both north and south.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66568
+D2
+The walkway continues.
+~
+~
+0 0 66575
+S
+#66573
+&+BOn the Rooftops of &+WNeverwinter&N~
+   The slate-covered roofs of the city come to an end here as a wide, 
+treacherous alleyway opens up to the south.  The surrounding rooftops to
+the east and west are sloped far too steeply to allow passage over their
+surfaces.  To the south of here, a steamy, rather rank-smelling alley
+prevents almost all passage except for a narrow wooden walkway of planks
+which has been constructed across its span.  The walkway appears rather
+sturdy, but it is quite narrow and sways a little during the heavier gusts
+of wind.
+~
+664 5 1 40 40 20 
+D0
+The rooftops continue.
+~
+~
+0 0 66570
+D2
+A narrow, wooden walkway.
+~
+~
+0 0 66576
+S
+#66574
+&+wThe Walkway Above the City Walls&N~
+&+L   Large, iron rings have been set in the surface of the walkway here, most
+&+Llikely for securing catapults or large ballista.  The rings have clearly seen
+&+La great deal of wear and tear, and the deep reddish stains of their rust have
+&+Lsoaked into the surface of the dark stone like patches of blood.  The stone
+&+Lsurface of the walkway continues both to the north and to the south from 
+&+Lhere.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66571
+D2
+The walkway continues.
+~
+~
+0 0 66577
+S
+#66575
+&+wThe Walkway Above the City Walls&N~
+&+L   The battlements along the coast here have started to crack somewhat.  The
+&+Lconstant dampness due to the nearness of the Trackless Sea and the periodic
+&+Lfrosts of the far north have likely caused a great deal of the damage.  The
+&+Lwalkway itself shows a great deal of wear as well, but the worn path in the
+&+Lsurface of the stones could more easily be attributed to the constant 
+&+Lpatrols of the guards than any event in nature.  The walkway along the city 
+&+Lwalls continues both north and south.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66572
+D2
+The walkway continues.
+~
+~
+0 0 66579
+S
+#66576
+A Narrow Wooden Walkway Over An Alley~
+   Narrow, wooden planks have been placed here, spanning the hard, stone
+surface of the alley below.  Occasionally, a slight breeze will lift a
+rather unpleasant aroma from the depths of the alley below.  During stronger 
+gusts of wind, the planks spanning the walkway sway slightly, making 
+maintaining balance on them quite treacherous.  The rooftops of the city
+continue to the north and south from here.
+~
+664 5 1 40 40 20 
+D0
+The rooftops of Neverwinter.
+~
+~
+0 0 66573
+D2
+The rooftops of Neverwinter.
+~
+~
+0 0 66581
+D5
+The surface of the alley.
+~
+~
+0 0 66461
+S
+#66577
+&+wA Bend in the Walkway&N~
+&+L   As the walls surrounding Neverwinter curve through here, the surface of 
+&+Lthe walkway narrows somewhat.  The stone battlements along the edge of the
+&+Lwalls appear to be in good repair here, despite their obvious age.  Here and
+&+Lthere, small bits of moss and lichens have started to gather on the surface
+&+Lof the stone blocks, adding a little color to the otherwise bland, grayish
+&+Lsurface of the rock.  The walkway bends gently from north to east through 
+&+Lhere.&N
+~
+664 0 1 50 50 500 
+D0
+The walkway continues.
+~
+~
+0 0 66574
+D1
+The walkway continues.
+~
+~
+0 0 66578
+S
+#66578
+&+wThe Walkway Above the City Walls&N~
+&+L   Recent improvements mark this section of the walkway.  Here and there, 
+&+Lfreshly mortared joints and newly replaced stone show on the aged surface
+&+Lof the walls and walkway.  Time, along with the harsh weather of the north
+&+Land the constant patrols of the city guard, eventually takes its time on even
+&+Lthe most sturdy of structures in the city, and such repairs are quite
+&+Lcommonplace.  The walkway along the city walls continues both east and west
+&+Lfrom here.&N
+~
+664 0 1 40 40 20 
+D1
+The walkway continues.
+~
+~
+0 0 66466
+D3
+The walkway continues.
+~
+~
+0 0 66577
+S
+#66579
+&+wThe Walkway Above the City Walls&N~
+&+L   As the walls along the perimeter of the city near the northern dock gates
+&+Lto the south, the condition of the stonework appears to be improving.  The
+&+Lsigns of fresh repairs can be seen here and there in the form of newly
+&+Lmortared joints or freshly cut stone.  Above the ocean waters to the 
+&+Lsouthwest, circles of gulls can be seen hovering over the bustling docks of
+&+LNeverwinter.  The walkway along the city walls continues both north and 
+&+Lsouth.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66575
+D2
+The walkway continues.
+~
+~
+0 0 66584
+S
+#66580
+&+BOn the Rooftops of &+WNeverwinter&N~
+   Bird droppings have accumulated to almost unnatural proportions on
+certain areas of this roof.  Several small, squat chimneys apparently
+provide popular roosts for some of Neverwinter's plentiful supply of
+pigeons.  The slope of the roof gently lowers from east to west here, 
+leading downwards toward the broad expanse of the Wyrmfrost Road.  The
+rooftops above the city streets continue both to the east and to the
+south from here.
+~
+664 5 1 40 40 20 
+D1
+The rooftops continue.
+~
+~
+0 0 66581
+D2
+The rooftops continue.
+~
+~
+0 0 66587
+S
+#66581
+&+BOn the Rooftops of &+WNeverwinter&N~
+   A rickey, wooden expanse of planks and old wooden shingles forms
+the surface of the roof here.  Clearly not in good repair, the surface
+of the roof here creaks and groans with the added weight of people
+crossing its surface.  Large holes in the roof allow a limited view of
+the ruined, delapidated contents of the rooms of the building below.  The
+rooftops of the city continue to the west while yet another series of
+rickety plank walkways spans a small alleyway to the east.
+~
+664 5 1 40 40 20 
+D0
+A narrow, wooden walkway.
+~
+~
+0 0 66576
+D1
+A narrow, wooden walkway.
+~
+~
+0 0 66582
+D3
+The rooftops continue.
+~
+~
+0 0 66580
+S
+#66582
+&+yA Wooden Walkway Between Buildings&N~
+   More wooden planks span the dizzying space above the surface of a
+small street or alleyway through here.  The height of the buildings
+above the surface of the pavement below adds an element of risk to 
+traversing such a narrow walkway, but such danger does not seem to
+have deterred too many people judging by the worn surface of the planks.  
+Wide, flat rooftops of the city lie both east and west of here.
+~
+664 5 1 40 40 20 
+D1
+The rooftops of the city.
+~
+~
+0 0 66583
+D3
+The rooftops of the city.
+~
+~
+0 0 66581
+S
+#66583
+&+LA Delapidated Rooftop&N~
+   Rotten shingles and great gaps in the roof show that this building is in 
+dire need of major repairs.  The rafters supporting the roof, or what's left
+of the roof, creak and groan under even the slightest amount of weight.  It
+is almost amazing that the roof of the building has held together as much as
+it has considering the amount of visible rot and water damage to the wood.  
+To both the west and south, narrow walkways have been constructed of wooden 
+planks which span alleys surrounding the building.
+~
+664 5 1 40 40 20 
+D2
+A narrow walkway.
+~
+~
+0 0 66588
+D3
+A narrow walkway.
+~
+~
+0 0 66582
+S
+#66584
+&+wThe Walkway Above the City Walls&N~
+&+L   The clamor of the streets of Neverwinter can be heard throughout the area
+&+Lhere.  Even during the darkest evening, the city glows and resounds with life
+&+Land activity.  Although the northern warehouse districts of Neverwinter tend
+&+Lto be less affluent than those areas near Castle Never, the citizens who make
+&+Lthe area their home still enjoy a high standard of living compared to other
+&+Lcities in the Realms.  The walkway along the city walls continues both north 
+&+Land south.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66579
+D2
+The walkway continues.
+~
+~
+0 0 66590
+S
+#66585
+&+LA Tiny, Hidden Shop&N~
+&+w   Hidden among the rooftops of Neverwinter, this shop is probably the
+&+wmost esoteric in town.  Either the owner of the shop is extremely fond
+&+wof his solitude, or the nature of his wares is somewhat less than
+&+wlegitamite.  Few adornments of any kind cover the rough wood of the
+&+wshop walls.  The only real furnishings of the small room are a simple
+&+wwooden counter and a few rickety chairs placed around a delapidated 
+&+wtable.&N
+~
+664 1 1 40 40 20 
+D1
+A narrow walkway.
+~
+door secret~
+5 -1 66586
+S
+#66586
+&+yAn End to the Walkway&N~
+   The narrow walkway above the streets of Neverwinter comes to an abrupt end
+here in the face of a building.  The wooden planks of the walkway have been
+securly anchored to a narrow ledge on the building to the west, but further
+construction appears to have ended.  It is quite possible that the city
+guard or other city officials noticed the unauthorized construction of the
+walkway and put an end to it before any more of the walkway could be 
+finished.  The narrow walkway of planks continues to the east from here.
+~
+664 5 1 40 40 20 
+D1
+The narrow walkway continues.
+~
+~
+0 0 66587
+D3
+~
+door secret~
+5 -1 66585
+S
+#66587
+&+yAlong A Narrow Walkway&N~
+   The narrow walkway of wooden planks above the rooftops of the city 
+continues through here.  Although the construction appears quite old and
+rickety, the manner in which the planks are supported across their spans is
+actually quite sturdy.  The narrowness of the path requires a great deal of
+agility and nimbleness to maneuver successfully, but from the looks of the
+walkway, many individuals manage to pass here nonetheless.  The wooden
+walkway continues both north and west from here.
+~
+664 5 1 40 40 20 
+D0
+The narrow walkway continues.
+~
+~
+0 0 66580
+D3
+The narrow walkway continues.
+~
+~
+0 0 66586
+S
+#66588
+&+yAlong A Narrow Connecting Walkway&N~
+   The wooden planks of the walkway sway slightly in the breeze here as they
+cross a narrow, dark alleyway.  Although the construction of the planks is
+very piecemeal, close attention has been paid to provide the necessary 
+supports at critical connections, possibly indicating that this construction
+is not as amateur as it first appears.  The walkway of planks connects two
+rooftops here to the north and east.
+~
+664 5 1 40 40 20 
+D0
+A delapidated rooftop.
+~
+~
+0 0 66583
+D1
+A large, flat rooftop.
+~
+~
+0 0 66589
+S
+#66589
+A Rooftop Above The Tavern~
+   The low, slightly pitched rooftop of the tavern stretches out through
+here.  A small trapdoor in the roof allows passage between the rooftop here 
+and the interior of the tavern.  The slate shingles of the rooftop can be
+somewhat slippery, but provide an adequate foothold for the nimble.  To the
+west from here, a narrow wooden walkway has been constructed which leads
+off to other rooftops in the city.  Upon a quick scan of the surrounding
+area, an entire network of such walkways can be seen throughout the
+neighboring portion of the city.
+~
+664 5 1 40 40 20 
+D3
+A narrow walkway.
+~
+~
+0 0 66588
+D5
+A trapdoor leads down.
+~
+door trapdoor trap~
+3 -1 66492
+S
+#66590
+&+wThe End of the&+L Walkway&N~
+&+L   South of here, the northern dock gates of Neverwinter rise up and form an
+&+Limpenetrable wall of stone.  The guards who patrol the walls south of here 
+&+Lare maintained by the dock authority and thus are a wholly seperate entity
+&+Lfrom the city guards who patrol the walls through here.  Although the walkway
+&+Lalong the city walls comes to an end here, the rooftops of Neverwinter 
+&+Lstretch off to the east from here.  From the looks of a slightly worn path
+&+Lacross the rooftops, it appears as though several individuals have already
+&+Ldiscovered this route and use it somewhat frequently.  The walkway along
+&+Lthe city walls continues to the north from here.&N
+~
+664 0 1 40 40 20 
+D0
+The walkway continues.
+~
+~
+0 0 66584
+D1
+The rooftops lead off in that direction.
+~
+~
+0 0 66591
+S
+#66591
+&+BOn the Rooftops of &+WNeverwinter&N~
+   Here, just apart from the walkway along the city walls, the rooftops
+of Neverwinter are flat enough to allow passage.  Although the majority
+of the rooftops in town are steeply pitched to avoid gathering too much
+snow during Neverwinter's harsh winters, the rooftop here is relatively
+level.  Perhaps because of this and its proximity to the walkway along
+the city walls, this portion of rooftop has a small walkway worn on
+its surface.  The rooftops continue to the east while the walkway atop
+the city walls lies just to the west.
+~
+664 0 1 40 40 20 
+D1
+Along the rooftops of Neverwinter.
+~
+~
+0 0 66592
+D3
+The walkway atop the city walls.
+~
+~
+0 0 66590
+S
+#66592
+&+BOn the Rooftops of &+WNeverwinter&N~
+   The rooftops of Neverwinter stretch out as far as the eye can see
+from here.  The majority of the buildings in the city are short,
+average appearing structures, but a few can be seen which can only 
+be described as majestic.  Minor keeps, towers, mansions, and even
+the enormous outline of Castle Never can be seen from this vantage
+point.  Altough just a roof, from the worn path on its surface, it
+appears as through this particular area also serves as a pathway
+of some kind.  The rooftops of the city continue to the west while
+a narrow, rickety plank spans a street to the south.
+~
+664 0 1 40 40 20 
+D2
+A narrow walkway over the streets.
+~
+~
+0 0 66593
+D3
+Along the rooftops of Neverwinter.
+~
+~
+0 0 66591
+S
+#66593
+&+yA Narrow Walkway Above the Old Wharf Road&N~
+   Someone has created a makeshift pathway between the rooftops of
+two buildings here by placing a long, narrow plank between them.  It
+appears as though the walkway is intended to be somewhat permanent as
+both ends have been securely nailed down, but the narrowness of the
+planks and poor manner in which the walkway was constructed clearly
+marks this as an unofficial improvement to the area and, if noticed
+by the city guard, it will most likely be taken down.  Far below, the
+paved surface of Old Wharf Road threatens menacingly to any unlucky
+enough to fall.
+~
+664 8192 1 5 50 500 
+D0
+Some rooftops above the city.
+~
+~
+0 0 66592
+D2
+Some rooftops above the city.
+~
+~
+0 0 66593
+D5
+Old Wharf Road lies there.
+~
+~
+0 0 66511
+E
+plank pathway~
+&+yThe wooden planks of the pathway appear weathered and worn, but sturdy
+&+yenough to support foot traffic.&N
+~
+S
+#66594
+&+wThird Level of the &+GShining Serpent&N&+w Inn&N~
+   The staircase of the Shining Serpent Inn pauses here at the third
+floor as it continues its upward journey through the building.  Clearly
+more decorative than the first two floors of the inn, the furnishings
+in this entryway are clearly of a fine quality.  Wonderfully colored
+tapestries line the walls, depicting scenes from Neverwinter's past
+while stained glass windows bathe the room in a myriad of colors.  A
+long, quiet hallways leads to the east from here, towards several of the
+quiet rooms of the Shining Serpent.  The staircase itself leads up and
+down from here.
+~
+664 12 0 25 25 10 
+D1
+A hallway in the inn.
+~
+~
+0 0 66595
+D4
+The fourth floor.
+~
+~
+0 0 66597
+D5
+The second floor.
+~
+~
+0 0 66547
+S
+#66595
+&+wA Hallway in the &+GShining Serpent&N&+w Inn&N~
+   This wood paneled hallway features sea-green carpet, which drowns out 
+nearly all of the sounds from the rowdy tavern on the first floor.  
+Lacking any windows, the hallway becomes quit dim, but several doorways 
+leading off into rooms of the inn can be made out, cleverly patterned 
+after the style of the wood paneling itself so as to blend in and 
+maintain a consistant look for all of the rooms.  At the east end of the 
+hallway, a room has been left open, and light can be seen coming through 
+the open doorway, helping to illuminate the dim hallway.  The main 
+staircase of the inn lies just to the west of here.
+~
+664 12 0 10 50 10 
+D1
+A small room in the inn.
+~
+~
+0 0 66596
+D3
+Another room in the inn.
+~
+~
+0 0 66594
+S
+#66596
+&+wA Bright Room in the &+GShining Serpent&N&+w Inn&N~
+   This room is brightly lit by a combination of natural light 
+flooding in through a number of wide windows and several magical
+lanterns that have been strategically placed on several small tables
+and stands around the room.  Thick, velvet curtains have been neatly
+tied with decorative cords to allow light and a light breeze to
+flow in through the large windows.  Faint sounds from the streets
+below and the smell of freshly baked bread are carried into the room
+by the cool air.  This room clearly serves as one of the more
+opulent rooms of the inn, and likely costs quite a bit more than the
+average traveler would be willing to pay.  A dimly lit hallway leads
+to the west from here.
+~
+664 12 1 25 25 10 
+D3
+A hallway in the inn.
+~
+~
+0 0 66595
+S
+#66597
+&+wThe Fourth Floor of the &+GShining Serpent&N&+w Inn&N~
+   Much like the entryway of the third floor, this room is very well
+decorated with tapestries and stained glass windows.  Here and there,
+golden light fixtures have been affixed to the walls and may serve as
+holders for magical lanterns during the long, dark nights that are
+common during the winters of the north.  Two, unadorned doorways lead
+north and east from here, presumably to additional rooms of the inn.
+Like the light fixtures, the hinges and locks of the two doors appear
+to be made of gold, possibly indicating that these rooms are reserved
+for special guests at the inn, rather than the average traveler.  The
+faint sounds of the tavern on the first floor can still be heard here,
+echoing up through the open stairway that leads back down to the third
+floor.
+~
+664 12 0 25 25 10 
+D0
+A room in the inn.
+~
+door~
+1 -1 66598
+D1
+A room in the inn.
+~
+door~
+1 -1 66599
+D5
+The third floor of the inn.
+~
+~
+0 0 66594
+E
+glass stained windows~
+&+cThe stained glass of the windows features numerous colors and patterns
+&+cdepicting the symbol for the Shining Serpent Inn- a silver snake curled
+&+cin a variety of positions.&N
+~
+E
+fixtures hinges~
+&+YThe golden fixtures and hinges of the doors have been delicately etched
+&+Ywith a lovely filigree pattern.  Each is also stamped with the curled-
+&+Ysnake symbol of the Shining Serpent Inn.&N
+~
+S
+#66598
+&+wAn Opulent Room in the &+GShining Serpent&N&+w Inn&N~
+   This room is lavishly decorated and adorned with delicate and
+finely made furnishings.  The normally wooden floors of the rest of
+the inn have been replaced with a combination of parquet wood and
+polished marble.  In the very center of the room, the floor has been
+covered with a thick, warm carpet made of a very thick and soft
+material.  Several fine chairs stand near the windows of the room,
+offering a wide view of the city skyline.  In addition to several
+smaller couches and other furniture, a large polster bed set with
+soft, silken sheets stands near a marble fireplace set in the eastern
+wall of the room.  While everything in the room appears well cared
+for and clean, it is doubtful that this room is occupied very often,
+even in a city as well-to-do as Neverwinter.  A thick, wooden door
+leads to the south from here.
+~
+664 12 1 25 25 10 
+D2
+The third floor of the inn.
+~
+door~
+1 -1 66597
+E
+fireplace~
+&+rThe fireplace is immaculately clean and a ready-made stack of kindling
+&+rand wood has already been set up for the room's next occupant.  Another,
+&+rsmaller stack of logs has been stacked outside the fireplace, ready to
+&+rbe added to the &+Rflames&N&+r.&N
+~
+S
+#66599
+&+wA Small Room in the &+GShining Serpent&N&+w Inn&N~
+   This room, as opposed to many of the other guest rooms in the
+tavern, is actually quite small and humble.  The furniture of the
+room is well-made, but the upholstery has clearly seen better days.
+In addition, in contrast to the normally large, thick beds of the
+rest of the inn, the bed in this room appears rather plain.  It is
+quite possible that this room serves as a servants' quarters for
+any members of an entourage traveling with more important or wealthy
+guests staying in the inn.  Despite its location on the highest level
+of the inn, the windows in this room are relatively small and the
+view of the city through them is somewhat unimpressive.  A small
+doorway leads to the west from here.
+~
+664 12 1 19 19 7 
+D3
+The third floor of the inn.
+~
+door~
+1 -1 66597
+S

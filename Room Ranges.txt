@@ -1,0 +1,32 @@
+Wood   - 66200 - 66380  --> 180 Rooms   139
+NNever - 66400 - 66599  --> 200 Rooms   200
+SNever - 66600 - 66899  --> 250? Rooms  282
+Docks  - 66?00 - 66?00  --> 100? Rooms
+Sewers - 66?00 - 66?00  --> 100? Rooms  78
+
+Totals ------------------- ~830 Rooms   699 so far...
+
+Future:
+
+Castle Never            --> 200? Rooms
+Caverns/UD Connector    --> 200? Rooms
+Ice Caves               --> 150? Rooms
+Neverwinter Wood        --> 150? Rooms
+Expanded Sewers         --> 100? Rooms
+
+Eventual Totals ---------- ~1723 Rooms
+
+=======================================================================
+
+10 Menzoberranzan: Tier Breech 25 15 10 16000 17249 1  --> 1249 Rooms
+11 Menzoberranzan: Donigarten 25 15 10 17250 17499 1   --> 249 Rooms
+12 Menzoberranzan: Center City 25 15 10 17500 17799 1  --> 299 Rooms
+13 Menzoberranzan: Manyfolk 25 15 10 17800 18159 1     --> 359 Rooms
+14 Menzoberranzan: Lake Four 20 0 20 18201 18299 2     --> 98 Rooms
+15 Menzoberranzan: Lake Three 20 0 20 18311 18399 2    --> 88 Rooms
+16 Menzoberranzan: Pitwarrens 20 0 20 18400 18499 2    --> 99 Rooms
+17 Menzoberranzan: Lake One 20 0 20 19011 19099 2      --> 88 Rooms
+18 Menzoberranzan: Lake Two 20 0 20 19111 19199 2      --> 88 Rooms
+19 Menzoberranzan: Narbondellyn 0 0 0 19250 19668 0    --> 418 Rooms
+
+Totals -------------------------------------------------  ~3035 Rooms

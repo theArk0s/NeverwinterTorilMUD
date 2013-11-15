@@ -1,0 +1,425 @@
+#666
+> filename: snever.zon~
+Southern Neverwinter~
+66899 15 2 0
+8 0 0
+2 4 0 0
+0 0 0 0
+3 0 0 0
+5 7 0 0
+5 5 5 5
+****** Zone edited with TE 0.1 ******
+*
+****** Doors Table ******
+D 0 66600 2 1        * South exit from room 66600
+D 0 66605 2 1        * South exit from room 66605
+D 0 66606 2 1        * South exit from room 66606
+D 0 66608 1 1        * East exit from room 66608
+D 0 66609 3 1        * West exit from room 66609
+D 0 66615 0 1        * North exit from room 66615
+D 0 66616 2 1        * South exit from room 66616
+D 0 66620 0 1        * North exit from room 66620
+D 0 66621 0 1        * South exit from room 66621
+D 0 66621 2 1        * South exit from room 66621
+D 0 66628 2 1        * South exit from room 66628
+D 0 66629 2 1        * South exit from room 66629
+D 0 66633 1 1        * East exit from room 66633
+D 0 66634 3 1        * West exit from room 66634
+D 0 66636 1 1        * East exit from room 66636
+D 0 66637 3 1        * West exit from room 66637
+D 0 66641 0 1        * North exit from room 66641
+D 0 66645 0 1        * North exit from room 66645
+D 0 66645 1 1        * East exit from room 66645
+D 0 66646 3 1        * West exit from room 66646
+D 0 66651 2 5        * South exit from room 66651
+D 0 66652 0 1        * North exit from room 66652
+D 0 66653 0 1        * North exit from room 66653
+D 0 66670 0 5        * North exit from room 66670
+D 0 66670 1 1        * East exit from room 66670
+D 0 66671 3 1        * West exit from room 66671
+D 0 66692 1 1        * East exit from room 66692
+D 0 66693 3 1        * West exit from room 66693
+D 0 66697 0 5        * North exit from room 66697
+D 0 66700 1 1        * East exit from room 66700
+D 0 66701 3 1        * West exit from room 66701
+D 0 66711 1 1        * East exit from room 66711
+D 0 66712 3 1        * West exit from room 66712
+D 0 66724 2 1        * South exit from room 66724
+D 0 66728 1 1        * East exit from room 66728
+D 0 66729 3 1        * West exit from room 66729
+D 0 66730 5 1        * Down exit from room 66730
+D 0 66732 2 1        * South exit from room 66732
+D 0 66735 1 1        * East exit from room 66735
+D 0 66736 1 1        * East exit from room 66736
+D 0 66739 5 5        * Down exit from room 66739
+D 0 66746 1 1        * East exit from room 66746
+D 0 66747 3 1        * West exit from room 66747
+D 0 66748 0 1        * North exit from room 66748
+D 0 66750 1 1        * East exit from room 66750
+D 0 66751 1 1        * East exit from room 66751
+D 0 66751 3 1        * West exit from room 66751
+D 0 66752 3 1        * West exit from room 66752
+D 0 66754 0 1        * North exit from room 66754
+D 0 66754 1 1        * East exit from room 66754
+D 0 66755 3 1        * West exit from room 66755
+D 0 66770 5 5        * Down exit from room 66770
+D 0 66772 1 1        * East exit from room 66772
+D 0 66773 3 1        * West exit from room 66773
+D 0 66783 2 1        * South exit from room 66783
+D 0 66784 5 1        * Down exit from room 66784
+D 0 66786 2 1        * South exit from room 66786
+D 0 66787 1 1        * East exit from room 66787
+D 0 66788 3 1        * West exit from room 66788
+D 0 66802 1 1        * East exit from room 66802
+D 0 66803 3 1        * West exit from room 66803
+D 0 66805 0 1        * North exit from room 66805
+D 0 66807 2 1        * South exit from room 66807
+D 0 66808 0 1        * North exit from room 66808
+D 0 66809 2 1        * South exit from room 66809
+D 0 66811 1 1        * East exit from room 66811
+D 0 66812 3 1        * West exit from room 66812
+D 0 66814 1 5        * East exit from room 66814
+D 0 66815 3 1        * West exit from room 66815
+D 0 66818 2 1        * South exit from room 66818
+D 0 66826 0 6        * North exit from room 66826
+D 0 66826 1 1        * East exit from room 66826
+D 0 66827 1 1        * East exit from room 66827
+D 0 66827 3 1        * West exit from room 66827
+D 0 66828 0 1        * North exit from room 66828
+D 0 66828 3 1        * West exit from room 66828
+D 0 66829 2 1        * South exit from room 66829
+D 0 66835 0 1        * North exit from room 66835
+D 0 66839 1 1        * East exit from room 66839
+D 0 66840 3 1        * West exit from room 66840
+D 0 66841 0 1        * North exit from room 66841
+D 0 66850 1 1        * East exit from room 66850
+D 0 66851 3 1        * West exit from room 66851
+D 0 66853 1 0        * East exit from room 66853
+D 0 66854 3 0        * West exit from room 66854
+D 0 66855 1 0        * East exit from room 66855
+D 0 66856 3 0        * West exit from room 66856
+D 0 66858 2 1        * South exit from room 66858
+D 0 66863 0 2        * North exit from room 66863
+D 0 66863 1 2        * East exit from room 66863
+D 0 66864 3 1        * West exit from room 66864
+D 0 66869 4 0        * Up exit from room 66869
+D 0 66870 1 0        * East exit from room 66870
+D 0 66870 2 0        * South exit from room 66870
+D 0 66871 3 0        * West exit from room 66871
+D 0 66872 0 0        * North exit from room 66872
+D 0 66873 1 0        * East exit from room 66873
+D 0 66874 1 0        * East exit from room 66874
+D 0 66874 3 0        * West exit from room 66874
+D 0 66875 3 0        * West exit from room 66875
+D 0 66876 2 1        * South exit from room 66876
+D 0 66877 0 1        * North exit from room 66877
+D 0 66877 1 1        * East exit from room 66877
+D 0 66878 1 2        * East exit from room 66878
+D 0 66878 3 1        * West exit from room 66878
+D 0 66879 3 2        * West exit from room 66879
+O 0 66615 1 66605     	* an ancient fireplace
+M 1 66603 1 66770 35   	* Aermor Dragonsbreath 35% at boot
+M 0 66662 1 66605    	* an old servant
+M 0 66646 5 66611    	* a woman
+M 0 66648 1 66612    	* the master chef
+M 0 66647 2 66612    	* a chef
+M 0 66647 2 66612    	* a chef
+M 0 66649 6 66617    	* the alley cat
+M 0 66649 6 66622    	* the alley cat
+M 0 66637 6 66626    	* the city repairman
+M 0 66649 6 66627    	* the alley cat
+M 0 66651 5 66628    	* a large saurial
+M 0 66645 4 66629    	* a commoner
+M 0 66634 6 66630    	* a mounted guardsman
+M 0 66633 6 66630    	* a heavy warhorse
+F 3 66630 66634 66633	*     mob grouping
+M 0 66651 5 66633    	* a large saurial
+M 0 66614 1 66635    	* Watger Brighthair
+M 0 66654 4 66638    	* a mangy dog
+M 0 66645 4 66639    	* a commoner
+M 0 66649 6 66641    	* the alley cat
+M 0 66646 5 66642    	* a woman
+M 0 66645 4 66648    	* a commoner
+M 0 66611 1 66652    	* Dannar
+M 0 66616 1 66653    	* Jaesor Ryndyl
+M 0 66617 1 66655    	* Maskado
+G 0 66640 200			* song
+G 0 66644 200			* map
+G 0 7953 200			* identify
+M 0 66626 1 66657    	* Meldark the shopkeeper
+G 0 7946 200
+G 0 7947 200
+G 0 7949 200
+G 0 7951 200
+G 0 7957 200
+G 0 7966 200
+G 0 7967 200
+M 0 66645 4 66662    	* a commoner
+M 0 66644 6 66665    	* a smiling merchant
+M 0 66649 6 66666    	* the alley cat
+M 0 66634 6 66667    	* a mounted guardsman
+M 0 66633 6 66667    	* a heavy warhorse
+F 3 66667 66634 66633	*     mob grouping
+M 0 66624 1 66671    	* the tavernmaster
+M 1 66602 1 66719 20  	* Cyntan Brighthelm 20% at boot
+M 0 66623 2 66671    	* a buxom serving wench
+M 0 66620 1 66671    	* Rhalaglingalade
+M 0 66608 1 66671    	* Lhoge Firesbane
+M 0 66623 2 66672    	* a buxom serving wench
+M 0 66637 6 66677    	* the city repairman
+M 0 66650 4 66678    	* the wandering adventurer
+M 0 66655 1 66679    	* the doe
+M 0 66656 4 66680    	* the squirrel
+M 0 66656 4 66681    	* the squirrel
+M 0 66656 4 66681    	* the squirrel
+M 0 66661 1 66687    	* the master baker
+M 0 66660 1 66687    	* the bakery shopkeeper
+G 0 66666 200
+G 0 66667 200
+G 0 66668 200
+G 0 66676 10
+M 0 66654 4 66688    	* a mangy dog
+M 0 66649 6 66690    	* the alley cat
+M 0 66637 6 66692    	* the city repairman
+M 0 66659 1 66708    	* a lonely housewife
+M 0 66644 6 66713    	* a smiling merchant
+M 0 66638 5 66717    	* a white pigeon
+M 0 66638 5 66717    	* a white pigeon
+M 0 66634 6 66717    	* a mounted guardsman
+M 0 66633 6 66717    	* a heavy warhorse
+F 3 66717 66634 66633	*     mob grouping
+O 0 66611 1 66718     	* a large fountain
+M 1 66653 1 66676 10  	* ancient Avigaard 10% at boot
+M 0 66638 5 66718    	* a white pigeon
+M 0 66631 2 66718    	* Lord Nashar's Elite Guard
+M 0 66631 2 66718    	* Lord Nashar's Elite Guard
+M 0 66601 1 66718    	* Lord Nashar
+F 2 66718 66601 66631	*     mob grouping
+M 0 66638 5 66719    	* a white pigeon
+M 0 66638 5 66719    	* a white pigeon
+M 0 66646 5 66722    	* a woman
+M 0 66656 4 66724    	* the squirrel
+M 0 66651 5 66729    	* a large saurial
+E 1 66614 1 5        	*      a suit of saurial armor
+M 0 66650 4 66732    	* the wandering adventurer
+M 0 66651 5 66734    	* a large saurial
+M 0 66619 1 66739    	* Rebeth Laereeryn
+G 0 66652 200
+M 0 66680 1 66739       * the wood nymph
+M 0 66650 4 66745    	* the wandering adventurer
+M 0 66654 4 66746    	* a mangy dog
+M 0 66637 6 66751    	* the city repairman
+M 0 66637 6 66756    	* the city repairman
+M 0 66644 6 66758    	* a smiling merchant
+O 0 66617 1 66759     	* a beautiful fountain
+M 1 66613 1 66826    	* Prior Hlam
+M 0 66607 1 66634 3   	* Aldan Nightfire 3% of time
+M 0 66652 1 66759    	* a wandering minstrel
+M 0 66634 6 66759    	* a mounted guardsman
+M 0 66633 6 66759    	* a heavy warhorse
+F 3 66759 66634 66633	*     mob grouping
+M 0 66651 5 66760    	* a large saurial
+M 0 66646 5 66760    	* a woman
+M 0 66644 6 66761    	* a smiling merchant
+M 0 66637 6 66763    	* the city repairman
+M 0 66622 1 66764    	* the town crier
+M 0 66654 4 66765    	* a mangy dog
+M 0 66634 6 66766    	* a mounted guardsman
+M 0 66633 6 66766    	* a heavy warhorse
+F 3 66766 66634 66633	*     mob grouping
+M 0 66667 6 66768    	* a lady of the mask
+M 0 66667 6 66768    	* a lady of the mask
+M 0 66650 4 66768    	* the wandering adventurer
+M 0 66667 6 66769    	* a lady of the mask
+M 0 66621 1 66769 2    	* Ophala Cheldarstorn 1% of time
+M 0 66667 6 66770    	* a lady of the mask
+M 0 66634 6 66774    	* a mounted guardsman
+M 0 66633 6 66774    	* a heavy warhorse
+F 3 66774 66634 66633	*     mob grouping
+M 0 66640 4 66780    	* a tavern patron
+M 0 66639 4 66780    	* a tavern patron
+M 0 66639 4 66780    	* a tavern patron
+M 0 66628 2 66780    	* a good-looking waiter
+M 0 66644 6 66797    	* a smiling merchant
+M 0 66640 4 66802    	* a tavern patron
+M 0 66639 4 66802    	* a tavern patron
+M 0 66628 2 66802    	* a good-looking waiter
+M 0 66627 2 66802    	* a pretty waitress
+M 0 66625 1 66802    	* Marvold Harpersong
+M 0 66657 1 66803    	* the drunken mercenary
+M 0 66640 4 66803    	* a tavern patron
+M 0 66640 4 66803    	* a tavern patron
+M 0 66639 4 66803    	* a tavern patron
+M 0 66629 1 66803    	* Marvold's barkeeper
+M 0 66627 2 66803    	* a pretty waitress
+M 0 66610 1 66803    	* Silme Ogrekill
+M 0 66658 1 66804    	* the collector
+M 0 66646 5 66810    	* a woman
+M 0 66663 1 66816 2   	* Navak 2% at zone reset
+M 0 66644 6 66821    	* a smiling merchant
+M 0 66612 1 66827    	* Oleff Uskar
+M 0 66643 1 66836    	* the repair chief
+M 0 66642 2 66836    	* a burly repairman
+M 0 66642 2 66836    	* a burly repairman
+M 0 66641 5 66836    	* a repairman
+M 0 66641 5 66836    	* a repairman
+M 0 66641 5 66836    	* a repairman
+M 0 66641 5 66836    	* a repairman
+M 0 66641 5 66836    	* a repairman
+O 0 66631 1 66860     	* a glowing red portal
+O 0 66632 1 66860     	* a glowing blue portal
+O 0 66633 1 66860     	* a glowing green portal
+M 1 66606 1 66768 10   	* Vagan Silverfist 10% at boot
+E 1 66612 1 9        	*      some silver gauntlets set with amethysts
+E 1 66613 1 12        	*      a thick, purple cloak
+O 0 66634 1 66860     	* a glowing yellow portal
+O 0 66635 4 66861     	* a glowing portal
+M 1 66609 1 66624 25   	* Imdar Al'Vahari 25% at boot
+M 0 66667 6 66864    	* a lady of the mask
+O 0 66635 4 66865     	* a glowing portal
+M 1 66668 4 66623 10    * a sleeping worker 10% at boot
+G 0 66636 4             *      give him a pay slip
+G 0 66636 4             *      give him a pay slip
+O 0 66635 4 66866     	* a glowing portal
+M 1 66668 4 66649 10    * a sleeping worker 10% at boot
+G 0 66646 1             *      give him a pay slip
+O 0 66635 4 66867       * a glowing portal
+M 0 66668 4 66623 2     * a sleeping worker 1%
+G 0 66636 4             *      give him a pay slip
+M 0 66668 4 66623 2     * a sleeping worker 1%
+G 0 66646 1             *      give him a bad pay slip
+M 0 66668 4 66623       * a sleeping worker
+M 0 66668 4 66649       * a sleeping worker
+G 0 66636 4             *      give him a pay slip
+O 0 66638 1 66715       * a flower box
+M 1 66669 1 66715 5     * a gardener 5% at boot
+E 1 66637 1 16          *      wielding his spade :)
+M 0 66669 1 66715       * a gardener
+M 0 66670 1 66837       * Manycoins, the banker
+M 0 66671 12 66878 2     * a battle horror 2%
+M 0 66671 12 66878 2     * a battle horror 2%
+M 0 66672 1 66779       * Dibbleypobep
+G 0 66698 200
+G 0 66699 200
+M 0 66615 1 66850       * Salyndra
+M 0 66674 1 66723       * rangers guild shopkeeper
+M 0 66675 1 66799       * mages guild shopkeeper
+M 0 66676 1 66825       * warriors guild shopkeeper
+M 0 66677 1 66872       * bards guild shopkeeper
+M 0 66678 1 66710       * paladins guild shopkeeper
+M 0 66679 1 66875       * clerics guild shopkeeper
+M 0 66618 1 66899    	* Milkman Dan, the echo mob
+M 1 66605 1 66759 15   	* Laurenthyl Tilvish 15% at boot
+M 0 66635 4 66677       * a mangy mongrel
+M 0 66635 4 66684       * a mangy mongrel
+M 0 66635 4 66774       * a mangy mongrel
+M 0 66635 4 66818       * a mangy mongrel
+M 0 66666 1 66862 2   	* a floating spirit 2%
+M 0 66630 14 66759	      * city guard
+M 0 66630 14 66624		* city guard
+M 0 66630 14 66665		* city guard
+M 0 66630 14 66767		* city guard
+M 0 66630 14 66613		* city guard
+M 0 66630 14 66830		* city guard
+M 0 66630 14 66633		* city guard
+M 0 66632 2 66615		* guard captain
+M 0 66632 2 66831		* guard captain
+M 0 66684 8 66615		* elite gate guard
+E 1 66647 8 5        	*      a suit of Neverwinter chainmail
+E 1 66648 8 16          * wield a guard's shortsword
+M 0 66684 8 66615		* elite gate guard
+E 1 66647 8 5        	*      a suit of Neverwinter chainmail
+E 1 66648 8 16          * wield a guard's shortsword
+M 0 66684 8 66615		* elite gate guard
+E 1 66647 8 5        	*      a suit of Neverwinter chainmail
+E 1 66648 8 16          * wield a guard's shortsword
+M 0 66684 8 66615		* elite gate guard
+E 1 66647 8 5        	*      a suit of Neverwinter chainmail
+E 1 66648 8 16          * wield a guard's shortsword
+M 0 66684 8 66829		* elite gate guard
+E 1 66647 8 5        	*      a suit of Neverwinter chainmail
+E 1 66648 8 16          * wield a guard's shortsword
+M 0 66684 8 66829		* elite gate guard
+E 1 66647 8 5        	*      a suit of Neverwinter chainmail
+E 1 66648 8 16          * wield a guard's shortsword
+M 0 66684 8 66829		* elite gate guard
+E 1 66647 8 5        	*      a suit of Neverwinter chainmail
+E 1 66648 8 16          * wield a guard's shortsword
+M 0 66684 8 66829		* elite gate guard
+E 1 66647 8 5        	*      a suit of Neverwinter chainmail
+E 1 66648 8 16          * wield a guard's shortsword
+M 0 66685 1 66871		* bard guildmaster
+M 0 66686 1 66806		* warrior guildmaster
+M 0 66687 1 66873		* cleric guildmaster
+M 0 66688 1 66867		* conjurer guildmaster
+M 0 66689 1 66865		* enchanter guildmaster
+M 0 66690 1 66866		* invoker guildmaster
+M 0 66691 1 66861		* elementalist guildmaster
+M 0 66692 1 66880		* illusionist guildmaster
+M 0 66693 3 66614	2	* militia member
+E 1 66650 3 5        	*      a suit armor
+E 1 66610 200 16        	*     a blast globe
+G 1 66610 200          	*     a blast globe
+G 1 66610 200          	*     a blast globe
+M 0 66693 3 66820	2	* militia member
+E 1 66650 3 5        	*      a suit armor
+E 1 66449 2 16          * wield a polearm
+E 1 66610 200 16        	*     a blast globe
+G 1 66610 200          	*     a blast globe
+G 1 66610 200          	*     a blast globe
+M 0 66693 3 66641	2	* militia member
+E 1 66610 200 16        	*     a blast globe
+G 1 66610 200          	*     a blast globe
+G 1 66610 200          	*     a blast globe
+M 0 66694 3 66812	2	* female militia member
+E 1 66650 3 5        	*      a suit armor
+E 1 66610 200 16        	*     a blast globe
+G 1 66610 200          	*     a blast globe
+G 1 66610 200          	*     a blast globe
+M 0 66694 3 66617	2	* female militia member
+E 1 66449 2 16          * wield a polearm
+M 0 66694 3 66648	2	* female militia member
+E 1 66610 200 16        	*     a blast globe
+G 1 66610 200          	*     a blast globe
+G 1 66610 200          	*     a blast globe
+M 0 66681 1 66748		* ranger guildmaster
+M 1 66604 1 66671 8   	* Evema Nightfire 8% of ranger load (boot)
+E 1 66609 1 16        	*      a wicked hand-glaive
+M 0 66682 1 66801		* the fletcher
+G 0 66653 200
+G 0 66654 200
+G 0 7963 200
+G 0 7965 200
+G 0 7974 200
+G 0 7971 200
+M 0 66683 1 66736		* paladin guildmaster
+M 1 66701 1 66858 10   	* a lady of the mask 10% at boot
+E 1 66629 1 20        	*      a moonstone-adorned half mask
+M 0 66696 1 66759 2     * a heavy warhorse
+M 1 66695 1 66759		* dragoon 2%
+E 1 66655 1 16		* wield his lance
+F 3 66759 66695 66696	*     mob grouping
+M 0 66700 1 66674		* shining knight shopkeeper
+G 0 66641 200
+G 0 66659 200
+G 0 66660 200
+G 0 66658 200
+G 0 66664 200
+G 0 66665 200
+M 0 66703 6 66787		* guard in temple Tyr
+M 0 66703 6 66785	50	* guard in temple Tyr
+M 0 66703 6 66808	10	* guard in temple Tyr
+M 0 66703 6 66827		* guard in temple Tyr
+M 0 66703 6 66827		* guard in temple Tyr
+M 0 66703 6 66828	40	* guard in temple Tyr
+M 0 66697 1 66828
+M 0 66706 5 66851       * guard in temple Oghma
+M 0 66706 5 66610 30    * guard in temple Oghma
+M 0 66706 5 66634       * guard in temple Oghma
+M 0 66706 5 66634 20    * guard in temple Oghma
+M 0 66706 5 66635       * guard in temple Oghma
+M 0 66706 5 66608 50    * guard in temple Oghma
+M 0 66707 4 66839       * guard in temple Helm
+M 0 66707 4 66838       * guard in temple Helm
+M 0 66707 4 66874       * guard in temple Helm
+S

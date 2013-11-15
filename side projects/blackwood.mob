@@ -1,0 +1,71 @@
+#1
+dark spider~
+&+La dark spider&N~
+&+LA dark spider crawls about with &N&+rred, glowing eyes&+L.&N~
+&+LThis spider has a very malevolent look to it as it crawls quickly about on
+&+Lthe ground of the dark forest.  Sticking mostly to the shadows, the all-
+&+Lblack body of this creature would make it nearly invisible in the dark were
+&+Lit not for the eight, glowing red eyes that shine like fires in the darkness.&N
+~
+2144 40 0 -850 S
+A 0 0 
+17 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 0
+#2
+phantom spectre~
+&+La tattered &N&+wphantom&N~
+&+wA semi-transparent spectre hangs in the air here, moaning.~
+&+wDressed in tattered clothing and moaning as though in great pain, this
+&+wphantom floats about listlessly.  Deep, empty eye sockets the color of
+&+wcoal peer out from the depth of its rotting flesh into the very depths of
+&+wyour soul.&N
+~
+1051712 67633672 0 -450 S
+US 0 0 
+24 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 0
+#3
+treant dark~
+&+ra dark &+Ltreant&N~
+&+rA dark &+Ltreant&N&+r stands here, glaring evilly.&N~
+&+rAppearing much like the other trees of the forest, this treant is made of
+&+rliving wood, twisted and deformed.  Sharp, clawed branches serve as arms
+&+rfor the creature, waving slowly about in the breeze.  An evil face twists
+&+ritself from the bark of the treant's body, glaring about angrily while
+&+rbearing its sharp, wooden teeth.&N
+~
+526432 16777248 0 -600 S
+VT 0 0 
+22 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 0
+#4
+stone golem~
+&+Lthe stone golem&N~
+&+LA stone golem lumbers about slowly, covered in &N&+gmoss&+L.&N~
+&+LApparently as old as the forest itself, this gigantic golem is made of a
+&+Ldark, grey stone.  Years of wandering slowly about in this desolate place
+&+Lhas left it covered in a thick coating of greenish moss and lichens.  The
+&+Lquiet grating made by its slow movements is the only sound it makes.&N
+~
+4196356 160 0 0 S
+OG 0 0 
+13 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 0
+#5
+slime metallic~
+&+wthe metallic slime&N~
+&+wA small &+Lpool of mercury&N&+w lays here, quivering slightly.&N~
+&+wAlthough at first glance this creature appears to be no more than a pool of
+&+wliquid metal, it is in fact a peculiar form of slime.  Barely sentient, these
+&+wcreatures ooze about slowly in hopes of catching small forest creatures
+&+wunawares and quickly enveloping them in their digestive goo.&N
+~
+64 524320 0 -200 S
+OS 0 0 
+16 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 0

@@ -1,0 +1,335 @@
+#66601
+M
+hi hello~
+Lord Nashar smiles and says, 'Welcome to Neverwinter, the City of Skilled
+Hands!'
+~
+M
+hands skilled~
+Lord Nashar leans in and whispers, 'Just between you and me...I think that's
+a pretty lame nickname for the city.'  Nashar then gives you a knowing wink
+and returns to his business.
+~
+M
+orcs~
+A look of disgust crosses Lord Nahar's noble face and he says, 'That filthy
+lot has been a thorn in our side for some time, now.  What I wouldn't give to
+drive them from the forest for good...  Alas, even my finest soldiers cannot
+seem to put an end to their raids.  They emerge from the Neverwinter Wood in
+droves and disappear again just as quickly.  Some physical proof of their
+defeat would make a nice trophy for display inside Castle Never.'
+~
+M
+castle never~
+Lord Nashar smiles and says, 'Yes, a wonderful palace it is!  Built by Lord
+Haleuth Never centuries ago, is has been the home of Neverwinter's rulers 
+ever since.  Of course, it's currently closed for repairs...but it should 
+reopen any time now.'
+~
+M
+repairs repair~
+Lord Nashar smiles and says, 'A bit of a remodeling job, nothing to worry 
+about, really.' Then he glances about a bit and then leans in to whisper, 
+'Just between you and me...there was a bit of a roach problem.  Some of the 
+previous occupants were less than adequate caretakers.'  Nashar then gives 
+you a knowing wink and returns to his business.
+~
+M
+wink~
+Lord Nashar looks confused and flatly states, 'I have no idea what you're 
+getting at.'
+~
+Q
+Lord Nashar beams a wide, celebratory smile and claps you on the back.  
+'Finally, some real proof that we're making a little progress in eliminating
+the orcs!  I, and the citizens of Neverwinter are in your debt.  As such, 
+allow me to present this medallion. It shows the citizens and guardsmen of 
+Neverwinter that you are a trusted member of our community.  May it bring 
+you respect wherever you go.'
+~
+G I 66231
+G I 66232
+G I 66233
+R I 66627
+S
+#66663
+M
+hi hello~
+Navak nods and says, 'Well met, traveller!'
+~
+M
+damage survey surveying~
+Navak nods and says, 'Yes, it appears as though there may have been an 
+intentional attack against the city.  Luskan is the prime suspect, but others
+may have been involved.'
+~
+M
+others~
+Navak nods and says, 'Yes, Luskan may be dangerous and agressive, but this 
+particular attack involved the use of powerful magics.  Luskan is well-armed, 
+but they typically employ more traditional measures.  Curious, indeed.'
+~
+M
+Luskan~
+Navak nods and says, 'A city to the north of Neverwinter along the High Road.
+They have been an aggressive neighbor to say the least.  Luskan seeks to 
+control Neverwinter to strengthen their hold on trade in the north and profit
+from our trade relationships.'
+~
+M
+relationships trade~
+Navak nods and says, 'We have excellent relationships with many of the more
+civilized cities of the north, particularily Waterdeep to the south.  Should 
+Luskan overtake our city, some fear that Waterdeep would be their next target.'
+~
+M
+curious~
+Navak nods and says, 'Yes, quite curious.  The most recent attacks against 
+the city appear to involve numerous organizations working together against 
+the city.  Should this be true, Neverwinter may face quite a challenge.  
+Garos was sent to investigate the true cause of our troubles, but has yet to
+report anything.'
+~
+M
+garos~
+Navak nods and says, 'He is my brother, also one of Lord Nashar's elite 
+guardsmen.  He was sent to try and find the true cause of Neverwinter's
+current troubles.'
+~
+M
+nashar lord~
+Navak nods and says, 'Lord Nashar is an excellent ruler.  He is strong and
+just and has helped build Neverwinter into a powerful and stable community.'
+~
+M
+troubles~
+Navak nods and says, 'There have been a few attacks against the city lately.
+They have been very focused and precise in their execution, which is a
+definite change from the random raids we typically faced in the past.'
+~
+M
+brother~
+Navak nods and says, 'Yes...as in, we have the same parents.'
+~
+M
+trade~
+Navak nods and says, 'A lucrative business indeed.  It is no secret that our 
+natural harbor and key location along the High Road north of Waterdeep has 
+made us a very powerful community.'
+~
+M
+Waterdeep~
+Navak nods and says, 'A beautiful city to the south.  You should visit it, if
+you find the time.'
+~
+M
+responsible~
+Navak nods and says, 'Yes...I may be responsible for my Garos' disappearance 
+because of the argument we had.  In retrospect, it was quite pointless.'
+~
+M
+castle~
+Navak nods and says, 'Do you perhaps mean Castle Never?  Once the renovations
+are complete, it will once more be a palace of splendor befitting Lord Nashar 
+and the great city of Neverwinter.'
+~
+Q
+Navak nods and says, 'If Lord Nashar has deemed you worthy, I would ask for 
+your help.  If you would go in search of my brother, I would be in your debt.
+Please give him this note if you find him.'
+~
+G I 66627
+R I 66623
+D
+Navak smiles and says, 'Good luck to you all, I shall await your progress
+at my home.'  With that, Navak bid you farewell and departs.
+~
+S
+#66664
+M
+hi hello~
+Navak nods and says, 'Well met, traveller!'
+~
+M
+Luskan~
+Navak nods and says, 'A city to the north of Neverwinter along the High
+Road. They have been an aggressive neighbor to say the least.  Luskan 
+seeks to control Neverwinter to strengthen their hold on trade in the 
+north and profit from our trade relationships.'
+~
+M
+relationships trade~
+Navak nods and says, 'We have excellent relationships with many of the
+more civilized cities of the north, particularily Waterdeep to the south.
+Should Luskan overtake our city, some fear that Waterdeep would be their
+next target.'
+~
+M
+curious~
+Navak nods and says, 'Yes, quite curious.  The most recent attacks against
+the city appear to involve numerous organizations working together against
+the city.  Should this be true, Neverwinter may face quite a challenge.
+Garos was sent to investigate the true cause of our troubles, but has yet
+to report anything.'
+~
+M
+garos~
+Navak nods and says, 'He is my brother, has there been any word of his fate?'
+~
+M
+nashar lord~
+Navak nods and says, 'Lord Nashar is an excellent ruler.  He is strong and 
+just and has helped build Neverwinter into a powerful and stable community.'
+~
+M
+troubles~
+Navak nods and says, 'There have been a few attacks against the city lately.
+They have been very focused and precise in their execution, which is a
+definite change from the random raids we typically faced in the past.'
+~
+M
+brother~
+Navak nods and says, 'Yes...as in, we have the same parents.'
+~
+M
+trade~
+Navak nods and says, 'A lucrative business indeed.  It is no secret that
+our natural harbor and key location along the High Road north of Waterdeep
+has made us a very powerful community.'
+~
+M
+Waterdeep~
+Navak nods and says, 'A beautiful city to the south.  You should visit it,
+if you find the time.'
+~
+M
+responsible~
+Navak nods and says, 'Yes...I may be responsible for my Garos' disappearance
+because of the argument we had.  In retrospect, it was quite pointless.'
+~
+M
+castle~
+Navak nods and says, 'Do you perhaps mean Castle Never?  Once the 
+renovations are complete, it will once more be a palace of splendor befitting
+Lord Nashar and the great city of Neverwinter.'
+~
+Q
+As you relate the story of obtaining the pendant and the poor state in 
+which the Kraken Society had kept his brother imprisoned.  Navak seems 
+overcome at first, but manages to contain his grief. He pauses for a while
+and says, 'I am forever in your debt.  I have nothing to give you but my
+thanks and this note.  Please pass it along to Lord Nashar...perhaps he will
+find a way of suitibly rewarding you for the service you have provided us.'
+~
+G I 66447
+R I 66624
+S
+#66657
+M
+hi hello~
+The drunken mercenary belches out, 'Whatsth it to ya?'
+~
+M
+drunk~
+The drunken mercenary belches out, 'And whats of it?'
+~
+M
+guild~
+The drunken mercenary belches out, 'Aye.  A fine guild it was...but thatsth
+in the pathst.  Only memories now...'
+~
+M
+mercenary~
+The drunken mercenary seems to sober a bit and states, 'Yep...and a damn good 
+one I was at that.  I traveled the Realms in search of fame and adventure.  I
+recorded everything I saw in my journal.  What a collection of tales that was!'
+~
+M
+journal~
+The drunken mercenary belches out, 'Can't seems to remember where I left it...
+haven't seen it since the guild closed years ago...'
+~
+M
+memories~
+The drunken mercenary belches out, 'Aye...that's all in the past, now leave me
+be!'
+~
+Q
+The mercenary's eyes well up with tears, 'My journal!  Wherever did you find
+it!'
+
+As he flips through the yellowed pages of the singed book, you relate the story
+of how the journal was acquired.
+
+The mercenary nods and says, 'I remember now...I placed it there to hide it when
+the closed the guild...  These tales were to be my legacy to the world.  I cannot
+thank you enough for returning them to me.  For doing me such a great service, I
+wish to give you this...  It is the blade that I wielded so many times in the face
+of danger.  May it bring you good fortune on your journies...'
+~
+G I 66616
+R I 66620
+S
+#66658
+M
+hi hello~
+The merchant smiles and nods, 'Yes, yes...a fine day it is!'
+~
+Q
+The merchant's eyes widen and he proclaims, 'My goodness!  An actual frost
+drake egg!  I have never seen one in such condition...it is absolutely
+stunning!  I cannot wait to add it to my collection.'
+
+With that, the egg disappears quickly beneath his robes and he produces a
+small, glass bottle.
+
+The merchant smiles and says, 'Here is an odd curiosity I happened upon
+during my collecting.  It is quite lovely and intriguing...but I have never
+figured out how to remove the cork.  Perhaps it will benefit you.'
+~
+G I 66236
+R I 66628
+S
+#66662
+M
+hi hello~
+The servant shivers a bit and nods, 'Well met.'
+~
+M
+cold shiver~
+The servant nods, 'This old guild, while my only home, can be quite cold
+at times.'
+~
+M
+home guild~
+The servant nods, 'I was once a servant for the mercenaries of the guild.
+When it was closed down, the mercenaries left to find employment elsewhere
+but I had no place else to go.  I have stayed on ever since, living here
+and keeping the place as clean as possible.  Who knows?  Perhaps some day
+they will return.  Until then, I will stay here and try to keep warm by
+the fireplace.'
+~
+M
+fireplace~
+The servant nods, 'It works quite well.  It is magically enhanced to burn
+wood for days longer than normally possible and used to heat the entire 
+building through a series of ducts, but now it barely heats this room.  If I
+only had a good, solid log or two to rekindle the flames.  That would probably
+be enough to get me through the winter.'
+~
+Q
+The servant's eyes gleam as he says, 'An excellent log!  This should get the
+old fireplace running again!'
+
+With that, he places the log into the fireplace which quickly bursts into
+&+Rflame&N.  Smoke begins to billow into the room, but then quickly dissipates
+as something falls from the chimney.
+
+The servant quickly grabs the object from the flames and examines it.  He says,
+'Hmm...this seems to be some sort of old journal.  It must have been stashed in
+the chimney when the mercenaries left.  I have no use for it...I can't even read
+the blasted thing...perhaps you may find some purpose for it.'
+~
+G I 66234
+R I 66616
+S

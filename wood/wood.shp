@@ -1,0 +1,20 @@
+;; Shop in Druid's Grove (Gaelwyn)
+SHOP: 66225 
+ROOM: 66318
+CASTING:
+GREED: 110
+HATES: EVILS
+HOURS: 8,19
+PO: 7907 7909 7923 7924 7927 7930 7946 7950 7951 7953 7955 7958 7962
+BT: 2 4 5 9 11 22
+MOPEN: $n says, 'Step right up!  I'm not open forever, you know.'
+MCLOSE: $n says, 'That's it for me!  Come back tomorrow at 8 AM.'
+MSHAVE: $n says, 'Can't seem to find of those...may I suggest some glasses?'
+MBHAVE: $n says, 'Umm...check your inventory again, $N.'
+MSCASH: $n says, 'Sorry...I can't afford that right now.'
+MBCASH: $n says, '$N, do I LOOK like I'm running a charity?'
+MNBUY: $n says, 'Sorry, $N...I don't buy those anymore.'
+MSELL: $n says, 'Here you go &N, only %s.  Enjoy yourself.'
+MBUY: $n says, 'I can't believe you sold that to me!'
+MBIGOT: $n yells, 'GET OUT!!!'
+;; End of Shop in Druid's Grove (Gaelwyn)

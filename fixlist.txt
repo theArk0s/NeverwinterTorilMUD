@@ -1,0 +1,51 @@
+tavern keepers (nnever/snever) & booze
+
+alcolytes & worshippers in temples
+
+guild guards
+
+map of sewers for cyric
+
+cell door locked/pickable from outside
+criminal prisoner in cell (aggro)
+
+question coders about mob & ranged (thrown) weapons
+
+TRAP on chest 66211
+add TRAPS to vault doors
+various random room traps
+trapdoor down in 66770, locked, pickable, trapped
+
+battle horrors (aggro) in moonstone basement
+
+shopkeepers in guilds - sell basic items....(like gaelwyn)
+
+periodic actions on mobs....TONS TO DO HERE!!!
+
+guild guardians (ranger, mage, warrior, paladin, thief, cleric...)
+
+How Pet Shops Work????
+
+shopkeeper/waitresses/patrons in board laid bar + signature dishes
+
+add wield secondary to Kinjite/other daggers
+
+random crates/boxes in warehouses
+
+shops in nnever (inn with eel pies)
+
+hidden chest in room 66929 with *something* in it
+
+random load root/enemies in 66928
+
+remove 'take' from pile of gore 66229
+
+helm no_evilrace and HP 18, not WIS
+
+undead skeleton near coffin
+
+make sewers and temple rooms DARK
+
+room 66529, door east locked, trapped, unpickable (make assassin key & rareload somewhere in city)
+
+few random beggars in nnwinter with 'wailing death' rot

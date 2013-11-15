@@ -1,0 +1,175 @@
+#66625
+demon arkos fiend~
+the Arch-Fiend Arkos~
+The vile Arch-Fiend Arkos stands here grinning.~
+Covered from head to toe in dark, shimmering armor, this vile demon
+stands before you in his unholy glory.  Eyes of blackest night, glowing red 
+with the rage of thousands of years of captivity gleam malevolently.  
+Massive, bloodied horns protrude from nearly every available surface of the 
+demon's body, dripping a constant stream of gore onto the ground beneath him.
+He bares his pointed teeth in a smile of pure cruelty only moments before he
+screams and unleashes his fury upon you.
+~
+1079511140 570491048 1 -1000 S
+Y 0 0 
+59 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1
+#66626
+demon demonic cyntan brighthelm chasme~
+&+Ra demonic&N Cyntan Brighthelm~
+A demonic version of Cyntan Brighthelm stands here.~
+Dressed in fine armor with a flowing cape, Cyntan is easily one of the
+most dashing individuals to make up the Neverwinter Nine.  With long, golden
+hair braided neatly down his back and deep emerald eyes set in his lean,
+sun-tanned face, Cyntan has been the heart's desire of many of Neverwinter's
+female citizens for quite some time.  His stoic demeanor and level-headedness
+make him one of the more reasonable and most respected members of Lord 
+Nashar's personal leadership team.
+~
+3563063300 268443648 2048 -620 S
+X 0 0 
+53 0 0 0d0+0 0d0+0
+0.0.0.0 0 1 15
+131 131 1
+#66627
+demon demonic aermor dragonsbreath dretch~
+&+Ra demonic&N &+mAermor &+WD&+Mr&+Wa&+Mg&+Wo&+Mn&+Ws&+Mb&+Wr&+Me&+Wa&+Mt&+Wh&N~
+A demonic version of &+wLovely &+mAermor &+WD&+Mr&+Wa&+Mg&+Wo&+Mn&+Ws&+Mb&+Wr&+Me&+Wa&+Mt&+Wh&N stands here.~
+One of the elite Neverwinter Nine, Aermor Dragonsbreath serves Lord Nashar
+Alagondar in the leadership and protection of the City of Neverwinter.  Her
+light, auburn hair falls loosely about her shoulders, indicative of the
+care-free and relaxed attitude she typically takes.  Her lovely, lavender
+eyes glance about freely, unafraid of making eye contact with strangers.
+At times, a thin, wry smile crosses her lips.
+~
+3563063300 268443648 64 -630 S
+X 0 0 
+53 0 0 0d0+0 0d0+0
+0.0.0.0 0 6 20
+131 131 2
+#66628
+demon demonic evema nightfire nabassu~
+&+Ra demonic&N &+LEvema Night&N&+rfire&N~
+A demonic version of &+wMysterious &+LEvema Night&N&+rfire&N stands here.~
+Known for some time as one of the greatest thieves in Neverwinter, the
+selection of Evema Nightfire as one of Lord Nashar's Neverwinter Nine
+came as a shock to many within the city.  Although the various members of 
+the Neverwinter Nine all have varied pasts, the controversial and 
+mysterious Evema has always served as a topic of city gossip.  Her short,
+raven-black hair and twinkling blue eyes, mask a wit as quick and sharp
+as her dagger.
+~
+3563063300 268443648 0 -250 S
+X 0 0 
+53 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2 23 10
+#66629
+demon demonic laurenthyl tilvish hezrou~
+&+Ra demonic&N &+GLaurenthyl Tilvish&N~
+A demonic version of &+GLaurenthyl Tilvish&N stands here.~
+The only member of the Neverwinter Nine of half-elven descent, Laurenthyl
+Tilvish appears to have aquired the best qualities of both races.  She is
+quite tall, with slighly oval, green eyes.  Her ears end in a slight point
+and the overall features of her face are very strongly defined.  She tends
+to carry her thin, supple frame in a very graceful and manner.  Her jet-
+black hair is cut very short and curves slightly inwards just below her ear
+lobes.  Despite her graceful and peaceful appearance, Laurenthyl has proven
+herself time and again as a fierce fighter and defender of Lord Nashar and
+the City of Neverwinter.
+~
+3563063300 268443648 0 -850 S
+X 0 0 
+53 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 2 16 20
+#66630
+demon demonic vagan silverfist vrock~
+&+Ra demonic&N Vagan Silverfist~
+A demonic version of Vagan Silverfist stands here.~
+With his signature silver guantlets set with amethysts and a thick cloak of
+deep purple, Vagan Silverfist gives off an aire of cool indifference.  His
+light skintone and dark, medium-length hair only add to his austere and 
+aloof aura.  Deep, bluish eyes are set on both sides of his hawk-like nose,
+just above a neatly trimmed goatee.
+~
+3563063300 268443648 0 -550 S
+X 0 0 
+53 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1 4 20
+#66631
+demon demonic aldan nightfire nalfeshnee~
+&+Ra demonic&N &+wAldan &+LNight&N&+rfire&N~
+A demonic version of &+WHeroic &N&+wAldan &+LNight&N&+rfire&N stands here.~
+Brother to Evema Nightfire, Aldan is in almost every way the opposite of
+his somewhat nefarious sister.  His dusty-blond hair falls loosely about his
+all-too-average face.  Brownish eyes gaze at the people and objects around 
+him as though constantly assessing his surroundings.  While quite capable as
+a fighter, Aldan has the reputation as something of a pacifist, preferring to
+use his intelligence and level head to end a situation before fisticuffs and
+arms become necessary.
+~
+3563063300 268443648 0 -780 S
+X 0 0 
+53 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1 2 10
+#66632
+demon demonic lhoge firesbane marilith~
+&+Ra demonic&N &+rLhoge Firesbane&N~
+A demonic version of &+rLhoge Firesbane&N stands here.~
+Lhoge Firesbane, the only dwarven member of the Neverwinter Nine, squints
+suspiciously about the area.  Although too proud to admit that his vision
+is likely suffering in his advanced age, Lhoge remains a proud and courageous
+fighter.  As an emissary from Mithril Hall far to the north, Lhoge has served
+as companion and protector to Lord Nashar, as well as general diplomat between
+the City of Neverwinter and their secretive dwarven allies to the north.  His
+long, flowing beard is slowly showing the gray streaks of his age, but remains
+neatly kept.  His bulbous nose, broken in battle more times than anyone can
+remember, still manages to retain its noble form.
+~
+3563063300 268443648 0 -850 S
+X 0 0 
+53 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1 1 20
+#66633
+demon demonic imdar al'vahari incubus~
+&+Ra demonic&N &+yImdar Al'Vahari&N~
+A demonic version of &+yImdar Al'Vahari&N stands here.~
+Hailing from the deserts of Calimport, far to the south of the city, Imdar
+is quite possibly the most exotic member of the Neverwinter Nine.  Dressed
+in the flowing and loose robes favored by his people, it is amazing that
+Imdar has chosen to live in a city located so far in the North.  Despite
+the time he has spent in the chilly area around Neverwinter, Imdar's skin
+retains the dark, golden-tanned hue of his homeland.  His dark-brown hair
+is neatly trimmed to a short length, matching the neatly trimmed goatee
+about his mouth and chin.  Somber, blue eyes peer forth from his weathered
+face, speaking of horrors witnessed and wisdom gained.
+~
+3563063300 268443648 0 -350 S
+X 0 0 
+53 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1 2 15
+#66634
+demon demonic silme ogrekill succubus~
+&+Ra demonic&N &+LSilme &N&+gOgrekill&N~
+A demonic version of &+LSilme &N&+gOgrekill&N stands here.~
+Scarred from a lifetime of conflict, Silme still manages to carry his bulky
+frame with a degree of confidence and prowess.  Although his dark hair has
+started to show the gray flecks of age, his strength and experience still 
+mark him as a fierce warrior.  Silme earned his name defending the City of
+Neverwinter against the menacing orc hordes that used to plague the norhtern
+reaches.  During one raid, he single-handedly killed three ogres who had
+managed to make it into the city and were in process of attacking Lord
+Nashar and his bodyguards.  His deep, brown eyes seem to continually reflect
+on the battles of his past, refusing to accept the slow onslaught of age.
+~
+3563063300 268443648 0 -550 S
+X 0 0 
+53 0 0 0d0+0 0d0+0
+0.0.0.0 0
+131 131 1 1 10

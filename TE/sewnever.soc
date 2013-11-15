@@ -1,0 +1,37 @@
+MOB: 66910 LIST
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 10 ;; 9%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+&+Linspects his progress on finishing the pentagram.&N
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 6 ;; 1 seconds
+ACTION: 40 ;;emote
+&+Lcackles fiendishly to himself.&N
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 14 ;; 6%
+DELAY: 8 ;; 2 seconds
+ACTION: 17 ;;say
+&+mMy master will make you beg for your deaths!&N
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 13 ;; 7%
+DELAY: 8 ;; 2 seconds
+ACTION: 17 ;;say
+&+mYou are gonna be so sorry when my master gets here!&N
+~
+DONE
+FLAG: 1 ;; NON COMBAT ONLY -
+CHANCE: 12 ;; 7%
+DELAY: 4 ;; 1 seconds
+ACTION: 40 ;;emote
+&+Lcontinues to inscribe the pentagon on the floor of the chamber.&N
+~
+LISTDONE
+;; End of social entries for mob nr. 66910

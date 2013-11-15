@@ -1,0 +1,503 @@
+#66200
+M
+hi hello~
+&+bThe water nymph smiles and says, '&+wWell...hello to you, too.&+b'&N
+~
+S
+#66202
+M
+hi hello~
+&+yThe doe merely stares blankly at you.&N
+~
+S
+#66203
+M
+hi hello~
+&+rThe buck tilts its head as if intrigued, but goes about its business.&N
+~
+S
+#66205
+M
+hi hello~
+&+GThe giant frog attempts to croak an answer...but you can't understand it.&N
+~
+S
+#66207
+M
+hi hello~
+&+wThe stork flaps its wings a bit, but generally ignores you.&N
+~
+S
+#66208
+M
+hi hello~
+&+LThe raven quoths an answer that sounds a lot like '&N&+rNevermore&+L'.&N
+~
+S
+#66210
+M
+hi hello~
+&+LThe giant black bear rears up on its hind legs and cocks its head at you
+&+Las if torn between either answering or mauling you.&N
+~
+S
+#66211
+M
+hi hello~
+&+GThe Harper woodsman smiles and says, '&N&+wHello, fine traveler!  Be careful on 
+&+wyour way through the Neverwinter Wood.  It can be a dangerous place.&+G'&N
+~
+S
+#66212
+M
+hi hello~
+&+wThe lovely Harper nods her head and says, '&+GWell met!  If you need any 
+&+Gassistance, feel free to come to the Harpers for help.&N&+w'&N
+~
+M
+help~
+&+wThe lovely Harper says, '&+GI'd love to...but I'm a bit busy right now.&N&+w'&N
+~
+S
+#66213
+M
+hi hello~
+&+RGlorpk stares icily at you.&N
+~
+M
+tooth~
+&+GGlorpk eyes you evilly, then growls, '&N&+rYou see Glorpk tooth?  GIVE ME GLORPK 
+&+rTOOTH!&+G'&N
+~
+M
+Leavey~
+&+GGloprk screams and growls, '&N&+rMe KILL Leavey. Evil man take Glorpk tooth.  He 
+&+rthink he kill Glorpk but Glorpk too strong for he.&+G'&N
+~
+M
+bridge~
+&+GGlorpk growls, '&N&+rThis me bridge, you find own bridge.&+G'&N
+~
+M
+Nollin~
+&+GGlorpk growls, '&N&+rNo like him, he try and make Glorpk leave woods.&+G'&N
+~
+M
+reward~
+&+GGlorpk licks his lips and growls, '&N&+rMe no kill you...that reward.&+G'&N
+~
+M
+thief~
+&+GGlorpk flashes and evil smile, '&N&+rMe eat thief once, he taste good.&+G'&N
+~
+Q
+&+GGlorpk screams with joy and replaces his missing tooth.  He looks at you 
+&+Gevilly for a moment as if contemplating your murder.  Finally, Glorpk growls, 
+&+G'&N&+rYou help Glorpk...he give you funny stick.  Now go or me chew your head 
+&+roff.&+G'&N
+~
+G I 66227
+R I 66228
+S
+#66215
+M
+hi hello~
+&+GThe snake hisses at you with contempt.&N
+~
+S
+#66216
+M
+hi hello~
+&+bThe golem merely stares blankly.&N
+~
+S
+#66218
+M
+hi hello~
+&+wThe Druidmother smiles kindly at you.&N
+~
+M
+staff~
+&+GThe Druidmother sighs, '&N&+wYes, my beloved staff has been lost in the Wood for a 
+&+wlong time.  Many years ago, an evil thief stole it from me for his master.  
+&+wThe thief never reached his master and the staff has been lost for ages.  Its 
+&+wreturn would be greatly appreciated.&+G'&N
+~
+M
+Neverwinter~
+&+GThe Druidmother nods, '&N&+wThe city encroaches upon the forest more and more 
+&+wevery year.  Many of the good spirits of the Wood are weakening or have 
+&+wdisappeared from the realms of men.&+G'&N
+~
+M
+Nollin~
+&+GThe Druidmother smiles, '&N&+wYes, Old Nollin is a good friend of mine.  He has 
+&+wbeen helping me care for the forest for a very long time indeed.&+G'&N
+~
+M
+Leavey~
+&+GThe Druidmother smiles, '&N&+wAh yes, Nollin's young apprentice.  The boy shows 
+&+wmuch promise, but he has a lot to learn.  He also seems quite forgetful at 
+&+wtimes.&+G'&N
+~
+M
+reward~
+&+GThe Druidmother smiles, '&N&+wWell...I'll see what I can do.&+G'&N
+~
+Q
+&+GThe kindly Druidmother smiles.  '&N&+wThank you for returning my staff, it has 
+&+wbeen lost to me for a very long time.  For your aid, I give you this key.  It 
+&+wonce belonged to a powerful, but evil man.  His treasure is said to be hidden 
+&+wsomewhere in the woods, but it is guarded by foul creatures.  Should to try and
+&+wseek this treasure, keep an eye out for an item of great evil.  If you return it
+&+wto me...I shall destroy it and reward you for your troubles.  May the spirits 
+&+wprotect you.&+G'&N
+~
+G I 66228
+R I 66212
+Q
+&+GThe kindly Druidmother shudders in horror as you hand her the dagger.&N
+
+'&N&+wI do not know what this accursed thing is...but it is evil like none I have
+&+wever seen.  This is not the item I seek.&+G'&N
+
+&+GFor a moment, the Druidmother seems to swoon and come close to fainting as
+&+Gshe stares at the dark crystal of the blade.  After a short time, her expression
+&+Gclears and she hands the dagger back to you, noticeably paler.&N
+
+'&N&+wI know not what to do with such a terrible thing, but I will tell you this -
+&+wThis weapon is not wholly of this world and is tied to the powers of darkness.  It
+&+whas a purpose far greater than I can fathom...but it is clearly no ordinary
+&+wweapon.  Please take great care of this item...may you remain free of its dark
+&+wtainting until you realize its true purpose.&+G'&N
+~
+G I 66213
+R I 66213
+Q
+&+GThe kindly Druidmother smiles broadly as you hand her the ring.&N
+
+'&N&+wThis terrible ring was created to wreak havoc in the Realms by a dark
+&+wsorcerer who once called these woods his home.  The good spirits of the
+&+wforest managed to drive him from our home and undo much of the damage he
+&+whad done to the Wood...but this ring escaped our grasp.&+G'&N
+
+&+GThe Druidmother grasps the ring and concentrates for a moment on its 
+&+Gcircular form.  Gradually, the ring begins to glow with a bright, golden light
+&+Gand rises slowly from her hand, suspended in the air.  Suddenly, with a flash
+&+Gof blinding, &+Wwhite light&+G, the ring vanishes and is replaced by a glowing white
+&+Gbutterfly which flutters away gently on the breeze.&N
+
+'&N&+wI thank you for your help in this matter.  There is still much evil in the
+&+wforest that must be vanquished, but the destruction of this ring was a great
+&+wvictory for good.  As thanks, I give you these boots...may they aid you on your
+&+wjournies.&+G'&N
+~
+G I 66210
+R I 66208
+S
+#66219
+M
+hi hello~
+&+CNollin says, '&+WHello to you as well, good traveler.&+C'&N
+~
+M
+token~
+&+CNollin says '&+WYes!  Have you seen it?  It was a gift and I'd really like it
+&+Wback.&+C'&N
+~
+M
+gift~
+&+CNollin says, '&+WAs a protector of the woods I was given a gift many years ago.
+&+WOne day a pack of vile wolves attacked me and, in the confusion, my gift was
+&+Wlost. I've searched for it ever since, but these woods are vast.&+C'&N
+~
+M
+woods wood forest~
+&+CNollin responds, '&+WYes, the Neverwinter Wood.  I'm almost certain my token is 
+&+Where somewhere.&+C'&N
+~
+M
+lost~
+&+CNollin says, '&+WThe token was lost a very long time ago, but if you could find 
+&+Wit, I'd gladly reward you for your assistance.&+C'&N
+~
+M
+reward~
+&+CNollin nods and says, '&+WA man of my age has accumulated a trinket or two in 
+&+Whis time.  I'd be willing to part with something for the return of my token.&+C'&N
+~
+Q
+&+CThe man's eyes light up with excitement and tears as you hand him his long 
+&+Clost token.  Nollin says, '&+WThank you ever so much.  In return, I give you 
+&+Wthis box.  The key was stolen by an orc some time ago, but the contents once 
+&+Wbelonged to a young woodsman in the area.  I hope you find them useful.&+C'&N
+~
+G I 66222
+R I 66214
+S
+#66220
+M
+hi hello~
+&+GThe tree makes no apparent response to your greeting.&N
+~
+S
+#66221
+M
+hi hello~
+Earl stares eerily at you and says, 'I had to move to a new apartment 
+recently.  The old place was gettin' a little too small for me an' my cat.
+...
+You'd be surprised how much space it takes for a cheetah to ride a dirt 
+bike.'
+~
+M
+more~
+Earl stares eerily at you and says, 'If I could be somebody besides myself,
+I would like to be Tarzan.
+...
+Then maybe the cops would think twice about arresting me for being up in a 
+tree at the park, butt-nekkid and screaming.'
+~
+S
+#66222
+M
+hi hello~
+&+mLeavey says, '&+wOh, hello!  I didn't see you sneak up on me.&+m'&N
+~
+M
+token~
+&+mLeavey replies, '&+wA what?  Nope...can't say I've seen one of those.&+m'&N
+~
+M
+box~
+&+mLeavey says, '&+wYes...I had one a long time ago that I kept my possesions in.  
+&+wI gave it and the key to Nollin for safe keeping while I explore the forest.
+&+wI'm a bit forgetful, you know.&+m'&N
+~
+M
+key~
+&+mLeavey says, '&+wI heard the key to my box was stolen from Nollin by an orc.&+m'&N
+~
+M
+woods wood~
+&+mLeavey responds, '&+wEven if they are dangerous, they are beautiful, aren't 
+&+wthey?&+m'&N
+~
+M
+Nollin~
+&+mLeavey replies, '&+wOh, him?  Yeah, he's the wise old woodsman.  People say he's 
+&+was old as the forest itself...but I don't believe that.&+m'&N
+~
+M
+reward~
+&+mLeavey thinks for a moment then says, '&+wI don't have anything of value on me 
+&+wright now, but if I were to get my box back and the key to it, there's probably
+&+wstuff in there you could use.&+m'&N
+~
+Q
+&+mLeavey smiles.  '&+wWow, my box AND the lost key!  I thought I'd never see these
+&+wagain.  Hmm...the box is empty...looks like I had the good stuff after all.
+&+wSilly me!  Anyway, for your trouble I'll give you some of my favorite
+&+wtrinkets.  May they serve you well.&+m'&N
+~
+G I 66214
+G I 66215
+R I 66226
+R I 66227
+S
+#66223
+M
+hi hello~
+&+LThe slime jiggles slightly and oozes away from you.&N
+~
+S
+#66225
+M
+hi hello~
+&+GGaelwyn says, '&N&+wEnough talkie-talkie!  You buying something or do I have to 
+&+wkick you out?&+G'&N
+~
+S
+#66226
+M
+hi hello~
+&+wThe spectre merely groans in anguish.&N
+~
+M
+blood~
+&+wThe spectre's eyes widen, '&+RYes!  It is the blood of the innocents!  Those I
+&+Rdoomed in the last life have forever damned me to this one.&N&+w'&N
+~
+M
+innocent innocents~
+&+wThe spectre's eyes darken, '&+RYes!  The souls of the hundreds and hundreds I
+&+Rdoomed forever bind me to this plane...never to rest...never...&N&+w'&N
+~
+M
+damned~
+&+wThe spectre's eyes darken, '&+RI and the members of my cult are forever cursed
+&+Rto wander the planes of the living on the eve of the anniversary of...of...&N&+w'&N
+~
+M
+anniversary~
+&+wThe spectre's eyes darken, '&+RSo long ago and yet so clear...so painful. But 
+&+Rwe knew what was going to happen, we knew what we were doing.  THAT is why
+&+Rwe are damned!&N&+w'&N
+~
+M
+doing~
+&+wThe spectre's eyes darken, '&+RWe were the darkest of the dark...even the cult
+&+Rhad cast us out.  We searched for knowledge no mortal was meant to have.&N&+w'&N
+~
+M
+happen~
+&+wThe spectre's eyes darken, '&+RWe knew they would die...we knew they would all
+&+Rdie, but we thought our power would save us.  Oh foolish flesh...&N&+w'&N
+~
+M
+why~
+&+wThe spectre's eyes darken, '&+RWhy?  You DARE ask why?!?  It's because we 
+&+Rsummoned it back to life.  Gave it new form so that it might live again.&N&+w'&N
+~
+M
+summoned it~
+&+wThe spectre's eyes darken, '&+RYes...we knew the madness...but we thought it 
+&+Rwould serve us.  The drake was too strong...too evil...even more so than
+&+Rthe legend said.&N&+w'&N
+~
+M
+legend~
+&+wThe spectre's eyes darken, '&+RThe legend of the evil drake Arinoath!  A 
+&+Rcreature banished to the nether regions for its contempt for life.  The
+&+Rlegend said it could be revived...controlled...commanded.  But all it
+&+Rdid was kill...kill me...kill my followers...and kill the townspeople...&N&+w'&N
+~
+M
+townspeople~
+&+wThe spectre's eyes darken, '&+RYes...there once was a villiage in the wood.  
+&+RSmall...but peaceful...idyllic.  Mostly druids and farmers...they used
+&+Rthe powers of the wood to create beauty in all this darkness.  Hundreds...
+&+Rthey all...all...the blood...&N&+w'&N
+~
+M
+Arinoath~
+&+wThe spectre's eyes darken, '&+RYes...we succeeded in reviving the beast
+&+Rthrough magics and sacrifice.  Dark...arcane deeds lost since the beginning 
+&+Rof the times of man.  The dark Arinoath lived again...but we could not stop
+&+Rit...it took armies...thousands....the blood...&N&+w'&N
+~
+M
+help~
+&+wThe spectre's eyes darken, '&+RThere can be no help for us...we are already
+&+Rdamned.  Forever damned by the blood...&N&+w'&N
+~
+M
+armies~
+&+wThe spectre's eyes darken, '&+RYes...the creature was finally stopped.  But so
+&+Rmany had already died.  Ours were the souls to pay for their losses... When 
+&+Rwill it all end...&N&+w'&N
+~
+M
+end~
+&+wThe spectre's eyes darken, '&+RThe beast was slain...but it had left some of
+&+Rits evil behind.  Below the shrine it made a nest...many of its offspring
+&+Rhave died...but in deepest winter some return to finish their vengence 
+&+Ragainst the living.  The blood continues to spill...even after all these 
+&+Ryears...the blood...&N&+w'&N
+~
+M
+soul~
+&+wThe spectre's eyes darken, '&+RYes...there was a time I would have done anything
+&+Rfor the return of my soul...but it is lost to the ages, confined to this world
+&+Ras I am.&N&+w'&N
+~
+M
+return~
+&+wThe spectre's eyes darken, '&+RIf you would return my soul to me, my followers and
+&+RI would be forever freed of this eternal torment.  However, I fear there may be
+&+Rdire consequences to our freedom...&N&+w'&N
+~
+M
+dire consequences~
+&+wThe spectre's eyes darken, '&+REven our freedom must come at a price...&N&+w'&N
+~
+Q
+&+wThe spectre's eyes darken, '&+RAt last...my soul is returned to me!  Now my followers
+&+Rand I can finally taste the embrace of death's finality...so long denied to us.&N&+w'&N
+
+&+wWith that, the spectre releases the cork in the bottle and the swirling mist 
+&+wcontained inside is released.  It coalesces slowly about his ghostly frame and for
+&+wa brief moment, he appears before you as he did in life.&N
+
+&+wThe priest's eyes glow, '&+RWe are freed.  My eternal thanks and that of my followers
+&+Rshall always be yours.  The path of our evil doings has been undone, but there remains
+&+Rone remnant of evil that must be vanquished...may the gods grant you strength.&N&+w'&N
+
+~
+G I 66628
+R O 66243 66287
+D
+&+wThe form of the priest gradually fades from view, a peaceful smile upon his face.  Just
+&+was he disappears from sight, a thick cloud of swirling cold and mist begins to decend
+&+wupon the area, slowly gathering and thickening with time as a thunderous roar of pure rage
+&+wtears through the air, apparently from the east of here...&N
+~
+S
+#66229
+M
+hi hello~
+The orc captain grunts, '&+LYou go now, we looking for goodies to kill.&N'
+~
+M
+neverwinter~
+The orc captain grunts, '&+LYes, we go to city.  Smash some goodie heads.&N'
+~
+S
+#66230
+M
+hi hello~
+&+yThe orc warrior simply ignores you.&N
+~
+S
+#66231
+M
+hi hello~
+&+rThe orc shaman simply ignores you.&N
+~
+S
+#66235
+M
+hi hello~
+&+mThe girl contemplates you quietly, torn between crying and running.&N
+~
+M
+lost~
+&+mThe girl nods quietly and looks quite scared.&N
+~
+M
+mother~
+&+mThe girl nods, '&+wI miss mommie...&+m'&N
+~
+M
+home~
+&+mThe girl nods, '&+wI wanna go home, but I don't know the way...&+m'&N
+~
+M
+way~
+&+mThe girl nods, '&+wSome kind of picture might help... Please?&+m'&N
+~
+M
+scared~
+&+mThe girl simply nods.&N
+~
+Q
+&+mThe girl's eyes gleam beneath her tears, '&+wThank you!  Now I can find
+&+wmy way home.  Please give this to my mommy if you see her...&+m'&N
+~
+G I 66644
+R I 66669
+D
+&+wWith that, the girl takes the map and bounds off through the woods towards
+&+wher home in Neverwinter.&N
+~
+S

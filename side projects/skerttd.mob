@@ -1,0 +1,1126 @@
+<*> File Version 1 <*>
+#99000
+rodent~
+a large,&+y furry rodent&N~
+A large, &+yfurry rodent&N scurries across the path.
+~
+This mutant has long whiskers and a tail twice the length of his body.
+He looks very hungry and weather beaten.
+~
+64 0 0 0 S
+A 0 0 
+2 0 94 2d20+2 1d7+0
+0.0.0.0 200
+131 131 0
+#99001
+eagle~
+a &+ymajestic eagle~
+A&+y majestic eagle perches proudly here.&N
+~
+This eagle perches here quietly, uninterrupted by distraction or intrusion.
+Dark brown feathers poke out of his orange coat.
+~
+64 134217728 0 500 S
+B 0 0 
+1 0 97 1d20+1 1d7+0
+0.0.0.0 100
+131 131 0
+#99002
+owl~
+the&+y wise owl&N~
+A &+ywise, old owl&N sits perched here regarding you carefully.
+~
+An ancient wisdom lurks within the eyes of this almost motionless owl.
+He regards you carefully for a moment, then looks away.
+~
+0 0 0 500 S
+B 0 0 
+5 1 85 5d20+5 1d7+0
+0.0.0.0 500
+131 131 0
+#99003
+stirge~
+the&+y stirge&N~
+A&+y hungry looking stirge&N flitters around you anxiously.
+~
+Looking like a cross between a bird and a mosquito, this blood-sucking
+creature looks for an opening in your attire.
+~
+1073741888 167772160 0 0 S
+B 0 0 
+10 2 70 10d20+10 1d6+0
+0.0.0.0 1000
+131 131 0
+#99004
+kamfhult vine~
+the&+g kamfhult&N~
+An&+g enormous vine&N suddenly moves and reaches out for you!
+~
+Looking like an ordinary vine, this kamfhult waits till its victims are
+close then swoops down and grapples with its strong tendons.
+~
+34 33554432 0 -500 S
+VT 0 0 
+15 3 55 15d25+37 2d6+1
+0.0.0.0 6000
+131 131 0
+#99005
+kech~
+the&+y mischeivous kech&N~
+A&+y mischeivous kech&N grins evily and looks for something throw at you.
+~
+With leafy, almost chameleon-like skin, the kech blends in with the forest
+making it very hard to see.
+~
+2112 0 0 0 S
+AA 0 0 
+15 3 55 15d25+37 2d6+1
+0.0.0.0 6000
+131 131 0
+#99006
+tree sentient~
+the&+L evil looking sentient tree&N~
+An&+L evil looking sentient tree&N glares darkly at you.
+~
+With weather worn bark and droopy limbs, this sentient tree looks like
+its seen more than its fair share of hard days.  It shifts uneasily and
+you catch a disturbing hint of evil and madness within its heart.
+~
+2112 33554432 0 -100 S
+VT 0 0 
+25 6 25 25d40+187 3d6+3
+0.0.0.0 18750
+131 131 0
+#99007
+swan~
+the&+W beautiful swan&N~
+An&+W enormous, amazingly beautiful swan&N stretches out her wings.&N
+~
+Larger than any swan you have ever seen, this enormous creature of
+beauty radiates warmth and kindness.
+~
+2112 67108904 128 1000 S
+B 0 0 
+30 7 10 30d55+300 3d6+4
+0.0.0.0 22500
+131 131 2
+#99008
+giant toad~
+the&+y repulsive giant toad&N~
+A&+y repulsive giant toad with &+ggreen warts&N looks at you and blinks.
+~
+Some five feet long and three feet tall, this huge toad has ugly green
+warts covering the length of its body and blinks its yellow eyes.
+~
+2112 33554432 0 0 S
+R 0 0 
+14 3 58 14d25+35 2d6+1
+0.0.0.0 5600
+131 131 0
+#99009
+griffon~
+the&+W huge, stone-like griffon&N~
+A&+W huge, white griffon&N sits here seemingly made of stone.
+~
+Motionless and stone white, this griffon looks more artificial than living.
+Staring intently, however, you notice a movement in its eye.
+~
+1073743936 0 0 0 S
+B 0 0 
+30 7 10 30d55+300 3d6+4
+0.0.0.0 22500
+131 131 0
+#99010
+seagull~
+the&+W seagull&N~
+A&+W large, white seagull&N circles the beach looking for food.
+~
+With long white wings and a sharp beak, this oceanside bird dives close
+to land searching for scraps and bits of uneaten food.
+~
+64 134217728 0 0 S
+B 0 0 
+3 0 91 3d20+3 1d7+0
+0.0.0.0 300
+131 131 0
+#99011
+fish~
+the&+r &+mra&N&+Rin&N&+Mbow&N &+rfish&N~
+A &+mra&N&+Rin&N&+Mbow&N &+rfish&N swims around you carelessly.
+~
+Made up of several different colors, this small fish most closely
+resembles a living rainbow.
+~
+64 33556480 0 0 S
+F 0 0 
+5 1 85 5d20+5 1d7+0
+0.0.0.0 500
+131 131 0
+#99012
+dolphin~
+the&+W albino dolphin&N~
+A&+W pearly white, albino dolphin&N swims around you innocently.
+~
+Other than the pearly white coloring, this dolphin has the common
+characteristics of most dolphins; long tail, large fine on its back,
+blow-hole and two flippers at its posterior end.
+~
+2240 33556480 0 0 S
+F 0 0 
+15 3 55 15d25+37 2d6+1
+0.0.0.0 6000
+131 131 0
+#99013
+locathah hunter~
+the&+Y locathah hunter&N~
+A&+Y locathah hunter&N with a &+ylong fin along its back&N searches for food.
+~
+Looking like a cross between a catfish and a man, this locathah warrior
+has a long yellow body and a brown fin running the length of his back.
+~
+2112 33556480 0 0 S
+H 0 0 
+30 7 10 30d55+300 3d6+4
+80.43.16.1 22500
+131 131 1
+#99014
+sea lion sealion fish~
+the&+R sea lion&N~
+A&+R ferocious&N &+ghalf-fish,&N &+yhalf-lion&N&+R monstrosity&N charges at you!
+~
+A hideous cross between a lion and a fish, this giant creature has a long
+orange tail and the torso of a mighty lion with a long brown mane.
+~
+1073743904 33556480 0 0 S
+F 0 0 
+25 6 25 25d40+187 3d6+3
+0.0.0.0 18750
+131 131 1
+#99015
+scrag troll~
+the&+g ugly scrag&N~
+A&+g hideous troll with gills and webbed feet&N stares at you maniacally.
+~
+Closest resembling an underwater troll, this repulsive beast has pale
+green skin and the body of a troll, but with large gills on its neck and
+huge webbed feet.
+~
+1073743968 33556488 0 0 S
+H 0 0 
+30 7 10 30d55+300 3d6+4
+80.57.15.1 22500
+131 131 1
+#99016
+shark white~
+the&+W large, white shark&N~
+A&+W huge, white shark&N circles around you considering how you'd taste.
+~
+The swift predator of the ocean, this mighty white shark scowls at you
+with disapproval.
+~
+1073743936 2072 0 0 S
+F 0 0 
+40 10 -20 40d80+800 4d6+10
+0.0.0.0 40000
+131 131 0
+#99017
+giant squid~
+the&+g giant squid&N~
+A&+g huge, long tentacled squid&N moves sluggishly around you.
+~
+With an enormous, fifty foot long body and ten huge tentacles, this
+squid could be a serious threat if it chose to attack.
+~
+1073743936 2072 0 0 S
+F 0 0 
+50 12 -80 50d100+2500 6d6+25
+0.0.0.0 125000
+131 131 0
+#99018
+giant crab~
+the&+r giant crab&N~
+An&+r enormous crab with long pincers&N lumbers across the ocean floor.
+~
+Far larger than any crab ever seen on the surface, this behemoth crab
+swings its six foot pincers around as it makes its way slowly across the
+floor of the ocean.
+~
+1077938240 33556504 0 0 S
+AS 0 0 
+40 20 -20 40d80+800 4d6+10
+0.0.0.0 40000
+131 131 0
+#99019
+dragon turtle~
+the&+g dragon turtle&N~
+A&+g fierce dragon turtle&N is peacefully resting, for the time being.
+~
+With a forty foot long shell and extremely large limbs sprouting out from
+beneath it, this heavily armored dragon of the deep would be more than a
+challenging opponent.  A huge head with gigantic jaws rests with eyes closed
+halfway into its shell.
+~
+1077938240 2104 0 0 S
+DK 0 0 
+55 27 -105 55d110+4400 7d6+30
+0.21.52.19 275000
+131 131 0
+#99020
+lacedon ghoul~
+the&+L lacedon&N~
+A&+L ghoulish lacedon&N hungrily searches the sea floor for corpses.
+~
+With dark, rotting flesh and fraid green hair sprouting from its head,
+this creature seems to have been dead for quite some time.  A fiendish
+look in its eyes tells you he may be fixing to feed on you next.
+~
+2272 2056 0 -1000 S
+U 0 0 
+33 8 1 33d70+495 4d6+7
+0.0.0.0 33000
+131 131 0
+#99021
+huge sahuagin guardian~
+the&+g sahuagin guardian&N~
+A &+Yhuge&N &+gsahuagin guardian&N stands here protecting the gates.&N
+~
+This massive sahuagin guard has a long black fin and small, sharp spikes
+covering his body.  He has been charged with keeping unwanted intruders
+out of Skerttd-Gul and will do so at all costs.
+~
+1145047138 2104 0 -500 S
+H 0 0 
+40 20 -20 40d80+800 4d6+10
+0.0.30.4 40000
+131 131 1
+#99022
+wandering sahuagin~
+the&+g wandering sahuagin&N~
+A&+g wandering&N &+Ysahuagin&N swims freely around his city.
+~
+An ordinary sahuagin by most terms, this male is the repulsive outcome
+of the crossing of a fish and a humanoid.  He has powerful arms and legs,
+webbed feet and a long fin along his back.
+~
+64 2056 0 -500 S
+H 0 0 
+35 8 -5 35d70+525 4d6+7
+5.68.24.3 35000
+131 131 1
+#99023
+shark~
+the&+W white shark&N~
+A&+C huge&N &+Wwhite&N&+C shark&N with a &+ggreen tattoo&N&+C on its head&N lunges toward you.
+~
+One of the sahuagins best and most loyal pets, this shark is twice the length
+of a man and ready to strike at any moment.
+~
+1145045088 33556536 0 0 S
+F 0 0 
+45 22 -55 45d90+1800 6d6+12
+0.0.0.0 112500
+131 131 0
+#99024
+sahuagin guard large mean~
+the&+g sahuagin guard&N~
+A&+g large and &+Lmean&N &+Ysahuagin&N&+g guard&N waits for the moment he is needed.
+~
+A foot taller and quite a bit larger than the average sahuagin, this guard
+has been bred and trained for war.  A triangular, black tattoo has been
+etched into his forehead.
+~
+1145047104 33556536 0 -500 S
+H 0 0 
+40 20 -20 40d80+800 4d6+10
+0.0.30.4 40000
+131 131 1
+#99025
+scarred sahuagin prison guard~
+the&+g sahuagin prison guard&N~
+A&+L scarred&N &+gsahuagin&N &+Lprison guard&N stands here scowling.
+~
+Even meaner looking than the other guards in the barracks, this
+sahuagin has a huge scar across his face and growls with disdain
+at the water itself.
+~
+71305218 33556536 0 -500 S
+H 0 0 
+45 22 -55 45d90+1800 6d6+12
+5.3.38.8 112500
+131 131 1
+#99026
+prisoner merman~
+the&+g merman prisoner&N~
+A&+g bruised and beaten merman prisoner&N is chained here.
+~
+Once a regal and noble merman, this prisoner has been beaten and tortured
+to his limits.  Both his arms have been severed at the elbow and he
+has a huge scar running the length of his torso.
+~
+2050 2048 0 500 S
+H 0 0 
+10 2 70 10d20+10 1d6+0
+98.31.0.0 1000
+131 131 1
+#99027
+sea elf seaelf prisoner~
+the&+G sea elf prisoner&N~
+A&+G severely beaten sea elf prisoner&N slumps here half unconsciously.&N
+~
+The aquatic version of the woodland elf, this prisoner has webbed feet
+and toes.  The webbing on his feet has been brutally slashed and severed.
+A long sharp rod has been thrust through both his legs and pins him
+against the wall.
+~
+2050 2048 0 500 S
+H 0 0 
+11 2 67 11d25+27 2d6+1
+120.33.2.0 4400
+130 131 1
+#99028
+siren prisoner~
+the&+b beautiful siren&N~
+A&+b beautifully seductive siren&N is chained upside down here crying.
+~
+Resembling a human female, with bluish skin and gills, this siren is
+extremely beautiful even in this state.  You feel immediately sorry for
+her and the urge to release her bonds overcomes you.
+~
+2050 2048 0 -500 S
+H 0 0 
+15 3 55 15d25+37 2d6+1
+60.75.1.0 6000
+131 131 2
+#99029
+mermaid princess~
+the&+M mermaid princess&N~
+A&+M blindingly beautiful mermaid princess&N smiles at you quizically.
+~
+More stunningly gorgeous than anything you have ever laid your eyes on,
+the mermaid princess radiates an aura of beauty and happiness.  Just
+being in the same room with her lightens your heart and you feel very
+young and alive. She smiles at you warmly and you are locked in her gaze.
+~
+72878338 33556536 0 1000 S
+H 0 0 
+57 28 -101 57d120+5700 7d6+35
+8.5.24.20 285000
+131 131 2
+#99030
+hippocampus horse fish~
+the&+G hippocampus&N~
+A&+G powerful half-fish, half-horse hippocampus&N protects the princess.
+~
+In an amazing distortion of nature, this creature has the torso and head
+of a horse and the tail of a fish.  It has a large fin for a mane and its
+feet are webbed.  It looks extremely powerful and not too happy that you
+are looking at the princess.
+~
+71305474 2104 0 1000 S
+AE 0 0 
+55 27 -95 55d110+4400 7d6+30
+0.0.0.0 275000
+131 131 1
+#99031
+sahuagin trainee guard~
+the&+g sahuagin trainee&N~
+An&+g eager sahuagin guard trainee&N practices here fanatically.
+~
+Not quite as powerful as the full sahuagin guards, this trainee
+still has a number of moves.  His eagerness to prove himself as a
+warrior makes him a dangerous opponent.
+~
+4196416 33556520 0 -500 S
+H 0 0 
+35 17 -5 35d70+525 4d6+7
+5.82.23.3 35000
+131 131 1
+#99032
+sahuagin war master~
+the&+L sahuagin war master&N~
+The&+L fierce&N &+gsahuagin&N &+Lwar master&N stands here boldly.
+~
+Head and shoulders above any other sahuagin you've seen, this powerful
+warrior has battle scars covering his body and enormous arms that
+threaten to break you in two.  His face is decorated with a bright red
+paint and his long, black fin has been cut and wounded in many places.
+~
+1145047042 33556520 0 -500 S
+H 0 0 
+59 26 -140 59d110+5000 14d5+30
+8.8.34.17 295000
+131 131 1
+#99033
+assassin sahuagin~
+the&+L sahuagin assassin&N~
+A&+L black as death sahuagin&N stands here shadily.
+~
+Absolutely pitch black, this sahuagin blends in with the shadows and you
+question whether he isn't a shadow himself.  He moves with speed and
+accuracy.  The whirlwind of motion before you strikes out with fierce
+attacks that can't be anticipated or dealt with.
+~
+2099234 35129384 0 -1000 S
+H 0 0 
+34 8 -2 34d70+510 4d6+7
+0.75.22.3 34000
+131 131 1
+#99034
+sea hag~
+the&+L sea hag&N~
+A&+L revolting sea hag&N stands here mixing foul reagents.
+~
+A torn black shawl covers the body of this putrid smelling sea hag.
+Despite her appearance, the powerful magic of this creature is undeniable.
+Dirty green hair sprouts out from under her hood and she lets out a
+disgusting gurgling noise.
+~
+68683810 33556520 0 -1000 S
+H 0 0 
+45 11 -55 45d90+1800 6d6+12
+5.3.38.8 112500
+131 131 2
+#99035
+insane sahuagin beast~
+the&+L ghastly sahuagin&N~
+A&+L ghastly sahuagin&N &+rbeast&N cackles fiendishly here.
+~
+Looking like the gross outcome of the mating of a demon and a sahuagin
+warrior, this foul creature is twice the size of a normal sahuagin and
+sharp, thorny spines cover its body.  Long, blood-stained fangs protrude
+from the gaping hole that is its mouth.
+~
+1079511138 33556520 0 -1000 S
+X 0 0 
+59 29 -127 59d120+7080 7d6+35
+6.4.44.21 295000
+131 131 1
+#99036
+merman warrior~
+the&+g merman warrior&N~
+A&+g strong looking merman warrior&N hurries about.
+~
+With the torso of a man and the tail of a fish, this merman stands six feet
+tall and has pale greenish skin.  The silverish scales of his tail reflect
+brilliantly in the light.  He hurries about seemingly unaware of you on
+some unknown task.
+~
+71305280 2088 0 1000 S
+H 0 0 
+34 17 -2 34d70+510 4d6+7
+0.75.22.3 34000
+131 131 1
+#99037
+merman leader~
+the&+g merman resistance leader&N~
+The&+g leader of the merman resistance &Nstands here going over plans.
+~
+A good foot shorter than the other mermen, this regal looking merman makes
+up for his size with an incredibly strong, stout body.  His powerful tail
+moves him effortlessly about the room as he studies what appear to be
+large maps.
+~
+1145571330 33556536 0 1000 S
+H 0 0 
+55 27 -95 55d110+4400 7d6+30
+0.7.26.19 275000
+131 131 1
+#99038
+skeloh god br_l~
+&+CSkeloh&N~
+Standing with the presence of a &+rgod, &+CSkeloh&N towers over you menacingly.
+~
+At least twenty feet tall, with the head of a shark and the body of a man,
+the great sahuagin shark god Skeloh towers over you.  Massive jaws that could
+swallow a man whole spread wide in what appears to be a grin and extremely
+long, jagged sets of teeth are revealed.  Skeloh intends to make you pay
+for this intrusion with your life.
+~
+1146620006 33556600 0 -1000 S
+X 0 0 
+59 29 -127 59d120+7080 7d6+35
+6.4.44.21 295000
+131 131 0
+#99039
+fierce palace gate guard sahuagin~
+the &+Ysahuagin&N &+gpalace guard&N~
+A&+g fierce&N &+Ysahuagin&N &+gguard&N stands here watching the palace gates.
+~
+Wearing royal looking robes and holding the huge banner of his king, this
+sahuagin is not to be triffle with.  He has been charged with ensuring the
+safety of the palace and there are few higher honors for a sahuagin guard.
+No quarter will be given and none will be asked.
+~
+1145047138 2104 0 -1000 S
+H 0 0 
+40 20 -20 40d80+800 4d6+10
+0.0.30.4 40000
+131 131 1
+#99040
+haggard sahuagin servant~
+the&+g sahuagin servant&N~
+A&+g haggard sahuagin servant&N scurries about the palace.
+~
+Looking very sickly and dressed in torn rags, this lowly sahuagin
+servant hurries about the palace, so intent on his task that he doesn't
+even notice your presence.
+~
+2116 2048 0 -500 S
+H 0 0 
+25 6 25 25d40+187 3d6+3
+79.87.8.1 18750
+131 131 1
+#99041
+shark~
+the&+W white shark&N~
+An&+C enormous&N &+Wwhite&N&+C shark&N swims quickly through the water.
+~
+One of the sahuagins best and most loyal pets, this shark is twice the length
+of a man and ready to strike at any moment.
+~
+205523042 33556512 0 0 S
+F 0 0 
+45 22 -55 45d90+1800 6d6+12
+0.0.0.0 112500
+131 131 0
+#99042
+sahuagin guard elite~
+the&+g elite sahuagin guard&N~
+A&+g huge and &+Lfierce&N &+gelite&N &+Ysahuagin&N&+g guard&N lumbers about angrily.
+~
+A foot taller and quite a bit larger than the average sahuagin, this elite
+guard has undergone intense training since childhood and he moves with amazing
+grace and power.  A triangular, black tattoo has been etched into his
+forehead.
+~
+1145047106 33556536 0 -500 S
+H 0 0 
+45 22 -55 45d90+1800 6d6+12
+5.3.38.8 112500
+131 131 1
+#99043
+sahuagin chief guard~
+the&+r chief sahuagin guard&N~
+The&+L enormous&N &+rchief&N &+Lof the sahuagin guards&N sits at his desk.
+~
+Frighteningly tall and enormously large around, there is no question why
+this sahuagin is chief of the guards.  Huge muscles threaten to explode out
+of his arms and his limbs quiver with intense strength.
+~
+1077938210 301991992 0 -500 S
+H 0 0 
+59 29 -112 59d120+5900 7d6+35
+6.4.22.21 295000
+131 131 1
+#99044
+cook plump sahuagin~
+the&+Y palace cook&N~
+A&+Y huge, plump sahuagin cook&N hurries around the kitchen.
+~
+Without a doubt, this is the fattest sahuagin you have ever seen.  You
+wonder if any of the food he prepares actually makes it out of his
+kitchen.  He is covered with brown and green warts and has splotches of
+food and sauce all over his body.
+~
+71305286 33556536 0 -500 S
+H 0 0 
+50 25 -80 50d100+2500 6d6+25
+0.5.31.10 125000
+131 131 1
+#99045
+throne guard sahuagin~
+the&+g throne room guard&N~
+A&+g huge sahuagin guard&N stands here blocking the entrance to the throne room.
+~
+Bulging muscles prutrude from a tight, royal looking armor.  This guards
+sole purpose is to keep all out of the throne room, save for those with
+the express permission of the king.
+~
+1145047074 33556536 0 -500 S
+H 0 0 
+50 25 -80 50d100+2500 6d6+25
+0.5.31.10 125000
+131 131 1
+#99046
+sahuagin prince~
+the&+g sahuagin prince&N~
+The&+g powerful looking sahuagin prince&N paces restlessly.
+~
+The huge sahuagin prince is dressed in brilliantly shining royal
+armor and stands protectively in front of the king and the queen.
+He paces before the throne in unrest and twirls his trident around
+in the water.
+~
+71305314 33556536 0 -1000 S
+H 0 0 
+55 27 -95 55d110+4400 7d6+30
+0.7.26.19 275000
+131 131 1
+#99047
+sahuagin queen~
+the&+G sahuagin queen&N~
+The&+G regal sahuagin queen&N stands silently next to the king.
+~
+Dressed in a gown of brilliantly woven spiders silk and seashells,
+the sahuagin queen looks both regal and beautiful.  She holds a large
+purple flower and is draped in jewels.
+~
+67635266 33556536 0 -1000 S
+H 0 0 
+59 14 -112 59d120+5900 7d6+35
+6.4.22.21 295000
+131 131 2
+#99048
+sahuagin king~
+the&+L sahuagin king&N~
+The&+L powerful sahuagin king&N seems quite upset being awaken.
+~
+Ancient, yet undeniably powerful, a great wisdom lurks beneath the sahuagin
+king's brow.  Dressed in spiked, blood-stained armor, the kings muscular
+frame barely fits in the large throne of gleaming white skulls.  A large,
+jeweled scepter with a glowing emerald gem at its end rests across his lap and
+he appears to be taking a nap.
+~
+72353890 33556536 0 -1000 S
+H 0 0 
+59 29 -112 59d120+5900 7d6+35
+6.4.22.21 295000
+34 131 1
+#99049
+mottled worm~
+the&+m mottled worm&N~
+An&+m enormous, &+yspotted&N&+m mottled worm&N charges to attack you!
+~
+The bigger, less perfectly colored daddy to the purple worm, it slinks
+around you with its fifty foot body and ten foot wide mouth.  Razor sharp
+teeth line its gaping mouth and a nauseating stench surrounds it.
+~
+4196448 33554480 0 0 S
+RS 0 0 
+20 10 40 20d30+100 2d6+2
+0.0.0.0 8000
+131 131 0
+#99050
+muck dweller muckdweller~
+the&+g muckdweller&N~
+A&+g slimey muckdweller&N with a &+ylong, brown tail&N scurries in the swamp.
+~
+Resembling a miniature tyranosaurus rex, this muckdweller has webbed feet
+and sharp looking teeth.
+~
+96 0 0 -300 S
+R 0 0 
+10 2 70 10d20+10 1d6+0
+0.0.0.0 1000
+131 131 0
+#99051
+sahuagin enforcer~
+the&+L sahuagin enforcer&N~
+A &+rvicious&N &+gsahuagin&N &+Lenforcer&N scans the area for things to kill.
+~
+Incredibly toned and rippled, this sahuagin is the definition of strength.
+His movements are amazingly swift and subtle, but the power beneath them
+is undeniable.  There are no traces of compassion within his permenant
+scowl.
+~
+1145047136 33556536 0 -500 S
+H 0 0 
+40 20 -20 40d80+800 4d6+10
+0.0.30.4 40000
+131 131 1
+#99052
+sahuagin priest priestess~
+the&+m sahuagin priestess&N~
+A&+m flamboyently clothed&N &+gsahuagin priestess&N flails about wildly.
+~
+Wearing an incredibly gaudy outfit of vibrant pinks and deep purples, this
+sahuagin priestess dances and prances about wildly.  Flailing her arms in the
+air and assaulting all within earshot with a barrage of animated verbage.
+~
+526434 33556520 0 -400 S
+H 0 0 
+32 8 4 32d70+480 4d6+7
+84.76.24.2 32000
+131 131 2
+#99053
+morkoth~
+the&+G giant morkoth&N~
+An&+G enormous morkoth&N rushes up out of no where to strike!
+~
+A gross distortion of nature, this creature resembles a gigantic octopus
+with the head of a fish and several spindley, spider-like legs.  A long,
+emerald fin travels the length of its back and its rubbery lips are curved
+into a demonic grin.
+~
+2144 35129400 0 -1000 S
+F 0 0 
+35 8 -5 35d70+525 4d6+7
+0.0.0.0 35000
+131 131 0
+#99054
+dark evil wraith~
+the&+L shadow wraith&N~
+A&+L shadowy, pitch black wraith&N floats with glowing emerald eyes.
+~
+Hideously evil looking, this wraith is pitch black and almost impossible
+to see within the shadows.  Only a pair of piercing, emerald eyes are
+visible clearly.  The musty scent of death hangs about it like a dark cloud.
+~
+1145047074 34605112 12480 -1000 S
+UH 0 0 
+53 26 -89 53d110+4240 7d6+30
+2.8.38.17 265000
+131 131 0
+#99055
+skeletal skeleton warrior~
+the&+W skeletal warrior&N~
+A&+W skeletal warrior&N stands here motionless.
+~
+Impossible to discern from a statue, this skeletal warrior stands completely
+motionless.  While appearing to be very frail and fragile, the magics
+holding this mockery of life together cannot be underestimated.
+~
+71303202 2088 0 1000 S
+U 0 0 
+31 15 7 31d70+465 4d6+7
+0.0.0.0 31000
+131 131 0
+#99056
+enormous powerful shark~
+the&+W enormous shark&N~
+An&+W enormous, great white shark&N swims protectively around &+CSkeloh.&N
+~
+Almost thirty feet in length, this shark is among the largest you've seen.
+A gigantic, gaping mouth reveals countless rows of long, jagged teeth.  A
+huge, spotted fin runs down the length of its back and piercing eyes
+glare at you darkly.
+~
+67110946 2104 0 0 S
+F 0 0 
+59 14 -112 59d120+5900 7d6+35
+0.0.0.0 295000
+131 131 0
+#99057
+sphere flame fire elemental~
+the &+rgigantic fire elemental&N~
+A &+rburning sphere of flame&N floats in the center of the clearing.
+~
+This sphere of fire pulsates regularly, emitting a bright light. It doesn't
+seem sentient although two darker spots on its surface resemble a pair of eyes.
+~
+4196450 637534264 129 0 S
+EF 0 0 
+55 27 -105 55d55+2200 7d6+30
+0.0.0.0 275000
+131 131 0
+#99058
+man tatter dressed hermit wicked~
+the&+y hermit&N~
+An old &+ytatters dressed&N man wanders here.
+~
+This man seems to be over sixty years old. He is dressed in rags while a long
+dirty beard covers his chest. He looks at you with insane eyes, then returns to
+talks to himself.
+~
+1575108 33620024 0 -1000 S
+PH 0 0 
+56 14 -98 56d120+5600 7d6+35
+4.6.30.19 280000
+131 131 1
+#99059
+sahuagin commoner~
+the&+g sahuagin &+Gcommoner~
+A &+gsahuagin &+Gcommoner&N swims happily here.
+~
+This creature is the mixture of a fish and a humanoid.  He has powerful arms
+and legs, webbed feet and a long fin along his back.
+~
+2118 2056 0 -400 S
+H 0 0 
+33 8 1 33d70+495 4d6+7
+5.35.23.3 33000
+131 131 1
+#99060
+sahuagin female~
+the&+g sahuagin &+Mfemale~
+A &+gsahuagin &+Mfemale&N swims here.
+~
+This creature is the mixture of a fish and a humanoid.  He has powerful arms
+and legs, webbed feet and a long fin along his back.
+~
+2118 2056 0 -400 S
+H 0 0 
+30 7 10 30d55+300 3d6+4
+66.86.13.1 22500
+131 131 1
+#99061
+sahuagin noble~
+the&+g sahuagin &+Rnoble~
+A &+gsahuagin &+Rnoble&N swims proudly here.
+~
+This sahuagin seems of high rank and wears richly ornated silk clothes, probably
+plundered from some human cargo ship.
+~
+2118 2072 0 -400 S
+H 0 0 
+40 10 -20 40d80+800 4d6+10
+0.0.30.4 40000
+131 131 1
+#99062
+sahuagin merchant~
+the&+g sahuagin &+Bmerchant~
+A &+gsahuagin &+Bmerchant&N stands here, selling goods.
+~
+Despite his monstruos look this sahuagin beams wide smiles to everyone who stop
+by him to examine his goods, following the saying "gold has no race".
+~
+2118 2072 0 -400 S
+H 0 0 
+36 9 -8 36d80+720 4d6+10
+0.76.25.3 36000
+131 131 1
+#99063
+sahuagin innkeeper~
+the &+gsahuagin&+c innkeeper&N~
+A &+gsahuagin&+c innkeeper&N stands here ready to serve.
+~
+Tall over six feet this sahuagin seems very busy in serving drinks and food to
+the many patrons who crowd his inn.
+~
+66 2048 0 0 S
+H 0 0 
+59 14 -112 59d120+5900 7d6+35
+6.4.22.21 295000
+131 131 1
+#99064
+human dark robed kraken assassin~
+the &+Lkraken&N&+r assassin&N~
+A &+Ldark robed&N &+rhuman&N stands here whispering.
+~
+Only few human features are visible through the dark robes which cover almost
+completely this guy. He's drinking dark liquid from a mug and seems very busy
+in whispering with his companions.
+~
+6293574 2072 0 -800 S
+PH 0 0 
+38 19 -14 38d80+760 4d6+10
+0.5.26.4 38000
+130 131 1
+#99065
+mind flayer mindflayer slave trader illithid~
+the &+gmind flayer&+Y slave trader&N~
+A &+gmind flayer&N stands here lost in his thoughts.
+~
+This illithid should be very far from his underdark home but his love for the
+gladiators games brought him here in search of some new powerful slave.
+~
+4458566 2072 0 -1000 S
+PI 0 0 
+39 19 -17 39d80+780 4d6+10
+5.2.28.4 39000
+64 131 1
+#99066
+sea elf renegade~
+the &+yrenegade &+csea elf&N~
+A &+yrenegade&+c sea elf&N is drinking a mug here.
+~
+Taller than all the other patrons, this sea elf is an unusual guest of the
+sahuagin city, considering the hate which divides the two races. In spite of
+this he looks pretty at his ease in this inn.
+~
+6293574 2072 0 -500 S
+PE 0 0 
+42 21 -51 42d90+1680 6d6+12
+6.4.40.7 105000
+131 131 1
+#99067
+sahuagin bard~
+the &+gsahuagin &+ybard~
+A &+gsahuagin&N stands here blowing in a &+yhorn&N.
+~
+This sahuagin is dressed in a funny manner with long flowing red trousers and
+a yellow blouse. He is blowing at a big horn, made from a sea helix, which
+emits long resounding notes.
+~
+1075841092 34080856 0 -700 S
+H 0 0 
+50 12 -80 50d100+2500 6d6+25
+0.5.31.10 125000
+131 131 1
+#99068
+sahuagin noble female~
+the &+gsahuagin &+Ynoble &+Mfemale&N~
+A &+gsahuagin &+Ynoble &+Mfemale&N swims playfully here.
+~
+Despite her smaller size, this sahuagin female should belong to a high rank of
+her race hierarchy. She wears a long red silken gown and several pearl
+neckleaces.
+~
+2116 2072 0 0 S
+H 0 0 
+36 9 -8 36d80+720 4d6+10
+0.62.26.3 36000
+131 131 2
+#99069
+sahuagin commoner~
+the&+g sahuagin &+Gcommoner~
+A &+gsahuagin &+Gcommoner&N swims happily here.
+~
+This creature is the mixture of a fish and a humanoid.  He has powerful arms
+and legs, webbed feet and a long fin along his back.
+~
+2116 2056 0 -400 S
+H 0 0 
+33 8 1 33d70+495 4d6+7
+5.77.20.3 33000
+131 131 1
+#99070
+sahuagin female~
+the&+g sahuagin &+Mfemale~
+A &+gsahuagin &+Mfemale&N swims here.
+~
+This creature is the mixture of a fish and a humanoid.  He has powerful arms
+and legs, webbed feet and a long fin along his back.
+~
+2116 2056 0 -400 S
+H 0 0 
+30 7 10 30d55+300 3d6+4
+38.74.14.1 22500
+131 131 1
+#99071
+sahuagin child~
+the&+g sahuagin &+cchild~
+A &+gsahuagin &+cchild&N swims here.
+~
+Despite her small size this creature has one of the most vicious grin you've
+ever seen. She plays with a little sharped dagger already spotted with some
+stains of coagulated blood.
+~
+2116 2048 0 -400 S
+H 0 0 
+18 4 46 18d30+90 2d6+2
+88.56.4.0 7200
+131 131 1
+#99072
+merman slave~
+the &+Gmerman &+Lslave&N~
+A &+Gmerman &+Lslave&N stands here in chains.
+~
+The merman slave shows all the sort of ill-tretments on this body. On his left
+cheek there is a deep scar while on the back countless lashes have left their
+signs.
+~
+2116 2048 0 500 S
+H 0 0 
+25 6 25 25d40+187 3d6+3
+79.73.9.1 18750
+131 131 1
+#99073
+sahuagin noble female~
+the &+gsahuagin &+Ynoble &+Mfemale&N~
+A &+gsahuagin &+Ynoble &+Mfemale&N swims playfully here.
+~
+Despite her smaller size, this sahuagin female should belong to a high rank of
+her race hierarchy. She wears a long red silken gown and several pearl
+neckleaces.
+~
+2118 2072 0 0 S
+H 0 0 
+36 9 -8 36d80+720 4d6+10
+0.76.25.3 36000
+131 131 2
+#99074
+sahuagin noble~
+the&+g sahuagin &+Rnoble~
+A &+gsahuagin &+Rnoble&N swims proudly here.
+~
+This sahuagin seems of high rank and wears richly ornated silk clothes, probably
+plundered from some human cargo ship.
+~
+2116 2072 0 -400 S
+H 0 0 
+40 10 -20 40d80+800 4d6+10
+0.0.30.4 40000
+131 131 1
+#99075
+sahuagin tunic mage~
+the &+gsahuagin &+rhigh &+mmage~
+A &+gsahauagin&N dressed with a long &+mpurple tunic&N stares at you.
+~
+This sahuagin seem the oldest one you've seen in this city. Deep wrinkles rug
+his scaly face while te rest of his body is covered by a long purple tunic
+ornated with gold runes.
+~
+102238310 33556520 0 -1000 S
+H 0 0 
+56 14 -98 56d120+5600 7d6+35
+4.6.30.19 280000
+131 131 1
+#99076
+sahuagin courtier~
+the&+g sahuagin &+Ycourtier~
+A &+gsahuagin &+Ycourtier&N swims here, tasting the food.
+~
+This sahuagin should belong to the court because he wears a silk tunic, ornated
+with the king's emblem.
+~
+2116 2072 0 -400 S
+H 0 0 
+45 11 -55 45d90+1800 6d6+12
+5.3.38.8 112500
+131 131 1
+#99077
+sahuagin page~
+the&+g sahuagin &+Bpage~
+A &+gsahuagin &+Bpage&N waits upon the guests here.
+~
+This offspring of some noble family has the duty to wait in the king palace.
+He wears a long silk livery with king's emblem embroided on it.
+~
+2116 2048 0 -400 S
+H 0 0 
+20 5 40 20d30+100 2d6+2
+72.76.4.0 8000
+131 131 1
+#99078
+sahuagin knight~
+the&+g sahuagin &+Cknight&N~
+A &+rfearsome&N &+gsahuagin&N &+Cknight&N rides here.
+~
+This imposing and powerful looking sahuagin wears a black complete scale mail
+and a cylindrical helm. He must be one of the most loyal men at arms of the
+king as someone can infer from the emblem depicted on his shield.
+~
+1145047136 33556536 0 -800 S
+H 0 0 
+50 25 -80 50d100+2500 6d6+25
+0.5.31.10 125000
+131 131 1
+#99079
+human dark robed kraken ambassador~
+a &+LKraken Society&N&+g ambassador&N~
+A &+LKraken Society&N&+g ambassador&N stands here.
+~
+Dressed in dark green robes, this mischievous human seems well accustomed to
+this underwater environment. His pointed beard and the cruel look of his eyes
+conveys that he shouldn't be a very pleasant person.
+~
+2118 2072 0 -1000 S
+PH 0 0 
+42 10 -46 42d90+1680 6d6+12
+6.4.40.7 105000
+32 131 1
+#99080
+sahuagin warrior elite~
+an &+Lelite&N&+g sahuagin&+r warrior&N~
+An &+Lelite&N&+g sahuagin&+r warrior&N stands here.
+~
+A lot bigger and tougher than the average sahuagin, this elite warrior is 
+the pride of the sahuagin race. His scaly body is covered with green, red
+and blue tattoos, one for every battle he fought and won! 
+~
+71305286 2072 0 -1000 S
+H 0 0 
+51 10 -83 51d110+2040 7d6+34
+7.22.9.1 255000
+131 131 1

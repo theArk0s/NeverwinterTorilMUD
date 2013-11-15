@@ -1,0 +1,133 @@
+SHOP: 66617
+HOURS: 8,19
+ROOM: 66655
+PROFIT: 15
+PO: 7953 66640 66644
+MBCASH: $n says, 'Sorry $N, but I've still got to make ends meet...'
+MBHAVE: $n says, 'Yes...I believe I USED to sell something like that...'
+MBUY: $n says, 'Sure!  I could find a use for one or two...'
+MBIGOT: $n says, 'No sale!'
+MCLOSE: $n says, 'I'm off for the day, I'll reopen tomorrow.'
+MNBUY: $n says, 'I wouldn't know what to use it for...'
+MOPEN: $n says, 'OK, time to get back to business!'
+MSCASH: $n says, 'Sorry, I haven't that much money...'
+MSELL: $n says, 'Here you go! That'll be %s.'
+MSHAVE: $n says, 'I know I'm getting old...but I don't know what you're talking about.'
+HATES:  EVILS
+;;END OF SHOP NR. 66617
+;; Rebeth in Mute Lute
+SHOP: 66619
+ROOM: 66739
+GREED: 110
+HATES: EVILS
+HOURS: 8,19
+PO: 66652
+BT: 32
+MOPEN: $n says, '&+GOK...let's make some music!&N'
+MCLOSE: $n says, '&+GThat's all for today!  Come back tomorrow.&N'
+MSHAVE: $n says, '&+GSorry, we don't carry those.&N'
+MBHAVE: $n says, '&+GSurely you jest!&N'
+MSCASH: $n says, '&+GNot for all the Jewels in Neverwinter.&N'
+MBCASH: $n says, '&+GSorry, this isn't a house of charity.&N'
+MNBUY: $n says, '&+GSorry...I have no use for those.&N'
+MSELL: $n says, '&+GDeal! Enjoy $N!&N'
+MBUY: $n says, '&+GSold!&N'
+MBIGOT: $n yells, '&+GLeave this place before I get angry!&N'
+;; End of Shop 66619
+SHOP: 66626
+HOURS: 8,19
+ROOM: 66657
+GREED: 105
+PROFIT: 30
+PO: 7946 7947 7949 7951 7957 7966 7967
+MBCASH: $n says, 'Sorry $N, but I'm not running a charity here.'
+MBHAVE: $n says, 'Whoops!  ...seem to be all out of those at the moment.'
+MBUY: $n says, 'Why not?  I could probably use one of those.'
+MBIGOT: $n says, 'Screw you!'
+MCLOSE: $n says, 'That's it...I'm taking a nap!  I'll see you tomorrow.'
+MNBUY: $n says, 'I have absolutely no idea what I would do with that.'
+MOPEN: $n says, 'OK, I'm open...who wants some supplies?'
+MSCASH: $n says, 'Sorry pal, I ain't got that kinda cash in the store.'
+MSELL: $n says, 'Deal! Only %s.  Happy adventuring!'
+MSHAVE: $n says, 'I'm not the smartest man, but I'm not seeing any of those around here.'
+CHEATS:  CI CP
+HATES:  EVILS
+;;END OF SHOP NR. 66626
+SHOP: 66660
+HOURS: 8,19
+ROOM: 66687
+GREED: 120
+PROFIT: 35
+PO: 66666 66667 66668 66676
+MBCASH: $n says, '&+wSorry $N, but we're in this business to make money.&N'
+MBHAVE: $n says, '&+wSorry!  ...don't seem to have any of those.&N'
+MBUY: $n says, '&+wSure, I suppose we could probably use one of those.&N'
+MBIGOT: $n says, '&+wNo! Get out!&N'
+MCLOSE: $n says, '&+wThat's it...we're closed for the day.&N'
+MNBUY: $n says, '&+wSorry, we don't take those.&N'
+MOPEN: $n says, '&+wThe bakery is open for business!&N'
+MSCASH: $n says, '&+wSorry, not enough money to buy that...&N'
+MSELL: $n says, '&+wDeal! Only %s.  Enjoy it!&N'
+MSHAVE: $n says, '&+wI think we're all out of those at the moment.&N'
+HATES:  EVILS
+;;END OF SHOP NR. 66660
+;; Shop in Dibbley
+SHOP: 66672
+ROOM: 66779
+CASTING:
+GREED: 100
+HATES: EVILS
+HOURS: 8,19
+PO: 66698 66699
+BT: 
+MOPEN: $n says, '&+MHello I say, welcome to my store!&N'
+MCLOSE: $n says, '&+MVery very tired now, come back tomorrow.&N'
+MSHAVE: $n says, '&+MI seem to be a bit confused...what was that?&N'
+MBHAVE: $n says, '&+MUmmm...don't think so, $N.&N'
+MSCASH: $n says, '&+MI can't afford that!&N'
+MBCASH: $n says, '&+MSorry, you can't seem to afford it!&N'
+MNBUY: $n says, '&+MNope, nope.  None for me.&N'
+MSELL: $n says, '&+MHere you go, treat 'em real nice!&N'
+MBUY: $n says, '&+MOK!&N'
+MBIGOT: $n yells, '&+MPlease leave NOW!&N'
+;; End of Shop 66672
+;; Fletcher
+SHOP: 66682
+ROOM: 66801
+CASTING:
+GREED: 110
+HATES: EVILS
+HOURS: 8,19
+PO: 7963 7965 7971 7974 66653 66654
+BT: 6 7 30
+MOPEN: $n says, '&+GGood day all! My humble shop is now open!&N'
+MCLOSE: $n says, '&+GThat is all for today, I shall re-open tomorrow.&N'
+MSHAVE: $n says, '&+GI don't believe you have any of those...&N'
+MBHAVE: $n says, '&+GI don't believe I have any of those...&N'
+MSCASH: $n says, '&+GMy pockets aren't that deep!&N'
+MBCASH: $n says, '&+GI'm affraid you'll need more capital!N'
+MNBUY: $n says, '&+GSorry...I don't take those.&N'
+MSELL: $n says, '&+GDone! May it serve you well.&N'
+MBUY: $n says, '&+GSounds good!&N'
+MBIGOT: $n frowns, '&+GLeave my store.&N'
+;; End of Shop 66682
+;; Shop in Shining Knight
+SHOP: 66700 
+ROOM: 66674
+CASTING:
+GREED: 105
+HATES: EVILS
+HOURS: 8,19
+PO: 66641 66658 66659 66660 66664 66665
+BT: 4 5 9 11
+MOPEN: $n says, '&+wAll right!  Let's do some business.&N'
+MCLOSE: $n says, '&+wThat's all for today!  Come back tomorrow.&N'
+MSHAVE: $n says, '&+wWhat are you talking about?&N'
+MBHAVE: $n says, '&+wReal funny, $N.&N'
+MSCASH: $n says, '&+wToo rich for my blood.&N'
+MBCASH: $n says, '&+wYou're kidding, right?&N'
+MNBUY: $n says, '&+wSorry, bucko...I don't buy those.&N'
+MSELL: $n says, '&+wHere you go $N.  Enjoy!&N'
+MBUY: $n says, '&+wSold!&N'
+MBIGOT: $n yells, '&+RLEAVE NOW!!!&N'
+;; End of Shop 66672
